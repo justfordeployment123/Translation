@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="ur">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{TITLE}}</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Amiri+Quran&family=Noto+Nastaliq+Urdu:wght@400;600&display=swap" rel="stylesheet">
+<style>
+  :root { --bg: #f7f4ee; --card: #fffdf8; --ink: #2b2118; --muted: #7a6a58; --line: #e4dccd; --accent: #7a1f2b; --hl: #f3d98b; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #17130f; --card: #211b16; --ink: #efe6d8; --muted: #a8998a; --line: #3a3129; --accent: #e59aa4; --hl: #6b5520; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font-family: system-ui, sans-serif; }
+  main { max-width: 1100px; margin: 0 auto; padding: 24px 16px 48px; }
+  h1 { font-size: 1.1rem; font-weight: 600; margin: 0 0 16px; }
+  .layout { display: grid; gap: 20px; grid-template-columns: 1fr; }
+  @media (min-width: 900px) { .layout { grid-template-columns: 1fr 1fr; align-items: start; } }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 20px; }
+  .controls { display: flex; gap: 8px; margin-bottom: 16px; }
+  button { font: inherit; padding: 8px 16px; border-radius: 8px; border: 1px solid var(--line); background: var(--bg); color: var(--ink); cursor: pointer; }
+  button.primary { background: var(--accent); border-color: var(--accent); color: var(--card); }
+  #text { direction: rtl; text-align: right; }
+  .seg { margin: 0 0 20px; }
+  .seg.ar { font-family: "Amiri Quran", serif; font-size: 1.9rem; line-height: 2.4; color: var(--accent); }
+  .seg.ur { font-family: "Noto Nastaliq Urdu", serif; font-size: 1.35rem; line-height: 2.6; }
+  .seg span { border-radius: 6px; padding: 0 2px; cursor: pointer; transition: background .12s; }
+  .seg span.on { background: var(--hl); }
+  figure { margin: 0; }
+  figure img { width: 100%; height: auto; border-radius: 8px; display: block; }
+  figcaption { color: var(--muted); font-size: .85rem; margin-top: 8px; }
+  .hint { color: var(--muted); font-size: .85rem; margin: 0; }
+  .nav { display: inline-block; margin-bottom: 12px; color: var(--accent); text-decoration: none; }
+</style>
+</head>
+<body>
+<main>
+  {{NAV}}
+  <h1>{{TITLE}}</h1>
+  <div class="layout">
+    <section class="card">
+      <div class="controls">
+        <button id="play" class="primary">▶ Play</button>
+        <button id="restart">↺ Restart</button>
+      </div>
+      <div id="text"></div>
+      <p class="hint">Tap any word to play from that point.</p>
+    </section>
+    {{IMAGE}}
+  </div>
+</main>
+<script>
+const SEGMENTS = {{SEGMENTS}};
+const textEl = document.getElementById("text");
+const playBtn = document.getElementById("play");
+const audios = SEGMENTS.map(s => new Audio(s.audio));
+let cur = 0, playing = false, lit = null;
+
+SEGMENTS.forEach((seg, si) => {
+  const p = document.createElement("p");
+  p.className = "seg " + seg.lang;
+  p.lang = seg.lang;
+  seg.words.forEach(w => {
+    w.el = document.createElement("span");
+    w.el.textContent = w.w;
+    w.el.onclick = () => seek(si, w.s);
+    p.append(w.el, " ");
+  });
+  textEl.append(p);
+});
+
+audios.forEach((a, i) => a.addEventListener("ended", () => {
+  if (i + 1 < audios.length) {
+    cur = i + 1;
+    audios[cur].currentTime = 0;
+    audios[cur].play();
+  } else {
+    stop();
+    setLit(null);
+    cur = 0;
+  }
+}));
+
+function setLit(el) {
+  if (lit === el) return;
+  if (lit) lit.classList.remove("on");
+  lit = el;
+  if (el) el.classList.add("on");
+}
+
+function play() { playing = true; audios[cur].play(); playBtn.textContent = "❚❚ Pause"; }
+function stop() { playing = false; audios[cur].pause(); playBtn.textContent = "▶ Play"; }
+function seek(si, t) { audios[cur].pause(); cur = si; audios[cur].currentTime = t; play(); }
+
+playBtn.onclick = () => (playing ? stop() : play());
+document.getElementById("restart").onclick = () => { stop(); setLit(null); seek(0, 0); };
+
+(function tick() {
+  if (playing) {
+    const t = audios[cur].currentTime;
+    let hit = null;
+    for (const w of SEGMENTS[cur].words) { if (w.s <= t) hit = w; else break; }
+    setLit(hit && hit.el);
+  }
+  requestAnimationFrame(tick);
+})();
+</script>
+</body>
+</html>

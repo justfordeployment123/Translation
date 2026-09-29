@@ -1,0 +1,10 @@
+# Page 1, transcribed from page_001.png (Surah Al-Hadid 57:25, first part, with Urdu translation)
+# [ar] = Quranic Arabic, [ur] = Urdu. Lines starting with # are ignored.
+# The Arabic is typed in standard fully-vocalised script instead of the Indo-Pak
+# style in the scan, because TTS pronounces the standard script more reliably.
+
+[ar]
+﴿لَقَدْ أَرْسَلْنَا رُسُلَنَا بِالْبَيِّنَاتِ وَأَنْزَلْنَا مَعَهُمُ الْكِتَابَ وَالْمِيزَانَ لِيَقُومَ النَّاسُ بِالْقِسْطِ﴾
+
+[ur]
+”بلاشبہ یقیناً ہم نے اپنے رسول واضح نشانیوں کے ساتھ بھیجے اور ہم نے ان کے ساتھ کتاب اور میزان نازل کی تاکہ لوگ انصاف پر قائم رہیں۔“ ①
