@@ -1,0 +1,20 @@
+# title: Page 13
+# English edition of book page 13, built by build_english.py from en_src/ and page_013.txt
+
+[ar]
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمْ
+
+[hen]
+Introduction
+
+[ar]
+الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينْ، وَالْعَاقِبَةُ لِلْمُتَّقِينْ، وَالصَّلَاةُ وَالسَّلَامُ عَلَى أَشْرَفِ الْمُرْسَلِينْ، أَمَّا بَعْدْ
+
+[en]
+Among the many ills of our society, one of the greatest is the waste of time. Even people connected with knowledge have fallen into it, and it is deeply harmful to this society.
+
+[en]
+So, to help remove this ill, I chose this subject, so that I myself, and my Muslim brothers and sisters, may be saved from this harm. And Allah is the One who grants success.
+
+[en]
+In this book I have tried, as far as I am able, to gather verses of the Noble Quran and sayings of the Prophet, along with the words and deeds of the righteous predecessors, so that the reader may come to value time and long to spend his life in the worship of Allah.

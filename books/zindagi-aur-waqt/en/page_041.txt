@@ -1,0 +1,32 @@
+# title: Page 41
+# English edition of book page 41, built by build_english.py from en_src/ and page_041.txt
+
+[en]
+But the one who wastes his time is as if he has not understood the purpose of his life, and is living a purposeless life, in which there is failure and loss for him. The second part of this verse encourages belief in the Hereafter, because belief in the Hereafter is one of the things that make a person want to spend the moments of his life in the obedience of Allah, and that make a Muslim value his time.
+
+[en]
+The righteous predecessors strongly disliked anyone who stayed idle, busy neither with matters of religion nor with matters of the world, because in that state the blessing of free time becomes a curse instead of a blessing. As the proverb says:
+
+[ar]
+الْفَرَاغُ لِلرِّجَالِ غَفْلَةٌ وَلِلنِّسَاءِ غُلْمَةْ
+
+[en]
+Idleness, for men, brings heedlessness, and for women, an increase of desire.
+
+[en]
+This is why some scholars have written that the main reason the wife of the ruler of Egypt became infatuated with Yusuf, peace be upon him, was that she had nothing to do. And Allah knows best.
+
+[hen]
+The Seventh Place
+
+[en]
+Allah the Exalted says:
+
+[ar]
+وَلَا تَكُونُوا كَالَّتِي نَقَضَتْ غَزْلَهَا مِنْ بَعْدِ قُوَّةٍ أَنْكَاثَا
+
+[ref]
+(النحل ۱۶: آیت ۹۲)
+
+[en]
+And do not be like she who untwisted her spun thread after it was strong, into untwisted strands.

@@ -1,0 +1,71 @@
+# title: Page 47
+# English edition of book page 47, built by build_english.py from en_src/ and page_047.txt
+
+[hen]
+As an Oath
+
+[en]
+Allah the Exalted says:
+
+[ar]
+وَاللَّيْلِ إِذَا يَغْشَىٰ
+
+[ar]
+وَالنَّهَارِ إِذَا تَجَلَّىٰ
+
+[en]
+By the night when it covers And by the day when it appears
+
+[en]
+And He said:
+
+[ar]
+وَالْفَجْرْ
+
+[ar]
+وَلَيَالٍ عَشْرْ
+
+[en]
+By the dawn And by ten nights
+
+[en]
+And He said:
+
+[ar]
+وَالضُّحَىٰ
+
+[ar]
+وَاللَّيْلِ إِذَا سَجَىٰ
+
+[en]
+By the morning brightness And by the night when it covers with darkness,
+
+[en]
+And He said:
+
+[ar]
+وَالْعَصْرْ
+
+[ar]
+إِنَّ الْإِنْسَانَ لَفِي خُسْرْ
+
+[en]
+By time, Indeed, mankind is in loss,
+
+[en]
+By swearing oaths by these parts of time, Allah has shown how important time is.
+
+[hen]
+The Eleventh Place
+
+[en]
+Allah the Exalted says:
+
+[ar]
+وَابْتَغِ فِيمَا آتَاكَ اللَّهُ الدَّارَ الْآخِرَةَ ۖ وَلَا تَنْسَ نَصِيبَكَ مِنَ الدُّنْيَا ۖ وَأَحْسِنْ كَمَا أَحْسَنَ اللَّهُ إِلَيْكَ ۖ وَلَا تَبْغِ الْفَسَادَ فِي الْأَرْضِ ۖ إِنَّ اللَّهَ لَا يُحِبُّ الْمُفْسِدِينْ
+
+[ref]
+(القصص ۲۸: آیت ۷۷)
+
+[en]
+But seek, through that which Allah has given you, the home of the Hereafter; and yet, do not forget your share of the world. And do good as Allah has done good to you. And desire not corruption in the land. Indeed, Allah does not like corrupters."

@@ -1,0 +1,20 @@
+# title: Page 48
+# English edition of book page 48, built by build_english.py from en_src/ and page_048.txt
+
+[en]
+In his book az-Zuhd, Imam Ahmad ibn Hanbal, may Allah have mercy on him, quotes the words of Imam Mansur, may Allah have mercy on him, about this phrase:
+
+[ar]
+وَلَا تَنْسَ نَصِيبَكَ مِنَ الدُّنْيَا
+
+[en]
+He said:
+
+[ar]
+لَيْسَ هُوَ عَرَضٌ مِنْ عَرَضِ الدُّنْيَا، وَلَٰكِنْ نَصِيبُكَ عُمُرُكَ أَنْ تُقَدِّمَ فِيهِ لِآخِرَتِكْ
+
+[ref]
+الزہد للامام احمد، ص: ۲۱۴
+
+[en]
+It does not mean any of the goods of this world. Rather, your share is your lifetime, in which you send ahead deeds, provisions, for your Hereafter.

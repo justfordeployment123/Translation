@@ -1,0 +1,19 @@
+# title: Page 28
+# Zindagi Aur Waqt, book page 28 (PDF page 30)
+# The first line of this page ends the Ibn Mas'ud translation and is in page_027.txt.
+# This page stops before "دوسری صورت: دنیا سے غفلت لیکن آخرت کے لیے بیداری", because the hadith in that
+# section continues on page 29. That section starts the next batch, so no quote is cut in half.
+# Arabic: aaraab as in the book, sukun on the last word before each pause (waqf).
+# Proofreader: please check the reference "صفۃ الصفوۃ، ۴/ ۹" against the book's footnote.
+
+[ur]
+اس وقت ہمارے معاشرے کا ایک بہت بڑا طبقہ اسی صورت میں زندگی گزار رہا ہے، احساسِ زندگی ختم ہو چکا ہے، ضمیر مردہ ہو چکے ہیں، دن رات فلم بینی، لہو و لعب اور غیر ضروری اسفار، بے کار مجلسوں کی زینت اور رات گئے تک ہنسی مذاق میں گزارنا وغیرہ۔ ایسا شخص دوہرے نقصان میں ہے، کیونکہ اس نے نہ دنیا کا کوئی مقصد حاصل کیا اور نہ ہی آخرت کا۔ اور اگر اسی کیفیت میں اسے پیغامِ اجل آ گیا تو ہلاکت ہے۔ دیکھیے حضرت زہیر بن نعیم ؒ کی نصیحت:
+
+[ar]
+قَالَ رَجُلٌ لِزُهَيْرِ بْنِ نُعَيْمْ: يَا أَبَا عَبْدِ الرَّحْمَنْ، تُوصِي بِشَيْءْ؟ قَالَ: نَعَمْ، اِحْذَرْ أَنْ يَأْخُذَكَ اللَّهُ وَأَنْتَ عَلَى غَفْلَةْ
+
+[ref]
+صفۃ الصفوۃ، ۴/ ۹
+
+[ur]
+ایک آدمی نے زہیر بن نعیم ؒ سے کہا: اے ابو عبدالرحمٰن! آپ مجھے کسی چیز کی وصیت کریں گے؟ تو انہوں نے فرمایا: ہاں، تم حالتِ غفلت میں اللہ کی پکڑ سے بچو۔

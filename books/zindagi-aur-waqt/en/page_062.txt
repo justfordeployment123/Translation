@@ -1,0 +1,23 @@
+# title: Page 62
+# English edition of book page 62, built by build_english.py from en_src/ and page_062.txt
+
+[en]
+And just as reaching any goal in this world takes great effort, reaching the merchandise of Allah, which is Paradise, is not so easy. For it too, one must strive hard, be patient through hardships and pain, sacrifice one's desires, and gladly accept with heart and soul the commands of Allah and His Messenger and act upon them. Then one will gain the springtime and the beauty of the eternal home.
+
+[en]
+Umar ibn Abd al-Aziz, may Allah have mercy on him, said: Since this world is not a place of residence or a homeland for the believer, the believer must live in one of two states. Either he lives like a stranger in a foreign land, who is in another country only to gather some wealth and then return to his homeland, or he lives like a traveller who journeys day and night towards his homeland.
+
+[ref]
+جامع العلوم والحکم، ص: ۴۶۰
+
+[en]
+A poet says:
+
+[ar]
+إِنَّمَا الدُّنْيَا إِلَى الْجَنَّةِ وَالنَّارِ طَرِيقْ، وَاللَّيَالِي مَتْجَرُ الْإِنْسَانِ وَالْأَيَّامُ سُوقْ
+
+[en]
+The life of this world is only a road leading to Paradise or to the Fire. The nights are a person's merchandise, and the days are the market.
+
+[en]
+So, O traveller, it is now your choice what goods you buy along this road, those of Paradise or those of Hell. If you wish, spend your days and nights in obedience and reach the destination of Paradise. Or if you wish, through disobedience and sin, make Hell your abode. We seek refuge in Allah.

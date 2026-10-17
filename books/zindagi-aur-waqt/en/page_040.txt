@@ -1,0 +1,44 @@
+# title: Page 40
+# English edition of book page 40, built by build_english.py from en_src/ and page_040.txt
+
+[en]
+How many people among those you know, when they are told to obey Allah or to pray, answer very calmly: I am very busy. Such friends should think for a moment: may it not happen that our busyness forces us to say these very words at the time of death. We seek refuge in Allah.
+
+[en]
+Allah has described this scene very clearly in Surah at-Takathur. Allah the Exalted says:
+
+[ar]
+أَلْهَاكُمُ التَّكَاثُرْ
+
+[ar]
+حَتَّىٰ زُرْتُمُ الْمَقَابِرْ
+
+[ar]
+كَلَّا سَوْفَ تَعْلَمُونْ
+
+[ar]
+ثُمَّ كَلَّا سَوْفَ تَعْلَمُونْ
+
+[ref]
+(التکاثر ۱۰۲: آیت ۱ تا ۴)
+
+[en]
+Competition in worldly increase diverts you Until you visit the graveyards. No! You are going to know. Then no! You are going to know.
+
+[hen]
+The Sixth Place
+
+[en]
+Allah the Exalted says:
+
+[ar]
+أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَاكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا لَا تُرْجَعُونْ
+
+[ref]
+(المومنون ۲۳: آیت ۱۱۵)
+
+[en]
+Then did you think that We created you uselessly and that to Us you would not be returned?"
+
+[en]
+What this blessed verse requires is that you were not created for nothing, without purpose. Rather, your creation has a purpose, and that purpose is the worship of Allah: that every part of life should be lived according to the way the prophets, peace be upon them, taught, so that our joys, our sorrows, our trade and our dealings all become worship.

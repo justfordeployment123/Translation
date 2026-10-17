@@ -1,0 +1,29 @@
+# title: Page 51
+# English edition of book page 51, built by build_english.py from en_src/ and page_051.txt
+
+[en]
+So value your life, keep away from idle things, and protect your destination.
+
+[en]
+Imam Hasan al-Basri, may Allah have mercy on him, said:
+
+[ar]
+مِنْ عَلَامَةِ إِعْرَاضِ اللَّهِ عَنِ الْعَبْدِ أَنْ يَجْعَلَ شُغْلَهُ فِيمَا لَا يَعْنِيهِ خِذْلَانًا مِنَ اللَّهِ عَزَّ وَجَلّ
+
+[ref]
+جامع العلوم والحکم، ص: ۱۳۹
+
+[en]
+Among the signs that Allah has turned away from His servant is that, to disgrace him, He keeps him busy with useless and pointless things.
+
+[hen]
+The Second Hadith
+
+[ar]
+عَنِ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: نِعْمَتَانِ مَغْبُونٌ فِيهِمَا كَثِيرٌ مِنَ النَّاسْ، الصِّحَّةُ وَالْفَرَاغْ
+
+[ref]
+صحیح بخاری، کتاب الرقاق، باب الصحۃ والفراغ، رقم الحدیث: ۶۴۱۲، الترمذی، کتاب الزہد، باب الصحۃ والفراغ نعمتان، رقم الحدیث: ۲۳۰۴، وابن ماجہ، کتاب الزہد، باب الحکمۃ، رقم الحدیث: ۴۱۷۰
+
+[en]
+Abdullah ibn Abbas, may Allah be pleased with them both, narrated that the Prophet, peace be upon him, said: There are two blessings in which many people are cheated: health and free time.

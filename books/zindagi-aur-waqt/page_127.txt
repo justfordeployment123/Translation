@@ -1,0 +1,26 @@
+# title: Page 127
+# Zindagi Aur Waqt, book page 127 (PDF page 129)
+# The first lines of this page (the stone inscription) are in page_126.txt.
+# The story of Sulayman ibn Abd al-Malik, which starts at the bottom of this page, is moved to page 128.
+# Arabic: aaraab as in the book, standard spelling ("الدَّاءَ"), rhyme vowels kept.
+
+[ur]
+حضرت حسن بصری رحمۃ اللہ علیہ کے بارے میں مروی ہے کہ صبح کے وقت وہ یہ شعر پڑھتے:
+
+[ar]
+يَسُرُّ الْفَتَى مَا كَانَ قَدَّمَ مِنْ تُقًى، إِذَا عَرَفَ الدَّاءَ الَّذِي هُوَ قَاتِلُهُ
+
+[ur]
+نوجوان نے جو پرہیز پہلے کر لیا ہو وہ اسے خوش کرتا ہے، خصوصاً جب وہ اس مرض کو پہچان لے جو اس کو ہلاک کرنے والی ہے۔
+
+[ur]
+اور جب شام کا وقت ہوتا تو یہ درج ذیل شعر کہتے:
+
+[ar]
+وَمَا الدُّنْيَا بِبَاقِيَةٍ لِحَيٍّ، وَمَا حَيٌّ عَلَى الدُّنْيَا بِبَاقِ
+
+[ur]
+اور دنیا کسی زندہ کے لیے باقی رہنے والی نہیں، اور نہ ہی کوئی زندہ، دنیا میں باقی رہنے والا ہے۔
+
+[ref]
+الزہد الکبیر للبیہقی، ص: ۲۳۳

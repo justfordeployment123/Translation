@@ -1,0 +1,20 @@
+# title: Page 16
+# English edition of book page 16, built by build_english.py from en_src/ and page_016.txt
+
+[en]
+He prays the five daily prayers, and keeps busy with remembrance of Allah, recitation of the Noble Quran, and other good deeds. When the call to prayer is made, he goes to pray, and when he comes back, his children ask: Father, whenever the call to prayer is made, you leave everything and go to the mosque, you pray and worship, yet you come back empty-handed. What do you get from it? And the father's answer is the same as the farmer's: My child, this world is the place of action. Whatever a person does here, he will be rewarded for it in the Hereafter. Today we worship, and spend our time in His service and His pleasure, and a day will come when we will be given the best reward for it. Whoever tires himself here today in earning good will find rest tomorrow in the Hereafter. As an Arabic proverb says:
+
+[ar]
+تَعِبَ الْإِنْسَانُ فِي صِغَرِهِ كَيْ يَسْتَرِيحَ فِي كِبَرِهْ
+
+[en]
+A person toils in his youth, so that he may rest in his old age.
+
+[hen]
+An Example
+
+[en]
+The example of a person and the time of his life is like a man who hires a car. If he brings the car and parks it at his door, never drives it for his needs, and never travels anywhere in it, but leaves it standing there until his time is up and then returns it, no one would call that man wise or sensible.
+
+[en]
+In exactly the same way, whoever spends the time of his life on pointless and purposeless things, and does not make full use of his time, nor spend it in the obedience of Allah, has as good as wasted the time he was given, which he will never get back. Indeed, time spent on trivial things is as if it had never been given to him at all.

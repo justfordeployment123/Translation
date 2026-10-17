@@ -1,0 +1,35 @@
+# title: Page 50
+# English edition of book page 50, built by build_english.py from en_src/ and page_050.txt
+
+[en]
+Rather, a Muslim leaves behind every pointless word and deed, every pointless friendship and gathering, and moves towards his goal, working hard. It is narrated from Ata ibn Abi Rabah, may Allah have mercy on him, that he said: I sat in the gatherings of many of the Companions, may Allah be pleased with them, and every one of them considered all talk to be idle, except reciting the Quran, remembering Allah, or something that could not be avoided.
+
+[en]
+Among the qualities of those who succeed, Allah, Lord of Might, has mentioned in the Quran that they keep away from idle words and deeds. Allah the Exalted says:
+
+[ar]
+وَالَّذِينَ هُمْ عَنِ اللَّغْوِ مُعْرِضُونْ
+
+[ref]
+(المومنون ۲۳: آیت ۳)
+
+[en]
+And they who turn away from ill speech
+
+[en]
+So whoever spends his life in idle talk and useless things is heading for failure, because he has wasted his time, or rather, failed to value it, and has not understood the purpose of his creation.
+
+[en]
+So, O believing servant, move towards your Lord, and work hard towards your destination, Paradise. Be patient with the hardships and trials that come along the way, for the destination is far, the road is hard, the provisions are few, and the best provision is piety and righteousness.
+
+[en]
+Imam Ibn al-Qayyim, may Allah have mercy on him, said:
+
+[ar]
+فَالنَّاسُ مُنْذُ خُلِقُوا لَمْ يَزَالُوا مُسَافِرِينْ، وَلَيْسَ لَهُمْ حَطٌّ عَنْ رِحَالِهِمْ إِلَّا فِي جَنَّةٍ أَوْ نَارْ
+
+[ref]
+الفوائد لابن القیم، ص: ۲۴۵
+
+[en]
+Ever since people were created, they have been on a journey, and they will dismount from their mounts either in Paradise or in Hell.

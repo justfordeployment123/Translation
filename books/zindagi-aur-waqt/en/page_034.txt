@@ -1,0 +1,20 @@
+# title: Page 34
+# English edition of book page 34, built by build_english.py from en_src/ and page_034.txt
+
+[hen]
+The First Case
+
+[en]
+If someone lights a candle in broad daylight and sits by it, no one would call him sensible or wise. Rather, this act is clear proof of his foolishness. In the same way, the person who accepts Allah as his Lord yet disobeys Him, who accepts Satan as his enemy yet follows him, and who spends the precious moments of his life on the path of evil, his life is passing uselessly, just as that candle is burning uselessly.
+
+[hen]
+The Second Case
+
+[en]
+In the same way, the person who lights a candle while the electric lights are on and there is already light, is wasting the candle away from its purpose. Likewise, the one who spends his life in amusement and play is wasting his life away from its purpose, on trivial things.
+
+[hen]
+The Third Case
+
+[en]
+Just as someone lights a candle to drive away the darkness when there is no electricity, and he benefits from that candle himself and others benefit from it too, so the burning of that candle proves useful. In the same way, the one who lives his life in obedience will benefit from his good deeds himself, and people will benefit from his good deeds too, and in this world that goodness will become a cause for mercy and blessings to descend.

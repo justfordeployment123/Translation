@@ -1,0 +1,20 @@
+# title: Page 21
+# English edition of book page 21, built by build_english.py from en_src/ and page_021.txt
+
+[hen]
+An Example
+
+[en]
+Imagine a man who has to reach Islamabad, and has only just enough money in his pocket to get him there. If he spends his money along the way buying things he does not need, he will surely never reach his destination. In exactly the same way, the person who spends the precious time of his life on unnecessary and pointless things, until Allah's message of death arrives, will, at the time of death, out of regret and remorse, say what Allah the Exalted has described like this:
+
+[ar]
+حَتَّىٰ إِذَا جَاءَ أَحَدَهُمُ الْمَوْتُ قَالَ رَبِّ ارْجِعُونْ
+
+[ar]
+لَعَلِّي أَعْمَلُ صَالِحًا فِيمَا تَرَكْتُ ۚ كَلَّا ۚ إِنَّهَا كَلِمَةٌ هُوَ قَائِلُهَا ۖ وَمِنْ وَرَائِهِمْ بَرْزَخٌ إِلَىٰ يَوْمِ يُبْعَثُونْ
+
+[ref]
+(المؤمنون ۲۳: آیت ۹۹ تا ۱۰۰)
+
+[en]
+For such is the state of the disbelievers, until, when death comes to one of them, he says, "My Lord, send me back That I might do righteousness in that which I left behind." No! It is only a word he is saying; and behind them is a barrier until the Day they are resurrected.

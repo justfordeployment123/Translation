@@ -1,0 +1,20 @@
+# title: Page 55
+# English edition of book page 55, built by build_english.py from en_src/ and page_055.txt
+
+[en]
+That nothing is hidden from Him. So we should take care of every single moment of our life and spend it in the obedience of our Lord, not waste our life without purpose or in idleness, and head towards sins instead of good deeds. For an idle heart is the home of Satan, and it is even more dangerous when there is youth, health, free time, and wealth as well. As the Arab poet Abu al-Atahiyah said:
+
+[ar]
+إِنَّ الشَّبَابَ وَالْفَرَاغَ وَالْجِدَةْ، مَفْسَدَةٌ لِلْمَرْءِ أَيُّ مَفْسَدَةْ
+
+[en]
+Truly, youth, free time and wealth, when they come together, are a ruin for a man, and what a ruin.
+
+[en]
+Today, life is being spent on pointless things: on pointless coming and going, pointless gatherings, pointless questions, and gathering pointless news. What happened where? Where did so-and-so go? What happened to so-and-so? So-and-so did this, so-and-so did that. When we read about the lives of the devout and the ascetic people of the past, it seems very strange to us, and we wonder how such a thing could be possible. Yet awareness of time and concern for the Hereafter truly can bring a person to such a state.
+
+[en]
+A man came to Dawud at-Ta'i, may Allah have mercy on him. When he entered his house, he said: Sir, one of the beams in the roof of your house is broken. He replied: My nephew, I have lived in this house for twenty years, and I have never once looked up at the roof.
+
+[ref]
+احیاء علوم الدین، ۴/ ۴۳۴، و این نحن من ہؤلاء، ۲/ ۱۹

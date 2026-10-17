@@ -1,0 +1,38 @@
+# title: Page 26
+# English edition of book page 26, built by build_english.py from en_src/ and page_026.txt
+
+[hen]
+The First Form
+
+[en]
+This form includes every part and period of life spent in disobedience, sin and evil. Such a person is at a loss. He is ruining not only his life in this world, but also his life in the Hereafter, which is eternal and everlasting, and he will deserve sin and punishment for the time he spent this way.
+
+[hen]
+The Second Form
+
+[en]
+This form of time includes those who are living a heedless and useless life. Heedlessness is the first step by which a person climbs towards sin and evil. The first thing Satan does is make a person heedless. As soon as the heart becomes heedless of Allah's remembrance, of remembering and reflecting on Him, Satan at once spreads his net of whispers.
+
+[en]
+As Allah the Exalted says:
+
+[ar]
+وَمَنْ يَعْشُ عَنْ ذِكْرِ الرَّحْمَٰنِ نُقَيِّضْ لَهُ شَيْطَانًا فَهُوَ لَهُ قَرِينْ
+
+[ref]
+(الزخرف ۴۳: آیت ۳۶)
+
+[en]
+And whoever is blinded from remembrance of the Most Merciful - We appoint for him a devil, and he is to him a companion.
+
+[en]
+And He said in another place:
+
+[ar]
+وَلَا تُطِعْ مَنْ أَغْفَلْنَا قَلْبَهُ عَنْ ذِكْرِنَا وَاتَّبَعَ هَوَاهُ وَكَانَ أَمْرُهُ فُرُطَا
+
+[ref]
+(الکہف ۱۸: آیت ۲۸)
+
+[en]
+And do not obey one whose heart We have made heedless of Our remembrance and who follows his desire and whose affair is ever in neglect.

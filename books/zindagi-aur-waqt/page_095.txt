@@ -1,0 +1,20 @@
+# title: Page 95
+# Zindagi Aur Waqt, book page 95 (PDF page 97)
+# The first lines of this page (end of Awn's saying and its translation) are in page_094.txt.
+# The translation of Hasan al-Basri's first saying is on page 96 and is included here.
+# Arabic: aaraab as in the book, standard spelling, sukun at each stop.
+
+[h]
+حضرت حسن البصری رحمۃ اللہ علیہ (وفات ایک سو دس ہجری) کے اقوال
+
+[h]
+پہلا قول
+
+[ar]
+ابْنَ آدَمْ، إِنَّكَ بَيْنَ مَطِيَّتَيْنِ يُوضِعَانِكْ، اللَّيْلُ إِلَى النَّهَارْ، وَالنَّهَارُ إِلَى اللَّيْلْ، حَتَّى يُسْلِمَانِكَ إِلَى الْآخِرَةْ، فَمَنْ أَعْظَمُ مِنْكَ يَا ابْنَ آدَمَ خَطَرَا
+
+[ref]
+الزہد الکبیر للبیہقی، ص: ۲۰۴، حلیۃ الاولیاء، ۲/ ۱۵۲
+
+[ur]
+اے آدم کے بیٹے! تم دو سواریوں کے درمیان ہو جو تمہیں آگے دھکیل رہی ہیں، رات، دن کی طرف اور دن، رات کی طرف، حتیٰ کہ تمہیں آخرت کے سپرد کر دیں گی۔ اے آدم کے بیٹے! تم سے بڑھ کر خطرے میں کون ہو سکتا ہے؟

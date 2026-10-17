@@ -16,90 +16,177 @@
   body { margin: 0; background: var(--bg); color: var(--ink); font-family: system-ui, sans-serif; }
   main { max-width: 1100px; margin: 0 auto; padding: 24px 16px 48px; }
   h1 { font-size: 1.1rem; font-weight: 600; margin: 0 0 16px; }
+  .bar { position: sticky; top: 0; z-index: 2; background: var(--bg); padding: 10px 0; margin-bottom: 12px;
+         display: flex; flex-wrap: wrap; align-items: center; gap: 8px; border-bottom: 1px solid var(--line); }
+  button, select, a.button { font: inherit; padding: 8px 14px; border-radius: 8px; border: 1px solid var(--line);
+         background: var(--card); color: var(--ink); cursor: pointer; text-decoration: none; }
+  button.primary { background: var(--accent); border-color: var(--accent); color: var(--card); min-width: 7.5em; }
+  button:disabled { opacity: .4; cursor: default; }
+  .pager { display: flex; align-items: center; gap: 6px; margin-inline-start: auto; }
+  a.button { margin-inline-start: 0; }
+  .dl { position: relative; }
+  .dl summary { list-style: none; display: inline-block; }
+  .dl summary::-webkit-details-marker { display: none; }
+  .dl .menu { position: absolute; z-index: 3; top: 110%; inset-inline-start: 0; background: var(--card); border: 1px solid var(--line);
+              border-radius: 8px; padding: 6px; min-width: 14em; box-shadow: 0 6px 20px rgba(0,0,0,.15); direction: rtl; }
+  .dl .menu a { display: block; padding: 8px 10px; border-radius: 6px; color: var(--ink); text-decoration: none;
+                font-family: "Noto Nastaliq Urdu", serif; line-height: 2; }
+  .dl .menu a:hover { background: var(--bg); }
   .layout { display: grid; gap: 20px; grid-template-columns: 1fr; }
-  @media (min-width: 900px) { .layout { grid-template-columns: 1fr 1fr; align-items: start; } }
+  @media (min-width: 900px) { .layout { grid-template-columns: 1fr 1fr; align-items: start; }
+                              .scan { position: sticky; top: 76px; } }
   .card { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 20px; }
-  .controls { display: flex; gap: 8px; margin-bottom: 16px; }
-  button { font: inherit; padding: 8px 16px; border-radius: 8px; border: 1px solid var(--line); background: var(--bg); color: var(--ink); cursor: pointer; }
-  button.primary { background: var(--accent); border-color: var(--accent); color: var(--card); }
-  #text { direction: rtl; text-align: right; }
+  .page-title { font-size: .8rem; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); margin: 0 0 12px; }
+  .text { direction: rtl; text-align: right; }
+  .text[hidden] { display: none; }
   .seg { margin: 0 0 20px; }
   .seg.ar { font-family: "Amiri Quran", serif; font-size: 1.9rem; line-height: 2.4; color: var(--accent); }
   .seg.ur { font-family: "Noto Nastaliq Urdu", serif; font-size: 1.35rem; line-height: 2.6; }
   .seg span { border-radius: 6px; padding: 0 2px; cursor: pointer; transition: background .12s; }
   .seg span.on { background: var(--hl); }
-  figure { margin: 0; }
-  figure img { width: 100%; height: auto; border-radius: 8px; display: block; }
-  figcaption { color: var(--muted); font-size: .85rem; margin-top: 8px; }
-  .hint { color: var(--muted); font-size: .85rem; margin: 0; }
-  .nav { display: inline-block; margin-bottom: 12px; color: var(--accent); text-decoration: none; }
+  .seg.h { font-weight: 600; font-size: 1.6rem; color: var(--accent); margin-top: 8px; }
+  .ref { font-family: "Noto Nastaliq Urdu", serif; font-size: .9rem; line-height: 2.2; color: var(--muted); margin: -12px 0 20px; }
+  .scan img { width: 100%; height: auto; border-radius: 8px; display: block; }
+  .scan[hidden] { display: none; }
+  .hint { color: var(--muted); font-size: .85rem; margin: 8px 0 0; }
 </style>
 </head>
 <body>
 <main>
-  {{NAV}}
   <h1>{{TITLE}}</h1>
+  <div class="bar">
+    <button id="play" class="primary">▶ Play</button>
+    <button id="restart" title="Start from the first page">↺ Restart</button>
+    {{DOWNLOAD}}
+    <div class="pager">
+      <button id="prev" title="Previous page">‹</button>
+      <select id="pick" aria-label="Page"></select>
+      <button id="next" title="Next page">›</button>
+    </div>
+  </div>
   <div class="layout">
     <section class="card">
-      <div class="controls">
-        <button id="play" class="primary">▶ Play</button>
-        <button id="restart">↺ Restart</button>
-      </div>
-      <div id="text"></div>
-      <p class="hint">Tap any word to play from that point.</p>
+      <p class="page-title" id="pageTitle"></p>
+      <div id="pages"></div>
+      <p class="hint">The page turns by itself as the reading moves on. Tap any word to play from there.</p>
     </section>
-    {{IMAGE}}
+    <figure class="card scan" id="scan"><img id="scanImg" alt="Original page"></figure>
   </div>
 </main>
 <script>
+const PAGES = {{PAGES}};
 const SEGMENTS = {{SEGMENTS}};
-const textEl = document.getElementById("text");
-const playBtn = document.getElementById("play");
-const audios = SEGMENTS.map(s => new Audio(s.audio));
-let cur = 0, playing = false, lit = null;
+const $ = id => document.getElementById(id);
+const playBtn = $("play"), pick = $("pick");
+const audio = new Audio();
+let cur = -1, shown = -1, playing = false, lit = null;
+
+// [ref] segments have no audio: they are shown but skipped during playback
+const nextVoiced = from => SEGMENTS.findIndex((s, i) => s.audio && i >= from);
+const firstOfPage = p => SEGMENTS.findIndex(s => (s.page || 0) === p);
+
+// One text block per book page; only the current one is visible.
+const blocks = PAGES.map((page, p) => {
+  const div = document.createElement("div");
+  div.className = "text";
+  div.hidden = true;
+  $("pages").append(div);
+  const opt = document.createElement("option");
+  opt.value = p;
+  opt.textContent = page.title;
+  pick.append(opt);
+  return div;
+});
 
 SEGMENTS.forEach((seg, si) => {
   const p = document.createElement("p");
-  p.className = "seg " + seg.lang;
   p.lang = seg.lang;
-  seg.words.forEach(w => {
-    w.el = document.createElement("span");
-    w.el.textContent = w.w;
-    w.el.onclick = () => seek(si, w.s);
-    p.append(w.el, " ");
-  });
-  textEl.append(p);
+  if (seg.style === "ref") {
+    p.className = "ref";
+    p.textContent = seg.text;
+  } else {
+    p.className = "seg " + seg.lang + (seg.style === "h" ? " h" : "");
+    seg.words.forEach(w => {
+      w.el = document.createElement("span");
+      w.el.textContent = w.w;
+      w.el.onclick = () => seek(si, w.s, true);
+      p.append(w.el, " ");
+    });
+  }
+  blocks[seg.page || 0].append(p);
 });
 
-audios.forEach((a, i) => a.addEventListener("ended", () => {
-  if (i + 1 < audios.length) {
-    cur = i + 1;
-    audios[cur].currentTime = 0;
-    audios[cur].play();
-  } else {
-    stop();
-    setLit(null);
-    cur = 0;
-  }
-}));
+function showPage(p, scroll) {
+  if (p === shown) return;
+  if (shown >= 0) blocks[shown].hidden = true;
+  shown = p;
+  blocks[p].hidden = false;
+  $("pageTitle").textContent = PAGES[p].title + " · " + (p + 1) + " / " + PAGES.length;
+  pick.value = p;
+  $("prev").disabled = p === 0;
+  $("next").disabled = p === PAGES.length - 1;
+  $("scan").hidden = !PAGES[p].image;
+  if (PAGES[p].image) $("scanImg").src = PAGES[p].image;
+  if (scroll) window.scrollTo({ top: 0, behavior: "smooth" });
+  try { localStorage.setItem("page:" + location.pathname, p); } catch (e) {}
+}
+
+function load(si, t, autoplay) {
+  cur = si;
+  showPage(SEGMENTS[si].page || 0, true);
+  audio.src = SEGMENTS[si].audio;
+  if (t > 0) audio.addEventListener("loadedmetadata", () => { audio.currentTime = t; }, { once: true });
+  if (autoplay) play();
+  // fetch the next part ahead of time so there is no gap between parts
+  const next = nextVoiced(si + 1);
+  if (next >= 0) fetch(SEGMENTS[next].audio).catch(() => {});
+}
+
+function play() {
+  if (cur < 0) load(nextVoiced(firstOfPage(shown)), 0, false);
+  playing = true;
+  audio.play().catch(() => stop());
+  playBtn.textContent = "❚❚ Pause";
+}
+function stop() { playing = false; audio.pause(); playBtn.textContent = "▶ Play"; }
+function seek(si, t, autoplay) { audio.pause(); setLit(null); load(si, t, autoplay); }
+
+// Go to a page: while playing, keep reading from the top of that page; otherwise just show it.
+function goToPage(p) {
+  const si = nextVoiced(firstOfPage(p));
+  if (playing && si >= 0) seek(si, 0, true);
+  else { stop(); setLit(null); cur = -1; showPage(p, true); }
+}
+
+audio.addEventListener("ended", () => {
+  const next = nextVoiced(cur + 1);
+  if (next >= 0) load(next, 0, true);  // turns the page when the next part is on a new page
+  else { stop(); setLit(null); cur = -1; }
+});
 
 function setLit(el) {
   if (lit === el) return;
   if (lit) lit.classList.remove("on");
   lit = el;
-  if (el) el.classList.add("on");
+  if (!el) return;
+  el.classList.add("on");
+  const r = el.getBoundingClientRect();
+  if (r.top < 80 || r.bottom > window.innerHeight - 20) el.scrollIntoView({ block: "center", behavior: "smooth" });
 }
 
-function play() { playing = true; audios[cur].play(); playBtn.textContent = "❚❚ Pause"; }
-function stop() { playing = false; audios[cur].pause(); playBtn.textContent = "▶ Play"; }
-function seek(si, t) { audios[cur].pause(); cur = si; audios[cur].currentTime = t; play(); }
-
 playBtn.onclick = () => (playing ? stop() : play());
-document.getElementById("restart").onclick = () => { stop(); setLit(null); seek(0, 0); };
+$("restart").onclick = () => seek(nextVoiced(0), 0, true);
+$("prev").onclick = () => goToPage(Math.max(0, shown - 1));
+$("next").onclick = () => goToPage(Math.min(PAGES.length - 1, shown + 1));
+pick.onchange = () => goToPage(Number(pick.value));
+
+let start = 0;
+try { start = Math.min(PAGES.length - 1, Number(localStorage.getItem("page:" + location.pathname)) || 0); } catch (e) {}
+showPage(start, false);
 
 (function tick() {
-  if (playing) {
-    const t = audios[cur].currentTime;
+  if (playing && cur >= 0) {
+    const t = audio.currentTime;
     let hit = null;
     for (const w of SEGMENTS[cur].words) { if (w.s <= t) hit = w; else break; }
     setLit(hit && hit.el);

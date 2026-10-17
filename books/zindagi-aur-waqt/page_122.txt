@@ -1,0 +1,7 @@
+# title: Page 122
+# Zindagi Aur Waqt, book page 122 (PDF page 124), end of باب پنجم
+# The text on this page (end of Muhammad ibn Nasr's account) is in page_121.txt. The rest of the page is the
+# chapter's closing ornament, so this page has no audio.
+
+[ref]
+باب پنجم مکمل ہوا

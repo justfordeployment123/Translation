@@ -1,0 +1,345 @@
+<!doctype html>
+<html lang="ur">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#1a1216">
+<title>{{TITLE}}</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Amiri+Quran&family=Noto+Nastaliq+Urdu:wght@400;600&family=Lora:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #1a1216; --panel: #231920; --panel-2: #2c1f27; --line: #3d2a35; --ink: #f8e4ec; --muted: #b89aa7;
+    --pink: #f2a7bb; --pink-strong: #ff8fb1; --pink-soft: #3a2230; --hl: #6e2f4a; --dock: rgba(26, 18, 22, .94);
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; background: var(--bg); color: var(--ink); font-family: system-ui, -apple-system, "Segoe UI", sans-serif; }
+  body { padding-bottom: calc(132px + env(safe-area-inset-bottom)); }
+  button, select { font: inherit; color: inherit; }
+
+  /* ---------- Bookshelf ---------- */
+  header { padding: 16px 16px 0; max-width: 1100px; margin: 0 auto; }
+  .brand { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin-bottom: 12px; }
+  .brand h1 { margin: 0; font-size: 1.05rem; font-weight: 600; letter-spacing: .02em; }
+  .brand span { color: var(--muted); font-size: .8rem; }
+  .shelf { display: flex; gap: 12px; overflow-x: auto; padding: 4px 2px 14px; scroll-snap-type: x proximity; border-bottom: 1px solid var(--line); }
+  .shelf::-webkit-scrollbar { height: 6px; } .shelf::-webkit-scrollbar-thumb { background: var(--line); border-radius: 3px; }
+  .book { flex: 0 0 auto; width: 78px; scroll-snap-align: start; background: none; border: 0; padding: 0; cursor: pointer; text-align: center; }
+  .cover { height: 108px; border-radius: 6px 10px 10px 6px; position: relative; display: flex; align-items: center; justify-content: center;
+           padding: 8px 6px 8px 12px; box-shadow: inset 6px 0 0 rgba(0,0,0,.22), 0 4px 12px rgba(0,0,0,.35); transition: transform .15s; }
+  .cover b { font-family: "Noto Nastaliq Urdu", serif; font-weight: 600; font-size: .78rem; line-height: 1.9; color: #fff; text-shadow: 0 1px 2px rgba(0,0,0,.4); }
+  .book:hover .cover { transform: translateY(-3px); }
+  .book.active .cover { outline: 2px solid var(--pink-strong); outline-offset: 3px; }
+  .book.soon .cover { filter: saturate(.25) brightness(.55); }
+  .book small { display: block; margin-top: 7px; font-size: .68rem; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .book.soon small { font-style: italic; }
+
+  /* ---------- Reading area ---------- */
+  main { max-width: 1100px; margin: 0 auto; padding: 18px 16px 0; display: grid; gap: 18px; grid-template-columns: 1fr; }
+  main.with-scan { grid-template-columns: 1fr; }
+  @media (min-width: 960px) { main.with-scan { grid-template-columns: minmax(0, 1.35fr) minmax(0, 1fr); align-items: start; } }
+  .reader { background: linear-gradient(180deg, var(--panel-2), var(--panel)); border: 1px solid var(--line); border-radius: 18px;
+            padding: 26px clamp(18px, 4vw, 44px) 30px; min-height: 52vh; box-shadow: 0 10px 40px rgba(0,0,0,.25); }
+  .page-title { display: flex; justify-content: space-between; align-items: center; gap: 10px; margin: 0 0 18px;
+                color: var(--muted); font-size: .78rem; letter-spacing: .08em; text-transform: uppercase; }
+  .page-title .orn { flex: 1; height: 1px; background: linear-gradient(90deg, transparent, var(--line), transparent); }
+  .text[hidden] { display: none; }
+  .seg { margin: 0 0 22px; }
+  .seg.ar { font-family: "Amiri Quran", serif; font-size: clamp(1.55rem, 3.2vw, 2rem); line-height: 2.3; color: var(--pink-strong);
+            direction: rtl; text-align: center; padding: 6px 0; }
+  .seg.ur { font-family: "Noto Nastaliq Urdu", serif; font-size: clamp(1.12rem, 2.3vw, 1.38rem); line-height: 2.7; color: var(--ink);
+            direction: rtl; text-align: justify; text-align-last: right; }
+  .seg.en { font-family: "Lora", Georgia, serif; font-size: clamp(1.05rem, 2.1vw, 1.22rem); line-height: 1.85; color: var(--ink); direction: ltr; text-align: left; }
+  .seg.h { font-weight: 600; color: var(--pink); text-align: center; text-align-last: center; font-size: clamp(1.3rem, 2.8vw, 1.6rem); margin-top: 6px; }
+  .seg.en.h { font-family: "Lora", Georgia, serif; }
+  .seg span { border-radius: 6px; padding: 0 2px; cursor: pointer; transition: background .12s, color .12s; }
+  .seg span.on { background: var(--hl); color: #fff; }
+  .ref { font-family: "Noto Nastaliq Urdu", serif; font-size: .82rem; line-height: 2.2; color: var(--muted); margin: -14px 0 22px; direction: rtl; text-align: center; }
+  .ref.en { font-family: system-ui, sans-serif; line-height: 1.6; direction: ltr; }
+  .scan { background: var(--panel); border: 1px solid var(--line); border-radius: 18px; padding: 12px; position: sticky; top: 12px; }
+  .scan[hidden] { display: none; }
+  .scan img { width: 100%; height: auto; border-radius: 10px; display: block; background: #fff; }
+  .scan p { margin: 8px 4px 0; color: var(--muted); font-size: .78rem; }
+  .notice { color: var(--muted); text-align: center; font-size: .9rem; padding: 40px 10px; }
+
+  /* ---------- Dock ---------- */
+  .dock { position: fixed; inset: auto 0 0 0; z-index: 10; background: var(--dock); backdrop-filter: blur(10px);
+          border-top: 1px solid var(--line); padding: 10px 12px calc(10px + env(safe-area-inset-bottom)); }
+  .dock-inner { max-width: 1100px; margin: 0 auto; display: grid; gap: 8px; }
+  .progress { height: 4px; background: var(--line); border-radius: 2px; overflow: hidden; }
+  .progress div { height: 100%; width: 0; background: linear-gradient(90deg, var(--pink), var(--pink-strong)); transition: width .3s; }
+  .row { display: flex; align-items: center; justify-content: space-between; gap: 8px; flex-wrap: wrap; }
+  .group { display: flex; align-items: center; gap: 6px; }
+  .icon { width: 44px; height: 44px; border-radius: 50%; border: 1px solid var(--line); background: var(--panel); cursor: pointer;
+          display: inline-flex; align-items: center; justify-content: center; font-size: 1.05rem; }
+  .icon:disabled { opacity: .35; cursor: default; }
+  .play { width: 58px; height: 58px; font-size: 1.35rem; background: var(--pink-strong); border-color: var(--pink-strong); color: #2a0f1b; }
+  .chip { height: 36px; border-radius: 18px; border: 1px solid var(--line); background: var(--panel); padding: 0 12px; cursor: pointer; }
+  select.chip { padding-right: 8px; }
+  .lang { display: inline-flex; border: 1px solid var(--line); border-radius: 18px; overflow: hidden; }
+  .lang button { height: 36px; padding: 0 14px; border: 0; background: var(--panel); cursor: pointer; }
+  .lang button.on { background: var(--pink); color: #2a0f1b; font-weight: 600; }
+  .lang button:disabled { opacity: .4; cursor: default; }
+  .dl { position: relative; }
+  .dl summary { list-style: none; } .dl summary::-webkit-details-marker { display: none; }
+  .dl .menu { position: absolute; bottom: 120%; right: 0; background: var(--panel-2); border: 1px solid var(--line); border-radius: 12px;
+              padding: 6px; min-width: 13em; box-shadow: 0 10px 30px rgba(0,0,0,.4); }
+  .dl .menu a { display: block; padding: 8px 10px; border-radius: 8px; color: var(--ink); text-decoration: none; font-size: .9rem; }
+  .dl .menu a:hover { background: var(--pink-soft); }
+  .toast { position: fixed; left: 50%; bottom: calc(150px + env(safe-area-inset-bottom)); transform: translateX(-50%); background: var(--panel-2);
+           border: 1px solid var(--line); color: var(--ink); padding: 10px 16px; border-radius: 12px; opacity: 0; transition: opacity .2s; pointer-events: none; z-index: 11; }
+  .toast.show { opacity: 1; }
+  @media (max-width: 560px) { .hide-sm { display: none; } .icon { width: 40px; height: 40px; } .play { width: 54px; height: 54px; } }
+</style>
+</head>
+<body>
+<header>
+  <div class="brand"><h1 id="appTitle">{{TITLE}}</h1><span id="bookInfo"></span></div>
+  <nav class="shelf" id="shelf" aria-label="Books"></nav>
+</header>
+
+<main id="main">
+  <article class="reader">
+    <p class="page-title"><span id="pageTitle"></span><span class="orn"></span><span id="pageCount"></span></p>
+    <div id="pages"></div>
+  </article>
+  <figure class="scan" id="scan" hidden><img id="scanImg" alt=""><p id="scanCap"></p></figure>
+</main>
+
+<div class="dock">
+  <div class="dock-inner">
+    <div class="progress"><div id="bar"></div></div>
+    <div class="row">
+      <div class="group">
+        <div class="lang" role="group" aria-label="Language">
+          <button id="langUr" data-lang="ur">اردو</button><button id="langEn" data-lang="en">English</button>
+        </div>
+        <select id="speed" class="chip hide-sm" title="Speed"></select>
+      </div>
+      <div class="group">
+        <button class="icon" id="prev" aria-label="Previous page">‹</button>
+        <button class="icon" id="restart" aria-label="Restart">↺</button>
+        <button class="icon play" id="play" aria-label="Play">▶</button>
+        <button class="icon" id="next" aria-label="Next page">›</button>
+      </div>
+      <div class="group">
+        <select id="pick" class="chip" aria-label="Page"></select>
+        <button class="chip hide-sm" id="scanBtn"></button>
+        {{DOWNLOAD}}
+      </div>
+    </div>
+  </div>
+</div>
+<div class="toast" id="toast"></div>
+
+<script>
+const BOOKS = {{BOOKS}};
+const $ = id => document.getElementById(id);
+const UI = {
+  ur: { play: "▶", pause: "❚❚", page: "صفحہ", scanShow: "اصل صفحہ", scanHide: "اصل صفحہ چھپائیں", soon: "جلد آ رہی ہے",
+        noEn: "اس صفحے کا انگریزی ترجمہ ابھی دستیاب نہیں", speed: "رفتار", books: "کتابیں", of: "از" },
+  en: { play: "▶", pause: "❚❚", page: "Page", scanShow: "Original page", scanHide: "Hide original", soon: "Coming soon",
+        noEn: "The English translation of this page is not available yet", speed: "Speed", books: "books", of: "of" },
+};
+// Pauses (ms) after a part ends, so the reading breathes: longer after headings and before a new page.
+const PAUSE = { normal: 650, ar: 900, h: 1100, page: 1600 };
+const SPEEDS = [0.8, 0.85, 0.9, 1.0];
+
+const store = {
+  get(k, d) { try { const v = localStorage.getItem("app:" + k); return v === null ? d : JSON.parse(v); } catch (e) { return d; } },
+  set(k, v) { try { localStorage.setItem("app:" + k, JSON.stringify(v)); } catch (e) {} },
+};
+
+const audio = new Audio();
+audio.preservesPitch = true;
+let book = null, lang = store.get("lang", "ur"), edition = null, blocks = [];
+let cur = -1, shown = -1, playing = false, lit = null, waitTimer = null, rate = store.get("rate", 0.9);
+
+function toast(msg) { const t = $("toast"); t.textContent = msg; t.classList.add("show"); clearTimeout(t._h); t._h = setTimeout(() => t.classList.remove("show"), 2200); }
+
+/* ---------- Bookshelf ---------- */
+const COLORS = [["#b8466f", "#7d2347"], ["#8a3a6b", "#4f1e3d"], ["#a65277", "#5e2a43"], ["#c06a88", "#7a3550"], ["#7b3b5e", "#3f1d30"]];
+BOOKS.forEach((b, i) => {
+  const el = document.createElement("button");
+  el.className = "book" + (b.editions ? "" : " soon");
+  const [c1, c2] = COLORS[i % COLORS.length];
+  el.innerHTML = `<div class="cover" style="background:linear-gradient(160deg,${c1},${c2})"><b></b></div><small></small>`;
+  el.querySelector("b").textContent = b.title;
+  el.querySelector("small").textContent = b.editions ? (b.subtitle || "") : UI[lang].soon;
+  el.onclick = () => (b.editions ? openBook(i) : toast(UI[lang].soon));
+  $("shelf").append(el);
+  b.el = el;
+});
+
+function openBook(i) {
+  if (book === BOOKS[i]) return;
+  BOOKS.forEach(b => b.el.classList.toggle("active", b === BOOKS[i]));
+  book = BOOKS[i];
+  store.set("book", i);
+  $("bookInfo").textContent = book.subtitle || "";
+  setLang(book.editions[lang] ? lang : "ur", store.get("page:" + i, 0));
+}
+
+/* ---------- Editions and pages ---------- */
+function setLang(l, page) {
+  const keep = page ?? (edition ? edition.pages[shown]?.number : null);
+  stopAll();
+  lang = book.editions[l] ? l : "ur";
+  store.set("lang", lang);
+  edition = book.editions[lang];
+  document.documentElement.lang = lang;
+  ["ur", "en"].forEach(x => {
+    const btn = $(x === "ur" ? "langUr" : "langEn");
+    btn.classList.toggle("on", x === lang);
+    btn.disabled = !book.editions[x];
+  });
+  render();
+  let p = typeof keep === "number" && page === undefined ? edition.pages.findIndex(pg => pg.number === keep) : keep;
+  if (typeof page === "number") p = Math.min(page, edition.pages.length - 1);
+  shown = -1;
+  showPage(Math.max(0, p || 0), false);
+  labels();
+}
+
+function render() {
+  $("pages").innerHTML = "";
+  $("pick").innerHTML = "";
+  blocks = edition.pages.map((pg, p) => {
+    const div = document.createElement("div");
+    div.className = "text"; div.hidden = true;
+    $("pages").append(div);
+    const opt = document.createElement("option");
+    opt.value = p; opt.textContent = `${UI[lang].page} ${pg.number}`;
+    $("pick").append(opt);
+    return div;
+  });
+  edition.segments.forEach((seg, si) => {
+    const p = document.createElement("p");
+    p.lang = seg.lang;
+    if (seg.style === "ref") {
+      p.className = "ref" + (lang === "en" && seg.lang === "en" ? " en" : "");
+      p.textContent = seg.text;
+    } else {
+      p.className = "seg " + seg.lang + (seg.style === "h" ? " h" : "");
+      seg.words.forEach(w => {
+        w.el = document.createElement("span");
+        w.el.textContent = w.w;
+        w.el.onclick = () => seek(si, w.s, true);
+        p.append(w.el, " ");
+      });
+    }
+    blocks[seg.page || 0].append(p);
+  });
+}
+
+function labels() {
+  $("speed").innerHTML = "";
+  SPEEDS.forEach(s => { const o = document.createElement("option"); o.value = s; o.textContent = `${UI[lang].speed} ${s}×`; $("speed").append(o); });
+  $("speed").value = rate;
+  $("scanBtn").textContent = $("scan").hidden ? UI[lang].scanShow : UI[lang].scanHide;
+  playBtnState();
+  BOOKS.forEach(b => { if (!b.editions) b.el.querySelector("small").textContent = UI[lang].soon; });
+}
+
+const nextVoiced = from => edition.segments.findIndex((s, i) => s.audio && i >= from);
+const firstOfPage = p => edition.segments.findIndex(s => (s.page || 0) === p);
+
+function showPage(p, scroll) {
+  if (p === shown) return;
+  if (shown >= 0 && blocks[shown]) blocks[shown].hidden = true;
+  shown = p;
+  blocks[p].hidden = false;
+  const pg = edition.pages[p];
+  $("pageTitle").textContent = `${UI[lang].page} ${pg.number}`;
+  $("pageCount").textContent = `${p + 1} / ${edition.pages.length}`;
+  $("pick").value = p;
+  $("prev").disabled = p === 0;
+  $("next").disabled = p === edition.pages.length - 1;
+  $("scanImg").src = pg.image || "";
+  $("scanCap").textContent = `${UI[lang].page} ${pg.number}`;
+  $("bar").style.width = ((p + 1) / edition.pages.length * 100) + "%";
+  if (scroll) window.scrollTo({ top: $("main").offsetTop - 8, behavior: "smooth" });
+  store.set("page:" + BOOKS.indexOf(book), p);
+}
+
+/* ---------- Playback ---------- */
+function playBtnState() { $("play").textContent = playing ? UI[lang].pause : UI[lang].play; $("play").setAttribute("aria-label", playing ? "Pause" : "Play"); }
+
+function load(si, t, autoplay) {
+  clearTimeout(waitTimer);
+  cur = si;
+  showPage(edition.segments[si].page || 0, true);
+  audio.src = edition.segments[si].audio;
+  audio.playbackRate = rate;
+  if (t > 0) audio.addEventListener("loadedmetadata", () => { audio.currentTime = t; }, { once: true });
+  if (autoplay) play();
+  const n = nextVoiced(si + 1);
+  if (n >= 0) fetch(edition.segments[n].audio).catch(() => {});
+}
+
+function play() {
+  if (cur < 0) { const si = nextVoiced(firstOfPage(shown)); if (si < 0) return; load(si, 0, false); }
+  playing = true;
+  audio.playbackRate = rate;
+  audio.play().catch(() => stopAll());
+  playBtnState();
+}
+function pause() { playing = false; clearTimeout(waitTimer); audio.pause(); playBtnState(); }
+function stopAll() { pause(); setLit(null); cur = -1; }
+function seek(si, t, autoplay) { audio.pause(); setLit(null); load(si, t, autoplay); }
+
+function goToPage(p) {
+  const si = nextVoiced(firstOfPage(p));
+  if (playing && si >= 0) seek(si, 0, true);
+  else { stopAll(); showPage(p, true); }
+}
+
+audio.addEventListener("ended", () => {
+  const seg = edition.segments[cur], next = nextVoiced(cur + 1);
+  if (next < 0) { stopAll(); return; }
+  const wait = (edition.segments[next].page || 0) !== (seg.page || 0) ? PAUSE.page
+             : seg.style === "h" ? PAUSE.h : seg.lang === "ar" ? PAUSE.ar : PAUSE.normal;
+  waitTimer = setTimeout(() => { if (playing) load(next, 0, true); }, wait / rate);
+});
+
+function setLit(el) {
+  if (lit === el) return;
+  if (lit) lit.classList.remove("on");
+  lit = el;
+  if (!el) return;
+  el.classList.add("on");
+  const r = el.getBoundingClientRect(), dockTop = window.innerHeight - 140;
+  if (r.top < 60 || r.bottom > dockTop) el.scrollIntoView({ block: "center", behavior: "smooth" });
+}
+
+$("play").onclick = () => (playing ? pause() : play());
+$("restart").onclick = () => seek(nextVoiced(firstOfPage(shown)), 0, true);
+$("prev").onclick = () => goToPage(Math.max(0, shown - 1));
+$("next").onclick = () => goToPage(Math.min(edition.pages.length - 1, shown + 1));
+$("pick").onchange = () => goToPage(Number($("pick").value));
+$("speed").onchange = () => { rate = Number($("speed").value); audio.playbackRate = rate; store.set("rate", rate); };
+$("scanBtn").onclick = () => { $("scan").hidden = !$("scan").hidden; $("main").classList.toggle("with-scan", !$("scan").hidden); labels(); };
+$("langUr").onclick = () => setLang("ur");
+$("langEn").onclick = () => book.editions.en ? setLang("en") : toast(UI.ur.noEn);
+document.addEventListener("keydown", e => {
+  if (e.target.tagName === "SELECT") return;
+  if (e.code === "Space") { e.preventDefault(); playing ? pause() : play(); }
+  if (e.key === "ArrowLeft") $(lang === "en" ? "prev" : "next").click();
+  if (e.key === "ArrowRight") $(lang === "en" ? "next" : "prev").click();
+});
+
+openBook(Math.min(store.get("book", 0), BOOKS.length - 1) || 0);
+
+(function tick() {
+  if (playing && cur >= 0) {
+    const t = audio.currentTime;
+    let hit = null;
+    for (const w of edition.segments[cur].words) { if (w.s <= t) hit = w; else break; }
+    setLit(hit && hit.el);
+  }
+  requestAnimationFrame(tick);
+})();
+</script>
+</body>
+</html>

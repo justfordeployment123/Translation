@@ -43,6 +43,31 @@ REMOVE = re.compile(
 # Arabic code points that Urdu text typed on Arabic keyboards often contains.
 URDU_LETTERS = str.maketrans({"ك": "ک", "ي": "ی", "ى": "ی", "ه": "ہ"})
 
+# The reverse: Urdu letters that Arabic typed on an Urdu keyboard (InPage, Urdu OCR) contains.
+# They make ElevenLabs read the Arabic as Urdu.
+ARABIC_LETTERS = str.maketrans({
+    "ک": "ك",  # ک -> ك
+    "ہ": "ه",  # ہ -> ه
+    "ھ": "ه",  # ھ -> ه
+    "ۃ": "ة",  # ۃ -> ة
+    **{chr(0x06F0 + i): chr(0x0660 + i) for i in range(10)},  # ۱۲۳ -> ١٢٣
+})
+HARAKAT = "ً-ٰٟ"
+# ی at the end of a word (optionally after kasra, followed only by diacritics)
+FINAL_YEH = re.compile(f"(ِ?)ی([{HARAKAT}]*)(?![؀-ۿ])")
+
+
+def _final_yeh(m):
+    own_vowel = m.group(2).replace("ٰ", "")  # a dagger alif (موسیٰ) still means alif maqsura
+    # ي after kasra or when the letter carries its own vowel/shadda, otherwise alif maqsura ى
+    return m.group(1) + ("ي" if m.group(1) or own_vowel else "ى") + m.group(2)
+
+
+def to_arabic(text):
+    """Make Arabic text use Arabic code points so TTS doesn't mistake it for Urdu."""
+    text = FINAL_YEH.sub(_final_yeh, text.translate(ARABIC_LETTERS))
+    return text.replace("ی", "ي")
+
 
 def preprocess(text, lang="ur"):
     """Return `text` ready for TTS in `lang` ("ur", "ar" or "en")."""
@@ -53,5 +78,7 @@ def preprocess(text, lang="ur"):
     text = REMOVE.sub("", text)
     if lang == "ur":
         text = text.translate(URDU_LETTERS)
+    elif lang == "ar":
+        text = to_arabic(text)
     text = text.replace(" ", " ")
     return re.sub(r"\s+", " ", text).strip()

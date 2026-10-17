@@ -1,0 +1,25 @@
+# title: Page 48
+# Zindagi Aur Waqt, book page 48 (PDF page 50), end of باب اول
+# The first lines of this page (translation of 28:77) are in page_047.txt.
+# "وَلَا تَنْسَ نَصِيبَكَ مِنَ الدُّنْيَا" is filled in from Quran 28:77 (see fill_quran.py).
+# Imam Mansur's saying: aaraab as in the book, sukun on the last word (waqf).
+# Proofreader please check: the book prints "لَيْسَ هُوَ عَرَضٌ" (with tanween damm); this is kept as printed.
+
+[ur]
+امام احمد بن حنبل ؒ نے اپنی کتاب الزہد میں اس جملے کے متعلق امام منصور ؒ کا قول نقل کیا ہے:
+
+[ar]
+# quran 28:77 from وَلَا تَنْسَ to مِنَ الدُّنْيَا
+وَلَا تَنْسَ نَصِيبَكَ مِنَ الدُّنْيَا
+
+[ur]
+فرماتے ہیں:
+
+[ar]
+لَيْسَ هُوَ عَرَضٌ مِنْ عَرَضِ الدُّنْيَا، وَلَٰكِنْ نَصِيبُكَ عُمُرُكَ أَنْ تُقَدِّمَ فِيهِ لِآخِرَتِكْ
+
+[ref]
+الزہد للامام احمد، ص: ۲۱۴
+
+[ur]
+اس سے مراد دنیا کے سامان میں سے کوئی سامان نہیں، بلکہ تیرے نصیب سے مراد تیری عمر ہے، جس میں تم اپنی آخرت کے لیے اعمال (سامان) آگے بھیجو۔

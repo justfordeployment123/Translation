@@ -1,0 +1,29 @@
+# title: Page 39
+# English edition of book page 39, built by build_english.py from en_src/ and page_039.txt
+
+[hen]
+The Point of Evidence
+
+[en]
+This verse indicates that a long life is no guarantee of success. Rather, success is to spend one's life in the obedience of Allah. If someone is given a long life but spends it in sin and disobedience, he has failed. So we should value our life and avoid spending it in amusement and useless things, so that we may be honoured before Allah.
+
+[hen]
+The Fifth Place
+
+[en]
+Allah the Exalted says:
+
+[ar]
+حَتَّىٰ إِذَا جَاءَ أَحَدَهُمُ الْمَوْتُ قَالَ رَبِّ ارْجِعُونْ
+
+[ar]
+لَعَلِّي أَعْمَلُ صَالِحًا فِيمَا تَرَكْتُ ۚ كَلَّا ۚ إِنَّهَا كَلِمَةٌ هُوَ قَائِلُهَا
+
+[ref]
+(المومنون ۲۳: آیت ۹۹ تا ۱۰۰)
+
+[en]
+Until, when death comes to one of them, he says, My Lord, send me back, that I might do righteousness in that which I left behind. No! It is only a word he is saying.
+
+[en]
+This blessed verse mentions the words of a disobedient person who did not understand the value and worth of his life, and did not give this precious trust its due. Instead he spent his life disobeying his Creator and Master, and on unnecessary things, until, when he reached the embrace of death, he began repeating, if only, and perhaps: if only I were sent back, so that I could earn as many good deeds as possible. But what use is regret, once the birds have eaten the whole field?

@@ -1,0 +1,17 @@
+# title: Page 32
+# English edition of book page 32, built by build_english.py from en_src/ and page_032.txt
+
+[en]
+This saying of Allah makes it clear that the one who seeks the Hereafter will be given a great deal, while the one who seeks only this world will not be given the whole world, but will be satisfied with a part of it, and in the Hereafter there will be nothing for such a person. So even the one who asks for this world will still not get all of it. To explain this matter further, see a third saying of Allah:
+
+[ar]
+مَنْ كَانَ يُرِيدُ الْعَاجِلَةَ عَجَّلْنَا لَهُ فِيهَا مَا نَشَاءُ لِمَنْ نُرِيدُ ثُمَّ جَعَلْنَا لَهُ جَهَنَّمَ يَصْلَاهَا مَذْمُومًا مَدْحُورَا
+
+[ar]
+وَمَنْ أَرَادَ الْآخِرَةَ وَسَعَىٰ لَهَا سَعْيَهَا وَهُوَ مُؤْمِنٌ فَأُولَٰئِكَ كَانَ سَعْيُهُمْ مَشْكُورَا
+
+[ref]
+(الاسراء ۱۷: آیت ۱۸ تا ۱۹)
+
+[en]
+Whoever should desire the immediate - We hasten for him from it what We will to whom We intend. Then We have made for him Hell, which he will enter to burn, censured and banished. But whoever desires the Hereafter and exerts the effort due to it while he is a believer - it is those whose effort is ever appreciated by Allah.

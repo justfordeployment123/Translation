@@ -1,0 +1,17 @@
+# title: Page 57
+# English edition of book page 57, built by build_english.py from en_src/ and page_057.txt
+
+[en]
+This span of sixty years was enough for him to succeed. But if love of worldly life and the grip of his desires remain the same, then there is nothing but regret. Especially in the times we live in, with evil everywhere, and the trial of immodesty and the lowering of standards in what people look at, which has caught not only the unmarried but even the old and the married. While the Prophet, peace be upon him, said:
+
+[ar]
+عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: ثَلاَثَةٌ لاَ يُكَلِّمُهُمُ اللَّهُ يَوْمَ الْقِيَامَةِ وَلاَ يُزَكِّيهِمْ وَلاَ يَنْظُرُ إِلَيْهِمْ وَلَهُمْ عَذَابٌ أَلِيمْ، شَيْخٌ زَانٍ وَمَلِكٌ كَذَّابٌ وَعَائِلٌ مُسْتَكْبِرْ
+
+[ref]
+صحیح مسلم، کتاب الایمان، باب بیان غلظ تحریم اسبال الازار، رقم الحدیث: ۲۹۶، سنن النسائی، کتاب الزکاۃ، باب الفقیر المختال، رقم الحدیث: ۲۵۷۵
+
+[en]
+Abu Hurayrah, may Allah be pleased with him, narrated that the Messenger of Allah, peace be upon him, said: There are three people to whom Allah will not speak on the Day of Resurrection, nor purify them, nor look at them with mercy, and for them is a painful punishment: an old man who commits adultery, a lying king, and a poor man who is arrogant.
+
+[en]
+In this narration, each of these three had reasons and barriers that could have kept him from his sin. In old age the power of desire was gone, yet he did evil. The king had every power, yet he lied. And the poor man's poverty and hunger could have kept him from arrogance.

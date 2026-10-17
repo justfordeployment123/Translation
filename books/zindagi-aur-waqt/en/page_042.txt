@@ -1,0 +1,32 @@
+# title: Page 42
+# English edition of book page 42, built by build_english.py from en_src/ and page_042.txt
+
+[en]
+From the opposite meaning of this verse we understand: do not waste your efforts, and put your efforts into things that will prove useful later. For the person who spends the precious moments of his life on amusement, coming and going, and useless things, is like the woman who spun thread with great effort, and when she had finished, thought it useless and pulled it apart. So treasure your life, and do not spend it on things that bring no benefit in this world or the Hereafter, so that your efforts are not wasted.
+
+[hen]
+The Eighth Place
+
+[en]
+Allah the Exalted says:
+
+[ar]
+فَإِذَا فَرَغْتَ فَانْصَبْ
+
+[ar]
+وَإِلَىٰ رَبِّكَ فَارْغَبْ
+
+[ref]
+(الانشراح ۹۴: آیت ۷ تا ۸)
+
+[en]
+So when you have finished your duties, then stand up for worship. And to your Lord direct your longing.
+
+[en]
+In this blessed verse the Messenger of Allah, peace be upon him, is addressed, and his community is given the same command: that in their moments of free time they should not stay idle but work hard. For an idle person is never really idle; he is busy either with good or with evil. So it is best for him to treasure his free time and use it in the obedience of Allah. As He said:
+
+[ar]
+وَإِلَىٰ رَبِّكَ فَارْغَبْ
+
+[en]
+That is, turn your longing towards your Lord.

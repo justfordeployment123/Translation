@@ -1,0 +1,56 @@
+# title: Page 43
+# English edition of book page 43, built by build_english.py from en_src/ and page_043.txt
+
+[en]
+Imam Qadi Shurayh, may Allah have mercy on him, went out of his house on the day of Eid and found some people playing, so he said:
+
+[ar]
+مَا لَكُمْ تَلْعَبُونْ؟
+
+[en]
+Why are you playing?
+
+[en]
+They replied:
+
+[ar]
+إِنَّا تَفَرَّغْنَا
+
+[en]
+We have free time.
+
+[en]
+So he, may Allah have mercy on him, said:
+
+[ar]
+أَوَبِهَٰذَا أُمِرَ الْفَارِغْ؟ وَتَلَا قَوْلَهُ تَعَالَى
+
+[ar]
+فَإِذَا فَرَغْتَ فَانْصَبْ
+
+[ar]
+وَإِلَىٰ رَبِّكَ فَارْغَبْ
+
+[ref]
+حلیۃ الاولیاء، ۴/ ۱۳۴
+
+[en]
+Is this what the one with free time has been commanded? And he recited these verses of the Quran:
+
+[ar]
+فَإِذَا فَرَغْتَ فَانْصَبْ
+
+[ar]
+وَإِلَىٰ رَبِّكَ فَارْغَبْ
+
+[en]
+So in our moments of free time we should strengthen our bond with Allah, Lord of Might, for to Him is our return, and from Him alone we hope for mercy and kindness.
+
+[en]
+A man came to Imam Fudayl ibn Iyad, may Allah have mercy on him, and began to talk with him. He asked the man: How old are you? The man said: Sixty years. He, may Allah have mercy on him, said: For sixty years you have been travelling towards your Lord, and one day you will reach Him. The man was startled and said:
+
+[ar]
+إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونْ
+
+[en]
+He, may Allah have mercy on him, said: Do you know the meaning of these words? That we belong to Allah, and to Him we are returning.

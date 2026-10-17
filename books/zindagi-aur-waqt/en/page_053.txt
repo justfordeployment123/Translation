@@ -1,0 +1,14 @@
+# title: Page 53
+# English edition of book page 53, built by build_english.py from en_src/ and page_053.txt
+
+[en]
+This saying of the Prophet, peace be upon him, names the five basic things on which a successful life depends. If even one of these blessings is taken away, the rest are affected. But the most precious of them is the first blessing, a person's life itself. For after everything else is lost, there is hope of getting it back, but the moments of life, the time a person has been given, can never come back. So since every blessing depends on a person's life and the years he has been given, he should value it and avoid spending it on trivial things.
+
+[en]
+So we should spend these blessings, our life, youth, health, free time and wealth, in the obedience of Allah, and avoid spending them in following Satan and in evil. For it is narrated from the predecessors:
+
+[ar]
+كُلُّ نِعْمَةٍ لَا تَزِيدُكَ إِلَّا فِي الْمَعْصِيَةِ فَهِيَ نِقْمَةٌ وَلَيْسَتْ بِنِعْمَةْ
+
+[en]
+Every blessing that only takes you further into disobedience to Allah is not a blessing, but a punishment from Allah.

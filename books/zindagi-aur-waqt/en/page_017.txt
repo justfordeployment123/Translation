@@ -1,0 +1,26 @@
+# title: Page 17
+# English edition of book page 17, built by build_english.py from en_src/ and page_017.txt
+
+[en]
+This is why those who spent their lives disobeying their Lord, when they are asked how long they stayed in the world, will say: a day, or part of a day. As Allah the Exalted says:
+
+[ar]
+قَالَ كَمْ لَبِثْتُمْ فِي الْأَرْضِ عَدَدَ سِنِينْ
+
+[ar]
+قَالُوا لَبِثْنَا يَوْمًا أَوْ بَعْضَ يَوْمٍ فَاسْأَلِ الْعَادِّينْ
+
+[ref]
+(المومنون: ۲۳، آیت: ۱۱۲ تا ۱۱۳)
+
+[en]
+Allah will say, "How long did you remain on earth in number of years?" They will say, "We remained a day or part of a day; ask those who enumerate."
+
+[en]
+It is as if the one who did not benefit from his time will feel that he was never given any time at all, and he will feel that a life of sixty or seventy years was only a day, or part of a day.
+
+[hen]
+An Example
+
+[en]
+Aslam and Akram worked in the same factory, and both were given two days off. Aslam came home and made the most of his two days off, and finished all the important tasks that had been held up because of his work. Akram, on the other hand, spent his days off visiting friends, sitting in idle gatherings, and sleeping. Now the one who used those two days to finish his important work and reach his goals will surely remember that he had days off and made good use of them. But for the one who wasted his days off and achieved nothing, it is as if he had never had them. In the same way, whoever lives his life with purpose, his is the true life. And whoever does not value his time, and spends it on amusement, play and useless things, it is as if his life were no life at all.

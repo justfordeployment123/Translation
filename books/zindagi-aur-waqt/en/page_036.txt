@@ -1,0 +1,32 @@
+# title: Page 36
+# English edition of book page 36, built by build_english.py from en_src/ and page_036.txt
+
+[en]
+When the heedless servant asks for more time and firmly resolves to become righteous, he will be given a decisive answer by his Lord. As Allah the Exalted says:
+
+[ar]
+وَلَنْ يُؤَخِّرَ اللَّهُ نَفْسًا إِذَا جَاءَ أَجَلُهَا ۚ وَاللَّهُ خَبِيرٌ بِمَا تَعْمَلُونْ
+
+[ref]
+(المنافقون ۶۳: آیت ۱۱)
+
+[en]
+But never will Allah delay a soul when its time has come. And Allah is Acquainted with what you do.
+
+[hen]
+Two: In Hell
+
+[en]
+The second hour in which a person will regret and grieve over his life is in the Hereafter. That is, when people have been given the reward of their deeds, and the people of Paradise have gone into Paradise and the people of Hell into Hell, then the people of Hell will wish to be sent back to the world. As Allah the Exalted says:
+
+[ar]
+وَالَّذِينَ كَفَرُوا لَهُمْ نَارُ جَهَنَّمَ لَا يُقْضَىٰ عَلَيْهِمْ فَيَمُوتُوا وَلَا يُخَفَّفُ عَنْهُمْ مِنْ عَذَابِهَا ۚ كَذَٰلِكَ نَجْزِي كُلَّ كَفُورْ
+
+[ar]
+وَهُمْ يَصْطَرِخُونَ فِيهَا رَبَّنَا أَخْرِجْنَا نَعْمَلْ صَالِحًا غَيْرَ الَّذِي كُنَّا نَعْمَلْ
+
+[ref]
+(فاطر ۳۵: آیت ۳۶ تا ۳۷)
+
+[en]
+And for those who disbelieve will be the fire of Hell. Death is not decreed for them so they may die, nor will its torment be lightened for them. Thus do we recompense every ungrateful one. And they will cry out therein, Our Lord, remove us; we will do righteousness, other than what we were doing!

@@ -1,0 +1,29 @@
+# title: Page 35
+# English edition of book page 35, built by build_english.py from en_src/ and page_035.txt
+
+[hen]
+Chapter One: The Importance of Time in the Light of the Quran
+
+[en]
+Whoever disobeyed Allah and spent his life in sin, there will surely come two times when he will express regret and sorrow over the life he lived. He will ask for more time, and wish that he could be given respite. But at that time, regret and sorrow will be of no use, and no one will be given more time.
+
+[en]
+Those two times are as follows.
+
+[hen]
+One: At the Time of Death
+
+[en]
+When the time of death comes and the veils of heedlessness are lifted from a person's eyes, he will ask for more time and be filled with longing. As Allah the Exalted says:
+
+[ar]
+يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُلْهِكُمْ أَمْوَالُكُمْ وَلَا أَوْلَادُكُمْ عَنْ ذِكْرِ اللَّهِ ۚ وَمَنْ يَفْعَلْ ذَٰلِكَ فَأُولَٰئِكَ هُمُ الْخَاسِرُونْ
+
+[ar]
+وَأَنْفِقُوا مِنْ مَا رَزَقْنَاكُمْ مِنْ قَبْلِ أَنْ يَأْتِيَ أَحَدَكُمُ الْمَوْتُ فَيَقُولَ رَبِّ لَوْلَا أَخَّرْتَنِي إِلَىٰ أَجَلٍ قَرِيبٍ فَأَصَّدَّقَ وَأَكُنْ مِنَ الصَّالِحِينْ
+
+[ref]
+(المنافقون ۶۳: آیت ۹ تا ۱۰)
+
+[en]
+O you who have believed, let not your wealth and your children divert you from remembrance of Allah. And whoever does that - then those are the losers. And spend in the way of Allah from what We have provided you before death approaches one of you and he says, "My Lord, if only You would delay me for a brief term so I would give charity and be among the righteous."

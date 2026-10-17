@@ -1,0 +1,26 @@
+# title: Page 52
+# English edition of book page 52, built by build_english.py from en_src/ and page_052.txt
+
+[en]
+In Arabic, the word ghabn, being cheated, is really used for trade and money matters. But here the Prophet, peace be upon him, used this word for these two blessings, which points out that in a person's life these two blessings are like his capital. Just as a person can suffer a loss in his capital, so whoever wastes his precious wealth of time, his moments of free time, is a loser. So here the responsible person is compared to a trader, and health and free time to his capital.
+
+[en]
+Whoever treasures health and free time, makes full use of them, and spends them in the obedience of Allah, is like a successful trader. And whoever spends them both on the pleasures of the world and on useless things is like a trader who suffers a loss.
+
+[en]
+A poet put it beautifully:
+
+[en]
+Treasure your health before illness, your free time before many tasks, your youth before the burden of old age, your stay before the traveller's departure. Treasure your wealth before poverty. Whatever you must do, do it now, for the time you have is short.
+
+[hen]
+The Third Hadith
+
+[ar]
+عَنِ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لِرَجُلٍ وَهُوَ يَعِظُهْ: اِغْتَنِمْ خَمْسًا قَبْلَ خَمْسْ: شَبَابَكَ قَبْلَ هَرَمِكْ، وَصِحَّتَكَ قَبْلَ سُقْمِكْ، وَغِنَاكَ قَبْلَ فَقْرِكْ، وَفَرَاغَكَ قَبْلَ شُغْلِكْ، وَحَيَاتَكَ قَبْلَ مَوْتِكْ
+
+[ref]
+مستدرک حاکم، رقم الحدیث: ۷۸۴۶، والبیہقی فی شعب الایمان، رقم الحدیث: ۹۷۶۷، صحیح الجامع الصغیر للالبانی، رقم الحدیث: ۱۰۷۷، صحیح الترغیب والترہیب، رقم الحدیث: ۳۳۵۵
+
+[en]
+Abdullah ibn Abbas, may Allah be pleased with them both, narrated that the Messenger of Allah, peace be upon him, advising a man, said: Take advantage of five things before five others: your life before your death, your health before your illness, your free time before you are busy, your youth before old age, and your wealth before poverty.

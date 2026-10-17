@@ -4,3 +4,11 @@
 __pycache__/
 .DS_Store
 site.zip
+download/
+cache/
+
+# generated: recordings, the built site (published on the gh-pages branch) and page scans
+out/
+site/
+books/**/*.png
+*.pdf

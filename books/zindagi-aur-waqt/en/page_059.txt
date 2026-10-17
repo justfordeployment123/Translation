@@ -1,0 +1,38 @@
+# title: Page 59
+# English edition of book page 59, built by build_english.py from en_src/ and page_059.txt
+
+[en]
+This is why Imam Ibn al-Qayyim, may Allah have mercy on him, said: Wasting time is even more dangerous than death, because wasting time takes a person away from Allah and the Hereafter, while death only takes him away from this world and its people.
+
+[ref]
+الفوائد لابن القیم، ص: ۴۵
+
+[en]
+A person's true life is the part that was spent in the service of Allah. The moments spent in sin and disobedience are a burden upon him. Indeed, death is better than a life of disobedience, for in death there is no burden for the obedient.
+
+[en]
+About those who live their lives in rebellion against Allah, who live in luxury in this world, and who run after the life of this world, Allah the Exalted says:
+
+[ar]
+كَمْ تَرَكُوا مِنْ جَنَّاتٍ وَعُيُونْ
+
+[ar]
+وَزُرُوعٍ وَمَقَامٍ كَرِيمْ
+
+[ar]
+وَنَعْمَةٍ كَانُوا فِيهَا فَاكِهِينْ
+
+[ar]
+كَذَٰلِكَ ۖ وَأَوْرَثْنَاهَا قَوْمًا آخَرِينْ
+
+[ar]
+فَمَا بَكَتْ عَلَيْهِمُ السَّمَاءُ وَالْأَرْضُ وَمَا كَانُوا مُنْظَرِينْ
+
+[ref]
+(الدخان ۴۴: آیت ۲۵ تا ۲۹)
+
+[en]
+How much they left behind of gardens and springs And crops and noble sites And comfort wherein they were amused. Thus. And We caused to inherit it another people. And the heaven and earth wept not for them, nor were they reprieved.
+
+[en]
+Allah has told us about the worldly people, the worshippers of this world, that when they denied the prophets, made enemies of them, and remained busy only in decorating their world, this was their end.

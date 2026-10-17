@@ -1,0 +1,32 @@
+# title: Page 25
+# English edition of book page 25, built by build_english.py from en_src/ and page_025.txt
+
+[en]
+The first kind: time spent in good deeds and obedience.
+
+[en]
+The second kind: this kind has two forms.
+
+[en]
+The first form: time spent in disobedience.
+
+[en]
+The second form: time spent in heedlessness and useless things.
+
+[hen]
+The First Kind
+
+[en]
+This kind includes every hour and every moment of life that a person spends in the obedience of Allah, or in pursuing worthy goals, for example:
+
+[en]
+One, in acts of worship. Two, in meeting lawful needs. Three, in seeking knowledge. Four, in earning a lawful living. Five, in fulfilling duties and obligations. Six, in serving humanity, and so on.
+
+[en]
+Whoever spends his life in this first kind of time is successful, and will be rewarded for the time he spent.
+
+[hen]
+The Second Kind
+
+[en]
+This kind of time is divided into two forms.

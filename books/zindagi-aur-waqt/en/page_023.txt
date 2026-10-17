@@ -1,0 +1,35 @@
+# title: Page 23
+# English edition of book page 23, built by build_english.py from en_src/ and page_023.txt
+
+[en]
+So whoever Allah has given a blessing as great as life should humble himself before his Lord, love his Lord more than anything in the universe, thank his Master for this blessing and confess it with his tongue. Above all, he must use this blessing in the obedience of his Lord. Otherwise he will not be among the grateful, but among the ungrateful, and that blessing will become a burden and a trial for him. As the hadith scholar of Madinah, Abu Hazim Salamah ibn Dinar, may Allah have mercy on him, said:
+
+[ar]
+كُلُّ نِعْمَةٍ لَا تُقَرِّبُ مِنَ اللَّهِ عَزَّ وَجَلَّ فَهِيَ بَلِيَّةْ
+
+[ref]
+صفۃ الصفوۃ، ۲/ ۱۵۷
+
+[en]
+Every blessing that does not bring you closer to Allah, the Mighty and Majestic, is a trial.
+
+[en]
+And it is narrated from some of the predecessors:
+
+[ar]
+كُلُّ نِعْمَةٍ لَا تَزِيدُكَ إِلَّا فِي مَعْصِيَةٍ فَهِيَ نِقْمَةٌ وَلَيْسَتْ بِنِعْمَةْ
+
+[en]
+Every blessing that only takes you further into disobedience is a punishment from Allah, and not a blessing.
+
+[en]
+So we should be grateful for this blessing, and avoid disobedience and ingratitude. May Allah protect us all. Ameen.
+
+[en]
+Some scholars have gone so far as to write about wasting time:
+
+[ar]
+مِنْ عَلَامَةِ الْمَقْتِ إِضَاعَةُ الْوَقْتْ
+
+[en]
+One of the signs of Allah's displeasure is that a servant wastes his time.

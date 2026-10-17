@@ -1,0 +1,26 @@
+# title: Page 18
+# English edition of book page 18, built by build_english.py from en_src/ and page_018.txt
+
+[hen]
+Which Wealth Matters Most?
+
+[en]
+Allah has blessed mankind with countless gifts, more than can be counted. But the most important of them all is time. It is a fact that no blessing, whether gold, silver, diamonds or jewels, can equal time. For with every kind of worldly wealth, once it is lost there is hope and a chance of getting it back. Sometimes a person even ends up better off than before, with more wealth than he had. But time is a wealth that, once lost, not even the richest and most powerful person in the world can bring back.
+
+[en]
+If wealth slips away, time gives you a chance to earn it again. But if time slips away, all the wealth in the world cannot bring it back. Shaykh Sa'di, may Allah have mercy on him, said: Time is like wealth, and wasting it is not allowed. Remember, you can earn more wealth, but you cannot add to your time.
+
+[hen]
+The One for Whom Allah Wills Good
+
+[en]
+Imam Ibn al-Qayyim, may Allah have mercy on him, said:
+
+[ar]
+إِذَا أَرَادَ اللَّهُ بِالْعَبْدِ خَيْرًا أَعَانَهُ بِالْوَقْتِ وَجَعَلَ وَقْتَهُ مُسَاعِدًا لَهْ، وَإِذَا أَرَادَ بِهِ شَرًّا جَعَلَ وَقْتَهُ عَلَيْهِ وَنَاكَدَهُ وَقْتُهْ، فَكُلَّمَا أَرَادَ التَّأَهُّبَ لِلْمَسِيرِ لَمْ يُسَاعِدْهُ الْوَقْتْ، وَالْأَوَّلُ كُلَّمَا هَمَّتْ نَفْسُهُ بِالْقُعُودِ أَقَامَهُ الْوَقْتُ وَسَاعَدَهْ
+
+[ref]
+مدارج السالکین، ۳/ ۱۲۹، ۱۳۰
+
+[en]
+When Allah wills good for a servant, He helps him through his time and makes his time a support for him. And when Allah wills harm for someone, He turns his time against him and makes it hard for him, so that whenever he means to set out, time does not help him. As for the first man, whenever he thinks of sitting back, his heart at once makes him stand, and becomes his support.

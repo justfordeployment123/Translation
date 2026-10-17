@@ -27,6 +27,11 @@ class PreprocessTest(unittest.TestCase):
     def test_urdu_letters_normalised(self):
         self.assertEqual(preprocess("كتاب يہ الله"), "کتاب یہ اللہ")
 
+    def test_arabic_typed_with_urdu_letters(self):
+        self.assertEqual(preprocess("بِسْمِ اللّٰہِ الرَّحْمٰنِ الرَّحِیْمِ", "ar"), "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ")
+        self.assertEqual(preprocess("عَلَی الْکِتَابِ فِی", "ar"), "عَلَى الْكِتَابِ فِي")
+        self.assertEqual(preprocess("مُوسیٰ رَحْمَۃُ النَّبِیُّ", "ar"), "مُوسىٰ رَحْمَةُ النَّبِيُّ")
+
 
 if __name__ == "__main__":
     unittest.main()

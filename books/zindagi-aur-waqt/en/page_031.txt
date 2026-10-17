@@ -1,0 +1,41 @@
+# title: Page 31
+# English edition of book page 31, built by build_english.py from en_src/ and page_031.txt
+
+[en]
+In the same way, a person whose only aim is this world, and who asks his Lord only for this world, is not loved by Allah. Allah the Exalted says:
+
+[ar]
+إِنَّ الَّذِينَ لَا يَرْجُونَ لِقَاءَنَا وَرَضُوا بِالْحَيَاةِ الدُّنْيَا وَاطْمَأَنُّوا بِهَا وَالَّذِينَ هُمْ عَنْ آيَاتِنَا غَافِلُونْ
+
+[ref]
+(یونس ۱۰: آیت ۷)
+
+[en]
+Indeed, those who do not expect the meeting with Us and are satisfied with the life of this world and feel secure therein and those who are heedless of Our signs
+
+[en]
+About those who deny the Hereafter, who think the life of this world is everything, and who are content with it, Allah said that they are heedless and are living in heedlessness. So this verse is clear proof of the third kind of heedlessness.
+
+[en]
+Allah the Exalted says:
+
+[ar]
+فَمِنَ النَّاسِ مَنْ يَقُولُ رَبَّنَا آتِنَا فِي الدُّنْيَا وَمَا لَهُ فِي الْآخِرَةِ مِنْ خَلَاقْ
+
+[ref]
+(البقرۃ ۲: آیت ۲۰۰)
+
+[en]
+And among the people is he who says, Our Lord, give us in this world, and he will have in the Hereafter no share.
+
+[en]
+And Allah the Exalted also says:
+
+[ar]
+مَنْ كَانَ يُرِيدُ حَرْثَ الْآخِرَةِ نَزِدْ لَهُ فِي حَرْثِهِ ۖ وَمَنْ كَانَ يُرِيدُ حَرْثَ الدُّنْيَا نُؤْتِهِ مِنْهَا وَمَا لَهُ فِي الْآخِرَةِ مِنْ نَصِيبْ
+
+[ref]
+(الشوریٰ ۴۲: آیت ۲۰)
+
+[en]
+Whoever desires the harvest of the Hereafter - We increase for him in his harvest. And whoever desires the harvest of this world - We give him thereof, but there is not for him in the Hereafter any share.
