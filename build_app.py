@@ -13,12 +13,22 @@ import html
 import json
 import shutil
 import sys
+import time
 from pathlib import Path
+
+from make_sample import mp3_seconds
 
 ROOT = Path(__file__).parent
 MARKER = ".generated-by-export-site"
 SHELF_SIZE = 15
-BOOK = {"id": "zindagi-aur-waqt", "title": "زندگی اور وقت", "subtitle": "Zindagi Aur Waqt"}
+BOOK = {
+    "id": "zindagi-aur-waqt", "title": "زندگی اور وقت", "subtitle": "Zindagi Aur Waqt", "en_title": "Life and Time",
+    "author": "ابو محمد عزیر یونس السلفی المدنی", "en_author": "Abu Muhammad Uzair Younus as-Salafi al-Madani",
+    "publisher": "مکتبہ دار التوحید الاسلامیہ", "en_publisher": "Maktaba Dar at-Tawhid al-Islamiyyah",
+    "blurb": "وقت کی قدر و قیمت پر قرآن، احادیث اور اقوالِ سلف کی روشنی میں ایک جامع کتاب۔",
+    "en_blurb": "A guide to the value of time, drawn from the Quran, the hadith and the words of the righteous predecessors.",
+}
+TOC_WORDS = ("باب", "مقدمہ", "تمہید", "Chapter", "Introduction", "Preface")
 EDITIONS = {"ur": "george", "en": "en"}  # edition -> out/ folder suffix
 
 
@@ -36,7 +46,7 @@ def load_edition(site, lang, suffix, numbers):
                 dest = f"audio/{lang}/{n:03d}_{seg['audio']}"
                 (site / dest).parent.mkdir(parents=True, exist_ok=True)
                 shutil.copy(folder / seg["audio"], site / dest)
-                seg = {**seg, "audio": dest}
+                seg = {**seg, "audio": dest, "d": round(mp3_seconds(folder / seg["audio"]), 2)}
             segments.append({**seg, "page": index})
         image = ""
         if "image" in sync:
@@ -44,7 +54,16 @@ def load_edition(site, lang, suffix, numbers):
             if not (site / image).exists():
                 shutil.copy(folder / sync["image"], site / image)
         pages.append({"number": n, "image": image})
-    return {"pages": pages, "segments": segments} if pages else None
+    if not pages:
+        return None
+    # table of contents: chapter, introduction and preface headings
+    toc = []
+    for seg in segments:
+        text = " ".join(w["w"] for w in seg.get("words", []))
+        if seg.get("style") == "h" and text.startswith(TOC_WORDS):
+            toc.append({"label": text, "page": seg["page"]})
+    seconds = sum(s.get("d", 0) for s in segments)
+    return {"pages": pages, "segments": segments, "toc": toc, "seconds": round(seconds)}
 
 
 def chapter_mp3s(site, lang, edition):
@@ -73,7 +92,7 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--pages", default="13-62", help="book page range, e.g. 13-62")
     ap.add_argument("--out", default="site")
-    ap.add_argument("--title", default="کتب خانہ · Audio Library")
+    ap.add_argument("--title", default="Noor Library · نور لائبریری")
     args = ap.parse_args()
     first, last = map(int, args.pages.split("-"))
     numbers = range(first, last + 1)
@@ -97,17 +116,21 @@ def main():
 
     downloads = chapter_mp3s(site, "ur", editions["ur"])
     if "en" in editions:
-        downloads.append(("English · " + args.pages, f"chapters/en_pages.mp3"))
+        downloads.append((f"English · pages {args.pages}", "chapters/en_pages.mp3"))
         (site / "chapters" / "en_pages.mp3").write_bytes(
             b"".join((site / s["audio"]).read_bytes() for s in editions["en"]["segments"] if "audio" in s))
 
     books = [{**BOOK, "editions": editions}] + [{"title": f"کتاب {n}"} for n in range(2, SHELF_SIZE + 1)]
-    links = "".join(f'<a href="{href}" download>{html.escape(label)}</a>' for label, href in downloads)
-    button = f'<details class="dl"><summary class="chip" style="display:inline-flex;align-items:center">⬇ MP3</summary><div class="menu">{links}</div></details>'
     as_json = lambda data: json.dumps(data, ensure_ascii=False).replace("</", "<\\/")
     page = (ROOT / "app_template.html").read_text(encoding="utf-8")
-    page = page.replace("{{TITLE}}", html.escape(args.title)).replace("{{DOWNLOAD}}", button).replace("{{BOOKS}}", as_json(books))
+    page = page.replace("{{TITLE}}", html.escape(args.title)).replace("{{DOWNLOADS}}", as_json(downloads)).replace("{{BOOKS}}", as_json(books))
     (site / "index.html").write_text(page, encoding="utf-8")
+    # installable-app files: manifest, icons and the offline service worker (versioned per build)
+    assets = ROOT / "app_assets"
+    shutil.copy(assets / "manifest.webmanifest", site / "manifest.webmanifest")
+    shutil.copytree(assets / "icons", site / "icons")
+    version = str(int(time.time()))
+    (site / "sw.js").write_text((assets / "sw.js").read_text(encoding="utf-8").replace("{{VERSION}}", version), encoding="utf-8")
     archive = shutil.make_archive(str(site), "zip", site)
     print(f"Done: {site}/index.html and {archive}")
 
