@@ -66,16 +66,20 @@ def load_edition(site, lang, suffix, numbers):
     return {"pages": pages, "segments": segments, "toc": toc, "seconds": round(seconds)}
 
 
+INTRO = {"ur": "مقدمہ و تمہید", "en": "Introduction and Preface"}
+CHAPTER = {"ur": "باب", "en": "Chapter"}
+
+
 def chapter_mp3s(site, lang, edition):
-    """One MP3 per chapter: a chapter starts on a page whose first segment is a heading starting with "باب"."""
-    parts, page = [], None
+    """One MP3 per chapter, named in the edition's language. A chapter starts on the page of a table of
+    contents entry that begins with "باب" / "Chapter"; the pages before the first chapter are the introduction."""
+    starts = {t["page"]: t["label"].split(":")[0] for t in edition["toc"] if t["label"].startswith(CHAPTER[lang])}
+    parts = []
     for seg in edition["segments"]:
-        text = " ".join(w["w"] for w in seg.get("words", []))
-        opens_page, page = seg["page"] != page, seg["page"]
-        if opens_page and seg.get("style") == "h" and text.startswith("باب"):
-            parts.append({"label": text.split(":")[0], "audio": []})
+        if seg["page"] in starts and (not parts or parts[-1]["start"] != seg["page"]):
+            parts.append({"label": starts[seg["page"]], "start": seg["page"], "audio": []})
         elif not parts:
-            parts.append({"label": "مقدمہ و تمہید", "audio": []})
+            parts.append({"label": INTRO[lang], "start": seg["page"], "audio": []})
         if "audio" in seg:
             parts[-1]["audio"].append(seg["audio"])
     links = []
@@ -84,7 +88,7 @@ def chapter_mp3s(site, lang, edition):
         (site / name).parent.mkdir(exist_ok=True)
         # MP3 frames are self-contained, so joining the files byte-for-byte plays back fine
         (site / name).write_bytes(b"".join((site / a).read_bytes() for a in part["audio"]))
-        links.append((part["label"], name))
+        links.append({"label": part["label"], "href": name, "seconds": round(sum(seg.get("d", 0) for seg in edition["segments"] if seg.get("audio") in part["audio"]))})
     return links
 
 
@@ -114,13 +118,9 @@ def main():
     if "ur" not in editions:
         sys.exit("No Urdu recordings found for that page range.")
 
-    downloads = chapter_mp3s(site, "ur", editions["ur"])
-    if "en" in editions:
-        downloads.append((f"English · pages {args.pages}", "chapters/en_pages.mp3"))
-        (site / "chapters" / "en_pages.mp3").write_bytes(
-            b"".join((site / s["audio"]).read_bytes() for s in editions["en"]["segments"] if "audio" in s))
+    downloads = {lang: chapter_mp3s(site, lang, edition) for lang, edition in editions.items()}
 
-    books = [{**BOOK, "editions": editions}] + [{"title": f"کتاب {n}"} for n in range(2, SHELF_SIZE + 1)]
+    books = [{**BOOK, "editions": editions}] + [{"soon": True} for _ in range(2, SHELF_SIZE + 1)]
     as_json = lambda data: json.dumps(data, ensure_ascii=False).replace("</", "<\\/")
     page = (ROOT / "app_template.html").read_text(encoding="utf-8")
     page = page.replace("{{TITLE}}", html.escape(args.title)).replace("{{DOWNLOADS}}", as_json(downloads)).replace("{{BOOKS}}", as_json(books))

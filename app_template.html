@@ -1,9 +1,9 @@
 <!doctype html>
-<html lang="ur">
+<html lang="ur" dir="rtl">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="theme-color" content="#170f14">
+<meta name="theme-color" content="#160e13">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -15,207 +15,221 @@
 <title>{{TITLE}}</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Amiri+Quran&family=Noto+Nastaliq+Urdu:wght@400;600;700&family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@600;700&family=Lora:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Amiri+Quran&family=Noto+Nastaliq+Urdu:wght@400;600;700&family=Inter:wght@400;500;600;700&family=Lora:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
+  /* ============ Design tokens ============ */
   :root {
-    --bg: #170f14; --bg-2: #1d131a; --surface: #241820; --surface-2: #2e2029; --line: #3a2832; --line-2: #4c3441;
-    --ink: #fbeef3; --ink-2: #e7d0d9; --muted: #ad94a0; --faint: #7d6670;
-    --pink: #f4a6bf; --pink-2: #ff8db0; --rose: #c2577d; --hl: rgba(255, 141, 176, .3);
-    --ui: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif; --urdu: "Noto Nastaliq Urdu", serif; --arabic: "Amiri Quran", serif;
-    --app: 480px; --top: env(safe-area-inset-top); --bottom: env(safe-area-inset-bottom);
-    --tab-h: 64px; --player-h: 150px; --fs: 1;
+    --bg: #160e13; --bg-2: #1c1219; --card: #231720; --card-2: #2b1d26; --line: #36262f; --line-2: #48323e;
+    --ink: #fbeff4; --ink-2: #e5cfd8; --muted: #a8909c; --faint: #76606b;
+    --accent: #ff8fb1; --accent-2: #f4a9c0; --accent-soft: rgba(255, 143, 177, .12); --on-accent: #2b0f1c; --hl: rgba(255, 143, 177, .3);
+    --r-lg: 20px; --r-md: 14px; --r-sm: 10px; --ctl: 40px;
+    --ui: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif; --urdu: "Noto Nastaliq Urdu", serif; --arabic: "Amiri Quran", serif; --read-en: "Lora", Georgia, serif;
+    --app: 480px; --top: env(safe-area-inset-top); --bottom: env(safe-area-inset-bottom); --tab-h: 62px; --player-h: 146px; --fs: 1;
   }
   * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
-  html, body { margin: 0; background: #0d080b; color: var(--ink); font-family: var(--ui); -webkit-font-smoothing: antialiased; overscroll-behavior-y: none; }
-  button, select, input { font: inherit; color: inherit; }
+  html, body { margin: 0; background: #0c070a; color: var(--ink); font-family: var(--ui); -webkit-font-smoothing: antialiased; overscroll-behavior-y: none; }
+  html[lang="ur"] body { font-family: var(--urdu); }
+  button, input { font: inherit; color: inherit; }
   a { color: inherit; text-decoration: none; }
   svg { width: 1em; height: 1em; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; flex: none; }
   [hidden] { display: none !important; }
+  .num { font-family: var(--ui); font-variant-numeric: tabular-nums; }
+  html[lang="ur"] .num { font-family: var(--urdu); }
 
-  /* The app is a phone-width column; on a large screen it sits centred like a device. */
+  /* ============ Shell ============ */
   .app { position: relative; max-width: var(--app); margin: 0 auto; min-height: 100vh; min-height: 100dvh; background: var(--bg);
-         padding-bottom: calc(var(--tab-h) + var(--bottom)); }
-  .app.reading { padding-bottom: calc(var(--tab-h) + var(--player-h) + var(--bottom)); }
-  @media (min-width: 560px) { .app { box-shadow: 0 0 0 1px var(--line), 0 30px 80px rgba(0, 0, 0, .6); } }
+         padding-bottom: calc(var(--tab-h) + var(--bottom) + 8px); }
+  .app.reading { padding-bottom: calc(var(--tab-h) + var(--player-h) + var(--bottom) + 8px); }
+  @media (min-width: 560px) { .app { box-shadow: 0 0 0 1px var(--line), 0 30px 90px rgba(0, 0, 0, .65); } }
   .dock { position: fixed; left: 50%; transform: translateX(-50%); width: 100%; max-width: var(--app); z-index: 40; }
+  .screen { padding: 4px 16px 20px; animation: fade .2s ease; }
+  @keyframes fade { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
 
-  /* ---------- App bar ---------- */
-  .appbar { position: sticky; top: 0; z-index: 30; padding-top: var(--top); background: rgba(23, 15, 20, .88); backdrop-filter: blur(16px) saturate(140%);
+  /* ============ App bar ============ */
+  .appbar { position: sticky; top: 0; z-index: 30; padding-top: var(--top); background: rgba(22, 14, 19, .9); backdrop-filter: blur(16px) saturate(140%);
             border-bottom: 1px solid transparent; transition: border-color .2s; }
   .appbar.scrolled { border-bottom-color: var(--line); }
-  .appbar .row { height: 58px; display: flex; align-items: center; gap: 10px; padding: 0 14px; }
-  .appbar h1 { flex: 1; margin: 0; font-size: 1.08rem; font-weight: 700; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-  .appbar .brand { display: flex; align-items: center; gap: 10px; flex: 1; min-width: 0; }
-  .mark { width: 34px; height: 34px; border-radius: 10px; display: grid; place-items: center; background: linear-gradient(140deg, var(--pink-2), var(--rose)); color: #2a0f1b; font-size: 17px; flex: none; }
-  .brand b { font-family: "Playfair Display", serif; font-size: 1.12rem; font-weight: 700; }
-  .iconbtn { width: 40px; height: 40px; border-radius: 12px; border: 0; background: var(--surface); display: grid; place-items: center; cursor: pointer; font-size: 18px; color: var(--ink-2); flex: none; }
-  .iconbtn:active { transform: scale(.94); }
-  .langpill { display: inline-flex; padding: 3px; border-radius: 999px; background: var(--surface); border: 1px solid var(--line); flex: none; }
-  .langpill button { border: 0; background: none; padding: 5px 11px; border-radius: 999px; cursor: pointer; font-size: .78rem; font-weight: 600; color: var(--muted); }
-  .langpill button.on { background: var(--pink); color: #2a0f1b; }
-  .langpill .u { font-family: var(--urdu); font-weight: 600; line-height: 1.3; padding-top: 3px; }
+  .appbar .row { height: 60px; display: flex; align-items: center; gap: 10px; padding: 0 16px; }
+  .title { flex: 1; min-width: 0; display: flex; align-items: center; gap: 10px; font-size: 1.12rem; font-weight: 700; }
+  .title span { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  html[lang="ur"] .title { font-size: 1.15rem; line-height: 2; }
+  .mark { width: var(--ctl); height: var(--ctl); border-radius: var(--r-sm); display: grid; place-items: center; background: linear-gradient(140deg, var(--accent), #c2577d); color: var(--on-accent); font-size: 19px; flex: none; }
+  .ibtn { width: var(--ctl); height: var(--ctl); border-radius: var(--r-sm); border: 1px solid var(--line); background: var(--card); display: grid; place-items: center;
+          cursor: pointer; font-size: 18px; color: var(--ink-2); flex: none; }
+  .ibtn:active { transform: scale(.95); }
+  .lang { height: var(--ctl); display: inline-flex; align-items: center; padding: 3px; border-radius: var(--r-sm); background: var(--card); border: 1px solid var(--line); flex: none; }
+  .lang button { height: 100%; border: 0; background: none; padding: 0 12px; border-radius: 7px; cursor: pointer; font-family: var(--ui); font-size: .8rem; font-weight: 600; color: var(--muted); }
+  .lang button.u { font-family: var(--urdu); font-size: .82rem; padding-top: 2px; }
+  .lang button.on { background: var(--accent-2); color: var(--on-accent); }
 
-  .screen { padding: 8px 16px 24px; animation: in .22s ease; }
-  @keyframes in { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
-  .h2 { font-size: 1.05rem; font-weight: 700; margin: 26px 2px 12px; display: flex; justify-content: space-between; align-items: baseline; }
-  .h2 a { font-size: .82rem; font-weight: 600; color: var(--pink); }
+  /* ============ Common ============ */
+  .section { display: flex; align-items: center; justify-content: space-between; margin: 26px 2px 12px; }
+  .section h2 { margin: 0; font-size: 1.02rem; font-weight: 700; }
+  .section a, .section span { font-size: .82rem; font-weight: 600; color: var(--accent-2); }
+  .section span { color: var(--muted); font-weight: 500; }
+  html[lang="ur"] .section h2 { font-size: 1.05rem; line-height: 2; }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: var(--r-lg); }
+  .btn { display: inline-flex; align-items: center; justify-content: center; gap: 8px; height: var(--ctl); padding: 0 16px; border: 0; border-radius: var(--r-sm);
+         background: var(--accent-2); color: var(--on-accent); font-weight: 700; font-size: .88rem; cursor: pointer; }
+  .btn svg { fill: currentColor; stroke: none; font-size: .9em; }
+  .btn.block { display: flex; width: 100%; height: 48px; border-radius: var(--r-md); margin-top: 12px; }
+  .btn.block svg { fill: none; stroke: currentColor; }
 
-  /* ---------- Covers ---------- */
-  .cover { position: relative; aspect-ratio: 2 / 3; border-radius: 5px 12px 12px 5px; overflow: hidden; display: flex; flex-direction: column; justify-content: center;
-           align-items: center; text-align: center; padding: 14% 10% 14% 15%; color: #fff;
-           box-shadow: inset 6px 0 0 rgba(0, 0, 0, .25), inset 8px 0 0 rgba(255, 255, 255, .06), 0 10px 26px rgba(0, 0, 0, .45); }
-  .cover::before { content: ""; position: absolute; inset: 0; opacity: .16; background-image: var(--pattern); background-size: 40px 40px; }
-  .cover::after { content: ""; position: absolute; inset: 8% 7% 8% 12%; border: 1px solid rgba(255, 255, 255, .28); border-radius: 4px; }
-  .cover .t { position: relative; z-index: 1; font-family: var(--urdu); font-weight: 700; font-size: 1em; line-height: 2; text-shadow: 0 2px 8px rgba(0, 0, 0, .35); }
-  .cover .a { position: relative; z-index: 1; font-family: var(--urdu); font-size: .48em; line-height: 2; opacity: .85; }
-  .cover .orn { position: relative; z-index: 1; width: 34%; height: 1px; background: rgba(255, 255, 255, .5); margin: .3em 0; }
-  .cover.mini { padding: 0; } .cover.mini .t, .cover.mini .a, .cover.mini .orn, .cover.mini::after { display: none; }
-  .badge { position: absolute; z-index: 2; top: 8px; inset-inline-end: 8px; font-size: .58rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase;
-           padding: 3px 7px; border-radius: 999px; background: rgba(0, 0, 0, .55); color: #fff; }
-  .badge.new { background: var(--pink-2); color: #2a0f1b; }
+  /* ============ Covers ============ */
+  .cover { position: relative; aspect-ratio: 2 / 3; border-radius: 4px var(--r-sm) var(--r-sm) 4px; overflow: hidden; display: flex; flex-direction: column;
+           align-items: center; justify-content: center; text-align: center; padding: 14% 10% 14% 15%; color: #fff;
+           background: linear-gradient(155deg, #c2577d, #5e2342);
+           box-shadow: inset 6px 0 0 rgba(0, 0, 0, .25), inset 7px 0 0 rgba(255, 255, 255, .06), 0 10px 24px rgba(0, 0, 0, .45); }
+  .cover::before { content: ""; position: absolute; inset: 0; opacity: .15; background-image: var(--pattern); background-size: 38px 38px; }
+  .cover::after { content: ""; position: absolute; inset: 8% 7% 8% 12%; border: 1px solid rgba(255, 255, 255, .26); border-radius: 3px; }
+  .cover .t { position: relative; z-index: 1; font-family: var(--urdu); font-weight: 700; font-size: 1em; line-height: 2; text-shadow: 0 2px 8px rgba(0, 0, 0, .3); }
+  .cover .rule { position: relative; z-index: 1; width: 32%; height: 1px; background: rgba(255, 255, 255, .5); margin: .25em 0; }
+  .cover .a { position: relative; z-index: 1; font-family: var(--urdu); font-size: .46em; line-height: 2; opacity: .85; }
+  .cover.mini { padding: 0; } .cover.mini > *, .cover.mini::after { display: none; }
+  .cover.soon { background: linear-gradient(155deg, #3a2a33, #241820); color: var(--faint); box-shadow: inset 6px 0 0 rgba(0, 0, 0, .25), 0 8px 20px rgba(0, 0, 0, .35); }
+  .cover.soon::after { border-style: dashed; border-color: rgba(255, 255, 255, .12); }
+  .cover.soon svg { position: relative; z-index: 1; font-size: 1.5em; opacity: .7; }
 
-  /* ---------- Home ---------- */
-  .greet { margin: 14px 2px 4px; color: var(--muted); font-size: .9rem; }
-  .title-xl { font-family: "Playfair Display", serif; font-size: 1.7rem; font-weight: 700; margin: 0 2px; line-height: 1.25; }
-  .continue { margin-top: 18px; display: grid; grid-template-columns: 96px 1fr; gap: 16px; align-items: center; padding: 16px; border-radius: 20px;
-              background: radial-gradient(120% 140% at 100% 0%, rgba(194, 87, 125, .35), transparent 60%), linear-gradient(160deg, var(--surface-2), var(--surface));
-              border: 1px solid var(--line); cursor: pointer; }
-  .continue .cover { font-size: 13px; }
-  .continue small { color: var(--pink); font-size: .72rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; }
-  .continue b { display: block; font-family: var(--urdu); font-size: 1.15rem; line-height: 2; font-weight: 700; margin-top: 2px; }
-  .continue .sub { color: var(--muted); font-size: .82rem; }
-  .continue .prog { height: 4px; border-radius: 2px; background: var(--line-2); margin: 12px 0 10px; overflow: hidden; }
-  .continue .prog div { height: 100%; background: linear-gradient(90deg, var(--pink), var(--pink-2)); }
-  .continue .go { display: inline-flex; align-items: center; gap: 8px; background: var(--pink); color: #2a0f1b; font-weight: 700; font-size: .85rem; padding: 8px 14px; border-radius: 999px; }
-  .continue .go svg { fill: currentColor; stroke: none; }
-  .carousel { display: flex; gap: 14px; overflow-x: auto; scroll-snap-type: x mandatory; margin: 0 -16px; padding: 4px 16px 10px; scrollbar-width: none; }
-  .carousel::-webkit-scrollbar { display: none; }
-  .carousel .book { flex: 0 0 112px; scroll-snap-align: start; }
-  .tiles { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
-  .tile { background: var(--surface); border: 1px solid var(--line); border-radius: 16px; padding: 14px 10px; text-align: center; }
-  .tile .ic { width: 38px; height: 38px; margin: 0 auto 8px; border-radius: 12px; display: grid; place-items: center; background: rgba(244, 166, 191, .12); color: var(--pink); font-size: 18px; }
-  .tile b { display: block; font-size: .8rem; line-height: 1.5; }
-  .stat-row { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-top: 12px; }
-  .stat { background: var(--surface); border: 1px solid var(--line); border-radius: 16px; padding: 12px; text-align: center; }
-  .stat b { display: block; font-size: 1.25rem; font-weight: 700; }
-  .stat span { color: var(--muted); font-size: .74rem; }
+  /* ============ Home ============ */
+  .hello { margin: 12px 2px 0; color: var(--muted); font-size: .9rem; }
+  .headline { margin: 2px 2px 0; font-size: 1.55rem; font-weight: 700; line-height: 1.3; }
+  html[lang="ur"] .headline { font-size: 1.4rem; line-height: 2.1; }
+  .resume { margin-top: 16px; display: grid; grid-template-columns: 92px minmax(0, 1fr); gap: 16px; align-items: center; padding: 16px; cursor: pointer;
+            background: radial-gradient(120% 140% at 0% 0%, rgba(194, 87, 125, .32), transparent 60%), linear-gradient(160deg, var(--card-2), var(--card)); }
+  html[dir="rtl"] .resume { background: radial-gradient(120% 140% at 100% 0%, rgba(194, 87, 125, .32), transparent 60%), linear-gradient(160deg, var(--card-2), var(--card)); }
+  .resume .cover { font-size: 12px; }
+  .resume .eyebrow { font-size: .74rem; font-weight: 700; color: var(--accent-2); }
+  .resume .bt { display: block; font-size: 1.12rem; line-height: 1.5; font-weight: 700; margin: 2px 0; }
+  html[lang="ur"] .resume .bt { line-height: 2; margin: 0; }
+  .resume .meta { color: var(--muted); font-size: .8rem; }
+  .progress { height: 4px; border-radius: 2px; background: var(--line-2); margin: 10px 0 12px; overflow: hidden; }
+  .progress div { height: 100%; border-radius: 2px; background: linear-gradient(90deg, var(--accent-2), var(--accent)); }
+  .stats { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; margin-top: 10px; }
+  .stat { padding: 12px 8px; text-align: center; }
+  .stat b { display: block; font-size: 1.2rem; font-weight: 700; line-height: 1.5; }
+  .stat span { color: var(--muted); font-size: .76rem; }
+  .shelf-row { display: flex; gap: 14px; overflow-x: auto; scroll-snap-type: x mandatory; scroll-padding-inline: 16px; margin: 0 -16px; padding: 2px 16px 8px; scrollbar-width: none; }
+  .shelf-row::-webkit-scrollbar { display: none; }
+  .shelf-row .book { flex: 0 0 104px; width: 104px; min-width: 0; scroll-snap-align: start; }
+  .features { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; }
+  .feature { padding: 14px 8px; text-align: center; }
+  .feature .ic { width: 38px; height: 38px; margin: 0 auto 8px; border-radius: var(--r-sm); display: grid; place-items: center; background: var(--accent-soft); color: var(--accent-2); font-size: 18px; }
+  .feature b { display: block; font-size: .78rem; font-weight: 600; line-height: 1.5; }
+  html[lang="ur"] .feature b { line-height: 2; }
 
-  /* ---------- Library ---------- */
-  .search { display: flex; align-items: center; gap: 10px; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 0 14px; height: 46px; margin-top: 8px; color: var(--muted); }
-  .search input { flex: 1; border: 0; background: none; outline: none; color: var(--ink); height: 100%; }
-  .grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 18px 14px; margin-top: 16px; }
-  @media (min-width: 420px) { .grid { grid-template-columns: repeat(3, 1fr); } }
-  .book { all: unset; cursor: pointer; display: block; font-size: 17px; }
+  /* ============ Library ============ */
+  .search { display: flex; align-items: center; gap: 10px; height: 46px; padding: 0 14px; margin-top: 8px; color: var(--muted); border-radius: var(--r-md); }
+  .search input { flex: 1; min-width: 0; height: 100%; border: 0; background: none; outline: none; color: var(--ink); }
+  .grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px 12px; }
+  .book { all: unset; display: block; cursor: pointer; font-size: 15px; }
   .book .cover { transition: transform .15s; }
   .book:active .cover { transform: scale(.97); }
-  .book.soon .cover { filter: saturate(.35) brightness(.62); }
-  .book .info { margin-top: 9px; font-size: 1rem; }
-  .book .info b { display: block; font-family: var(--urdu); font-weight: 600; font-size: .88rem; line-height: 1.9; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-  .book .info span { color: var(--muted); font-size: .74rem; }
+  .book .info { margin-top: 8px; }
+  .book .info b { display: block; font-size: .82rem; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; line-height: 1.5; }
+  html[lang="ur"] .book .info b { line-height: 1.9; }
+  .book .info span { display: block; color: var(--muted); font-size: .72rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .book.soon .info b { color: var(--muted); font-weight: 500; }
+  .empty { color: var(--muted); text-align: center; padding: 30px 0; font-size: .9rem; }
 
-  /* ---------- Reader ---------- */
-  .page-chip { display: flex; justify-content: space-between; align-items: center; margin: 6px 2px 12px; color: var(--muted); font-size: .8rem; }
-  .page-chip b { color: var(--ink-2); font-weight: 600; }
-  .paper { background: linear-gradient(180deg, var(--surface-2), var(--surface)); border: 1px solid var(--line); border-radius: 22px; padding: 22px 18px 26px; min-height: 55vh; }
+  /* ============ Reader ============ */
+  .paper { padding: 0; overflow: hidden; background: linear-gradient(180deg, var(--card-2), var(--card)); min-height: 55vh; }
+  .paper-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 12px 16px; border-bottom: 1px solid var(--line); color: var(--muted); font-size: .8rem; }
+  .paper-head .chapter { min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; color: var(--accent-2); font-weight: 600; }
+  .paper-head .pageno { flex: none; padding: 2px 10px; border-radius: 999px; background: var(--bg-2); border: 1px solid var(--line); }
+  html[lang="ur"] .paper-head { line-height: 2; }
+  .paper-body { padding: 20px 18px 24px; }
   .text[hidden] { display: none; }
   .seg { margin: 0 0 20px; }
-  .seg.ar { font-family: var(--arabic); font-size: calc(1.55rem * var(--fs)); line-height: 2.2; color: var(--pink-2); direction: rtl; text-align: center;
-            padding: 10px 12px; background: rgba(255, 141, 176, .05); border-radius: 14px; border: 1px solid rgba(255, 141, 176, .12); }
-  .seg.ur { font-family: var(--urdu); font-size: calc(1.14rem * var(--fs)); line-height: 2.65; color: var(--ink); direction: rtl; text-align: justify; text-align-last: right; }
-  .seg.en { font-family: "Lora", Georgia, serif; font-size: calc(1.06rem * var(--fs)); line-height: 1.85; color: var(--ink); direction: ltr; text-align: left; }
-  .seg.h { font-weight: 700; color: var(--pink); text-align: center; text-align-last: center; font-size: calc(1.32rem * var(--fs)); margin: 4px 0 18px; }
-  .seg.en.h { font-family: "Playfair Display", serif; }
-  .seg span { border-radius: 6px; padding: 0 2px; transition: background .15s, color .15s; }
+  .seg.ar { font-family: var(--arabic); font-size: calc(1.55rem * var(--fs)); line-height: 2.2; color: var(--accent); direction: rtl; text-align: center;
+            padding: 10px 12px; background: rgba(255, 143, 177, .05); border-radius: var(--r-md); border: 1px solid rgba(255, 143, 177, .12); }
+  .seg.ur { font-family: var(--urdu); font-size: calc(1.12rem * var(--fs)); line-height: 2.65; color: var(--ink); direction: rtl; text-align: justify; text-align-last: right; }
+  .seg.en { font-family: var(--read-en); font-size: calc(1.05rem * var(--fs)); line-height: 1.8; color: var(--ink); direction: ltr; text-align: left; }
+  .seg.h { font-weight: 700; color: var(--accent-2); text-align: center; text-align-last: center; font-size: calc(1.28rem * var(--fs)); margin: 2px 0 18px; }
+  .seg.en.h { font-weight: 600; line-height: 1.5; }
+  .seg span { border-radius: 6px; padding: 0 2px; transition: background .15s, color .15s; cursor: pointer; }
   .seg span.on { background: var(--hl); color: #fff; }
-  .ref { font-family: var(--urdu); font-size: .78rem; line-height: 2.2; color: var(--muted); margin: -10px 0 20px; direction: rtl; text-align: center; }
-  .pager { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 14px; }
-  .pager button { height: 46px; border-radius: 14px; border: 1px solid var(--line); background: var(--surface); cursor: pointer; font-weight: 600; font-size: .88rem; }
-  .pager button:disabled { opacity: .35; }
+  .ref { font-family: var(--urdu); font-size: .76rem; line-height: 2.2; color: var(--muted); margin: -10px 0 20px; direction: rtl; text-align: center; }
 
-  /* ---------- Player (above the tab bar) ---------- */
-  .player { bottom: calc(var(--tab-h) + var(--bottom)); background: rgba(29, 19, 26, .97); backdrop-filter: blur(18px); border-top: 1px solid var(--line); padding: 10px 16px 8px; }
-  .np { display: flex; align-items: center; gap: 12px; }
-  .np .cover { width: 34px; font-size: 6px; flex: none; box-shadow: inset 3px 0 0 rgba(0,0,0,.25), 0 4px 10px rgba(0,0,0,.4); }
-  .np .txt { flex: 1; min-width: 0; }
-  .np b { display: block; font-size: .86rem; font-weight: 700; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-  .np span { display: block; color: var(--muted); font-size: .74rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-  .speed { height: 32px; border-radius: 10px; border: 1px solid var(--line); background: var(--surface); padding: 0 10px; font-size: .78rem; font-weight: 700; cursor: pointer; color: var(--ink-2); flex: none; }
-  .timeline { direction: ltr; display: grid; grid-template-columns: 38px 1fr 38px; align-items: center; gap: 8px; margin-top: 10px; font-size: .7rem; color: var(--muted); font-variant-numeric: tabular-nums; }
-  .timeline span:last-child { text-align: right; }
+  /* ============ Player ============ */
+  .player { bottom: calc(var(--tab-h) + var(--bottom)); background: rgba(28, 18, 25, .97); backdrop-filter: blur(18px); border-top: 1px solid var(--line); padding: 10px 16px 6px; }
+  .np { display: flex; align-items: center; gap: 12px; height: 44px; }
+  .np .cover { width: 30px; font-size: 6px; flex: none; box-shadow: inset 3px 0 0 rgba(0,0,0,.25), 0 4px 10px rgba(0,0,0,.4); }
+  .np .txt { flex: 1; min-width: 0; line-height: 1.35; }
+  .np b, .np span { display: block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .np b { font-size: .86rem; font-weight: 700; }
+  .np span { font-size: .74rem; color: var(--muted); }
+  html[lang="ur"] .np .txt { line-height: 1.9; }
+  .speed { height: 32px; min-width: 52px; padding: 0 10px; border-radius: var(--r-sm); border: 1px solid var(--line); background: var(--card); font-size: .8rem; font-weight: 700; cursor: pointer; color: var(--ink-2); flex: none; }
+  .timeline { display: grid; grid-template-columns: 40px 1fr 40px; align-items: center; gap: 8px; margin-top: 8px; font-size: .72rem; color: var(--muted); }
+  .timeline span:last-child { text-align: end; }
   .bar { position: relative; height: 4px; border-radius: 2px; background: var(--line-2); cursor: pointer; touch-action: none; }
   .bar::before { content: ""; position: absolute; inset: -12px 0; }
-  .bar .fill { position: absolute; inset: 0 auto 0 0; width: 0; border-radius: 2px; background: linear-gradient(90deg, var(--pink), var(--pink-2)); }
-  .bar .knob { position: absolute; top: 50%; left: 0; width: 12px; height: 12px; border-radius: 50%; background: #fff; transform: translate(-50%, -50%); box-shadow: 0 0 0 4px rgba(255, 141, 176, .25); }
-  .transport { direction: ltr; display: flex; justify-content: space-between; align-items: center; margin-top: 4px; padding: 0 6px; }
-  .tbtn { width: 44px; height: 44px; border-radius: 50%; border: 0; background: none; cursor: pointer; display: grid; place-items: center; font-size: 22px; color: var(--ink-2); }
-  .tbtn:active { background: var(--surface); }
+  .bar .fill { position: absolute; inset-block: 0; inset-inline-start: 0; width: 0; border-radius: 2px; background: linear-gradient(90deg, var(--accent-2), var(--accent)); }
+  html[dir="rtl"] .bar .fill { background: linear-gradient(270deg, var(--accent-2), var(--accent)); }
+  .bar .knob { position: absolute; top: 50%; inset-inline-start: 0; width: 12px; height: 12px; border-radius: 50%; background: #fff; margin-inline-start: -6px; transform: translateY(-50%);
+               box-shadow: 0 0 0 4px rgba(255, 143, 177, .25); }
+  .transport { display: flex; justify-content: space-between; align-items: center; margin-top: 2px; }
+  .tbtn { width: 46px; height: 46px; border-radius: 50%; border: 0; background: none; cursor: pointer; display: grid; place-items: center; font-size: 22px; color: var(--ink-2); }
+  .tbtn:active { background: var(--card); }
   .tbtn:disabled { opacity: .3; }
-  .play { width: 56px; height: 56px; border-radius: 50%; border: 0; cursor: pointer; display: grid; place-items: center; font-size: 24px;
-          background: linear-gradient(135deg, var(--pink-2), var(--pink)); color: #2a0f1b; box-shadow: 0 8px 22px rgba(255, 141, 176, .35); }
+  .play { width: 56px; height: 56px; border-radius: 50%; border: 0; cursor: pointer; display: grid; place-items: center; font-size: 22px;
+          background: linear-gradient(135deg, var(--accent), var(--accent-2)); color: var(--on-accent); box-shadow: 0 8px 22px rgba(255, 143, 177, .3); }
   .play:active { transform: scale(.95); }
   .play svg { fill: currentColor; stroke: none; }
 
-  /* ---------- Tab bar ---------- */
-  .tabbar { bottom: 0; height: calc(var(--tab-h) + var(--bottom)); padding-bottom: var(--bottom); background: rgba(20, 13, 17, .98); backdrop-filter: blur(18px);
+  /* ============ Tab bar ============ */
+  .tabbar { bottom: 0; height: calc(var(--tab-h) + var(--bottom)); padding-bottom: var(--bottom); background: rgba(19, 12, 16, .98); backdrop-filter: blur(18px);
             border-top: 1px solid var(--line); display: grid; grid-template-columns: repeat(4, 1fr); }
-  .tab { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 4px; color: var(--faint); font-size: .68rem; font-weight: 600; }
+  .tab { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 3px; color: var(--faint); font-size: .7rem; font-weight: 600; }
   .tab svg { font-size: 22px; }
-  .tab.on { color: var(--pink); }
-  .tab .u { font-family: var(--urdu); font-size: .7rem; line-height: 1.5; font-weight: 600; }
+  .tab.on { color: var(--accent-2); }
+  html[lang="ur"] .tab span { font-size: .72rem; line-height: 1.6; }
 
-  /* ---------- Sheets ---------- */
+  /* ============ Sheets ============ */
   .scrim { position: fixed; inset: 0; z-index: 60; background: rgba(0, 0, 0, .55); opacity: 0; pointer-events: none; transition: opacity .2s; }
   .scrim.show { opacity: 1; pointer-events: auto; }
-  .sheet { bottom: 0; z-index: 70; max-height: 82vh; overflow: auto; background: var(--bg-2); border-radius: 22px 22px 0 0; border: 1px solid var(--line); border-bottom: 0;
+  .sheet { bottom: 0; z-index: 70; max-height: 84vh; overflow: auto; background: var(--bg-2); border: 1px solid var(--line); border-bottom: 0; border-radius: var(--r-lg) var(--r-lg) 0 0;
            padding: 8px 16px calc(20px + var(--bottom)); transform: translate(-50%, 105%); transition: transform .25s cubic-bezier(.2, .8, .2, 1); }
   .sheet.show { transform: translate(-50%, 0); }
-  .grip { width: 40px; height: 5px; border-radius: 3px; background: var(--line-2); margin: 4px auto 14px; }
-  .sheet h3 { margin: 0 2px 12px; font-size: 1rem; }
-  .toc a { display: flex; justify-content: space-between; align-items: center; gap: 12px; padding: 12px; border-radius: 14px; color: var(--ink-2); font-size: .9rem; }
-  .toc a.on { background: rgba(244, 166, 191, .12); color: var(--pink); }
-  .toc a span:last-child { color: var(--faint); font-size: .76rem; white-space: nowrap; }
-  .toc .u { font-family: var(--urdu); line-height: 2; }
-  .pagegrid { display: grid; grid-template-columns: repeat(6, 1fr); gap: 8px; margin-top: 8px; }
-  .pagegrid button { height: 42px; border-radius: 12px; border: 1px solid var(--line); background: var(--surface); cursor: pointer; font-weight: 600; font-size: .85rem; }
-  .pagegrid button.on { background: var(--pink); color: #2a0f1b; border-color: var(--pink); }
-  .scan-img { width: 100%; border-radius: 12px; background: #fff; display: block; }
+  .grip { width: 40px; height: 5px; border-radius: 3px; background: var(--line-2); margin: 4px auto 12px; }
+  .sheet h3 { margin: 4px 2px 10px; font-size: .95rem; font-weight: 700; }
+  html[lang="ur"] .sheet h3 { line-height: 2; }
+  .toc a { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 10px 12px; border-radius: var(--r-md); color: var(--ink-2); font-size: .9rem; }
+  .toc a.on { background: var(--accent-soft); color: var(--accent-2); }
+  .toc a .pg { color: var(--faint); font-size: .76rem; white-space: nowrap; }
+  html[lang="ur"] .toc a { line-height: 2; }
+  .pagegrid { display: grid; grid-template-columns: repeat(6, 1fr); gap: 8px; }
+  .pagegrid button { height: var(--ctl); border-radius: var(--r-sm); border: 1px solid var(--line); background: var(--card); cursor: pointer; font-weight: 600; font-size: .85rem; }
+  .pagegrid button.on { background: var(--accent-2); border-color: var(--accent-2); color: var(--on-accent); }
+  .scan-img { width: 100%; display: block; border-radius: var(--r-md); background: #fff; }
 
-  /* ---------- Settings ---------- */
-  .group { background: var(--surface); border: 1px solid var(--line); border-radius: 18px; overflow: hidden; }
-  .item { display: flex; align-items: center; gap: 12px; padding: 14px 16px; border-bottom: 1px solid var(--line); }
+  /* ============ Settings ============ */
+  .list { overflow: hidden; }
+  .item { display: flex; align-items: center; gap: 12px; min-height: 60px; padding: 10px 14px; border-bottom: 1px solid var(--line); }
   .item:last-child { border-bottom: 0; }
-  .item .ic { width: 34px; height: 34px; border-radius: 10px; display: grid; place-items: center; background: rgba(244, 166, 191, .12); color: var(--pink); font-size: 17px; flex: none; }
-  .item .lbl { flex: 1; min-width: 0; font-size: .92rem; font-weight: 600; }
-  .seg-ctl { display: inline-flex; background: var(--bg-2); border: 1px solid var(--line); border-radius: 12px; padding: 3px; flex: none; }
-  .seg-ctl button { border: 0; background: none; padding: 6px 10px; border-radius: 9px; cursor: pointer; font-size: .8rem; font-weight: 600; color: var(--muted); }
-  .seg-ctl button.on { background: var(--pink); color: #2a0f1b; }
-  .item a.dl { color: var(--pink); font-size: 18px; }
-  .btn { display: flex; width: 100%; justify-content: center; align-items: center; gap: 10px; height: 50px; border-radius: 16px; border: 0; cursor: pointer; font-weight: 700;
-         background: linear-gradient(135deg, var(--pink-2), var(--pink)); color: #2a0f1b; margin-top: 12px; }
-  .note { color: var(--muted); font-size: .8rem; line-height: 1.6; margin: 10px 4px 0; }
-  .about { text-align: center; color: var(--faint); font-size: .76rem; margin-top: 26px; line-height: 1.8; }
+  .item .ic { width: 36px; height: 36px; border-radius: var(--r-sm); display: grid; place-items: center; background: var(--accent-soft); color: var(--accent-2); font-size: 17px; flex: none; }
+  .item .lbl { flex: 1; min-width: 0; font-size: .9rem; font-weight: 600; }
+  .item .lbl small { display: block; color: var(--muted); font-weight: 400; font-size: .74rem; }
+  html[lang="ur"] .item .lbl { line-height: 1.9; }
+  .choice { display: inline-flex; height: 34px; padding: 3px; border-radius: var(--r-sm); background: var(--bg-2); border: 1px solid var(--line); flex: none; }
+  .choice button { border: 0; background: none; padding: 0 9px; border-radius: 7px; cursor: pointer; font-family: var(--ui); font-size: .78rem; font-weight: 600; color: var(--muted); }
+  .choice button.u { font-family: var(--urdu); padding-top: 2px; }
+  .choice button.on { background: var(--accent-2); color: var(--on-accent); }
+  .item a.get { width: 36px; height: 36px; border-radius: var(--r-sm); display: grid; place-items: center; color: var(--accent-2); border: 1px solid var(--line); font-size: 17px; flex: none; }
+  .note { color: var(--muted); font-size: .78rem; line-height: 1.7; margin: 10px 4px 0; }
+  .foot { text-align: center; color: var(--faint); font-size: .74rem; margin-top: 24px; line-height: 2; }
 
-  .speed, #setSpeed, #pageCount, .stat b { direction: ltr; unicode-bidi: isolate; }
-  .toast { position: fixed; left: 50%; top: calc(70px + var(--top)); transform: translate(-50%, -8px); z-index: 90; background: var(--surface-2); border: 1px solid var(--line-2);
-           padding: 10px 16px; border-radius: 12px; opacity: 0; transition: opacity .2s, transform .2s; pointer-events: none; font-size: .88rem; white-space: nowrap; }
+  .toast { position: fixed; left: 50%; top: calc(72px + var(--top)); transform: translate(-50%, -8px); z-index: 90; background: var(--card-2); border: 1px solid var(--line-2);
+           padding: 8px 16px; border-radius: var(--r-md); opacity: 0; transition: opacity .2s, transform .2s; pointer-events: none; font-size: .86rem; white-space: nowrap; }
   .toast.show { opacity: 1; transform: translate(-50%, 0); }
-
-  /* ---------- Urdu mode ---------- */
-  html[lang="ur"] .appbar h1, html[lang="ur"] .h2, html[lang="ur"] .title-xl, html[lang="ur"] .greet, html[lang="ur"] .continue small, html[lang="ur"] .continue .sub,
-  html[lang="ur"] .continue .go, html[lang="ur"] .tile b, html[lang="ur"] .stat span, html[lang="ur"] .book .info span, html[lang="ur"] .page-chip, html[lang="ur"] .pager button,
-  html[lang="ur"] .sheet h3, html[lang="ur"] .item .lbl, html[lang="ur"] .note, html[lang="ur"] .btn, html[lang="ur"] .badge, html[lang="ur"] .np b,
-  html[lang="ur"] .search input, html[lang="ur"] .toast, html[lang="ur"] .about { font-family: var(--urdu); line-height: 2; letter-spacing: 0; text-transform: none; font-weight: 600; }
-  html[lang="ur"] .title-xl { font-size: 1.45rem; line-height: 2.1; }
-  html[lang="ur"] .h2 { margin-top: 20px; }
-  html[lang="ur"] .np b { font-weight: 700; }
 </style>
 </head>
 <body>
 <svg width="0" height="0" style="position:absolute" aria-hidden="true">
   <symbol id="i-play" viewBox="0 0 24 24"><path d="M7 4.5v15a1 1 0 0 0 1.5.86l12.4-7.5a1 1 0 0 0 0-1.72L8.5 3.64A1 1 0 0 0 7 4.5z"/></symbol>
   <symbol id="i-pause" viewBox="0 0 24 24"><rect x="6" y="4" width="4.2" height="16" rx="1.2"/><rect x="13.8" y="4" width="4.2" height="16" rx="1.2"/></symbol>
-  <symbol id="i-prev" viewBox="0 0 24 24"><path d="M15 18l-6-6 6-6"/></symbol>
-  <symbol id="i-next" viewBox="0 0 24 24"><path d="M9 18l6-6-6-6"/></symbol>
+  <symbol id="i-left" viewBox="0 0 24 24"><path d="M15 18l-6-6 6-6"/></symbol>
+  <symbol id="i-right" viewBox="0 0 24 24"><path d="M9 18l6-6-6-6"/></symbol>
   <symbol id="i-restart" viewBox="0 0 24 24"><path d="M3 12a9 9 0 1 0 3-6.7L3 8"/><path d="M3 3v5h5"/></symbol>
   <symbol id="i-list" viewBox="0 0 24 24"><path d="M8 6h13M8 12h13M8 18h13M3 6h.01M3 12h.01M3 18h.01"/></symbol>
   <symbol id="i-image" viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><path d="M21 15l-5-5L5 21"/></symbol>
@@ -231,71 +245,74 @@
   <symbol id="i-type" viewBox="0 0 24 24"><path d="M4 7V4h16v3M9 20h6M12 4v16"/></symbol>
   <symbol id="i-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></symbol>
   <symbol id="i-phone" viewBox="0 0 24 24"><rect x="6" y="2" width="12" height="20" rx="2.5"/><path d="M11 18h2"/></symbol>
+  <symbol id="i-lock" viewBox="0 0 24 24"><rect x="5" y="11" width="14" height="10" rx="2"/><path d="M8 11V7a4 4 0 0 1 8 0v4"/></symbol>
 </svg>
 
 <div class="app" id="app">
   <header class="appbar" id="appbar">
     <div class="row">
-      <div class="brand" id="brandRow"><span class="mark"><svg><use href="#i-book"/></svg></span><b>Noor</b></div>
-      <h1 id="barTitle" hidden></h1>
-      <button class="iconbtn" id="tocBtn" hidden aria-label="Contents"><svg><use href="#i-list"/></svg></button>
-      <button class="iconbtn" id="scanBtn" hidden aria-label="Original page"><svg><use href="#i-image"/></svg></button>
-      <div class="langpill" role="group" aria-label="Language"><button id="langUr" class="u">اردو</button><button id="langEn">EN</button></div>
+      <div class="title"><span class="mark" id="mark"><svg><use href="#i-book"/></svg></span><span id="barTitle"></span></div>
+      <button class="ibtn" id="scanBtn" hidden><svg><use href="#i-image"/></svg></button>
+      <div class="lang" role="group" aria-label="Language"><button id="langUr" class="u">اردو</button><button id="langEn">EN</button></div>
     </div>
   </header>
 
   <main class="screen" id="screenHome">
-    <p class="greet" id="greet"></p>
-    <h2 class="title-xl" id="homeTitle"></h2>
-    <div class="continue" id="continueCard"></div>
-    <div class="stat-row" id="stats"></div>
-    <div class="h2"><span id="libHead"></span><a href="#/library" id="seeAll"></a></div>
-    <div class="carousel" id="carousel"></div>
-    <div class="h2"><span id="whyHead"></span></div>
-    <div class="tiles">
-      <div class="tile"><div class="ic"><svg><use href="#i-sync"/></svg></div><b id="t1"></b></div>
-      <div class="tile"><div class="ic"><svg><use href="#i-globe"/></svg></div><b id="t2"></b></div>
-      <div class="tile"><div class="ic"><svg><use href="#i-gauge"/></svg></div><b id="t3"></b></div>
+    <p class="hello" id="hello"></p>
+    <h1 class="headline" id="headline"></h1>
+    <div class="card resume" id="resume"></div>
+    <div class="stats" id="stats"></div>
+    <div class="section"><h2 id="libHead"></h2><a href="#/library" id="seeAll"></a></div>
+    <div class="shelf-row" id="shelfRow"></div>
+    <div class="section"><h2 id="featHead"></h2></div>
+    <div class="features">
+      <div class="card feature"><div class="ic"><svg><use href="#i-sync"/></svg></div><b id="f1"></b></div>
+      <div class="card feature"><div class="ic"><svg><use href="#i-globe"/></svg></div><b id="f2"></b></div>
+      <div class="card feature"><div class="ic"><svg><use href="#i-gauge"/></svg></div><b id="f3"></b></div>
     </div>
   </main>
 
   <main class="screen" id="screenLibrary" hidden>
-    <label class="search"><svg><use href="#i-search"/></svg><input id="search" type="search" autocomplete="off"></label>
+    <label class="card search"><svg><use href="#i-search"/></svg><input id="search" type="search" autocomplete="off"></label>
+    <div class="section"><h2 id="libCount"></h2></div>
     <div class="grid" id="shelf"></div>
+    <p class="empty" id="noResults" hidden></p>
   </main>
 
   <main class="screen" id="screenRead" hidden>
-    <div class="page-chip"><b id="pageTitle"></b><span id="pageCount"></span></div>
-    <article class="paper"><div id="pages"></div></article>
-    <div class="pager"><button id="pgPrev"></button><button id="pgNext"></button></div>
+    <article class="card paper">
+      <div class="paper-head"><span class="chapter" id="chapterName"></span><span class="pageno num" id="pageTitle"></span></div>
+      <div class="paper-body"><div id="pages"></div></div>
+    </article>
   </main>
 
   <main class="screen" id="screenSettings" hidden>
-    <div class="group">
+    <div class="section" style="margin-top:10px"><h2 id="prefHead"></h2></div>
+    <div class="card list">
       <div class="item"><span class="ic"><svg><use href="#i-globe"/></svg></span><span class="lbl" id="sLang"></span>
-        <div class="seg-ctl" id="setLang"><button data-v="ur" style="font-family:var(--urdu)">اردو</button><button data-v="en">English</button></div></div>
-      <div class="item"><span class="ic"><svg><use href="#i-gauge"/></svg></span><span class="lbl" id="sSpeed"></span><div class="seg-ctl" id="setSpeed"></div></div>
-      <div class="item"><span class="ic"><svg><use href="#i-type"/></svg></span><span class="lbl" id="sSize"></span><div class="seg-ctl" id="setSize"></div></div>
+        <div class="choice" id="setLang"><button data-v="ur" class="u">اردو</button><button data-v="en">English</button></div></div>
+      <div class="item"><span class="ic"><svg><use href="#i-gauge"/></svg></span><span class="lbl" id="sSpeed"></span><div class="choice" id="setSpeed"></div></div>
+      <div class="item"><span class="ic"><svg><use href="#i-type"/></svg></span><span class="lbl" id="sSize"></span><div class="choice" id="setSize"></div></div>
     </div>
-    <div class="h2"><span id="dlHead"></span></div>
-    <div class="group" id="dlList"></div>
-    <div class="h2"><span id="instHead"></span></div>
-    <div class="group"><div class="item"><span class="ic"><svg><use href="#i-phone"/></svg></span><span class="lbl" id="instText"></span></div></div>
-    <button class="btn" id="installBtn" hidden><svg><use href="#i-download"/></svg><span id="installLbl"></span></button>
+    <div class="section"><h2 id="dlHead"></h2><span id="dlSub"></span></div>
+    <div class="card list" id="dlList"></div>
+    <div class="section"><h2 id="instHead"></h2></div>
+    <div class="card list"><div class="item"><span class="ic"><svg><use href="#i-phone"/></svg></span><span class="lbl" id="instText"></span></div></div>
+    <button class="btn block" id="installBtn" hidden><svg><use href="#i-download"/></svg><span id="installLbl"></span></button>
     <p class="note" id="iosNote"></p>
-    <p class="about" id="about"></p>
+    <p class="foot" id="foot"></p>
   </main>
 </div>
 
 <div class="dock player" id="player" hidden>
-  <div class="np"><div class="cover mini" id="npCover"></div><div class="txt"><b id="npTitle"></b><span id="npSub"></span></div><button class="speed" id="speedBtn"></button></div>
-  <div class="timeline"><span id="tNow">0:00</span><div class="bar" id="bar"><div class="fill" id="fill"></div><div class="knob" id="knob"></div></div><span id="tAll">0:00</span></div>
+  <div class="np"><div class="cover mini" id="npCover"></div><div class="txt"><b id="npTitle"></b><span id="npSub"></span></div><button class="speed num" id="speedBtn"></button></div>
+  <div class="timeline"><span class="num" id="tNow"></span><div class="bar" id="bar"><div class="fill" id="fill"></div><div class="knob" id="knob"></div></div><span class="num" id="tAll"></span></div>
   <div class="transport">
-    <button class="tbtn" id="restart" aria-label="Restart"><svg><use href="#i-restart"/></svg></button>
-    <button class="tbtn" id="prev" aria-label="Previous page"><svg><use href="#i-prev"/></svg></button>
-    <button class="play" id="play" aria-label="Play"><svg id="playIcon"><use href="#i-play"/></svg></button>
-    <button class="tbtn" id="next" aria-label="Next page"><svg><use href="#i-next"/></svg></button>
-    <button class="tbtn" id="contentsBtn" aria-label="Contents"><svg><use href="#i-list"/></svg></button>
+    <button class="tbtn" id="restart"><svg><use href="#i-restart"/></svg></button>
+    <button class="tbtn" id="prev"><svg id="prevIcon"><use href="#i-left"/></svg></button>
+    <button class="play" id="play"><svg id="playIcon"><use href="#i-play"/></svg></button>
+    <button class="tbtn" id="next"><svg id="nextIcon"><use href="#i-right"/></svg></button>
+    <button class="tbtn" id="contentsBtn"><svg><use href="#i-list"/></svg></button>
   </div>
 </div>
 
@@ -307,7 +324,7 @@
 </nav>
 
 <div class="scrim" id="scrim"></div>
-<div class="dock sheet" id="tocSheet"><div class="grip"></div><h3 id="tocHead"></h3><div class="toc" id="tocList"></div><h3 id="pagesHead" style="margin-top:18px"></h3><div class="pagegrid" id="pageGrid"></div></div>
+<div class="dock sheet" id="tocSheet"><div class="grip"></div><h3 id="tocHead"></h3><div class="toc" id="tocList"></div><h3 id="pagesHead" style="margin-top:16px"></h3><div class="pagegrid" id="pageGrid"></div></div>
 <div class="dock sheet" id="scanSheet"><div class="grip"></div><h3 id="scanHead"></h3><img class="scan-img" id="scanImg" alt=""></div>
 <div class="toast" id="toast"></div>
 
@@ -315,33 +332,37 @@
 const BOOKS = {{BOOKS}};
 const DOWNLOADS = {{DOWNLOADS}};
 const $ = id => document.getElementById(id);
+
+/* ============ Text ============ */
 const UI = {
   ur: {
-    tabs: ["گھر", "کتب خانہ", "مطالعہ", "ترتیبات"], greet: "السلام علیکم", homeTitle: "آج کیا سنیں گے؟", cont: "جاری رکھیں", start: "شروع کریں", listen: "سنیں",
-    page: "صفحہ", pages: "صفحات", hours: "گھنٹے", langs: "زبانیں", libHead: "کتب خانہ", seeAll: "سب دیکھیں", whyHead: "خصوصیات",
-    t1: "الفاظ کی ہم آہنگی", t2: "اردو اور انگریزی", t3: "پرسکون رفتار", search: "کتاب تلاش کریں", soon: "جلد آ رہی ہے", available: "دستیاب",
-    contents: "فہرست", allPages: "تمام صفحات", scan: "اصل صفحہ", prevPage: "پچھلا صفحہ", nextPage: "اگلا صفحہ", settings: "ترتیبات",
-    sLang: "زبان", sSpeed: "رفتار", sSize: "متن کا سائز", dlHead: "ڈاؤن لوڈ", instHead: "ایپ انسٹال کریں",
-    instText: "ایپ کو اپنے فون کی ہوم اسکرین پر رکھیں، یہ پوری اسکرین پر اپنے آئیکن کے ساتھ کھلے گی۔", installBtn: "انسٹال کریں",
-    ios: "آئی فون: سفاری میں شیئر بٹن دبائیں، پھر Add to Home Screen منتخب کریں۔", about: "نور لائبریری · اہلِ خانہ کے لیے، غیر تجارتی استعمال",
-    noEn: "اس کتاب کا انگریزی ترجمہ ابھی دستیاب نہیں",
+    app: "نور لائبریری", tabs: ["گھر", "کتب خانہ", "مطالعہ", "ترتیبات"], hello: "السلام علیکم", headline: "آج کیا سنیں گے؟",
+    resume: "جاری رکھیں", start: "سننا شروع کریں", newBook: "نئی کتاب", page: "صفحہ", pages: "صفحات", hours: "گھنٹے", langs: "زبانیں",
+    library: "کتب خانہ", seeAll: "سب دیکھیں", features: "خصوصیات", f1: "الفاظ کی ہم آہنگی", f2: "اردو اور انگریزی", f3: "پرسکون رفتار",
+    search: "کتاب تلاش کریں", soon: "جلد آ رہی ہے", count: (a, s) => `${a} کتاب دستیاب، ${s} جلد آ رہی ہیں`, noResults: "کوئی کتاب نہیں ملی",
+    contents: "فہرست", allPages: "تمام صفحات", scan: "اصل صفحہ", settings: "ترتیبات", prefs: "مطالعہ کی ترتیبات",
+    lang: "زبان", speed: "رفتار", size: "متن کا سائز", downloads: "ڈاؤن لوڈ", dlSub: "اردو آڈیو، باب وار", install: "ایپ انسٹال کریں",
+    instText: "ایپ کو ہوم اسکرین پر رکھیں، یہ پوری اسکرین پر اپنے آئیکن کے ساتھ کھلے گی۔", installBtn: "انسٹال کریں",
+    ios: "آئی فون پر: سفاری میں شیئر بٹن دبائیں اور «ہوم اسکرین میں شامل کریں» منتخب کریں۔", foot: "نور لائبریری · اہلِ خانہ کے لیے · غیر تجارتی استعمال",
+    noEn: "اس کتاب کا انگریزی ترجمہ ابھی دستیاب نہیں", min: "منٹ", aria: { restart: "دوبارہ", prev: "پچھلا صفحہ", play: "چلائیں", pause: "روکیں", next: "اگلا صفحہ", contents: "فہرست", scan: "اصل صفحہ" },
   },
   en: {
-    tabs: ["Home", "Library", "Reader", "Settings"], greet: "Assalamu alaikum", homeTitle: "What would you like to listen to today?", cont: "Continue", start: "Start", listen: "Listen",
-    page: "Page", pages: "Pages", hours: "Hours", langs: "Languages", libHead: "Library", seeAll: "See all", whyHead: "Features",
-    t1: "Word-by-word sync", t2: "Urdu & English", t3: "Relaxed pace", search: "Search books", soon: "Coming soon", available: "Available",
-    contents: "Contents", allPages: "All pages", scan: "Original page", prevPage: "Previous", nextPage: "Next", settings: "Settings",
-    sLang: "Language", sSpeed: "Reading speed", sSize: "Text size", dlHead: "Downloads", instHead: "Install the app",
-    instText: "Add the app to your phone's home screen. It opens full screen, with its own icon.", installBtn: "Install",
-    ios: "iPhone: tap the Share button in Safari, then choose Add to Home Screen.", about: "Noor Library · For family use, not for sale",
-    noEn: "The English translation of this book is not available yet",
+    app: "Noor Library", tabs: ["Home", "Library", "Reader", "Settings"], hello: "Assalamu alaikum", headline: "What would you like to listen to today?",
+    resume: "Continue", start: "Start listening", newBook: "New book", page: "Page", pages: "Pages", hours: "Hours", langs: "Languages",
+    library: "Library", seeAll: "See all", features: "Features", f1: "Word-by-word sync", f2: "Urdu and English", f3: "Relaxed pace",
+    search: "Search books", soon: "Coming soon", count: (a, s) => `${a} available · ${s} coming soon`, noResults: "No books found",
+    contents: "Contents", allPages: "All pages", scan: "Original page", settings: "Settings", prefs: "Reading preferences",
+    lang: "Language", speed: "Speed", size: "Text size", downloads: "Downloads", dlSub: "English audio, by chapter", install: "Install the app",
+    instText: "Add the app to your home screen. It opens full screen, with its own icon.", installBtn: "Install",
+    ios: "On iPhone: tap Share in Safari, then choose \"Add to Home Screen\".", foot: "Noor Library · For family use · Not for sale",
+    noEn: "The English translation of this book is not available yet", min: "min", aria: { restart: "Restart", prev: "Previous page", play: "Play", pause: "Pause", next: "Next page", contents: "Contents", scan: "Original page" },
   },
 };
 const PAUSE = { normal: 650, ar: 900, h: 1100, page: 1600 };
 const SPEEDS = [0.8, 0.85, 0.9, 1];
 const SIZES = [.92, 1, 1.12, 1.25];
-const COVERS = [["#c2577d", "#6b2a4b"], ["#8a3a6b", "#3e1a31"], ["#a65277", "#55253e"], ["#b8466f", "#5a1e38"], ["#7b3b5e", "#341827"]];
-const PATTERN = `url("data:image/svg+xml,${encodeURIComponent('<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 46 46"><g fill="none" stroke="#fff" stroke-width="1"><path d="M23 4l5.4 13.6L42 23l-13.6 5.4L23 42l-5.4-13.6L4 23l13.6-5.4z"/><circle cx="23" cy="23" r="5"/></g></svg>')}")`;
+const PATTERN = `url("data:image/svg+xml,${encodeURIComponent('<svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 46 46"><g fill="none" stroke="#fff" stroke-width="1"><path d="M23 4l5.4 13.6L42 23l-13.6 5.4L23 42l-5.4-13.6L4 23l13.6-5.4z"/><circle cx="23" cy="23" r="5"/></g></svg>')}")`;
+document.documentElement.style.setProperty("--pattern", PATTERN);
 
 const store = {
   get(k, d) { try { const v = localStorage.getItem("noor:" + k); return v === null ? d : JSON.parse(v); } catch (e) { return d; } },
@@ -353,131 +374,148 @@ let lang = store.get("lang", "ur"), book = null, edition = null, blocks = [], se
 let cur = -1, shown = -1, playing = false, lit = null, waitTimer = null, rate = store.get("rate", 0.9), size = store.get("size", 1);
 let installEvent = null, current = null;
 const T = k => UI[lang][k];
-const fmt = s => { s = Math.max(0, Math.round(s)); return Math.floor(s / 60) + ":" + String(s % 60).padStart(2, "0"); };
-function toast(msg) { const t = $("toast"); t.textContent = msg; t.classList.add("show"); clearTimeout(t._h); t._h = setTimeout(() => t.classList.remove("show"), 2300); }
+const sep = () => lang === "ur" ? "، " : " · ";  // the Urdu comma reads naturally next to Urdu digits
 const available = BOOKS.map((b, i) => [b, i]).filter(([b]) => b.editions);
+const soonCount = BOOKS.length - available.length;
 
-function cover(b, i, mini) {
-  const [c1, c2] = COVERS[i % COVERS.length];
+/* Numbers follow the interface language: Urdu digits in Urdu, Western digits in English. */
+const URDU_DIGITS = "۰۱۲۳۴۵۶۷۸۹";
+const n = x => lang === "ur" ? String(x).replace(/\d/g, d => URDU_DIGITS[d]).replace(/\./g, "٫") : String(x);
+const clock = s => { s = Math.max(0, Math.round(s)); return n(Math.floor(s / 60) + ":" + String(s % 60).padStart(2, "0")); };
+const bookTitle = b => lang === "en" ? b.en_title || b.subtitle : b.title;
+const bookAuthor = b => lang === "en" ? b.en_author : b.author;
+function toast(msg) { const t = $("toast"); t.textContent = msg; t.classList.add("show"); clearTimeout(t._h); t._h = setTimeout(() => t.classList.remove("show"), 2300); }
+
+function cover(b, mini) {
   const el = document.createElement("div");
+  if (!b.editions) { el.className = "cover soon"; el.innerHTML = '<svg><use href="#i-lock"/></svg>'; return el; }
   el.className = "cover" + (mini ? " mini" : "");
-  el.style.background = `linear-gradient(155deg, ${c1}, ${c2})`;
-  el.style.setProperty("--pattern", PATTERN);
-  el.innerHTML = `<span class="t"></span>${b.author ? '<span class="orn"></span><span class="a"></span>' : ""}`;
+  el.innerHTML = '<span class="t"></span><span class="rule"></span><span class="a"></span>';
   el.querySelector(".t").textContent = b.title;
-  if (b.author) el.querySelector(".a").textContent = b.author;
+  el.querySelector(".a").textContent = b.author;
   return el;
 }
-function bookTile(b, i) {
+function bookTile(b) {
   const el = document.createElement("button");
   el.className = "book" + (b.editions ? "" : " soon");
-  const cv = cover(b, i);
-  const badge = document.createElement("span");
-  badge.className = "badge" + (b.editions ? " new" : "");
-  badge.textContent = b.editions ? T("available") : T("soon");
-  cv.append(badge); el.append(cv);
+  el.setAttribute("aria-label", b.editions ? bookTitle(b) : T("soon"));
+  el.append(cover(b));
   const info = document.createElement("div");
   info.className = "info"; info.innerHTML = "<b></b><span></span>";
-  info.querySelector("b").textContent = b.title;
-  info.querySelector("span").textContent = b.editions ? (lang === "en" ? b.en_title || b.subtitle : b.subtitle) : T("soon");
+  info.querySelector("b").textContent = b.editions ? bookTitle(b) : T("newBook");
+  info.querySelector("span").textContent = b.editions ? bookAuthor(b) : T("soon");
   el.append(info);
-  el.dataset.search = `${b.title} ${b.subtitle || ""} ${b.en_title || ""}`.toLowerCase();
+  el.dataset.search = b.editions ? `${b.title} ${b.subtitle} ${b.en_title} ${b.author} ${b.en_author}`.toLowerCase() : "";
   el.onclick = () => (b.editions ? (location.hash = "#/read") : toast(T("soon")));
   return el;
 }
 
-/* ---------- Language-dependent rendering ---------- */
+/* ============ Rendering that depends on the language ============ */
 function applyLang() {
+  const ur = lang === "ur";
   document.documentElement.lang = lang;
-  document.documentElement.dir = lang === "ur" ? "rtl" : "ltr";
-  $("langUr").classList.toggle("on", lang === "ur"); $("langEn").classList.toggle("on", lang === "en");
-  document.querySelectorAll(".tab span").forEach((s, k) => { s.textContent = T("tabs")[k]; s.className = lang === "ur" ? "u" : ""; });
-  $("greet").textContent = T("greet"); $("homeTitle").textContent = T("homeTitle");
-  $("libHead").textContent = T("libHead"); $("seeAll").textContent = T("seeAll"); $("whyHead").textContent = T("whyHead");
-  ["t1", "t2", "t3"].forEach(k => $(k).textContent = T(k));
-  $("search").placeholder = T("search");
+  document.documentElement.dir = ur ? "rtl" : "ltr";
+  $("langUr").classList.toggle("on", ur); $("langEn").classList.toggle("on", !ur);
+  document.querySelectorAll(".tab span").forEach((s, k) => s.textContent = T("tabs")[k]);
+  // in a right-to-left book, "next page" points left
+  $("prevIcon").innerHTML = `<use href="#i-${ur ? "right" : "left"}"/>`;
+  $("nextIcon").innerHTML = `<use href="#i-${ur ? "left" : "right"}"/>`;
+  const aria = T("aria");
+  [["restart", "restart"], ["prev", "prev"], ["next", "next"], ["contentsBtn", "contents"], ["scanBtn", "scan"]].forEach(([id, k]) => $(id).setAttribute("aria-label", aria[k]));
+  $("hello").textContent = T("hello"); $("headline").textContent = T("headline");
+  $("libHead").textContent = T("library"); $("seeAll").textContent = T("seeAll"); $("featHead").textContent = T("features");
+  $("f1").textContent = T("f1"); $("f2").textContent = T("f2"); $("f3").textContent = T("f3");
+  $("search").placeholder = T("search"); $("noResults").textContent = T("noResults");
+  $("libCount").textContent = T("count")(n(available.length), n(soonCount));
   $("tocHead").textContent = T("contents"); $("pagesHead").textContent = T("allPages"); $("scanHead").textContent = T("scan");
-  $("pgPrev").textContent = T("prevPage"); $("pgNext").textContent = T("nextPage");
-  ["sLang", "sSpeed", "sSize", "dlHead", "instHead", "instText"].forEach(k => $(k).textContent = T(k));
-  $("installLbl").textContent = T("installBtn"); $("iosNote").textContent = T("ios"); $("about").textContent = T("about");
+  $("prefHead").textContent = T("prefs"); $("sLang").textContent = T("lang"); $("sSpeed").textContent = T("speed"); $("sSize").textContent = T("size");
+  $("dlHead").textContent = T("downloads"); $("dlSub").textContent = T("dlSub");
+  $("instHead").textContent = T("install"); $("instText").textContent = T("instText"); $("installLbl").textContent = T("installBtn");
+  $("iosNote").textContent = T("ios"); $("foot").textContent = T("foot");
   document.querySelectorAll("#setLang button").forEach(b => b.classList.toggle("on", b.dataset.v === lang));
+  setPlayIcon();
   renderHome(); renderLibrary(); renderSettings();
-  if (current) titles(current);
+  if (current) titles();
 }
 
 function renderHome() {
   const [b, i] = available[0];
-  const last = store.get("page:" + i, null), ed = b.editions.ur;
-  const c = $("continueCard"); c.innerHTML = "";
-  c.append(cover(b, i));
+  const ed = b.editions[lang] || b.editions.ur, last = store.get("page:" + i, null);
+  const r = $("resume"); r.innerHTML = "";
+  r.append(cover(b));
   const d = document.createElement("div");
   const pct = last !== null ? Math.round((last + 1) / ed.pages.length * 100) : 0;
-  d.innerHTML = `<small></small><b></b><div class="sub"></div><div class="prog"><div style="width:${pct}%"></div></div><span class="go"><svg><use href="#i-play"/></svg><span></span></span>`;
-  d.querySelector("small").textContent = last !== null ? T("cont") : T("listen");
-  d.querySelector("b").textContent = b.title;
-  d.querySelector(".sub").textContent = last !== null ? `${T("page")} ${ed.pages[last]?.number} · ${pct}%` : (lang === "en" ? b.en_author : b.author);
-  d.querySelector(".go span").textContent = last !== null ? T("cont") : T("start");
-  c.append(d);
-  c.onclick = () => (location.hash = "#/read");
-  const hours = (Object.values(b.editions).reduce((s, e) => s + e.seconds, 0) / 3600).toFixed(1);
-  $("stats").innerHTML = `<div class="stat"><b>${ed.pages.length}</b><span>${T("pages")}</span></div><div class="stat"><b>${hours}</b><span>${T("hours")}</span></div><div class="stat"><b>${Object.keys(b.editions).length}</b><span>${T("langs")}</span></div>`;
-  $("carousel").innerHTML = "";
-  BOOKS.slice(0, 8).forEach((bk, k) => $("carousel").append(bookTile(bk, k)));
+  d.innerHTML = '<div class="eyebrow"></div><span class="bt"></span><div class="meta"></div><div class="progress"><div></div></div><span class="btn"><svg><use href="#i-play"/></svg><span></span></span>';
+  d.querySelector(".eyebrow").textContent = last !== null ? T("resume") : T("start");
+  d.querySelector(".bt").textContent = bookTitle(b);
+  d.querySelector(".meta").textContent = last !== null ? `${T("page")} ${n(ed.pages[last].number)}${sep()}${n(pct)}${lang === "ur" ? "٪" : "%"}` : bookAuthor(b);
+  d.querySelector(".progress div").style.width = pct + "%";
+  d.querySelector(".btn span").textContent = last !== null ? T("resume") : T("start");
+  r.append(d);
+  r.onclick = () => (location.hash = "#/read");
+  const secs = Object.values(b.editions).reduce((s, e) => s + e.seconds, 0);
+  $("stats").innerHTML = "";
+  [[n(ed.pages.length), T("pages")], [n((secs / 3600).toFixed(1)), T("hours")], [n(Object.keys(b.editions).length), T("langs")]].forEach(([v, l]) => {
+    const s = document.createElement("div"); s.className = "card stat"; s.innerHTML = '<b class="num"></b><span></span>';
+    s.querySelector("b").textContent = v; s.querySelector("span").textContent = l; $("stats").append(s);
+  });
+  $("shelfRow").innerHTML = "";
+  BOOKS.slice(0, 6).forEach(bk => $("shelfRow").append(bookTile(bk)));
 }
-function renderLibrary() { $("shelf").innerHTML = ""; BOOKS.forEach((b, i) => $("shelf").append(bookTile(b, i))); }
-$("search").oninput = () => {
+function renderLibrary() { $("shelf").innerHTML = ""; BOOKS.forEach(b => $("shelf").append(bookTile(b))); filter(); }
+function filter() {
   const q = $("search").value.trim().toLowerCase();
-  document.querySelectorAll("#shelf .book").forEach(el => el.hidden = !!q && !el.dataset.search.includes(q));
-};
+  let shownCount = 0;
+  document.querySelectorAll("#shelf .book").forEach(el => { el.hidden = !!q && !el.dataset.search.includes(q); if (!el.hidden) shownCount++; });
+  $("noResults").hidden = shownCount > 0;
+}
+$("search").oninput = filter;
+
 function renderSettings() {
   $("setSpeed").innerHTML = ""; $("setSize").innerHTML = "";
-  SPEEDS.forEach(s => { const b = document.createElement("button"); b.textContent = s + "×"; b.classList.toggle("on", s === rate); b.onclick = () => setRate(s); $("setSpeed").append(b); });
-  SIZES.forEach((v, k) => { const b = document.createElement("button"); b.textContent = "A"; b.style.fontSize = (.68 + k * .13) + "rem"; b.classList.toggle("on", v === size); b.onclick = () => setSize(v); $("setSize").append(b); });
+  SPEEDS.forEach(s => { const b = document.createElement("button"); b.textContent = n(s) + "×"; b.classList.toggle("on", s === rate); b.onclick = () => setRate(s); $("setSpeed").append(b); });
+  SIZES.forEach((v, k) => { const b = document.createElement("button"); b.textContent = "A"; b.style.fontSize = (.66 + k * .12) + "rem"; b.classList.toggle("on", v === size); b.onclick = () => setSize(v); $("setSize").append(b); });
   $("dlList").innerHTML = "";
-  DOWNLOADS.forEach(([label, href]) => {
+  const [b] = available[0];
+  (DOWNLOADS[lang] || DOWNLOADS.ur).forEach(({ label, href, seconds }) => {
     const it = document.createElement("div");
     it.className = "item";
-    it.innerHTML = `<span class="ic"><svg><use href="#i-head"/></svg></span><span class="lbl"></span><a class="dl" download href="${href}" aria-label="Download"><svg><use href="#i-download"/></svg></a>`;
-    it.querySelector(".lbl").textContent = label;
-    it.querySelector(".lbl").style.fontFamily = /[؀-ۿ]/.test(label) ? "var(--urdu)" : "var(--ui)";
+    it.innerHTML = `<span class="ic"><svg><use href="#i-head"/></svg></span><span class="lbl"><span></span><small></small></span><a class="get" download href="${href}"><svg><use href="#i-download"/></svg></a>`;
+    it.querySelector(".lbl span").textContent = label;
+    it.querySelector(".lbl small").textContent = `${bookTitle(b)}${sep()}${n(Math.round(seconds / 60))} ${T("min")}`;
+    it.querySelector(".get").setAttribute("aria-label", `${T("downloads")}: ${label}`);
     $("dlList").append(it);
   });
-  $("speedBtn").textContent = rate + "×";
+  $("speedBtn").textContent = n(rate) + "×";
 }
-function setRate(s) { rate = s; audio.playbackRate = rate; store.set("rate", rate); renderSettings(); if (edition && shown >= 0) $("tAll").textContent = fmt(edition.pageSeconds[shown] / rate); }
+function setRate(s) { rate = s; audio.playbackRate = rate; store.set("rate", rate); renderSettings(); if (edition && shown >= 0) $("tAll").textContent = clock(edition.pageSeconds[shown] / rate); }
 function setSize(v) { size = v; store.set("size", v); document.documentElement.style.setProperty("--fs", v); renderSettings(); }
 document.documentElement.style.setProperty("--fs", size);
 
-/* ---------- Routing ---------- */
+/* ============ Navigation ============ */
 const SCREENS = { home: "screenHome", library: "screenLibrary", read: "screenRead", settings: "screenSettings" };
 function route() {
   const r = (location.hash.replace(/^#\/?/, "").split("/")[0]) || "home";
-  const name = SCREENS[r] ? r : "home";
-  current = name;
-  Object.entries(SCREENS).forEach(([k, id]) => $(id).hidden = k !== name);
-  document.querySelectorAll(".tab").forEach(t => t.classList.toggle("on", t.dataset.tab === name));
-  const reading = name === "read";
+  current = SCREENS[r] ? r : "home";
+  Object.entries(SCREENS).forEach(([k, id]) => $(id).hidden = k !== current);
+  document.querySelectorAll(".tab").forEach(t => { const on = t.dataset.tab === current; t.classList.toggle("on", on); on ? t.setAttribute("aria-current", "page") : t.removeAttribute("aria-current"); });
+  const reading = current === "read";
   $("app").classList.toggle("reading", reading);
-  $("player").hidden = !reading;
-  $("tocBtn").hidden = !reading; $("scanBtn").hidden = !reading;
+  $("player").hidden = !reading; $("scanBtn").hidden = !reading;
   closeSheets();
   if (reading && !book) openBook(available[0][1]);
   if (!reading) pause();
-  if (name === "home") renderHome();
-  titles(name);
+  if (current === "home") renderHome();
+  titles();
   window.scrollTo({ top: 0 });
 }
-function titles(name) {
-  $("brandRow").hidden = name !== "home";
-  $("barTitle").hidden = name === "home";
-  const readTitle = book ? (lang === "en" ? book.en_title || book.subtitle : book.title) : "";
-  $("barTitle").textContent = name === "library" ? T("libHead") : name === "settings" ? T("settings") : name === "read" ? readTitle : "";
-  $("barTitle").style.fontFamily = name === "read" && lang === "ur" ? "var(--urdu)" : "";
+function titles() {
+  $("mark").hidden = current !== "home";
+  $("barTitle").textContent = current === "home" ? T("app") : current === "library" ? T("library") : current === "settings" ? T("settings") : book ? bookTitle(book) : "";
 }
 window.addEventListener("hashchange", route);
 window.addEventListener("scroll", () => $("appbar").classList.toggle("scrolled", window.scrollY > 4), { passive: true });
 
-/* ---------- Sheets ---------- */
 function openSheet(id) { closeSheets(); $(id).classList.add("show"); $("scrim").classList.add("show"); }
 function closeSheets() { document.querySelectorAll(".sheet").forEach(s => s.classList.remove("show")); $("scrim").classList.remove("show"); }
 $("scrim").onclick = closeSheets;
@@ -486,13 +524,13 @@ document.querySelectorAll(".sheet").forEach(sh => {
   sh.addEventListener("touchstart", e => { y0 = sh.scrollTop <= 0 ? e.touches[0].clientY : null; }, { passive: true });
   sh.addEventListener("touchend", e => { if (y0 !== null && e.changedTouches[0].clientY - y0 > 70) closeSheets(); y0 = null; });
 });
-$("tocBtn").onclick = $("contentsBtn").onclick = () => openSheet("tocSheet");
+$("contentsBtn").onclick = () => openSheet("tocSheet");
 $("scanBtn").onclick = () => openSheet("scanSheet");
 
-/* ---------- Book and edition ---------- */
+/* ============ Book and edition ============ */
 function openBook(i) {
   book = BOOKS[i];
-  const c = cover(book, i, true); c.id = "npCover"; $("npCover").replaceWith(c);
+  const c = cover(book, true); c.id = "npCover"; $("npCover").replaceWith(c);
   loadEdition(book.editions[lang] ? lang : "ur", store.get("page:" + i, 0));
 }
 function loadEdition(l, pageIndex) {
@@ -509,7 +547,7 @@ function render() {
   $("pages").innerHTML = ""; $("pageGrid").innerHTML = "";
   blocks = edition.pages.map((pg, p) => {
     const div = document.createElement("div"); div.className = "text"; div.hidden = true; $("pages").append(div);
-    const b = document.createElement("button"); b.textContent = pg.number; b.onclick = () => { closeSheets(); goToPage(p); }; $("pageGrid").append(b);
+    const b = document.createElement("button"); b.className = "num"; b.textContent = n(pg.number); b.onclick = () => { closeSheets(); goToPage(p); }; $("pageGrid").append(b);
     return div;
   });
   segStart = []; const acc = {};
@@ -529,9 +567,9 @@ function render() {
   edition.toc.forEach((t, k) => {
     const a = document.createElement("a"); a.href = "#/read";
     const next = edition.toc[k + 1];
-    a.innerHTML = `<span></span><span>${T("page")} ${edition.pages[t.page].number}</span>`;
+    a.innerHTML = '<span></span><span class="pg num"></span>';
     a.firstChild.textContent = t.label;
-    if (edition === book.editions.ur) a.firstChild.className = "u";
+    a.lastChild.textContent = `${T("page")} ${n(edition.pages[t.page].number)}`;
     a.dataset.page = t.page; a.dataset.end = next ? next.page : edition.pages.length;
     a.onclick = e => { e.preventDefault(); closeSheets(); goToPage(t.page); };
     $("tocList").append(a);
@@ -546,24 +584,24 @@ function showPage(p, scroll) {
   if (shown >= 0 && blocks[shown]) blocks[shown].hidden = true;
   shown = p; blocks[p].hidden = false;
   const pg = edition.pages[p], ch = chapterOf(p);
-  $("pageTitle").textContent = `${T("page")} ${pg.number}`;
-  $("pageCount").textContent = `${p + 1} / ${edition.pages.length}`;
-  $("prev").disabled = $("pgPrev").disabled = p === 0;
-  $("next").disabled = $("pgNext").disabled = p === edition.pages.length - 1;
+  const pageLabel = `${T("page")} ${n(pg.number)}`;
+  $("pageTitle").textContent = pageLabel;
+  $("chapterName").textContent = ch ? ch.label : bookTitle(book);
+  $("prev").disabled = p === 0;
+  $("next").disabled = p === edition.pages.length - 1;
   $("scanImg").src = pg.image || "";
-  $("npTitle").textContent = `${T("page")} ${pg.number} · ${book.subtitle}`;
-  $("npSub").textContent = ch ? ch.label : book.title;
-  $("npSub").style.fontFamily = edition === book.editions.ur ? "var(--urdu)" : "";
+  $("npTitle").textContent = bookTitle(book);
+  $("npSub").textContent = ch ? `${pageLabel}${sep()}${ch.label}` : pageLabel;
   document.querySelectorAll("#tocList a").forEach(a => a.classList.toggle("on", p >= +a.dataset.page && p < +a.dataset.end));
   $("pageGrid").querySelectorAll("button").forEach((b, k) => b.classList.toggle("on", k === p));
-  $("tAll").textContent = fmt(edition.pageSeconds[p] / rate);
+  $("tAll").textContent = clock(edition.pageSeconds[p] / rate);
   updateTime();
   if (scroll) window.scrollTo({ top: 0, behavior: "smooth" });
   store.set("page:" + BOOKS.indexOf(book), p);
 }
 
-/* ---------- Playback ---------- */
-function setPlayIcon() { $("playIcon").innerHTML = `<use href="#i-${playing ? "pause" : "play"}"/>`; $("play").setAttribute("aria-label", playing ? "Pause" : "Play"); }
+/* ============ Playback ============ */
+function setPlayIcon() { $("playIcon").innerHTML = `<use href="#i-${playing ? "pause" : "play"}"/>`; $("play").setAttribute("aria-label", T("aria")[playing ? "pause" : "play"]); }
 function load(si, t, autoplay) {
   clearTimeout(waitTimer);
   cur = si;
@@ -571,8 +609,8 @@ function load(si, t, autoplay) {
   audio.src = edition.segments[si].audio; audio.playbackRate = rate;
   if (t > 0) audio.addEventListener("loadedmetadata", () => { audio.currentTime = t; }, { once: true });
   if (autoplay) play();
-  const n = nextVoiced(si + 1);
-  if (n >= 0) fetch(edition.segments[n].audio).catch(() => {});
+  const nx = nextVoiced(si + 1);
+  if (nx >= 0) fetch(edition.segments[nx].audio).catch(() => {});
 }
 function play() {
   if (cur < 0) { const si = nextVoiced(firstOfPage(shown)); if (si < 0) return; load(si, 0, false); }
@@ -589,21 +627,22 @@ function goToPage(p) {
   if (playing && si >= 0) seek(si, 0, true); else { stopAll(); showPage(p, true); updateTime(); }
 }
 audio.addEventListener("ended", () => {
-  const seg = edition.segments[cur], next = nextVoiced(cur + 1);
-  if (next < 0) { stopAll(); return; }
-  const wait = (edition.segments[next].page || 0) !== (seg.page || 0) ? PAUSE.page : seg.style === "h" ? PAUSE.h : seg.lang === "ar" ? PAUSE.ar : PAUSE.normal;
-  waitTimer = setTimeout(() => { if (playing) load(next, 0, true); }, wait / rate);
+  const seg = edition.segments[cur], nx = nextVoiced(cur + 1);
+  if (nx < 0) { stopAll(); return; }
+  const wait = (edition.segments[nx].page || 0) !== (seg.page || 0) ? PAUSE.page : seg.style === "h" ? PAUSE.h : seg.lang === "ar" ? PAUSE.ar : PAUSE.normal;
+  waitTimer = setTimeout(() => { if (playing) load(nx, 0, true); }, wait / rate);
 });
 function updateTime() {
   const total = edition.pageSeconds[shown] || 0;
   const now = cur >= 0 && (edition.segments[cur].page || 0) === shown ? segStart[cur] + (audio.currentTime || 0) : 0;
   const pct = total ? Math.min(100, now / total * 100) : 0;
-  $("fill").style.width = pct + "%"; $("knob").style.left = pct + "%";
-  $("tNow").textContent = fmt(now / rate);
+  $("fill").style.width = pct + "%"; $("knob").style.insetInlineStart = pct + "%";
+  $("tNow").textContent = clock(now / rate);
 }
 $("bar").addEventListener("click", e => {
   const r = $("bar").getBoundingClientRect(), total = edition.pageSeconds[shown];
-  const target = Math.min(Math.max(0, (e.clientX - r.left) / r.width), .999) * total;
+  const x = document.documentElement.dir === "rtl" ? r.right - e.clientX : e.clientX - r.left;
+  const target = Math.min(Math.max(0, x / r.width), .999) * total;
   for (let si = firstOfPage(shown); si < edition.segments.length && (edition.segments[si].page || 0) === shown; si++) {
     const s = edition.segments[si];
     if (s.audio && target <= segStart[si] + s.d) { seek(si, Math.max(0, target - segStart[si]), true); return; }
@@ -622,8 +661,8 @@ function mediaSession() {
   if (!("mediaSession" in navigator) || !book) return;
   const pg = edition.pages[shown], ch = chapterOf(shown);
   try {
-    navigator.mediaSession.metadata = new MediaMetadata({ title: `${book.title} · ${T("page")} ${pg.number}`, artist: lang === "en" ? book.en_author : book.author,
-      album: ch ? ch.label : book.subtitle, artwork: [{ src: "icons/icon-512.png", sizes: "512x512", type: "image/png" }] });
+    navigator.mediaSession.metadata = new MediaMetadata({ title: `${bookTitle(book)}${sep()}${T("page")} ${n(pg.number)}`, artist: bookAuthor(book),
+      album: ch ? ch.label : bookTitle(book), artwork: [{ src: "icons/icon-512.png", sizes: "512x512", type: "image/png" }] });
     navigator.mediaSession.setActionHandler("play", play);
     navigator.mediaSession.setActionHandler("pause", pause);
     navigator.mediaSession.setActionHandler("previoustrack", () => $("prev").click());
@@ -631,11 +670,11 @@ function mediaSession() {
   } catch (e) {}
 }
 
-/* ---------- Controls ---------- */
+/* ============ Controls ============ */
 $("play").onclick = () => (playing ? pause() : play());
 $("restart").onclick = () => seek(nextVoiced(firstOfPage(shown)), 0, true);
-$("prev").onclick = $("pgPrev").onclick = () => goToPage(Math.max(0, shown - 1));
-$("next").onclick = $("pgNext").onclick = () => goToPage(Math.min(edition.pages.length - 1, shown + 1));
+$("prev").onclick = () => goToPage(Math.max(0, shown - 1));
+$("next").onclick = () => goToPage(Math.min(edition.pages.length - 1, shown + 1));
 $("speedBtn").onclick = () => setRate(SPEEDS[(SPEEDS.indexOf(rate) + 1) % SPEEDS.length]);
 function setLang(l) {
   if (book && !book.editions[l]) { toast(UI[l].noEn); return; }
@@ -648,11 +687,12 @@ document.querySelectorAll("#setLang button").forEach(b => b.onclick = () => setL
 document.addEventListener("keydown", e => {
   if (current !== "read" || e.target.tagName === "INPUT") return;
   if (e.code === "Space") { e.preventDefault(); playing ? pause() : play(); }
-  if (e.key === "ArrowLeft") $(edition === book.editions.ur ? "next" : "prev").click();
-  if (e.key === "ArrowRight") $(edition === book.editions.ur ? "prev" : "next").click();
+  const rtl = document.documentElement.dir === "rtl";
+  if (e.key === "ArrowLeft") $(rtl ? "next" : "prev").click();
+  if (e.key === "ArrowRight") $(rtl ? "prev" : "next").click();
 });
 
-/* ---------- Install as an app ---------- */
+/* ============ Install as an app ============ */
 window.addEventListener("beforeinstallprompt", e => { e.preventDefault(); installEvent = e; $("installBtn").hidden = false; });
 $("installBtn").onclick = async () => { if (!installEvent) return; installEvent.prompt(); await installEvent.userChoice; installEvent = null; $("installBtn").hidden = true; };
 if ("serviceWorker" in navigator && location.protocol === "https:") navigator.serviceWorker.register("sw.js").catch(() => {});
