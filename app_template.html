@@ -630,6 +630,7 @@ function goToPage(p) {
   if (playing && si >= 0) seek(si, 0, true); else { stopAll(); showPage(p, true); updateTime(); }
 }
 audio.addEventListener("ended", () => {
+  clearTimeout(waitTimer);  // the stall guard below may have fired "ended" already
   const seg = edition.segments[cur], nx = nextVoiced(cur + 1);
   if (nx < 0) { stopAll(); return; }
   const wait = (edition.segments[nx].page || 0) !== (seg.page || 0) ? PAUSE.page : seg.style === "h" ? PAUSE.h : seg.lang === "ar" ? PAUSE.ar : PAUSE.normal;
@@ -709,8 +710,18 @@ if ("serviceWorker" in navigator && location.protocol === "https:") navigator.se
 applyLang();
 route();
 
+// A seek into the last fraction of a second of a clip can leave the browser stuck just short of the
+// end without firing "ended"; if the time stops moving there, move on as if the clip had ended.
+let stallT = -1, stallSince = 0;
+function stallGuard() {
+  if (audio.paused || !audio.duration || audio.duration - audio.currentTime > 0.25) { stallT = -1; return; }
+  if (audio.currentTime !== stallT) { stallT = audio.currentTime; stallSince = performance.now(); return; }
+  if (performance.now() - stallSince > 800) { stallT = -1; audio.pause(); audio.dispatchEvent(new Event("ended")); }
+}
+
 (function tick() {
   if (playing && cur >= 0) {
+    stallGuard();
     const t = audio.currentTime;
     let hit = null;
     for (const w of edition.segments[cur].words) { if (w.s <= t) hit = w; else break; }

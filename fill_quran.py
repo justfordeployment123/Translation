@@ -17,6 +17,7 @@ ayah. Each filled verse is marked with a "# quran ..." comment so --check can ve
 import json
 import re
 import sys
+import time
 import urllib.request
 from functools import lru_cache
 from pathlib import Path
@@ -33,8 +34,15 @@ BISMILLAH = ["بسم", "الله", "الرحمن", "الرحيم"]
 @lru_cache(maxsize=None)
 def ayah(ref):
     url = f"https://api.alquran.cloud/v1/ayah/{ref}/quran-simple"
-    with urllib.request.urlopen(url, timeout=60) as resp:
-        text = json.load(resp)["data"]["text"]
+    for attempt in range(5):  # the API sometimes times out or returns 503 for a moment
+        try:
+            with urllib.request.urlopen(url, timeout=60) as resp:
+                text = json.load(resp)["data"]["text"]
+            break
+        except OSError:
+            if attempt == 4:
+                raise
+            time.sleep(5 * (attempt + 1))
     # the API puts the Bismillah in front of ayah 1 of every surah; it is not part of that ayah
     # (except in Al-Fatiha, where it is ayah 1 itself)
     words = text.split(" ")

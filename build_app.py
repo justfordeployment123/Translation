@@ -12,6 +12,7 @@ import argparse
 import html
 import json
 import shutil
+import subprocess
 import sys
 import time
 from pathlib import Path
@@ -84,12 +85,25 @@ def chapter_mp3s(site, lang, edition):
             parts[-1]["audio"].append(seg["audio"])
     links = []
     for n, part in enumerate(parts, 1):
-        name = f"chapters/{lang}_part_{n:02d}.mp3"
-        (site / name).parent.mkdir(exist_ok=True)
+        joined = site / "chapters" / f"{lang}_part_{n:02d}.mp3"
+        joined.parent.mkdir(exist_ok=True)
         # MP3 frames are self-contained, so joining the files byte-for-byte plays back fine
-        (site / name).write_bytes(b"".join((site / a).read_bytes() for a in part["audio"]))
+        joined.write_bytes(b"".join((site / a).read_bytes() for a in part["audio"]))
+        name = compress(joined).relative_to(site).as_posix()
         links.append({"label": part["label"], "href": name, "seconds": round(sum(seg.get("d", 0) for seg in edition["segments"] if seg.get("audio") in part["audio"]))})
     return links
+
+
+def compress(mp3):
+    """Re-encode a chapter as 48 kbps mono AAC (.m4a) with macOS afconvert: about 40% of the size, the
+    same quality for speech, and players see the true length (a joined MP3 reports only its first
+    part's length). Without afconvert the MP3 is kept."""
+    if not shutil.which("afconvert"):
+        return mp3
+    m4a = mp3.with_suffix(".m4a")
+    subprocess.run(["afconvert", str(mp3), "-o", str(m4a), "-f", "m4af", "-d", "aac", "-b", "48000", "-c", "1"], check=True)
+    mp3.unlink()
+    return m4a
 
 
 def main():
