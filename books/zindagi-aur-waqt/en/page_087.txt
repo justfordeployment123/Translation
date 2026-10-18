@@ -1,0 +1,17 @@
+# title: Page 87
+# English edition of book page 87, built by build_english.py from en_src/ and page_087.txt
+
+[hen]
+The Fifth View
+
+[en]
+Imam Abu Tahir Ahmad ibn Muhammad as-Silafi, may Allah have mercy on him, distinguished between Arabs and non-Arabs, saying: for an Arab the age is four years, and for a non-Arab six years.
+
+[ref]
+تدریب الراوی، ص: ۵۸۶ تا ۵۸۹
+
+[hen]
+The Strongest View
+
+[en]
+Of all these views, the best and most fitting is the second, because children differ somewhat according to time and place. Sometimes a five-year-old understands something that a child of six or seven does not. So the better and stronger view is the age of discernment: when a child can understand what is said, tell things apart and answer a question, he is considered ready to seek knowledge. And Allah knows best.

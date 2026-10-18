@@ -1,0 +1,38 @@
+# title: Page 169
+# English edition of book page 169, built by build_english.py from en_src/ and page_169.txt
+
+[hen]
+The Second Place
+
+[ar]
+يَا أَيُّهَا الَّذِينَ آمَنُوا كُلُوا مِنْ طَيِّبَاتِ مَا رَزَقْنَاكُمْ وَاشْكُرُوا لِلَّهِ إِنْ كُنْتُمْ إِيَّاهُ تَعْبُدُونْ
+
+[ref]
+(البقرۃ ۲: آیت ۱۷۲)
+
+[en]
+O you who have believed, eat from the good things which We have provided for you and be grateful to Allah if it is indeed Him that you worship.
+
+[hen]
+The Third Place
+
+[ar]
+يَا أَيُّهَا النَّاسُ كُلُوا مِمَّا فِي الْأَرْضِ حَلَالًا طَيِّبًا وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ ۚ إِنَّهُ لَكُمْ عَدُوٌّ مُبِينْ
+
+[ref]
+(البقرۃ ۲: آیت ۱۶۸)
+
+[en]
+O mankind, eat from whatever is on earth that is lawful and good and do not follow the footsteps of Satan. Indeed, he is to you a clear enemy.
+
+[en]
+So these verses show that in a Muslim's life it is extremely important to eat, drink and wear what is lawful. Today, one of the greatest causes of the spread of evil in our society, and of the abundance of shamelessness and indecency everywhere, is the lack of lawful provision and earning a living by unlawful means. For eating what is unlawful kills a person's sense of honour and ends his modesty, and when a person becomes shameless, every evil is possible from him. The Noble Messenger, peace be upon him, said:
+
+[ar]
+لَيَأْتِيَنَّ عَلَى النَّاسِ زَمَانٌ لاَ يُبَالِي الْمَرْءُ بِمَا أَخَذَ الْمَالْ، أَمِنْ حَلاَلٍ أَمْ مِنْ حَرَامْ
+
+[ref]
+صحیح بخاری، رقم الحدیث: ۲۰۸۳
+
+[en]
+A time will come upon the people when a man will not care how he took his wealth, whether from what is lawful or from what is unlawful.

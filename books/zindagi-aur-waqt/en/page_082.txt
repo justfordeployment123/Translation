@@ -1,0 +1,26 @@
+# title: Page 82
+# English edition of book page 82, built by build_english.py from en_src/ and page_082.txt
+
+[hen]
+Second, After the Obligatory Prayers
+
+[ar]
+عَنْ أَبِي أُمَامَةَ الْبَاهِلِيِّ رَضِيَ اللَّهُ عَنْهُ قَالَ: قِيلَ يَا رَسُولَ اللَّهِ أَيُّ الدُّعَاءِ أَسْمَعُ قَالَ جَوْفُ اللَّيْلِ الآخِرُ وَدُبُرَ الصَّلَوَاتِ الْمَكْتُوبَاتْ
+
+[ref]
+جامع الترمذی، کتاب الدعوات، باب ۷۹، رقم الحدیث: ۳۴۹۹، قال البانی: حسن
+
+[en]
+Abu Umamah al-Bahili, may Allah be pleased with him, narrated that it was asked: O Messenger of Allah, which supplication is most heard? He, peace be upon him, said: The supplication in the last part of the night, and after the obligatory prayers.
+
+[hen]
+Third, Between the Adhan and the Iqamah
+
+[ar]
+عَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: الدُّعَاءُ لاَ يُرَدُّ بَيْنَ الأَذَانِ وَالإِقَامَةْ
+
+[ref]
+سنن ابی داؤد، کتاب الصلاۃ، باب ما جاء فی الدعاء بین الاذان والاقامۃ، رقم الحدیث: ۵۲۱، جامع الترمذی، کتاب مواقیت الصلاۃ، باب ما جاء فی ان الدعاء لا یرد بین الاذان والاقامۃ، رقم الحدیث: ۲۱۲، واللفظ لہ، ومسند الامام احمد: ۱۲۲۰۰
+
+[en]
+Anas ibn Malik, may Allah be pleased with him, narrated that the Messenger of Allah, peace be upon him, said: The supplication between the adhan and the iqamah is not rejected.

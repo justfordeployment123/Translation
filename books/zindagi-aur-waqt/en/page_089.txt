@@ -1,0 +1,41 @@
+# title: Page 89
+# English edition of book page 89, built by build_english.py from en_src/ and page_089.txt
+
+[hen]
+The Saying of Abu ad-Darda, may Allah be pleased with him (died 31 AH)
+
+[en]
+He said:
+
+[ar]
+لَوْلَا ثَلَاثٌ مَا أَحْبَبْتُ الْعَيْشَ يَوْمًا وَاحِدَا، الظَّمَأُ لِلَّهِ بِالْهَوَاجِرْ، وَالسُّجُودُ لِلَّهِ فِي جَوْفِ اللَّيْلْ، وَمُجَالَسَةُ أَقْوَامٍ يَنْتَقُونَ أَطَايِبَ الْكَلَامِ كَمَا يُنْتَقَى أَطَايِبُ التَّمْرْ
+
+[ref]
+این نحن من ہؤلاء، ۲/ ۲۱
+
+[en]
+Were it not for three things, I would not love to live even a single day: enduring thirst for the sake of Allah in the midday heat while fasting, prostrating to Allah in the night, and sitting with people who pick out the best of words just as the best dates are picked out.
+
+[en]
+He also said:
+
+[ar]
+ابْنَ آدَمْ، طَإِ الْأَرْضَ بِقَدَمِكَ فَإِنَّهَا عَنْ قَلِيلٍ تَكُونُ قَبْرَكْ، ابْنَ آدَمْ، إِنَّمَا أَنْتَ أَيَّامْ، فَكُلَّمَا ذَهَبَ يَوْمٌ ذَهَبَ بَعْضُكْ، ابْنَ آدَمْ، إِنَّكَ لَمْ تَزَلْ فِي هَدْمِ عُمُرِكَ مُنْذُ وَلَدَتْكَ أُمُّكْ
+
+[ref]
+الزہد الکبیر للبیہقی، ص: ۲۰۴
+
+[en]
+Son of Adam, you tread the earth with your feet, and soon it will be your grave. Son of Adam, you are only a number of days, so whenever a day passes, a part of you passes. Son of Adam, ever since your mother gave birth to you, you have been steadily using up your life.
+
+[en]
+It is also narrated about him that a young man came to him, and after greeting him said: O Companion of the Messenger of Allah, peace be upon him, advise me. He said:
+
+[ar]
+يَا بُنَيَّ، اذْكُرِ اللَّهَ فِي السَّرَّاءِ يَذْكُرْكَ فِي الضَّرَّاءْ، يَا بُنَيَّ، كُنْ عَالِمًا أَوْ مُتَعَلِّمًا أَوْ مُسْتَمِعًا، وَلَا تَكُنِ الرَّابِعَ فَتَهْلِكْ، يَا بُنَيَّ، لِيَكُنِ الْمَسْجِدُ بَيْتَكْ، فَإِنِّي سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: الْمَسْجِدُ بَيْتُ كُلِّ تَقِيّ، وَقَدْ ضَمِنَ اللَّهُ عَزَّ وَجَلَّ لِمَنْ كَانَتِ الْمَسَاجِدُ بُيُوتَهُمُ الرَّوْحَ وَالرَّحْمَةَ وَالْجَوَازَ عَلَى الصِّرَاطِ إِلَى رِضْوَانِ اللَّهِ عَزَّ وَجَلّ
+
+[ref]
+صور من حیاۃ الصحابہ، ص: ۲۰۷
+
+[en]
+My son, remember Allah in times of ease, and He will remember you in times of hardship. My son, be a seeker of knowledge, or a teacher, or a listener, and do not be a fourth, or you will be ruined. My son, let the mosque be your home, for I heard the Messenger of Allah, peace be upon him, say: The mosques are the home of every God-fearing person. And Allah has guaranteed those whose home is the mosque comfort, mercy, and crossing the bridge to reach His pleasure.

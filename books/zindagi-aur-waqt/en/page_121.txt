@@ -1,0 +1,17 @@
+# title: Page 121
+# English edition of book page 121, built by build_english.py from en_src/ and page_121.txt
+
+[hen]
+Muhammad ibn Nasr al-Marwazi, may Allah have mercy on him (died 294 AH)
+
+[ar]
+قَالَ أَبُو مُحَمَّدٍ الثَّقَفِيّ: سَمِعْتُ جَدِّي يَقُولْ: جَالَسْتُ أَبَا عَبْدِ اللَّهِ مُحَمَّدَ بْنَ نَصْرٍ الْمَرْوَزِيَّ أَرْبَعَ سِنِينْ، فَلَمْ أَسْمَعْهُ طُولَ تِلْكَ الْمُدَّةِ يَتَكَلَّمُ فِي غَيْرِ الْعِلْمْ
+
+[ref]
+صفۃ الصفوۃ، ۴/ ۱۴۷
+
+[en]
+Abu Muhammad ath-Thaqafi, may Allah have mercy on him, said: I heard my grandfather say: I sat with Abu Abdullah Muhammad ibn Nasr al-Marwazi, may Allah have mercy on him, for four years, and in all that long time I never heard him speak about anything other than knowledge.
+
+[en]
+This truly makes our hair stand on end: how carefully our elders guarded their tongues, how they turned away from pointless talk, and how they guarded every moment of their lives.

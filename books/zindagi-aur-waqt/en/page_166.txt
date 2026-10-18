@@ -1,0 +1,20 @@
+# title: Page 166
+# English edition of book page 166, built by build_english.py from en_src/ and page_166.txt
+
+[hen]
+Love of Land and Gold
+
+[en]
+Greed for land and gold also plays a large part in ruining life. Such a person also falls within the first kind, for he has taken gathering land and gold as the purpose of life, and this greed has taken him away from life's true purpose. It has left him no regard for brotherhood, no care for relatives, no concern for the poor and the orphan, but only one aim: that I acquire as much land as possible and gather as much wealth as possible. Allah the Exalted says:
+
+[ar]
+أَلْهَاكُمُ التَّكَاثُرْ
+
+[ar]
+حَتَّىٰ زُرْتُمُ الْمَقَابِرْ
+
+[ref]
+(التکاثر ۱۰۲: آیت ۱ تا ۲)
+
+[en]
+Competition in worldly increase diverts you Until you visit the graveyards.

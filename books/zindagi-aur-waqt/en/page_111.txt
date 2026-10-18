@@ -1,0 +1,26 @@
+# title: Page 111
+# English edition of book page 111, built by build_english.py from en_src/ and page_111.txt
+
+[hen]
+Abdullah ibn Umar, may Allah be pleased with them both (died 73 AH)
+
+[ar]
+عَنْ نَافِعٍ أَنَّهُ قَالَ: كَانَ ابْنُ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا يُحْيِي اللَّيْلَ صَلَاةْ، ثُمَّ يَقُولُ: يَا نَافِعْ، أَسْحَرْنَا؟ فَأَقُولُ: لَا، فَيُعَاوِدُ الصَّلَاةْ، إِلَى أَنْ أَقُولَ: نَعَمْ، فَيَقْعُدُ وَيَسْتَغْفِرُ وَيَدْعُو حَتَّى يُصْبِحْ
+
+[ref]
+این نحن من ہؤلاء، ۱/ ۲۲۱
+
+[en]
+Nafi, may Allah have mercy on him, the freed slave of Ibn Umar, narrated that Abdullah ibn Umar, may Allah be pleased with them both, would pray all night, then say: Nafi, has the time of sahur come? I would say: No, and he would start praying again, until I said: Yes, it has come. Then he would sit, seek forgiveness and make supplication until morning came.
+
+[ar]
+سُئِلَ نَافِعٌ: مَا كَانَ ابْنُ عُمَرَ يَصْنَعُ فِي مَنْزِلِهْ؟ قَالَ: الْوُضُوءُ لِكُلِّ صَلَاةْ، وَالْمُصْحَفُ فِيمَا بَيْنَهُمَا
+
+[ref]
+این نحن من ہؤلاء، ۲/ ۳۹
+
+[en]
+Nafi, may Allah have mercy on him, was asked: What did Abdullah ibn Umar do at home? He said: Ablution for every prayer, and between two prayers he would recite the Quran.
+
+[en]
+A reflection: that is, his time was spent preparing for prayer or reciting the Quran, and he was kept safe from useless things.

@@ -1,0 +1,17 @@
+# title: Page 68
+# English edition of book page 68, built by build_english.py from en_src/ and page_068.txt
+
+[hen]
+The Eleventh Hadith
+
+[ar]
+عَنْ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُ قَالَ: خَطَّ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ خَطًّا مُرَبَّعَا، وَخَطَّ خَطًّا فِي الْوَسَطِ خَارِجًا مِنْهْ، وَخَطَّ خُطُطًا صِغَارًا إِلَى هَذَا الَّذِي فِي الْوَسَطْ، مِنْ جَانِبِهِ الَّذِي فِي الْوَسَطِ وَقَالَ هَذَا الإِنْسَانْ، وَهَذَا أَجَلُهُ مُحِيطٌ بِهِ أَوْ قَدْ أَحَاطَ بِهِ وَهَذَا الَّذِي هُوَ خَارِجٌ أَمَلُهْ، وَهَذِهِ الْخُطُطُ الصِّغَارُ الأَعْرَاضْ، فَإِنْ أَخْطَأَهُ هَذَا نَهَشَهُ هَذَا، وَإِنْ أَخْطَأَهُ هَذَا نَهَشَهُ هَذَا
+
+[ref]
+صحیح البخاری، کتاب الرقاق، باب فی الامل وطولہ، رقم الحدیث: ۶۴۱۷، واللفظ لہ، وجامع الترمذی، کتاب صفۃ القیامۃ والرقائق، باب ۲۲، رقم الحدیث: ۲۴۵۴، سنن ابن ماجہ، کتاب الزہد، باب الامل والاجل، رقم الحدیث: ۴۲۳۱
+
+[en]
+Abdullah ibn Mas'ud, may Allah be pleased with him, narrated that the Messenger of Allah, peace be upon him, drew a square, and drew a line in the middle that went out beyond the square, and drew some small lines towards the middle line from its sides. He said: This is the human being, and this is his death, which surrounds him, or has surrounded him. This line going out is his hopes, and these small lines are the calamities that befall him. If this one misses him, that one seizes him, and if that one misses him, this one seizes him.
+
+[ref]
+نقشہ ملاحظہ فرمائیں! (اصل صفحہ میں)

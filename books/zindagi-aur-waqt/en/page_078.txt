@@ -1,0 +1,41 @@
+# title: Page 78
+# English edition of book page 78, built by build_english.py from en_src/ and page_078.txt
+
+[hen]
+Fajr
+
+[en]
+Its time begins when true dawn appears, and ends before sunrise.
+
+[hen]
+Zuhr
+
+[en]
+Its time begins when the sun passes its zenith, that is, right after midday, and ends when the shadow of everything equals its own length. That is, when the sun reaches its highest point and the shadow of each thing shrinks to its base, the length of one shadow is counted from there.
+
+[hen]
+Asr
+
+[en]
+Its time begins when the shadow of everything exceeds its own length. Its end has two cases. First, the preferred time: until the shadow of everything is twice its length. Second, the time of necessity: until just before sunset.
+
+[hen]
+Maghrib
+
+[en]
+Its time begins after sunset, and ends before the twilight disappears.
+
+[en]
+Note: twilight means the redness that remains in the west after the sun has set.
+
+[hen]
+Isha
+
+[en]
+Its time begins after the twilight disappears. About its end, two wordings are narrated. First, the middle of the night. Second, the first third of the night. That is, if the night is divided into three parts, the time of Isha lasts until the end of the first third.
+
+[en]
+Note: except for Isha, it is recommended to pray every prayer at the beginning of its time, while it is better to delay the Isha prayer.
+
+[ref]
+حدیث جابر، جامع الترمذی، کتاب مواقیت الصلاۃ، باب ما جاء فی مواقیت الصلاۃ، رقم الحدیث: ۱۵۰، وسنن النسائی، کتاب المواقیت، باب آخر وقت العصر، رقم الحدیث: ۵۱۳

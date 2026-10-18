@@ -1,0 +1,38 @@
+# title: Page 115
+# English edition of book page 115, built by build_english.py from en_src/ and page_115.txt
+
+[hen]
+Ata ibn Abi Rabah, may Allah have mercy on him (died 114 AH)
+
+[ar]
+عَنِ ابْنِ جُرَيْجٍ قَالَ: لَزِمْتُ عَطَاءً ثَمَانِيَ عَشْرَةَ سَنَةْ، وَكَانَ بَعْدَ مَا كَبِرَ وَضَعُفَ يَقُومُ إِلَى الصَّلَاةْ، فَيَقْرَأُ مِائَتَيْ آيَةٍ مِنَ الْبَقَرَةِ وَهُوَ قَائِمْ، لَا يَزُولُ مِنْهُ شَيْءٌ وَلَا يَتَحَرَّكْ
+
+[ref]
+سیر اعلام النبلاء، ۵/ ۸۷
+
+[en]
+Ibn Jurayj, may Allah have mercy on him, said: I stayed with Ata, may Allah have mercy on him, for eighteen years. Even though he was old and weak, he would recite two hundred verses of Surah al-Baqarah while standing in prayer, and no part of his body would bend or move.
+
+[hen]
+Amr ibn Dinar, may Allah have mercy on him (died 126 AH)
+
+[ar]
+قَالَ سُفْيَانُ بْنُ عُيَيْنَةْ: كَانَ عَمْرُو بْنُ دِينَارٍ جَزَّأَ اللَّيْلَ ثَلَاثَةَ أَجْزَاءْ، ثُلُثًا يَنَامْ، وَثُلُثًا يَدْرُسُ حَدِيثَهْ، وَثُلُثًا يُصَلِّي
+
+[ref]
+سیر اعلام النبلاء، ۵/ ۳۰۲
+
+[en]
+Sufyan ibn Uyaynah, may Allah have mercy on him, said: Amr ibn Dinar, may Allah have mercy on him, divided the night into three parts: a third for sleep, a third for going over the hadith he had memorised, and a third for prayer.
+
+[hen]
+Malik ibn Dinar, may Allah have mercy on him (died 131 AH)
+
+[ar]
+قَالَ سَلَّامُ بْنُ أَبِي مُطِيعْ: دَخَلْتُ عَلَى مَالِكِ بْنِ دِينَارٍ لَيْلًا وَهُوَ فِي بَيْتٍ بِغَيْرِ سِرَاجْ، وَفِي يَدِهِ رَغِيفٌ يَكْدِمُهْ، فَقُلْنَا لَهُ: أَبَا يَحْيَى، أَلَا سِرَاجْ؟ أَلَا شَيْءٌ تَضَعُ عَلَيْهِ خُبْزَكْ؟ فَقَالَ: دَعُونِي، فَوَاللَّهِ إِنِّي لَنَادِمٌ عَلَى مَا مَضَى
+
+[ref]
+حلیۃ الاولیاء، ۶/ ۱۸۹
+
+[en]
+Sallam ibn Abi Muti, may Allah have mercy on him, said: One night I came to Malik ibn Dinar, may Allah have mercy on him. He was sitting at home without a lamp lit, with a piece of dry bread in his hand that he was chewing. We said to him: O Abu Yahya, is there no lamp? Is there nothing on which to put your bread? He said: Leave me as I am, for by Allah, I regret the life that has passed.

@@ -1,0 +1,41 @@
+# title: Page 159
+# English edition of book page 159, built by build_english.py from en_src/ and page_159.txt
+
+[en]
+As Shaqiq ibn Ibrahim al-Azdi, may Allah have mercy on him, said:
+
+[ar]
+اسْتَعِدَّ إِذَا جَاءَكَ الْمَوْتُ لَا تَسْأَلِ الرَّجْعَةْ
+
+[ref]
+الزہد الکبیر للبیہقی، ص: ۲۱۱
+
+[en]
+Be prepared, so that when death comes to you, you do not ask to be sent back.
+
+[en]
+So a person should always be so prepared for death that when the message of death comes, he does not say these words:
+
+[ar]
+رَبِّ لَوْلَا أَخَّرْتَنِي إِلَىٰ أَجَلٍ قَرِيبٍ فَأَصَّدَّقَ وَأَكُنْ مِنَ الصَّالِحِينْ
+
+[ref]
+(المنافقون ۶۳: آیت ۱۰)
+
+[en]
+My Lord, if only You would delay me for a brief term so I would give charity and be among the righteous.
+
+[en]
+Rather, let him have a longing to meet his Lord: the Lord whom I worshipped all my life, the time has come today to meet Him, just as a lover longs to meet his beloved.
+
+[en]
+Imam Abu Hazim Salamah ibn Dinar, may Allah have mercy on him, was asked: How will the arrival before Allah be? He said:
+
+[ar]
+أَمَّا الْمُطِيعُ فَكَقُدُومِ الْغَائِبِ عَلَى أَهْلِهِ الْمُشْتَاقِينَ إِلَيْهْ، وَأَمَّا الْعَاصِي فَكَقُدُومِ الْعَبْدِ الْآبِقِ عَلَى سَيِّدِهِ الْغَضْبَانْ
+
+[ref]
+این نحن من ہؤلاء، ۳/ ۲۲۰
+
+[en]
+The one who obeys Allah will be like a traveller returning to his family, who long to meet him. And the disobedient sinner will return like a runaway slave brought back to his angry master. And Allah is the one whose help is sought.

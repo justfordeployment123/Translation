@@ -1,0 +1,32 @@
+# title: Page 86
+# English edition of book page 86, built by build_english.py from en_src/ and page_086.txt
+
+[hen]
+The Age to Begin Seeking Knowledge
+
+[en]
+All of life should be spent in acquiring knowledge and skills. But at what age should the seeking of knowledge begin? The early scholars held different views on this, which are as follows.
+
+[hen]
+The First View
+
+[en]
+Imam Qadi Iyad, may Allah have mercy on him, says: The limit set by the scholars of this field is the age of five, for a child of this age can hear something properly, understand it, and also pass it on.
+
+[hen]
+The Second View
+
+[en]
+According to Imam Ibn as-Salah, Imam an-Nawawi and Imam as-Suyuti, may Allah have mercy on them, the measure is discernment, whether the child is five years old, younger or older. When he can understand what is said and give an answer, he is considered discerning, and what he has heard is accepted.
+
+[hen]
+The Third View
+
+[en]
+Imam Musa ibn Harun, may Allah have mercy on him, says that when a child is asked and can tell the difference between a cow and a donkey, a child of that age is ready to seek knowledge.
+
+[hen]
+The Fourth View
+
+[en]
+Imam al-Khatib al-Baghdadi, may Allah have mercy on him, reports in al-Kifayah the age of fifteen from Imam Yahya ibn Ma'in, may Allah have mercy on him, and some other scholars.

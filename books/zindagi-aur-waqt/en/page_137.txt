@@ -1,0 +1,35 @@
+# title: Page 137
+# English edition of book page 137, built by build_english.py from en_src/ and page_137.txt
+
+[ar]
+صَاحَتْ بِهِمْ نَائِبَاتُ الدَّهْرِ فَانْقَلَبُوا، إِلَى الْقُبُورِ فَلَا عَيْنٌ وَلَا أَثَرٌ
+
+[en]
+The calamities of time called out to them, and they turned towards the graves. Today there is neither a person nor a trace left of them.
+
+[ref]
+التدوین فی اخبار قزوین، ۱/ ۱۷۹
+
+[hen]
+Abd al-Aziz ibn al-Hasan, may Allah have mercy on him
+
+[en]
+Advising his son, he said:
+
+[ar]
+مَا عُذْرُ مَنْ خَرَّ عَاصِيًا رَسَنَهْ، مَا عُذْرُهُ بَعْدَ أَرْبَعِينَ سَنَةْ
+
+[en]
+What excuse will there be for one who fell into sin with his reins let loose? What excuse will he have after forty years?
+
+[ar]
+مَا عُذْرُ مَنْ لَا يَكُفُّ مُنْتَهِيًا، عَنْ ذَنْبِهِ دُونَ لُبْسِهِ كَفَنَهْ
+
+[en]
+What excuse will there be for one who does not stop and give up his sins before he puts on his shroud?
+
+[ar]
+يَا رَاكِبَ الذَّنْبِ لَا يُفَارِقُهُ، وَالرُّوحُ مِنْهُ مُفَارِقٌ بَدَنَهْ
+
+[en]
+O you who ride on sin and will not leave it, while your soul is about to leave your body!

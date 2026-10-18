@@ -1,0 +1,41 @@
+# title: Page 120
+# English edition of book page 120, built by build_english.py from en_src/ and page_120.txt
+
+[hen]
+Muhammad ibn Idris ash-Shafi'i, may Allah have mercy on him (died 204 AH)
+
+[ar]
+قَالَ الرَّبِيعُ بْنُ سُلَيْمَانْ: كَانَ الشَّافِعِيُّ قَدْ جَزَّأَ اللَّيْلْ، فَثُلُثُهُ الْأَوَّلُ يَكْتُبْ، وَالثَّانِي يُصَلِّي، وَالثَّالِثُ يَنَامْ
+
+[ref]
+سیر اعلام النبلاء، ۱۰/ ۳۵
+
+[en]
+Ar-Rabi ibn Sulayman, may Allah have mercy on him, said that Imam ash-Shafi'i, may Allah have mercy on him, had divided the night into three parts: in the first third he wrote, in the second third he prayed, and in the last third he slept.
+
+[en]
+Ar-Rabi, may Allah have mercy on him, also reports about Imam ash-Shafi'i that he completed the Quran sixty times in Ramadan, and Ibn Abi Hatim, may Allah have mercy on him, said that he completed it sixty times while in prayer.
+
+[hen]
+Ahmad ibn Hanbal, may Allah have mercy on him (died 241 AH)
+
+[ar]
+قَالَ عَبْدُ اللَّهِ بْنُ أَحْمَدْ: كَانَ أَبِي يُصَلِّي فِي كُلِّ يَوْمٍ وَلَيْلَةٍ ثَلَاثَمِائَةِ رَكْعَةْ، فَلَمَّا مَرِضَ مِنْ تِلْكَ الْأَسْوَاطِ أَضْعَفَتْهْ، فَكَانَ يُصَلِّي كُلَّ يَوْمٍ وَلَيْلَةٍ مِائَةً وَخَمْسِينَ رَكْعَةْ
+
+[ref]
+سیر اعلام النبلاء، ۱۱/ ۲۱۲
+
+[en]
+Abdullah ibn Ahmad, the son of Imam Ahmad, may Allah have mercy on them, said: My father used to pray three hundred units every day and night. When he fell ill from the flogging, and the lashes had weakened him, he prayed a hundred and fifty units every day and night.
+
+[hen]
+Hannad ibn as-Sari, may Allah have mercy on him (died 243 AH)
+
+[ar]
+قَالَ أَحْمَدُ بْنُ سَلَمَةَ النَّيْسَابُورِيّ: كَانَ هَنَّادٌ كَثِيرَ الْبُكَاءْ، فَرَغَ يَوْمًا مِنَ الْقِرَاءَةِ لَنَا، فَتَوَضَّأَ وَجَاءَ إِلَى الْمَسْجِدْ، فَصَلَّى إِلَى الزَّوَالِ وَأَنَا مَعَهُ فِي الْمَسْجِدْ، ثُمَّ رَجَعَ إِلَى مَنْزِلِهِ فَتَوَضَّأَ وَجَاءَ فَصَلَّى بِنَا الظُّهْرْ، ثُمَّ قَامَ عَلَى رِجْلَيْهِ يُصَلِّي إِلَى الْعَصْرْ، يَرْفَعُ صَوْتَهُ بِالْقُرْآنِ وَيَبْكِي كَثِيرَا، ثُمَّ إِنَّهُ صَلَّى بِنَا الْعَصْرْ، وَأَخَذَ يَقْرَأُ فِي الْمُصْحَفِ حَتَّى صَلَّى الْمَغْرِبْ، قَالَ: قُلْتُ لِبَعْضِ جِيرَانِهْ: مَا أَصْبَرَهُ عَلَى الْعِبَادَةْ، فَقَالَ: هَذِهِ عِبَادَتُهُ بِالنَّهَارِ مُنْذُ سَبْعِينَ سَنَةْ، فَكَيْفَ لَوْ رَأَيْتَ عِبَادَتَهُ بِاللَّيْلْ
+
+[ref]
+سیر اعلام النبلاء، ۱۱/ ۴۶۶
+
+[en]
+Ahmad ibn Salamah an-Naysaburi, may Allah have mercy on him, said: Hannad, may Allah have mercy on him, wept a great deal. One day, when he had finished reading hadith to us, he made ablution and came to the mosque, and kept praying until midday, while I was with him in the mosque. Then he went home, made ablution and came back and led us in the Zuhr prayer. Then he stood on his feet and kept praying until Asr, reciting the Quran aloud and weeping a great deal, until he led us in the Asr prayer. Then he sat and began reciting the Quran until he prayed Maghrib. Ahmad ibn Salamah said: I said to one of his neighbours: How patient and steadfast he is in worship! He said: This has been his worship by day for seventy years. If you saw his worship by night, how amazed you would be!

@@ -1,0 +1,17 @@
+# title: Page 67
+# English edition of book page 67, built by build_english.py from en_src/ and page_067.txt
+
+[hen]
+The Tenth Hadith
+
+[ar]
+عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: أَعْمَارُ أُمَّتِي مَا بَيْنَ السِّتِّينَ إِلَى السَّبْعِينْ، وَأَقَلُّهُمْ مَنْ يَجُوزُ ذَلِكْ
+
+[ref]
+جامع الترمذی، کتاب الزہد، باب فی فناء اعمار ہذہ الامۃ، رقم الحدیث: ۲۳۳۱، وسنن ابن ماجہ، کتاب الزہد، باب الامل والاجل، رقم الحدیث: ۴۲۳۶، واللفظ لہ، والسلسلۃ الصحیحۃ: ۷۵۷
+
+[en]
+Abu Hurayrah, may Allah be pleased with him, narrated that the Messenger of Allah, peace be upon him, said: The lifespans of my Ummah will be between sixty and seventy years, and few of them will go beyond that.
+
+[en]
+This narration tells us that the lifespans of this Ummah will be much shorter than those of the earlier nations. And the shorter the time to reach a goal, the faster one must move. So in this short respite we should strive and work harder at good deeds. Whoever has reached nearly sixty years should be all the more concerned, for he may not pass sixty. And if his life has already passed sixty, let him consider it a bonus, make good use of it, and seek forgiveness from his Lord. Especially in these times, when the years are passing so quickly, and things from long ago feel as if they happened only yesterday.

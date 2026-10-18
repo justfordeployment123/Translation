@@ -1,0 +1,41 @@
+# title: Page 125
+# English edition of book page 125, built by build_english.py from en_src/ and page_125.txt
+
+[ar]
+كَانَ النَّبِيُّ وَلَمْ يَخْلُدْ لِأُمَّتِهِ، لَوْ خَلَّدَ اللَّهُ خَلْقًا قَبْلَهُ خَلَدَا
+
+[en]
+The Prophet, peace be upon him, was among us, yet he did not remain forever for his Ummah. If Allah had made anyone before him immortal, he too would have lived forever.
+
+[ar]
+لِلْمَوْتِ فِينَا سِهَامٌ غَيْرُ خَاطِئَةٍ، مَنْ فَاتَهُ الْيَوْمَ سَهْمٌ لَمْ يَفُتْهُ غَدَا
+
+[en]
+Death has arrows aimed at us that never miss. Whoever an arrow misses today, it will not miss tomorrow.
+
+[ref]
+دیوان علی، ص: ۶۹
+
+[en]
+He also said:
+
+[ar]
+جَنْبِي تَجَافَى عَنِ الْوِسَادِ، خَوْفًا مِنَ الْمَوْتِ وَالْمَعَادِ
+
+[en]
+My side keeps away from the pillow, out of fear of death and the Hereafter.
+
+[ar]
+مَنْ خَافَ مِنْ سَكْرَةِ الْمَنَايَا، لَمْ يَدْرِ مَا لَذَّةُ الرُّقَادِ
+
+[en]
+Whoever fears the throes of death does not know what the pleasure of sleep is.
+
+[ar]
+قَدْ بَلَغَ الزَّرْعُ مُنْتَهَاهُ، لَا بُدَّ لِلزَّرْعِ مِنْ حَصَادِ
+
+[en]
+The crop has reached its end, and now the harvest must come.
+
+[ref]
+دیوان علی، ص: ۶۶

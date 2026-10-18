@@ -1,0 +1,38 @@
+# title: Page 94
+# English edition of book page 94, built by build_english.py from en_src/ and page_094.txt
+
+[hen]
+The Saying of Sa'id ibn Jubayr, may Allah have mercy on him (died 95 AH)
+
+[ar]
+إِنَّ كُلَّ يَوْمٍ يَعِيشُهُ الْمُؤْمِنُ غَنِيمَةْ
+
+[ref]
+این نحن من ہؤلاء، ۲/ ۱۴
+
+[en]
+Every day that the believer lives is a gain.
+
+[hen]
+The Saying of Muwarriq al-Ijli, may Allah have mercy on him (died 101 AH)
+
+[ar]
+يَا ابْنَ آدَمْ، تُؤْتَى كُلَّ يَوْمٍ بِرِزْقِكَ وَأَنْتَ تَحْزَنْ، وَيَنْقُصُ مِنْ عُمُرِكَ وَأَنْتَ لَا تَحْزَنْ، تَطْلُبُ مَا يُطْغِيكَ وَعِنْدَكَ مَا يَكْفِيكْ
+
+[ref]
+این نحن من ہؤلاء، ۲/ ۱۷
+
+[en]
+Son of Adam, you spend the whole day earning your provision, and still you are worried, while your life is growing shorter and you are not worried. You seek to gather so much wealth that it makes you rebellious, while you already have what is enough for you.
+
+[hen]
+The Saying of Awn ibn Abdullah, may Allah have mercy on him (died 110 AH)
+
+[ar]
+وَيْحِي، كَيْفَ أَغْفُلُ وَلَا يُغْفَلُ عَنِّي، وَكَيْفَ يَهْنَأُ عَيْشِي وَالْيَوْمُ الثَّقِيلُ مِنْ وَرَائِي، كَيْفَ لَا أُبَادِرُ بِعَمَلِي وَلَا أَدْرِي مَتَى أَجَلِي، أَمْ كَيْفَ أُسَرُّ بِالدُّنْيَا وَلَا يَدُومُ فِيهَا حَالِي، أَمْ كَيْفَ أُوثِرُهَا وَقَدْ أَضَرَّتْ بِمَنْ آثَرَهَا قَبْلِي، أَمْ كَيْفَ يَشْتَدُّ حِرْصِي عَلَيْهَا وَفِي غَيْرِهَا قَرَارِي وَخُلْدِي، أَمْ كَيْفَ تُعْجِبُنِي وَهِيَ زَائِلَةٌ وَمُنْقَطِعَةٌ عَنِّي، أَمْ كَيْفَ لَا يَطُولُ حُزْنِي وَرَبِّي لَا أَدْرِي مَاذَا يَفْعَلُ بِي فِي ذُنُوبِي
+
+[ref]
+بحر الدموع لابن الجوزی، ص: ۱۰۳
+
+[en]
+Woe to me! How can I be heedless when I am not being neglected, that is, every movement of mine is being written? How can my life be easy when a heavy day lies behind me? How can I not hasten to good deeds when I do not know when my death will come? How can I be happy in this world when my state in it will not last? How can I prefer this world when it harmed those who preferred it before me? How can my greed for this world increase when my settling place and my eternal home are elsewhere, in the Hereafter? How can I love this world when it is passing and coming to an end? And how can my grief not increase, when I do not know how my Lord will deal with me because of my sins?

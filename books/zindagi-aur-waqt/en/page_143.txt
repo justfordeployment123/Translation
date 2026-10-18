@@ -1,0 +1,29 @@
+# title: Page 143
+# English edition of book page 143, built by build_english.py from en_src/ and page_143.txt
+
+[en]
+What is the matter with people, that they go and do not come back? Are they content and have settled there, or have they been left and fallen asleep? The Messenger of Allah, peace be upon him, said: Then Quss ibn Sa'idah recited some verses which I have not remembered. Abu Bakr, may Allah be pleased with him, stood up and said: I was present there, and I remember those words. The Messenger of Allah, peace be upon him, said: What were they? Abu Bakr, may Allah be pleased with him, said: At the end of his speech were these verses:
+
+[ar]
+فِي الذَّاهِبِينَ الْأَوَّلِينَ، مِنَ الْقُرُونِ لَنَا بَصَائِرُ
+
+[en]
+In those who passed away in the first generations, there are lessons for us.
+
+[ar]
+لَمَّا رَأَيْتُ مَوَارِدًا، لِلْمَوْتِ لَيْسَ لَهَا مَصَادِرُ
+
+[en]
+When I saw the watering places of death, from which there is no way back.
+
+[ar]
+وَرَأَيْتُ قَوْمِي نَحْوَهَا، تَمْضِي الْأَكَابِرُ وَالْأَصَاغِرُ
+
+[en]
+And I saw my people, the great and the small, all going towards them.
+
+[ar]
+وَلَا يَرْجِعُ الْمَاضِي إِلَيَّ، وَلَا مِنَ الْبَاقِينَ غَابِرُ
+
+[en]
+The one who has gone will not come back to me, and of those who remain, none will stay behind.

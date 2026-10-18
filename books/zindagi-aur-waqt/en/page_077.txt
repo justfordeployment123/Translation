@@ -1,0 +1,20 @@
+# title: Page 77
+# English edition of book page 77, built by build_english.py from en_src/ and page_077.txt
+
+[ar]
+عَنْ زَيْدِ بْنِ خَالِدٍ الْجُهَنِيِّ رَضِيَ اللَّهُ عَنْهُ أَنَّهُ قَالَ صَلَّى لَنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ صَلاَةَ الصُّبْحِ بِالْحُدَيْبِيَةِ عَلَى إِثْرِ سَمَاءٍ كَانَتْ مِنَ اللَّيْلَةْ، فَلَمَّا انْصَرَفَ أَقْبَلَ عَلَى النَّاسِ فَقَالَ هَلْ تَدْرُونَ مَاذَا قَالَ رَبُّكُمْ، قَالُوا اللَّهُ وَرَسُولُهُ أَعْلَمْ، قَالَ أَصْبَحَ مِنْ عِبَادِي مُؤْمِنٌ بِي وَكَافِرْ، فَأَمَّا مَنْ قَالَ مُطِرْنَا بِفَضْلِ اللَّهِ وَرَحْمَتِهِ فَذَلِكَ مُؤْمِنٌ بِي وَكَافِرٌ بِالْكَوْكَبْ، وَأَمَّا مَنْ قَالَ بِنَوْءِ كَذَا وَكَذَا فَذَلِكَ كَافِرٌ بِي وَمُؤْمِنٌ بِالْكَوْكَبْ
+
+[ref]
+صحیح البخاری، کتاب الاذان، باب یستقبل الامام الناس اذا سلم، رقم الحدیث: ۸۴۶
+
+[en]
+Zayd ibn Khalid al-Juhani, may Allah be pleased with him, narrated: The Messenger of Allah, peace be upon him, led us in the morning prayer at al-Hudaybiyah, after rain that had fallen during the night. When he finished the prayer, he turned to the people and said: Do you know what your Lord has said? They said: Allah and His Messenger know best. He said: Among My servants, some have woken up believing in Me and some disbelieving. Whoever says: We were given rain by the grace of Allah and His mercy, he is a believer in Me and a disbeliever in the stars. And whoever says: We were given rain by such and such a star, he is a disbeliever in Me and a believer in the stars.
+
+[en]
+These narrations make it clear that the movements of the stars and planets have no effect on human life. Rather, every change in the world happens only by the command of Allah.
+
+[hen]
+The Times of the Prayers
+
+[en]
+In the hadith of Jabir, may Allah be pleased with him, it is narrated that Jibril, peace be upon him, came to the Prophet, peace be upon him, and led him in prayer on two days, at the beginning and at the end of each prayer's time, and explained the times, which are as follows.

@@ -1,0 +1,35 @@
+# title: Page 135
+# English edition of book page 135, built by build_english.py from en_src/ and page_135.txt
+
+[ar]
+هَلْ مِنَ الْمَوْتِ لَا أَبَا لَكَ بُدٌّ، أَيُّ حَيٍّ إِلَى سِوَى الْمَوْتِ صَارَا
+
+[en]
+Is there, upon my word, any escape from death? Who that lives has ever gone anywhere but to death?
+
+[en]
+He also said:
+
+[ar]
+وَلَا خَيْرَ فِي الدُّنْيَا لِمَنْ لَمْ يَكُنْ لَهُ، مِنَ اللَّهِ فِي دَارِ الْمُقَامِ نَصِيبٌ
+
+[en]
+There is no good in this world for one who has no share with Allah in the everlasting home, the Hereafter.
+
+[ar]
+فَإِنْ تُعْجِبِ الدُّنْيَا رِجَالًا فَإِنَّهُ، مَتَاعٌ قَلِيلٌ وَالزَّوَالُ قَرِيبٌ
+
+[en]
+If this world pleases some people, it is only a little enjoyment, and its passing is near.
+
+[ref]
+الزہد الکبیر للبیہقی، ص: ۲۵۵
+
+[en]
+Mahmud al-Warraq, may Allah have mercy on him, said:
+
+[ar]
+يَبْكِي عَلَى مَيِّتٍ وَيُغْفِلُ نَفْسَهُ، كَأَنَّ بِكَفَّيْهِ أَمَانًا مِنَ الرَّدَى
+
+[en]
+He weeps over the dead and neglects his own soul, as if he held in his hands a guarantee of safety from death.

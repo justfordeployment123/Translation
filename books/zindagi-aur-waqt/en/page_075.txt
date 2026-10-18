@@ -1,0 +1,26 @@
+# title: Page 75
+# English edition of book page 75, built by build_english.py from en_src/ and page_075.txt
+
+[hen]
+Speaking Ill of Time
+
+[en]
+Just as the Islamic Shariah has forbidden many other evil acts, it has also forbidden speaking ill of time, because speaking ill of time is in reality speaking ill of the Creator of time. The Prophet, peace be upon him, said:
+
+[ar]
+عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: قَالَ اللَّهُ تَعَالَى: يُؤْذِينِي ابْنُ آدَمْ، يَسُبُّ الدَّهْرَ وَأَنَا الدَّهْرْ، بِيَدِي الأَمْرْ، أُقَلِّبُ اللَّيْلَ وَالنَّهَارْ
+
+[ref]
+صحیح البخاری، کتاب التفسیر، باب وما یہلکنا الا الدہر، رقم الحدیث: ۴۸۲۶
+
+[en]
+Abu Hurayrah, may Allah be pleased with him, narrated that the Messenger of Allah, peace be upon him, said: Allah the Exalted says: The son of Adam hurts Me by cursing time, while I am time. In My hand is the command; I alternate the night and the day.
+
+[en]
+So we should not curse time or speak ill of it, as people commonly say: bad times have come. The time is the same; rather, the people of the time have become bad.
+
+[hen]
+Belief in Stars and Months
+
+[en]
+Another thing has become common in our society. When two friends meet, they ask each other with great interest: What is your star sign? And when the other friend tells him, they guess what effect his star has on him. Newspapers too spread this false belief, telling you how your week will go, and everyone, high and low, pays attention to it and draws conclusions from it. The belief presented is that the months have their own signs of the zodiac, and that these signs affect whoever is born in those months. Yet the Islamic Shariah has denied this and declared this belief to be false. Consider the following.

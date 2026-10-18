@@ -1,0 +1,23 @@
+# title: Page 127
+# English edition of book page 127, built by build_english.py from en_src/ and page_127.txt
+
+[en]
+It is narrated about al-Hasan al-Basri, may Allah have mercy on him, that in the morning he would recite this verse:
+
+[ar]
+يَسُرُّ الْفَتَى مَا كَانَ قَدَّمَ مِنْ تُقًى، إِذَا عَرَفَ الدَّاءَ الَّذِي هُوَ قَاتِلُهُ
+
+[en]
+A young man is gladdened by the piety he has sent ahead, especially when he recognises the illness that will be the death of him.
+
+[en]
+And when evening came, he would recite this verse:
+
+[ar]
+وَمَا الدُّنْيَا بِبَاقِيَةٍ لِحَيٍّ، وَمَا حَيٌّ عَلَى الدُّنْيَا بِبَاقِ
+
+[en]
+This world does not remain for anyone alive, and no one alive remains in this world.
+
+[ref]
+الزہد الکبیر للبیہقی، ص: ۲۳۳

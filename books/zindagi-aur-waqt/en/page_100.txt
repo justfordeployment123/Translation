@@ -1,0 +1,26 @@
+# title: Page 100
+# English edition of book page 100, built by build_english.py from en_src/ and page_100.txt
+
+[hen]
+A Benefit
+
+[en]
+The soul is such that it becomes used to whatever a person accustoms it to. If you accustom it to good, it will hold firm to good, and if you accustom it to evil and bad desires, it will lean towards them. As the famous verse says:
+
+[ar]
+وَالنَّفْسُ رَاغِبَةٌ إِذَا رَغَّبْتَهَا، وَإِذَا تُرَدُّ إِلَى قَلِيلٍ تَقْنَعْ
+
+[en]
+The soul desires more when you give it what it desires, and when it is brought back to a little, it is content.
+
+[hen]
+The Saying of Hatim al-Asamm, may Allah have mercy on him (died 237 AH)
+
+[ar]
+قَالَ رَجُلٌ لِحَاتِمٍ الْأَصَمّ: مَا تَشْتَهِي؟ قَالَ: أَشْتَهِي عَافِيَةَ يَوْمٍ إِلَى اللَّيْلْ، فَقِيلَ لَهُ: أَلَيْسَتِ الْأَيَّامُ كُلُّهَا عَافِيَةْ؟ قَالَ: إِنَّ عَافِيَةَ يَوْمِي أَنْ لَا أَعْصِيَ اللَّهَ فِيهْ
+
+[ref]
+صفۃ الصفوۃ لابن الجوزی، ۴/ ۱۶۲
+
+[en]
+A man said to Hatim al-Asamm, may Allah have mercy on him: What do you wish for? He said: I wish that my day be safe until night. He was asked: Are not all days safe? He said: The safety of my day is that I have not disobeyed Allah in it.

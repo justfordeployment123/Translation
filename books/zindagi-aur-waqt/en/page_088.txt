@@ -1,0 +1,23 @@
+# title: Page 88
+# English edition of book page 88, built by build_english.py from en_src/ and page_088.txt
+
+[hen]
+Chapter Four: The Importance of Time and the Sayings of the Predecessors
+
+[hen]
+Part One: Sayings of the Companions, may Allah be pleased with them
+
+[hen]
+The Saying of Mu'adh ibn Jabal, may Allah be pleased with him (died 18 AH)
+
+[en]
+When the last moments of Mu'adh ibn Jabal, may Allah be pleased with him, came, it was night. He asked his son: Has dawn come? He replied: No, father. A little while passed, and he asked the same question and received the same answer. A little later he was told that morning had come, and he said:
+
+[ar]
+اللَّهُمَّ إِنِّي قَدْ كُنْتُ أَخَافُكْ، فَأَنَا الْيَوْمَ أَرْجُوكْ، اللَّهُمَّ إِنَّكَ كُنْتَ تَعْلَمُ أَنِّي لَمْ أَكُنْ أُحِبُّ الدُّنْيَا وَطُولَ الْبَقَاءِ فِيهَا لِكَرْيِ الْأَنْهَارِ وَلَا لِغَرْسِ الْأَشْجَارْ، وَلَكِنْ لِظَمَإِ الْهَوَاجِرْ، وَمُكَابَدَةِ السَّاعَاتْ، وَمُزَاحَمَةِ الْعُلَمَاءِ بِالرُّكَبِ عِنْدَ حِلَقِ الذِّكْرْ
+
+[ref]
+الزہد للامام احمد، ص: ۲۲۶
+
+[en]
+O Allah, I used to fear You, and today I hope in Your mercy. O Allah, You know that I did not love this world, or staying long in it to dig rivers or plant trees. Rather, I loved the thirst of the midday heat while fasting, worship in the hours of the night, and sitting on my knees beside the people of knowledge in the circles of remembrance.

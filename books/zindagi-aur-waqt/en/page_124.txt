@@ -1,0 +1,50 @@
+# title: Page 124
+# English edition of book page 124, built by build_english.py from en_src/ and page_124.txt
+
+[ar]
+إِنَّمَا الدُّنْيَا كَبَيْتٍ نَسَجَتْهُ الْعَنْكَبُوتُ
+
+[en]
+This world is only like a house that a spider has woven.
+
+[ar]
+وَلَقَدْ يَكْفِيكَ مِنْهَا أَيُّهَا الطَّالِبُ قُوتُ
+
+[en]
+O you who seek it, all you need from it is enough to live on.
+
+[ar]
+وَلَعَمْرِي عَنْ قَلِيلٍ كُلُّ مَنْ فِيهَا يَمُوتُ
+
+[en]
+By my life, before long everyone in it will die.
+
+[ref]
+دیوان علی، ص: ۵۴
+
+[en]
+He also said:
+
+[ar]
+أَلَمْ تَرَ أَنَّ الدَّهْرَ يَوْمٌ وَلَيْلَةٌ، يَكُرَّانِ مِنْ سَبْتٍ جَدِيدٍ إِلَى سَبْتِ
+
+[en]
+Have you not seen that time is only a day and a night, which come round again and again, week after week?
+
+[ar]
+فَقُلْ لِجَدِيدِ الثَّوْبِ لَا بُدَّ مِنْ بِلًى، وَقُلْ لِاجْتِمَاعِ الشَّمْلِ لَا بُدَّ مِنْ شَتِّ
+
+[en]
+So say to every new garment: you must wear out. And say to every gathering: you must scatter.
+
+[ref]
+دیوان علی، ص: ۵۴
+
+[en]
+He also said:
+
+[ar]
+الْمَوْتُ لَا وَالِدًا يُبْقِي وَلَا وَلَدَا، هَذَا السَّبِيلُ إِلَى أَنْ لَا تَرَى أَحَدَا
+
+[en]
+Death spares neither father nor son. This path leads in one direction, where in the end you will see no one.

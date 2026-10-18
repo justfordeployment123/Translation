@@ -1,0 +1,38 @@
+# title: Page 148
+# English edition of book page 148, built by build_english.py from en_src/ and page_148.txt
+
+[en]
+A poet said:
+
+[ar]
+وَمِنْ عَجَبِ الْأَيَّامِ أَنَّكَ جَالِسٌ، عَلَى الْأَرْضِ فِي الدُّنْيَا وَأَنْتَ تَسِيرُ
+
+[en]
+One of the wonders of the days is that you sit upon the earth in this world, and yet you are moving.
+
+[ar]
+فَسَيْرُكَ يَا هَذَا كَسَيْرِ سَفِينَةٍ، بِقَوْمٍ جُلُوسٍ وَالْقُلُوعُ تَطِيرُ
+
+[en]
+O you, your journey is like the journey of a ship carrying people who sit still, while its sails fly.
+
+[ref]
+این نحن من ہؤلاء، ۲/ ۲۷
+
+[en]
+A poet said:
+
+[ar]
+أَيَّامُ عُمْرِكَ تَذْهَبُ، وَجَمِيعُ سَعْيِكَ يُكْتَبُ
+
+[en]
+The days of your life are passing, and all your efforts are being written down.
+
+[ar]
+ثُمَّ الشَّهِيدُ عَلَيْكَ مِنْكَ، فَأَيْنَ الْمَهْرَبُ
+
+[en]
+Then your own deeds will bear witness against you, so where, where is there to flee?
+
+[ref]
+این نحن من ہؤلاء، ۲/ ۳۵

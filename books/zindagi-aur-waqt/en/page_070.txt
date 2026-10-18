@@ -1,0 +1,20 @@
+# title: Page 70
+# English edition of book page 70, built by build_english.py from en_src/ and page_070.txt
+
+[hen]
+The Thirteenth Hadith
+
+[ar]
+عَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا خَرَجَ مِنَ الْخَلاَءِ قَالَ غُفْرَانَكْ
+
+[ref]
+سنن ابی داؤد، کتاب الطہارۃ، باب ما یقول الرجل اذا خرج من الخلاء، رقم الحدیث: ۳۰، وجامع الترمذی، کتاب الطہارۃ، باب ما یقول اذا خرج من الخلاء، رقم الحدیث: ۷، وسنن ابن ماجہ، کتاب الطہارۃ، باب ما یقول اذا خرج من الخلاء، رقم الحدیث: ۳۰۰
+
+[en]
+Aishah, may Allah be pleased with her, narrated that whenever the Prophet, peace be upon him, came out of the toilet, he would say: Ghufranak, O Allah, I ask Your forgiveness.
+
+[hen]
+The Point of Evidence
+
+[en]
+At first sight this narration does not seem to say anything about the importance of time. But if we reflect and ponder, we ask: why did the Prophet, peace be upon him, say these words after relieving himself, in which he asked Allah for forgiveness? According to some scholars, the part of life spent in relieving oneself passed without the remembrance of Allah, and so he, peace be upon him, asked Allah for forgiveness and pardon afterwards.

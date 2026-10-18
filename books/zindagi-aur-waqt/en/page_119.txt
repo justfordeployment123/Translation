@@ -1,0 +1,20 @@
+# title: Page 119
+# English edition of book page 119, built by build_english.py from en_src/ and page_119.txt
+
+[hen]
+Waki ibn al-Jarrah al-Kufi, may Allah have mercy on him (died 197 AH)
+
+[ar]
+كَانَ وَكِيعٌ لَا يَنَامُ حَتَّى يَقْرَأَ ثُلُثَ الْقُرْآنْ، ثُمَّ يَقُومُ فِي آخِرِ اللَّيْلِ فَيَقْرَأُ الْمُفَصَّلْ، ثُمَّ يَجْلِسُ فَيَأْخُذُ فِي الِاسْتِغْفَارِ حَتَّى يَطْلُعَ الْفَجْرْ، فَيُصَلِّي رَكْعَتَيْنْ
+
+[ref]
+صفۃ الصفوۃ، ۳/ ۱۷۱
+
+[en]
+Waki ibn al-Jarrah, may Allah have mercy on him, would not sleep at night until he had recited a third of the Quran. Then in the last part of the night he would stand in prayer and recite the shorter surahs. Then he would sit and begin seeking forgiveness until dawn broke, and then pray the two units of the morning.
+
+[en]
+Yahya ibn Aktham, may Allah have mercy on him, also relates about him: I kept his company while travelling and at home. He always fasted voluntarily and completed the Quran every night. May Allah grant us too the ability to obey Him. Ameen.
+
+[en]
+That is why Imam Ahmad ibn Hanbal, may Allah have mercy on him, said: I have not seen anyone like Waki ibn al-Jarrah in knowledge and memory, in forbearance, and in the fear of Allah.

@@ -14,6 +14,7 @@ Usage:
 import json
 import re
 import sys
+import time
 import urllib.request
 from functools import lru_cache
 from pathlib import Path
@@ -28,8 +29,15 @@ QEN = re.compile(r"\{\{QEN ([\d: ]+)\}\}")
 @lru_cache(maxsize=None)
 def sahih(ref):
     url = f"https://api.alquran.cloud/v1/ayah/{ref}/en.sahih"
-    with urllib.request.urlopen(url, timeout=60) as resp:
-        text = json.load(resp)["data"]["text"]
+    for attempt in range(5):  # the API sometimes times out or returns 503 for a moment
+        try:
+            with urllib.request.urlopen(url, timeout=60) as resp:
+                text = json.load(resp)["data"]["text"]
+            break
+        except OSError:
+            if attempt == 4:
+                raise
+            time.sleep(5 * (attempt + 1))
     return " ".join(text.replace("[", "").replace("]", "").split())
 
 

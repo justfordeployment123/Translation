@@ -1,0 +1,38 @@
+# title: Page 151
+# English edition of book page 151, built by build_english.py from en_src/ and page_151.txt
+
+[en]
+These things are as follows.
+
+[hen]
+Sin and Disobedience
+
+[en]
+Disobedience plays a major part in wasting life. So first, an introduction to sin: what is sin? Some scholars have explained its meaning as follows:
+
+[ar]
+كُلُّ مَا عُصِيَ اللَّهُ بِهِ
+
+[en]
+Everything by which Allah the Exalted is disobeyed.
+
+[en]
+And in Sahih Muslim, an-Nawwas ibn Sam'an, may Allah be pleased with him, narrated that he asked the Prophet, peace be upon him, about righteousness and sin, and he, peace be upon him, said:
+
+[ar]
+الْبِرُّ حُسْنُ الْخُلُقِ وَالإِثْمُ مَا حَاكَ فِي صَدْرِكَ وَكَرِهْتَ أَنْ يَطَّلِعَ عَلَيْهِ النَّاسْ
+
+[ref]
+صحیح مسلم، کتاب البر والصلۃ، باب تفسیر البر والاثم، رقم الحدیث: ۲۵۵۳
+
+[en]
+Righteousness is good character, and sin is what troubles your heart and what you would dislike people to find out about.
+
+[en]
+All the evil and corruption that has arisen since the beginning was caused by this disobedience, and the hardships that have befallen humanity were in truth caused by this disobedience.
+
+[en]
+What was it because of which mankind's parents were sent out of Paradise?
+
+[en]
+What was it because of which Iblis was cast out?

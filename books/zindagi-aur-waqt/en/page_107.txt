@@ -1,0 +1,14 @@
+# title: Page 107
+# English edition of book page 107, built by build_english.py from en_src/ and page_107.txt
+
+[hen]
+The Saying of Amir ibn Abd Qays, the Successor, may Allah have mercy on him
+
+[ar]
+أَنَّ رَجُلًا قَالَ لَهُ: كَلِّمْنِي، فَقَالَ لَهُ عَامِرُ بْنُ عَبْدِ قَيْسٍ: أَمْسِكِ الشَّمْسَ حَتَّى أُكَلِّمَكْ
+
+[ref]
+قیمۃ الزمن عند العلماء، ص: ۲۶
+
+[en]
+A man said to him: Talk with me. Amir ibn Abd Qays, may Allah have mercy on him, said to him: Hold back the movement of the sun, so that I may talk with you.

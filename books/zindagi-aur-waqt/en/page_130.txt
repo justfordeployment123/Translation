@@ -1,0 +1,32 @@
+# title: Page 130
+# English edition of book page 130, built by build_english.py from en_src/ and page_130.txt
+
+[en]
+Mahmud ibn al-Hasan, may Allah have mercy on him, said:
+
+[ar]
+مَضَى أَمْسُكَ الْمَاضِي شَهِيدًا مُعَدَّلًا، وَأَعْقَبَهُ يَوْمٌ عَلَيْكَ جَدِيدُ
+
+[en]
+Your yesterday has passed, a just witness, and after it a new day has come to you.
+
+[ar]
+فَإِنْ كُنْتَ بِالْأَمْسِ اقْتَرَفْتَ إِسَاءَةً، فَثَنِّ بِإِحْسَانٍ وَأَنْتَ حَمِيدُ
+
+[en]
+If yesterday you committed a wrong, follow it with a good deed, and you will be praised.
+
+[ar]
+فَيَوْمُكَ إِنْ أَعْتَبْتَهُ عَادَ نَفْعُهُ، عَلَيْكَ وَمَا فِي الْأَمْسِ لَيْسَ يَعُودُ
+
+[en]
+If you make good use of your day, its benefit will return to you, and what was in yesterday will never return.
+
+[ar]
+وَلَا تُرْجِ فِعْلَ الْخَيْرِ يَوْمًا إِلَى غَدٍ، لَعَلَّ غَدًا يَأْتِي وَأَنْتَ فَقِيدُ
+
+[en]
+Do not put off doing good from today until tomorrow; perhaps tomorrow will come and you will be gone from the world.
+
+[ref]
+الزہد الکبیر للبیہقی، ص: ۲۳۶

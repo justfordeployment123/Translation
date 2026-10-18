@@ -1,0 +1,29 @@
+# title: Page 101
+# English edition of book page 101, built by build_english.py from en_src/ and page_101.txt
+
+[hen]
+A Benefit
+
+[en]
+This is the sign of the servants of Allah: they try to spend every day of their lives in the pleasure of Allah, and every day in which they are kept safe from disobedience is a day of joy and happiness for them. May Allah grant us this too. Ameen.
+
+[hen]
+The Saying of Dhun-Nun, may Allah have mercy on him (died 246 AH)
+
+[ar]
+مِنْ عَلَامَاتِ الْمُحِبِّ لِلَّهِ تَرْكُ كُلِّ مَنْ شَغَلَ عَنِ اللَّهِ عَزَّ وَجَلَّ حَتَّى يَكُونَ الشُّغْلُ كُلُّهُ بِاللَّهِ وَحْدَهْ
+
+[ref]
+الزہد الکبیر للبیہقی، ص: ۷۸
+
+[en]
+One of the signs of the one who loves Allah is that he leaves everyone and everything that keeps him busy away from Allah, until all his occupation is with Allah alone.
+
+[hen]
+The Saying of Yahya ibn Mu'adh ar-Razi, may Allah have mercy on him (died 258 AH)
+
+[ref]
+دُمْ جِهَازَكَ وَهَيِّئْ زَادَكَ وَتَهَيَّأْ لِلْعَرْضِ عَلَى رَبِّكَ جَلَّتْ عَظَمَتُهُ (الزہد الکبیر للبیہقی، ص: ۱۹۷)
+
+[en]
+Always keep yourself ready, keep your provisions prepared, and be ready to stand before your Lord, who is Most Great.

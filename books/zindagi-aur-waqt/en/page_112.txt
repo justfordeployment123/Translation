@@ -1,0 +1,38 @@
+# title: Page 112
+# English edition of book page 112, built by build_english.py from en_src/ and page_112.txt
+
+[hen]
+Part Two: Deeds of the Successors, may Allah have mercy on them
+
+[en]
+Like the Companions, may Allah be pleased with them, the Successors, may Allah have mercy on them, also kept their time busy with the worship of Allah. Here are some reports about a few of the Successors.
+
+[hen]
+Masruq ibn al-Ajda, may Allah have mercy on him (died 63 AH)
+
+[ar]
+عَنْ أَبِي إِسْحَاقَ قَالَ: حَجَّ مَسْرُوقٌ فَلَمْ يَنَمْ إِلَّا سَاجِدًا عَلَى وَجْهِهِ حَتَّى رَجَعْ
+
+[ref]
+صفۃ الصفوۃ، ۳/ ۲۵
+
+[en]
+Abu Ishaq, may Allah have mercy on him, said: Masruq performed Hajj, and was so devoted to worship that until he returned, he slept only a little while in prostration.
+
+[ar]
+عَنْ أَنَسٍ وَابْنِ سِيرِينَ أَنَّ امْرَأَةَ مَسْرُوقٍ قَالَتْ: كَانَ يُصَلِّي حَتَّى تَوَرَّمَ قَدَمَاهْ، فَرُبَّمَا جَلَسْتُ خَلْفَهُ أَبْكِي مِمَّا أَرَاهُ يَصْنَعُ بِنَفْسِهْ
+
+[ref]
+صفۃ الصفوۃ، ۳/ ۲۵
+
+[en]
+Anas and Ibn Sirin, may Allah have mercy on them, said that Masruq's wife related: Masruq would pray so long that both his feet would swell, and sometimes I would sit behind him and weep at what he was doing to himself.
+
+[ar]
+قَالَ إِبْرَاهِيمُ: كَانَ مَسْرُوقٌ يُرْخِي السِّتْرَ بَيْنَهُ وَبَيْنَ أَهْلِهْ، ثُمَّ يُقْبِلُ عَلَى صَلَاتِهِ وَيُخَلِّيهِمْ وَدُنْيَاهُمْ
+
+[ref]
+صفۃ الصفوۃ، ۳/ ۲۵
+
+[en]
+Ibrahim, may Allah have mercy on him, said that Masruq would draw a curtain between himself and his family, and turn to his prayer so completely that he became unaware of his family and their worldly affairs.

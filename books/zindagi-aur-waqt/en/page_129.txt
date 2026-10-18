@@ -1,0 +1,38 @@
+# title: Page 129
+# English edition of book page 129, built by build_english.py from en_src/ and page_129.txt
+
+[en]
+Al-Asma'i said:
+
+[ar]
+الدَّهْرُ أَفْنَانِي وَمَا أَفْنَيْتُهُ، وَالدَّهْرُ غَيَّرَنِي وَمَا يَتَغَيَّرُ
+
+[en]
+Time has worn me away, and I could not wear it away. Time has changed me, and it does not change.
+
+[ar]
+إِنَّ امْرَأً أَمْسَى أَبُوهُ وَأُمُّهُ، تَحْتَ التُّرَابِ فَحَقُّهُ يَتَفَكَّرُ
+
+[en]
+When a man's father and mother have gone beneath the earth, he ought to reflect.
+
+[ref]
+الزہد الکبیر للبیہقی، ص: ۲۳۴
+
+[en]
+Abu Abdullah Ahmad ibn Ayyub, may Allah have mercy on him, said:
+
+[ar]
+اغْتَنِمْ فِي الْفَرَاغِ فَضْلَ رُكُوعٍ، فَعَسَى أَنْ يَكُونَ مَوْتُكَ بَغْتَةْ
+
+[en]
+When you are free, take the chance to pray extra units, for your death may come suddenly.
+
+[ar]
+كَمْ صَحِيحٍ رَأَيْتُ مِنْ غَيْرِ سُقْمٍ، ذَهَبَتْ نَفْسُهُ الصَّحِيحَةُ فَلْتَةْ
+
+[en]
+How many healthy people have I seen, with no illness at all, whose healthy souls departed in an instant.
+
+[ref]
+الزہد الکبیر للبیہقی، ص: ۲۳۵

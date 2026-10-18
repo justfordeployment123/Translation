@@ -1,0 +1,35 @@
+# title: Page 164
+# English edition of book page 164, built by build_english.py from en_src/ and page_164.txt
+
+[hen]
+Natural Love
+
+[en]
+This means the natural love with which a person, by nature, loves his parents, children, spouse, friends and others. This love is permissible as long as it does not keep him from the remembrance of Allah and His love. As Allah the Exalted says:
+
+[ar]
+يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُلْهِكُمْ أَمْوَالُكُمْ وَلَا أَوْلَادُكُمْ عَنْ ذِكْرِ اللَّهِ ۚ وَمَنْ يَفْعَلْ ذَٰلِكَ فَأُولَٰئِكَ هُمُ الْخَاسِرُونْ
+
+[ref]
+(المنافقون ۶۳: آیت ۹)
+
+[en]
+O you who have believed, let not your wealth and your children divert you from remembrance of Allah. And whoever does that - then those are the losers.
+
+[en]
+These are the kinds that Imam Ibn al-Qayyim, may Allah have mercy on him, mentioned in his book ad-Da' wad-Dawa'.
+
+[hen]
+When Love Becomes Lust
+
+[en]
+Love becomes harmful in spoiling life when it takes the form of lust, and a person oversteps the limits of Allah the Exalted to fulfil it. In the Noble Quran, Allah the Exalted has described the things that lust loves in the following verse. Allah the Exalted says:
+
+[ar]
+زُيِّنَ لِلنَّاسِ حُبُّ الشَّهَوَاتِ مِنَ النِّسَاءِ وَالْبَنِينَ وَالْقَنَاطِيرِ الْمُقَنْطَرَةِ مِنَ الذَّهَبِ وَالْفِضَّةِ وَالْخَيْلِ الْمُسَوَّمَةِ وَالْأَنْعَامِ وَالْحَرْثِ ۗ ذَٰلِكَ مَتَاعُ الْحَيَاةِ الدُّنْيَا ۖ وَاللَّهُ عِنْدَهُ حُسْنُ الْمَآبْ
+
+[ref]
+(آل عمران ۳: آیت ۱۴)
+
+[en]
+Beautified for people is the love of that which they desire - of women and sons, heaped-up sums of gold and silver, fine branded horses, and cattle and tilled land. That is the enjoyment of worldly life, but Allah has with Him the best return.

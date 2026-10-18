@@ -1,0 +1,41 @@
+# title: Page 96
+# English edition of book page 96, built by build_english.py from en_src/ and page_096.txt
+
+[hen]
+The Second Saying
+
+[ar]
+ابْنَ آدَمْ، إِنَّمَا أَنْتَ أَيَّامٌ وَكُلَّمَا ذَهَبَ يَوْمٌ ذَهَبَ بَعْضُكْ
+
+[ref]
+الزہد للامام احمد، ص: ۲۳۹
+
+[en]
+Son of Adam, you are only a number of days. Whenever a day passes, a part of you passes.
+
+[hen]
+The Third Saying
+
+[ar]
+الدُّنْيَا ثَلَاثَةُ أَيَّامْ، أَمَّا أَمْسِ فَقَدْ ذَهَبَ بِمَا فِيهْ، وَأَمَّا غَدًا فَلَعَلَّكَ لَا تُدْرِكُهْ، فَالْيَوْمُ لَكَ فَاعْمَلْ فِيهْ
+
+[ref]
+الزہد الکبیر للبیہقی، ص: ۱۹۶
+
+[en]
+This world is three days. Yesterday has gone with all that was in it. Tomorrow, you may never reach it. So today is yours; do good deeds in it.
+
+[hen]
+The Fourth Saying
+
+[ar]
+قَالَ يَوْمًا لِجُلَسَائِهْ: يَا مَعْشَرَ الشُّيُوخْ، مَا يُنْتَظَرُ بِالزَّرْعِ إِذَا بَلَغْ؟ قَالُوا: الْحَصَادْ، قَالَ: يَا مَعْشَرَ الشَّبَابْ، إِنَّ الزَّرْعَ قَدْ تُدْرِكُهُ الْعَاهَةُ قَبْلَ أَنْ تَبْلُغْ
+
+[ref]
+الزہد الکبیر للبیہقی، ص: ۲۰۱
+
+[en]
+One day al-Hasan al-Basri, may Allah have mercy on him, said to those sitting with him: O company of old men, when the crop is ripe, what is waited for? They said: The harvest. Then he said: O company of young men, sometimes a blight strikes the crop even before it ripens.
+
+[en]
+So every old person should take this saying as a reminder that his life is about to end, since the crop has ripened, and should value good deeds. And no young person should be deceived into thinking that a long life still lies ahead, for a crop can be struck by blight even before it ripens.

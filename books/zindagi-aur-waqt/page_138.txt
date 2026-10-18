@@ -1,0 +1,26 @@
+# title: Page 138
+# Zindagi Aur Waqt, book page 138 (PDF page 140)
+# Continues Abd al-Aziz ibn al-Hasan's poem from page 137.
+# Ahmad ibn Asim al-Antaki's account, which starts at the bottom of this page, is moved to page 139.
+# Arabic: aaraab as in the book, standard spelling, rhyme words in the stopping form (sukun), as on page 137.
+
+[ar]
+عَجِبْتُ مِنْ ذِي أَخٍ يُسَرُّ بِهِ، إِذْ سُرَّ مِنْ بَعْدِهِ وَقَدْ دَفَنَهْ
+
+[ur]
+مجھے ایسے بھائی والے سے تعجب ہے جو اس (بھائی سے) خوش تو ہے، لیکن اس کو دفنانے کے بعد خوش ہو رہا ہے۔
+
+[ar]
+طَالَتْ بِهِ فِي الْحَيَاةِ فَرْحَتُهُ، وَلَمْ يَطُلْ بَعْدَ مَوْتِهِ حَزَنُهْ
+
+[ur]
+زندگی میں اس (بھائی) کے ساتھ اس کی خوشی بڑھ جاتی تھی، لیکن اس کی موت کے بعد اس کا غم نہیں بڑھتا۔
+
+[ar]
+طُوبَى لِمَنْ لَمْ يَخُنْ أَمَانَتَهْ، وَالْوَيْلُ عِنْدَ الْحِسَابِ لِلْخَوَنَةْ
+
+[ur]
+مبارک باد ہو اس کو جس نے اپنی امانت میں خیانت نہیں کی، اور حساب کے وقت خیانت کرنے والوں کے لیے بربادی ہو گی۔
+
+[ref]
+الزہد الکبیر للبیہقی، ص: ۲۶۰

@@ -1,7 +1,7 @@
 """Build the reading app (bookshelf, synced text, docked controls) as a static website.
 
 Usage:
-    python3 build_app.py --pages 13-62            # Zindagi Aur Waqt, book pages 13 to 62
+    python3 build_app.py --pages 13-178           # Zindagi Aur Waqt, the whole book
     python3 build_app.py --pages 13-62 --out site
 
 For each page it uses out/page_NNN_george (Urdu edition) and, when it exists, out/page_NNN_en (English
@@ -94,7 +94,7 @@ def chapter_mp3s(site, lang, edition):
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("--pages", default="13-62", help="book page range, e.g. 13-62")
+    ap.add_argument("--pages", default="13-178", help="book page range, e.g. 13-62")
     ap.add_argument("--out", default="site")
     ap.add_argument("--title", default="Noor Library · نور لائبریری")
     args = ap.parse_args()

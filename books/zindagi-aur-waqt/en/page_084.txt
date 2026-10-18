@@ -1,0 +1,29 @@
+# title: Page 84
+# English edition of book page 84, built by build_english.py from en_src/ and page_084.txt
+
+[hen]
+Sixth, an Hour on Friday
+
+[ar]
+عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ذَكَرَ يَوْمَ الْجُمُعَةِ فَقَالَ فِيهِ سَاعَةٌ لاَ يُوَافِقُهَا عَبْدٌ مُسْلِمْ، وَهْوَ قَائِمٌ يُصَلِّي، يَسْأَلُ اللَّهَ تَعَالَى شَيْئًا إِلاَّ أَعْطَاهُ إِيَّاهْ، وَأَشَارَ بِيَدِهِ يُقَلِّلُهَا
+
+[ref]
+صحیح البخاری، کتاب الجمعۃ، باب الساعۃ التی فی یوم الجمعۃ، رقم الحدیث: ۹۳۵، صحیح مسلم، کتاب الجمعۃ، باب فی الساعۃ التی فی یوم الجمعۃ، رقم الحدیث: ۸۵۲
+
+[en]
+Abu Hurayrah, may Allah be pleased with him, narrated that the Messenger of Allah, peace be upon him, mentioned Friday and said: In it there is an hour which no Muslim finds while standing in prayer, asking Allah for something, but that Allah gives it to him. And he pointed with his hand to show how short it is.
+
+[en]
+Note: Allamah Ibn al-Qayyim, may Allah have mercy on him, and other scholars considered the strongest view to be that this hour is after Asr.
+
+[ref]
+زاد المعاد، ۲/ ۳۸۸ تا ۳۹۷
+
+[hen]
+The Times for Seeking Knowledge and Memorising
+
+[en]
+Imam Burhan al-Islam az-Zarnuji, may Allah have mercy on him, mentions that the time for seeking knowledge is from the cradle to the grave, that is, all of life is the time for seeking knowledge. But for memorising, the following times are the best.
+
+[ref]
+تعلیم المتعلم طریق التعلم، ص: ۶۰

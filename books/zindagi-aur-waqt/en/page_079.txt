@@ -1,0 +1,26 @@
+# title: Page 79
+# English edition of book page 79, built by build_english.py from en_src/ and page_079.txt
+
+[hen]
+The Forbidden Times
+
+[en]
+The Islamic Shariah has described some times in which praying is forbidden, and in which voluntary prayer may not be offered. Some prayers are exceptions, which we will mention at the end.
+
+[en]
+First: from the appearance of true dawn until the sun has risen above the earth by the height of a spear.
+
+[en]
+Second: when the sun stands at its highest point, that is, just before it passes the zenith.
+
+[en]
+Third: from after the Asr prayer until sunset.
+
+[en]
+Likewise, one should not pray in these two states. First: while the sun is rising. Second: while the sun is setting.
+
+[en]
+The first three times are mentioned in the hadith of Uqbah ibn Amir, may Allah be pleased with him, and the last two in the hadith of Abdullah ibn Umar, may Allah be pleased with them both.
+
+[ref]
+حدیث عقبۃ بن عامر الجہنی، صحیح مسلم، کتاب صلاۃ المسافرین، باب الاوقات التی نہی عن الصلاۃ فیہا، رقم الحدیث: ۸۳۱، وسنن النسائی، کتاب المواقیت، باب الساعات التی نہی عن الصلاۃ فیہا، رقم الحدیث: ۵۶۰، وسنن ابن ماجہ، کتاب الجنائز، باب ما جاء فی الاوقات التی لا یصلی فیہا علی المیت، رقم الحدیث: ۱۵۱۹، وحدیث ابن عمر، سنن النسائی، کتاب المواقیت، باب النہی عن الصلاۃ بعد العصر، رقم الحدیث: ۵۷۱

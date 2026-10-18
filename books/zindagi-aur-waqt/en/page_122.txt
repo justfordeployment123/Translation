@@ -1,0 +1,5 @@
+# title: Page 122
+# English edition of book page 122, built by build_english.py from en_src/ and page_122.txt
+
+[ref]
+باب پنجم مکمل ہوا

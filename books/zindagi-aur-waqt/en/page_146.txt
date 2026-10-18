@@ -1,0 +1,32 @@
+# title: Page 146
+# English edition of book page 146, built by build_english.py from en_src/ and page_146.txt
+
+[hen]
+Amir ibn Abbas al-Hamdani, may Allah have mercy on him
+
+[en]
+He said:
+
+[ar]
+إِنَّمَا الدُّنْيَا إِلَى الْجَنَّةِ وَالنَّارِ طَرِيقٌ، وَاللَّيَالِي مَتْجَرُ الْإِنْسَانِ وَالْأَيَّامُ سُوقٌ
+
+[en]
+This world is only a road to Paradise or to the Fire. The nights are a person's merchandise, and the days are the market.
+
+[en]
+A poet said:
+
+[ar]
+وَلِلْمَرْءِ يَوْمٌ يَنْقَضِي فِيهِ عُمْرُهُ، وَمَوْتٌ وَقَبْرٌ ضَيِّقٌ فِيهِ يُولَجُ
+
+[en]
+A person has a day on which his life will come to an end, then death, and then he will be put into a narrow grave.
+
+[ar]
+وَيَلْقَى نَكِيرًا فِي السُّؤَالِ وَمُنْكَرًا، يَسُومَانِ بِالتَّنْكِيلِ مَنْ يَتَلَجْلَجُ
+
+[en]
+There he will meet Munkar and Nakir in questioning, who deal out punishment to whoever stammers in his answers.
+
+[ref]
+ارشاد العباد، ص: ۴۸

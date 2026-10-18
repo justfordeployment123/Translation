@@ -1,0 +1,44 @@
+# title: Page 103
+# English edition of book page 103, built by build_english.py from en_src/ and page_103.txt
+
+[en]
+He also said:
+
+[ar]
+الْعُمُرُ قَصِيرٌ وَالْوَقْتُ ضَيِّقٌ وَالْأَيَّامُ تَقْضِي، وَلَيْسَ فِي الْوَقْتِ فَضْلْ
+
+[ref]
+الزہد الکبیر للبیہقی، ص: ۲۹۷
+
+[en]
+Life is short, time is narrow, the days are passing, and there is no spare time.
+
+[en]
+That is, the believer's life is very precious. He must work hard to reach his destination, which is Paradise, so the destination is far and the time is short. So the believer has no time for useless things, especially the scholars and students, who are the precious treasure of this Ummah.
+
+[hen]
+The Saying of Khulayd ibn Abdullah al-Asri, may Allah have mercy on him
+
+[ar]
+الْمُؤْمِنُ لَا تَلْقَاهُ إِلَّا فِي ثَلَاثِ خِلَالْ: مَسْجِدٌ يَعْمُرُهْ، أَوْ بَيْتٌ يَسْتُرُهْ، أَوْ حَاجَةٌ مِنْ أَمْرِ دُنْيَاهُ لَا بَأْسَ بِهَا
+
+[ref]
+الزہد للامام احمد، ص: ۲۹۰
+
+[en]
+You will only meet the believer in one of three states: filling the mosque, staying hidden in his home, or seeing to some worldly need in which there is no harm according to the Shariah.
+
+[hen]
+The Saying of Abu Sa'id al-Kharraz, may Allah have mercy on him
+
+[ar]
+الِاشْتِغَالُ بِوَقْتٍ مَاضٍ تَضْيِيعُ وَقْتٍ ثَانْ
+
+[ref]
+الزہد الکبیر للبیہقی، ص: ۱۹۷، ومختصر تاریخ دمشق، ۳/ ۲۰۵
+
+[en]
+To busy oneself with time that has passed is to waste another time.
+
+[en]
+That is, talking about times gone by, or getting tangled in past affairs, wastes the present time.

@@ -1,0 +1,26 @@
+# title: Page 118
+# English edition of book page 118, built by build_english.py from en_src/ and page_118.txt
+
+[hen]
+Hammad ibn Salamah ibn Dinar, may Allah have mercy on him (died 167 AH)
+
+[ar]
+قَالَ مُوسَى بْنُ إِسْمَاعِيلْ: لَوْ قُلْتُ لَكُمْ إِنِّي مَا رَأَيْتُ حَمَّادَ بْنَ سَلَمَةَ ضَاحِكًا قَطُّ صَدَقْتُكُمْ، كَانَ مَشْغُولًا بِنَفْسِهْ، إِمَّا أَنْ يُحَدِّثْ، وَإِمَّا أَنْ يَقْرَأْ، وَإِمَّا أَنْ يُسَبِّحْ، وَإِمَّا أَنْ يُصَلِّي، كَانَ قَدْ قَسَمَ النَّهَارَ عَلَى هَذِهِ الْأَعْمَالْ
+
+[ref]
+صفۃ الصفوۃ، ۳/ ۳۶۲
+
+[en]
+Musa ibn Isma'il, may Allah have mercy on him, said: If I told you that I never saw Hammad ibn Salamah, may Allah have mercy on him, laughing, I would be telling you the truth. He was always busy with himself: either narrating hadith, or reciting the Quran, or glorifying Allah, or praying. In short, he had divided his day among these deeds.
+
+[hen]
+Ali and al-Hasan, the Sons of Salih, may Allah have mercy on them (died 154 and 169 AH)
+
+[ar]
+قَالَ وَكِيعُ بْنُ الْجَرَّاحْ: كَانَ عَلِيٌّ وَالْحَسَنُ ابْنَا صَالِحِ بْنِ حَيٍّ وَأُمُّهُمْ قَدْ جَزَّءُوا اللَّيْلَ ثَلَاثَةَ أَجْزَاءْ، فَكَانَ عَلِيٌّ يَقُومُ الثُّلُثَ ثُمَّ يَنَامْ، وَيَقُومُ الْحَسَنُ الثُّلُثَ ثُمَّ يَنَامْ، وَتَقُومُ أُمُّهُمَا الثُّلُثْ، فَمَاتَتْ أُمُّهُمَا، فَجَزَّآ اللَّيْلَ بَيْنَهُمَا، فَكَانَا يَقُومَانِ بِهِ حَتَّى الصَّبَاحْ، ثُمَّ مَاتَ عَلِيٌّ فَقَامَ الْحَسَنُ بِهِ كُلِّهْ
+
+[ref]
+صفۃ الصفوۃ، ۴/ ۱۵۲
+
+[en]
+Waki ibn al-Jarrah, may Allah have mercy on him, said: The two sons of Salih ibn Hayy, Ali and al-Hasan, may Allah have mercy on them, and their mother had divided the night into three parts. Ali would pray for a third of the night and then sleep, al-Hasan would pray for a third and then sleep, and then their mother would pray for a third. When their mother died, the two of them divided the night into two parts, each praying for one part until morning. Then when Ali also died, al-Hasan would pray the whole night.

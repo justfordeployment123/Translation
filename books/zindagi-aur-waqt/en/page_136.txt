@@ -1,0 +1,38 @@
+# title: Page 136
+# English edition of book page 136, built by build_english.py from en_src/ and page_136.txt
+
+[ar]
+وَمَا الْمَيِّتُ الْمَقْبُورُ فِي صَدْرِ يَوْمِهِ، أَحَقُّ بِأَنْ يَبْكِيهِ مَنْ مَيِّتٌ غَدًا
+
+[en]
+The dead man buried in the early part of his day is no more deserving to be wept over than the one who will himself be dead tomorrow.
+
+[ref]
+محاسبۃ النفس لابن ابی الدنیا، ص: ۱۲۵
+
+[en]
+Abul-Fath al-Busti, may Allah have mercy on him, said:
+
+[ar]
+يَا عَامِرًا لِخَرَابِ الدَّهْرِ مُجْتَهِدًا، تَاللَّهِ مَا لِخَرَابِ الْعُمْرِ عُمْرَانُ
+
+[en]
+O you who strive to build up what time will ruin, by Allah, there is no rebuilding a life that has been ruined.
+
+[ar]
+وَيَا حَرِيصًا عَلَى الْأَمْوَالِ تَجْمَعُهَا، أَنَسِيتَ أَنَّ سُرُورَ الْمَالِ أَحْزَانُ
+
+[en]
+And O you who are greedy for the wealth you keep gathering, have you forgotten that the joy of wealth is sorrow?
+
+[ref]
+الزہد الکبیر للبیہقی، ص: ۲۶۱
+
+[en]
+Ibn Abi Maryam, may Allah have mercy on him, said: I passed by a town that had fallen into ruin, and on the wall of one of its houses I read this verse written:
+
+[ar]
+هَذِي مَنَازِلُ أَقْوَامٍ عَهِدْتُهُمْ، فِي رَغْدِ عَيْشٍ رَغِيبٍ مَا لَهُ خَطَرٌ
+
+[en]
+These are the homes of a people I knew, living a pleasant and desirable life in which there was no danger.

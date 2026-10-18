@@ -1,0 +1,38 @@
+# title: Page 109
+# English edition of book page 109, built by build_english.py from en_src/ and page_109.txt
+
+[en]
+As Abdullah ibn Mas'ud, may Allah be pleased with him, said:
+
+[ar]
+مَنْ كَانَ مِنْكُمْ مُتَأَسِّيًا فَلْيَتَأَسَّ بِأَصْحَابِ مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ، فَإِنَّهُمْ كَانُوا أَبَرَّ هَذِهِ الْأُمَّةِ قُلُوبَا، وَأَعْمَقَهَا عِلْمَا، وَأَقَلَّهَا تَكَلُّفَا، وَأَقْوَمَهَا هَدْيَا، وَأَحْسَنَهَا حَالَا، قَوْمًا اخْتَارَهُمُ اللَّهُ لِصُحْبَةِ نَبِيِّهِ وَإِقَامَةِ دِينِهْ، فَاعْرِفُوا لَهُمْ فَضْلَهُمْ، وَاتَّبِعُوهُمْ فِي آثَارِهِمْ، فَإِنَّهُمْ كَانُوا عَلَى الْهُدَى الْمُسْتَقِيمْ
+
+[ref]
+جامع بیان العلم وفضلہ، ۲/ ۱۳۴، السلسلۃ الصحیحۃ تحت رقم الحدیث: ۲۶۴۸
+
+[en]
+Whoever among you wishes to follow an example, let him follow the Companions of Muhammad, peace be upon him. For they were the most righteous of heart in this Ummah, the deepest in knowledge, the least affected, the most upright in conduct and the best in state. They were a people whom Allah chose for the company of His Prophet, peace be upon him, and for establishing His religion. So recognise their virtue and follow in their footsteps, for they were on the straight path.
+
+[hen]
+Abdullah ibn Umar, may Allah be pleased with them both (died 73 AH), said
+
+[ar]
+مَنْ كَانَ مِنْكُمْ مُسْتَنًّا فَلْيَسْتَنَّ بِمَنْ قَدْ مَاتْ، أُولَئِكَ أَصْحَابُ مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ، كَانُوا خَيْرَ هَذِهِ الْأُمَّةْ، أَبَرَّهَا قُلُوبَا، وَأَعْمَقَهَا عِلْمَا، وَأَقَلَّهَا تَكَلُّفَا، قَوْمٌ اخْتَارَهُمُ اللَّهُ لِصُحْبَةِ نَبِيِّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَنَقْلِ دِينِهْ، فَتَشَبَّهُوا بِأَخْلَاقِهِمْ وَطَرَائِقِهِمْ، فَهُمْ أَصْحَابُ مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ، كَانُوا عَلَى الْهُدَى الْمُسْتَقِيمْ
+
+[ref]
+حلیۃ الاولیاء، ۱/ ۳۰۵
+
+[en]
+Whoever among you wishes to follow a way, let him follow those who have died: they are the Companions of Muhammad, peace be upon him, who were the best of this Ummah, the most righteous of heart, the deepest in knowledge and the least affected. They were a people whom Allah chose for the company of His Prophet, peace be upon him, and for passing on His religion. So imitate their character and their ways, for they were the Companions of Muhammad, peace be upon him, and they were on the straight path.
+
+[hen]
+Abdullah ibn Mas'ud, may Allah be pleased with him (died 32 AH)
+
+[ar]
+كَانَ ابْنُ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ إِذَا هَدَأَتِ الْعُيُونُ قَامْ، فَيُسْمَعُ لَهُ دَوِيٌّ كَدَوِيِّ النَّحْلِ حَتَّى يُصْبِحْ
+
+[ref]
+این نحن من ہؤلاء، ۱/ ۲۱۹
+
+[en]
+When people had gone to sleep, Abdullah ibn Mas'ud, may Allah be pleased with him, would stand in prayer, and a humming could be heard from him as he wept, like the humming of bees, until morning came.

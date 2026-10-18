@@ -1,0 +1,38 @@
+# title: Page 130
+# Zindagi Aur Waqt, book page 130 (PDF page 132)
+# Starts with Mahmud ibn al-Hasan's verse, which begins at the bottom of book page 129.
+# Salatan al-Abdi's verse at the bottom of this page ends on page 131 and is included there.
+# Arabic: aaraab as in the book, standard spelling ("بِإِحْسَانٍ"), rhyme vowels kept. "أَعْتَبْتَهُ" and
+# "لَا تُرْجِ" are kept as printed.
+# Proofreader please check: the last digit of the reference page is unreadable in the scan ("ص: ۲۳…");
+# ۲۳۶ is assumed from the pages around it (page 129 cites ۲۳۵, page 131 cites ۲۳۶).
+
+[ur]
+محمود بن الحسن رحمۃ اللہ علیہ کہتے ہیں:
+
+[ar]
+مَضَى أَمْسُكَ الْمَاضِي شَهِيدًا مُعَدَّلًا، وَأَعْقَبَهُ يَوْمٌ عَلَيْكَ جَدِيدُ
+
+[ur]
+تیرا گزشتہ کل گزر گیا، گواہی دینے والا، انصاف والا، اور اس کے بعد تجھ پر ایک نیا دن آیا۔
+
+[ar]
+فَإِنْ كُنْتَ بِالْأَمْسِ اقْتَرَفْتَ إِسَاءَةً، فَثَنِّ بِإِحْسَانٍ وَأَنْتَ حَمِيدُ
+
+[ur]
+اگر تو نے گزشتہ کل کوئی برائی کی تھی، پس پلٹ جا نیکی کے ساتھ، تو قابلِ تعریف ہو گا۔
+
+[ar]
+فَيَوْمُكَ إِنْ أَعْتَبْتَهُ عَادَ نَفْعُهُ، عَلَيْكَ وَمَا فِي الْأَمْسِ لَيْسَ يَعُودُ
+
+[ur]
+اگر تو نے اپنے دن کو تھکا دیا تو اس کا نفع تجھ پر ہی لوٹے گا، اور جو گزشتہ ماضی میں ہوا ہے وہ نہیں لوٹ سکتا۔
+
+[ar]
+وَلَا تُرْجِ فِعْلَ الْخَيْرِ يَوْمًا إِلَى غَدٍ، لَعَلَّ غَدًا يَأْتِي وَأَنْتَ فَقِيدُ
+
+[ur]
+اور آج نیکی کے کام کو کل تک مؤخر نہ کرو، شاید کہ کل آئے اور تم (دنیا سے) گم ہو چکے ہو۔
+
+[ref]
+الزہد الکبیر للبیہقی، ص: ۲۳۶

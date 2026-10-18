@@ -1,0 +1,17 @@
+# title: Page 66
+# English edition of book page 66, built by build_english.py from en_src/ and page_066.txt
+
+[en]
+In this narration, even while a lawful need was being met, the Prophet, peace be upon him, gave this same reminder: remember your death and avoid heedlessness in the matter, for life is extremely precious. So when awareness of time and the value of life were commanded even in lawful needs, then the one who is spending the days and nights of his life in useless things should all the more reflect, value his life and make the fullest use of it, lest the respite end and a person fall into the embrace of death, after which there will be no room left for deeds. As Ali, may Allah be pleased with him, said:
+
+[ar]
+قَالَ عَلِيُّ بْنُ أَبِي طَالِبٍ رَضِيَ اللَّهُ عَنْهُ: ارْتَحَلَتِ الدُّنْيَا مُدْبِرَةْ، وَارْتَحَلَتِ الْآخِرَةُ مُقْبِلَةْ، وَلِكُلِّ وَاحِدٍ مِنْهُمَا بَنُونْ، فَكُونُوا مِنْ أَبْنَاءِ الْآخِرَةْ، وَلَا تَكُونُوا مِنْ أَبْنَاءِ الدُّنْيَا، فَإِنَّ الْيَوْمَ عَمَلٌ وَلَا حِسَابْ، وَغَدًا حِسَابٌ وَلَا عَمَلْ
+
+[ref]
+صحیح البخاری، کتاب الرقاق، باب فی الامل وطولہ
+
+[en]
+Ali ibn Abi Talib, may Allah be pleased with him, said: This world is departing and the Hereafter is approaching, and each of them has its seekers. So be seekers of the Hereafter, and do not be seekers of this world. For today there are deeds and no reckoning, and tomorrow there will be reckoning and no deeds.
+
+[en]
+So let us be aware of time, and not spend it in fulfilling unlawful wants, but always keep the means of our life modest. The race that is being run everywhere today to acquire money is only for luxury, and for comforts and ease beyond what is needed.

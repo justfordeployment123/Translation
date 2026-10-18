@@ -1,0 +1,23 @@
+# title: Page 80
+# English edition of book page 80, built by build_english.py from en_src/ and page_080.txt
+
+[hen]
+Prayers That Are Exceptions
+
+[en]
+The two sunnah prayers before Fajr, the two units after tawaf, repeating Asr or Fajr in congregation at the mosque after having prayed it alone, making up a missed obligatory prayer, a voluntary prayer that was vowed, the prayer of greeting the mosque, and the like. However, no prayer at all may be offered in the last two times mentioned above. And Allah knows best.
+
+[hen]
+The Times When Visiting Is Forbidden
+
+[en]
+The Islamic Shariah has described three times in which one should not go into anyone's home, so that even servants and attendants should enter only with permission at these times. Allah the Exalted says:
+
+[ar]
+يَا أَيُّهَا الَّذِينَ آمَنُوا لِيَسْتَأْذِنْكُمُ الَّذِينَ مَلَكَتْ أَيْمَانُكُمْ وَالَّذِينَ لَمْ يَبْلُغُوا الْحُلُمَ مِنْكُمْ ثَلَاثَ مَرَّاتٍ ۚ مِنْ قَبْلِ صَلَاةِ الْفَجْرِ وَحِينَ تَضَعُونَ ثِيَابَكُمْ مِنَ الظَّهِيرَةِ وَمِنْ بَعْدِ صَلَاةِ الْعِشَاءِ ۚ ثَلَاثُ عَوْرَاتٍ لَكُمْ ۚ لَيْسَ عَلَيْكُمْ وَلَا عَلَيْهِمْ جُنَاحٌ بَعْدَهُنَّ ۚ طَوَّافُونَ عَلَيْكُمْ بَعْضُكُمْ عَلَىٰ بَعْضٍ ۚ كَذَٰلِكَ يُبَيِّنُ اللَّهُ لَكُمُ الْآيَاتِ ۗ وَاللَّهُ عَلِيمٌ حَكِيمْ
+
+[ref]
+(النور ۲۴: آیت ۵۸)
+
+[en]
+O you who have believed, let those whom your right hands possess and those who have not yet reached puberty among you ask permission of you before entering at three times: before the dawn prayer and when you put aside your clothing for rest at noon and after the night prayer. These are three times of privacy for you. There is no blame upon you nor upon them beyond these periods, for they continually circulate among you - some of you, among others. Thus does Allah make clear to you the verses; and Allah is Knowing and Wise.

@@ -1,0 +1,32 @@
+# title: Page 131
+# English edition of book page 131, built by build_english.py from en_src/ and page_131.txt
+
+[en]
+As-Saltan al-Abdi, may Allah have mercy on him, said:
+
+[ar]
+أَشَابَ الصَّغِيرَ وَأَفْنَى الْكَبِيرَ، مَرُّ النَّهَارِ وَكَرُّ الْعَشِيِّ
+
+[en]
+The passing of the day and the return of the evening have turned the young grey and worn out the old.
+
+[ar]
+إِذَا لَيْلَةٌ هَرَّمَتْ يَوْمَهَا، أَتَى بَعْدَ ذَلِكَ يَوْمٌ فَتِيٌّ
+
+[en]
+Whenever a night has worn out its day, after it comes a young new day.
+
+[ar]
+نَرُوحُ وَنَغْدُو لِحَاجَاتِنَا، وَحَاجَةُ مَنْ عَاشَ لَا تَنْقَضِي
+
+[en]
+Morning and evening we come and go for our needs, yet the needs of the living are never finished.
+
+[ar]
+تَمُوتُ مَعَ الْمَرْءِ حَاجَاتُهُ، وَتَبْقَى لَهُ حَاجَةٌ مَا بَقِي
+
+[en]
+A man's needs die with him, and he still has a need as long as he lives.
+
+[ref]
+الزہد الکبیر للبیہقی، ص: ۲۳۶

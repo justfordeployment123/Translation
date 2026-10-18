@@ -1,0 +1,56 @@
+# title: Page 177
+# English edition of book page 177, built by build_english.py from en_src/ and page_177.txt
+
+[hen]
+The Supplication of Yusuf, peace be upon him
+
+[ar]
+تَوَفَّنِي مُسْلِمًا وَأَلْحِقْنِي بِالصَّالِحِينْ
+
+[ref]
+(یوسف ۱۲: آیت ۱۰۱)
+
+[en]
+Cause me to die a Muslim and join me with the righteous.
+
+[ar]
+رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَتَوَفَّنَا مُسْلِمِينْ
+
+[ref]
+(الاعراف ۷: آیت ۱۲۶)
+
+[en]
+Our Lord, pour upon us patience and let us die as Muslims in submission to You.
+
+[ar]
+رَبَّنَا فَاغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّئَاتِنَا وَتَوَفَّنَا مَعَ الْأَبْرَارْ
+
+[ref]
+(آل عمران ۳: آیت ۱۹۳)
+
+[en]
+Our Lord, so forgive us our sins and remove from us our misdeeds and cause us to die with the righteous.
+
+[en]
+Sufyan ath-Thawri, may Allah have mercy on him, wept all night before his death. Someone asked him whether this weeping was out of fear of his sins. He picked up a little earth from the ground and said:
+
+[ar]
+الذُّنُوبُ أَهْوَنُ مِنْ هَذَا، وَإِنَّمَا أَبْكِي خَوْفًا مِنْ سُوءِ الْخَاتِمَةْ
+
+[ref]
+این نحن من ہؤلاء، ۳/ ۱۰۸
+
+[en]
+Sins are lighter than this. I weep only out of fear of a bad end.
+
+[en]
+So one should always keep praying for a good end. As it comes in the hadith, he, peace be upon him, said:
+
+[ar]
+مَنْ كَانَ آخِرُ كَلاَمِهِ لاَ إِلَهَ إِلاَّ اللَّهُ دَخَلَ الْجَنَّةْ
+
+[ref]
+سنن ابی داؤد، رقم الحدیث: ۳۱۱۶، مسند احمد، رقم الحدیث: ۲۲۰۳۴، مستدرک حاکم، رقم الحدیث: ۱۲۹۹، شعب الایمان، رقم الحدیث: ۹۳
+
+[en]
+Whoever's last words are La ilaha illallah, there is no god but Allah, will enter Paradise.

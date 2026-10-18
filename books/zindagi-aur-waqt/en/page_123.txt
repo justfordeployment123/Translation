@@ -1,0 +1,41 @@
+# title: Page 123
+# English edition of book page 123, built by build_english.py from en_src/ and page_123.txt
+
+[hen]
+Chapter Six: The Importance of Time and Arabic Poetry
+
+[en]
+Yahya ibn Hubayrah al-Wazir said:
+
+[ar]
+وَالْوَقْتُ أَنْفَسُ مَا عُنِيتَ بِحِفْظِهِ، وَأَرَاهُ أَسْهَلَ مَا عَلَيْكَ يَضِيعُ
+
+[en]
+Time is the most precious thing you are charged with guarding, yet I see it is the easiest thing for you to waste.
+
+[en]
+Yazid ar-Raqashi used to recite this verse as a proverb:
+
+[ar]
+إِنَّا لَنَفْرَحُ بِالْأَيَّامِ نَقْطَعُهَا، وَكُلُّ يَوْمٍ مَضَى يُدْنِي مِنَ الْأَجَلِ
+
+[en]
+We rejoice at the days as we pass through them, while every day that passes brings us closer to death.
+
+[ar]
+فَاعْمَلْ لِنَفْسِكَ قَبْلَ الْمَوْتِ مُجْتَهِدًا، فَإِنَّمَا الرِّبْحُ وَالْخُسْرَانُ فِي الْعَمَلِ
+
+[en]
+So work hard for your soul before death, for profit and loss depend only on deeds.
+
+[ref]
+صفۃ الصفوۃ، ۳/ ۲۹۰
+
+[en]
+Ali ibn Abi Talib, may Allah be pleased with him, said:
+
+[ar]
+إِنَّمَا الدُّنْيَا فَنَاءٌ، لَيْسَ لِلدُّنْيَا ثُبُوتُ
+
+[en]
+This world is only passing away; this world has no permanence.

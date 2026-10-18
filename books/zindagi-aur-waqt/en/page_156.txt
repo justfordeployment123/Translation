@@ -1,0 +1,29 @@
+# title: Page 156
+# English edition of book page 156, built by build_english.py from en_src/ and page_156.txt
+
+[en]
+The remembrance of death makes one lose interest in useless things.
+
+[en]
+The remembrance of death helps one avoid oppressing people, taking away their rights, and many other evils. Indeed, death is a very great admonition. It is narrated about Umar ibn al-Khattab, may Allah be pleased with him, that he had these words engraved on his ring:
+
+[ar]
+كَفَى بِالْمَوْتِ وَاعِظًا يَا عُمَرْ
+
+[ref]
+البدایۃ والنہایۃ، ۷/ ۱۴۷
+
+[en]
+O Umar, death is enough as an admonisher.
+
+[en]
+So only the one who remembers death is concerned about the moments of his life, and tries his utmost to spend them in obedience to Allah. All the faults and evils found in our society today are rooted in forgetting death. We have spread out the means of our lives so widely that thrift and contentment with little have become impossible. We have scattered the affairs of our lives so much that they will not come together again. And there are many things which, though we do not need them, we have made into our needs, and to satisfy these extra needs we are wasting the precious moments of our lives. Whereas Imam al-Awza'i, may Allah have mercy on him, said:
+
+[ar]
+مَنْ أَكْثَرَ مِنْ ذِكْرِ الْمَوْتِ كَفَاهُ الْيَسِيرْ، وَمَنْ عَلِمَ أَنَّ مَنْطِقَهُ مِنْ عَمَلِهِ قَلَّ كَلَامُهْ
+
+[ref]
+صفۃ الصفوۃ، ۴/ ۲۵۸
+
+[en]
+Whoever remembers death often, a little will be enough for him. And whoever knows that his speech is counted among his deeds will speak little.

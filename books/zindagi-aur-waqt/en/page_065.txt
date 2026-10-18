@@ -1,0 +1,29 @@
+# title: Page 65
+# English edition of book page 65, built by build_english.py from en_src/ and page_065.txt
+
+[en]
+How well it has been said:
+
+[en]
+A journey every morning, a journey every evening; the end of this life is a journey.
+
+[en]
+An Arab poet says:
+
+[ar]
+نَزَلْنَا هَاهُنَا ثُمَّ ارْتَحَلْنَا، هَكَذَا فِي الدُّنْيَا نُزُولٌ وَارْتِحَالْ
+
+[en]
+We stopped here for a while, then moved on. This is how it is in the world: some arrive and some depart.
+
+[hen]
+The Ninth Hadith
+
+[ar]
+عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو رَضِيَ اللَّهُ عَنْهُمَا قَالَ: مَرَّ عَلَيْنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَنَحْنُ نُعَالِجُ خُصًّا لَنَا فَقَالَ مَا هَذَا، فَقُلْنَا قَدْ وَهَى فَنَحْنُ نُصْلِحُهْ، قَالَ مَا أُرَى الأَمْرَ إِلاَّ أَعْجَلَ مِنْ ذَلِكْ
+
+[ref]
+سنن ابی داؤد، کتاب الادب، باب فی البناء، رقم الحدیث: ۵۲۳۶، جامع الترمذی، کتاب الزہد، باب ما جاء فی قصر الامل، رقم الحدیث: ۲۳۳۵، واللفظ للترمذی، سنن ابن ماجہ، کتاب الزہد، باب فی البناء والخراب، رقم الحدیث: ۴۱۶۰
+
+[en]
+Abdullah ibn Amr, may Allah be pleased with them both, narrated: The Messenger of Allah, peace be upon him, passed by us while we were repairing our hut. He said: What is this you are doing? We said: It has become worn out, and we are repairing it. He said: I see the matter coming sooner than that.

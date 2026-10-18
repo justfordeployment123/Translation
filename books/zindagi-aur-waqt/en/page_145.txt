@@ -1,0 +1,41 @@
+# title: Page 145
+# English edition of book page 145, built by build_english.py from en_src/ and page_145.txt
+
+[en]
+Note: This narration was reported by Imam Abu Nu'aym al-Asbahani, may Allah have mercy on him, in Dala'il an-Nubuwwah through Ibn Abbas, may Allah be pleased with them both, by Hafiz Ibn Hajar, may Allah have mercy on him, in al-Isabah through Ibn Abbas, and by Imam al-Bayhaqi, may Allah have mercy on him, in Dala'il an-Nubuwwah through Sa'd ibn Abi Waqqas and Abu Hurayrah, may Allah be pleased with them. However, the narration is weak through all its chains. Since it does not concern beliefs, acts of worship and the like, it has been mentioned only as a story. And Allah knows best.
+
+[ref]
+دلائل النبوۃ لابی نعیم، ۱/ ۱۰۳ تا ۱۰۴، الاصابہ لابن حجر، ۳/ ۲۷۹، دلائل النبوۃ للبیہقی، ۲/ ۱۱۳
+
+[hen]
+Dihqan the Poet, may Allah have mercy on him
+
+[en]
+Dihqan passed by a graveyard in the city of Samarra and recited these verses:
+
+[ar]
+أَلَا يَا عَسْكَرَ الْأَحْيَاءِ هَذَا عَسْكَرُ الْمَوْتَى
+
+[en]
+Listen, O army of the living, this is the army of the dead.
+
+[ar]
+أَجَابُوا الدَّعْوَةَ الصُّغْرَى وَهُمْ مُنْتَظِرُو الْكُبْرَى
+
+[en]
+They have answered the lesser call, which is death, and now they await the greater call, the Day of Resurrection.
+
+[ar]
+يَحُثُّونَ عَلَى الزَّادِ وَمَا زَادٌ سِوَى التَّقْوَى
+
+[en]
+They urge you to gather provision, and there is no provision but piety.
+
+[ar]
+يَقُولُونَ لَكُمْ جِدُّوا فَهَذَا غَايَةُ الدُّنْيَا
+
+[en]
+They are saying to you: Strive, for this is the end of the world.
+
+[ref]
+الزہد الکبیر للبیہقی، ص: ۲۶۸

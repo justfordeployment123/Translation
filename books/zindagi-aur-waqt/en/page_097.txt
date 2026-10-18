@@ -1,0 +1,26 @@
+# title: Page 97
+# English edition of book page 97, built by build_english.py from en_src/ and page_097.txt
+
+[hen]
+The Fifth Saying
+
+[ar]
+مَا مَرَّ يَوْمٌ عَلَى ابْنِ آدَمَ إِلَّا قَالَ لَهْ: ابْنَ آدَمْ، إِنِّي يَوْمٌ جَدِيدْ، وَعَلَى مَا تَعْمَلُ فِيَّ شَهِيدْ، إِذَا ذَهَبْتُ عَنْكَ لَمْ أَرْجِعْ إِلَيْكْ، فَقَدِّمْ مَا شِئْتَ تَجِدْهُ بَيْنَ يَدَيْكْ، وَأَخِّرْ مَا شِئْتَ فَلَنْ يَعُودَ أَبَدًا إِلَيْكْ
+
+[ref]
+آداب الحسن البصری لابن الجوزی، ص: ۱۲۶
+
+[en]
+No day passes over the son of Adam but it says to him: Son of Adam, I am a new day, and I am a witness over whatever you do in me. When I leave you, I will never return to you. Send ahead whatever you wish, and you will find it before you, and hold back whatever you wish, and it will never come back to you.
+
+[hen]
+The Sixth Saying
+
+[ar]
+قَالَ الْحَسَنُ الْبَصْرِيُّ لِرَجُلٍ حَضَرَ جَنَازَةْ: أَتَرَاهُ لَوْ رَجَعَ إِلَى الدُّنْيَا لَعَمِلَ صَالِحَا؟ قَالَ: نَعَمْ، قَالَ: فَإِنْ لَمْ يَكُنْ هُوَ فَكُنْ أَنْتْ
+
+[ref]
+این نحن من ہؤلاء، ۱/ ۱۰۹
+
+[en]
+Al-Hasan al-Basri, may Allah have mercy on him, said to a man attending a funeral: Do you think that if this dead man returned to the world, he would do good deeds? The man said: Yes, certainly. Al-Hasan al-Basri said: If he cannot, then you be the one who does good deeds.

@@ -1,0 +1,26 @@
+# title: Page 149
+# English edition of book page 149, built by build_english.py from en_src/ and page_149.txt
+
+[en]
+A poet said:
+
+[ar]
+أَذَانُ الْمَرْءِ حِينَ الطِّفْلِ يَأْتِي، وَتَأْخِيرُ الصَّلَاةِ إِلَى الْمَمَاتِ
+
+[en]
+A man's call to prayer is made when he is a child, and his prayer is delayed until his death.
+
+[ar]
+دَلِيلٌ أَنَّ مَحْيَاهُ يَسِيرٌ، كَمَا بَيْنَ الْأَذَانِ إِلَى الصَّلَاةِ
+
+[en]
+This shows that a person's life is very short, like the time between the call to prayer and the prayer.
+
+[ref]
+این نحن من ہؤلاء، ۲/ ۳۰
+
+[en]
+Note: In this chapter we have tried to gather verses that will prove useful for valuing life, for concern for the Hereafter, and for self-reform.
+
+[ref]
+باب ششم مکمل ہوا

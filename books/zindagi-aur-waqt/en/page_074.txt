@@ -1,0 +1,47 @@
+# title: Page 74
+# English edition of book page 74, built by build_english.py from en_src/ and page_074.txt
+
+[en]
+Two things are learned from this hadith.
+
+[en]
+First, there are two days of Eid in the year for the Muslims: Eid al-Adha and Eid al-Fitr.
+
+[en]
+Second, if there were a third Eid in Islam, the Messenger of Allah, peace be upon him, would surely have mentioned it.
+
+[hen]
+The Day of Friday
+
+[en]
+The best of days is Friday. The Prophet, peace be upon him, said:
+
+[ar]
+عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: خَيْرُ يَوْمٍ طَلَعَتْ عَلَيْهِ الشَّمْسُ يَوْمُ الْجُمُعَةِ فِيهِ خُلِقَ آدَمُ وَفِيهِ أُدْخِلَ الْجَنَّةَ وَفِيهِ أُخْرِجَ مِنْهَا وَلاَ تَقُومُ السَّاعَةُ إِلاَّ فِي يَوْمِ الْجُمُعَةْ
+
+[ref]
+صحیح مسلم، کتاب الجمعۃ، باب فضل یوم الجمعۃ، رقم الحدیث: ۱۹۷۷، وجامع الترمذی، کتاب الجمعۃ، باب ما جاء فی فضل الجمعۃ، رقم الحدیث: ۴۸۸، ومسند الامام احمد: ۹۴۰۹
+
+[en]
+Abu Hurayrah, may Allah be pleased with him, narrated that the Prophet, peace be upon him, said: The best day on which the sun rises is Friday. On it Adam, peace be upon him, was created, on it he was admitted into Paradise, on it he was sent out of it, and the Hour will be established on no day other than Friday.
+
+[hen]
+The Night of Decree
+
+[en]
+The best of nights is the Night of Decree. Allah the Exalted says:
+
+[ar]
+لَيْلَةُ الْقَدْرِ خَيْرٌ مِنْ أَلْفِ شَهْرْ
+
+[ar]
+تَنَزَّلُ الْمَلَائِكَةُ وَالرُّوحُ فِيهَا بِإِذْنِ رَبِّهِمْ مِنْ كُلِّ أَمْرْ
+
+[ar]
+سَلَامٌ هِيَ حَتَّىٰ مَطْلَعِ الْفَجْرْ
+
+[ref]
+(القدر ۹۷: آیت ۳ تا ۵)
+
+[en]
+The Night of Decree is better than a thousand months. The angels and the Spirit descend therein by permission of their Lord for every matter. Peace it is until the emergence of dawn.

@@ -1,0 +1,35 @@
+# title: Page 141
+# English edition of book page 141, built by build_english.py from en_src/ and page_141.txt
+
+[ar]
+لَيْتَنِي كُنْتُ قَبْلَ مَا قَدْ بَدَا لِي، فِي رُءُوسِ الْجِبَالِ أَرْعَى الْوُعُولَا
+
+[en]
+If only, before what has now become clear to me, I had been on the mountain tops, herding the mountain goats.
+
+[ref]
+الزہد الکبیر للبیہقی، ص: ۲۶۰
+
+[hen]
+Maymun ibn Mihran, may Allah have mercy on him
+
+[en]
+He said: I came to Umar ibn Abd al-Aziz, may Allah have mercy on him, and Sabiq al-Barbari was reciting these verses to him:
+
+[ar]
+فَكَمْ مِنْ صَحِيحٍ بَاتَ لِلْمَوْتِ آمِنًا، أَتَتْهُ الْمَنَايَا بَغْتَةً بَعْدَمَا هَجَعَ
+
+[en]
+How many a healthy man has spent the night feeling safe from death, and death came to him suddenly after he fell asleep.
+
+[ar]
+فَلَمْ يَسْتَطِعْ إِذْ جَاءَهُ الْمَوْتُ بَغْتَةً، فِرَارًا وَلَا مِنْهُ بِقُوَّتِهِ امْتَنَعَ
+
+[en]
+When death came to him suddenly, he could not flee, nor could he hold it off with his strength.
+
+[ar]
+فَأَصْبَحَ تَبْكِيهِ النِّسَاءُ مُقْنِعًا، وَلَا يَسْمَعُ الدَّاعِيَ وَإِنْ صَوْتَهُ رَفَعَ
+
+[en]
+By morning the women were weeping over him, heads bowed, and he cannot hear anyone who calls him, however loudly he calls.

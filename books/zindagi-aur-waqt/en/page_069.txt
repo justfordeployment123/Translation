@@ -1,0 +1,35 @@
+# title: Page 69
+# English edition of book page 69, built by build_english.py from en_src/ and page_069.txt
+
+[en]
+There are some lessons in this blessed hadith, which are as follows.
+
+[en]
+A person should not have long, drawn-out hopes.
+
+[en]
+Hardships and calamities are bound to come in life.
+
+[en]
+In pursuing long hopes, one should not become heedless of one's death.
+
+[en]
+Since death surrounds a person, he should value his life before it comes.
+
+[en]
+One's time should not be spent in chasing useless hopes.
+
+[hen]
+The Twelfth Hadith
+
+[ar]
+عَنِ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: مَنْ سَكَنَ الْبَادِيَةَ جَفَا وَمَنِ اتَّبَعَ الصَّيْدَ غَفَلَ وَمَنْ أَتَى السُّلْطَانَ افْتُتِنْ
+
+[ref]
+سنن ابی داؤد، کتاب الصید، باب فی اتباع الصید، رقم الحدیث: ۲۸۵۹، وجامع الترمذی، کتاب الفتن، باب ۶۹، رقم الحدیث: ۲۲۵۶، وسنن النسائی، کتاب الصید، باب اتباع الصید، رقم الحدیث: ۴۳۰۹، ومسند الامام احمد، رقم الحدیث: ۳۳۶۲
+
+[en]
+Ibn Abbas, may Allah be pleased with them both, narrated that the Prophet, peace be upon him, said: Whoever lives in the desert becomes hard-hearted, whoever follows the game becomes heedless, and whoever comes to the doors of the ruler is put to trial.
+
+[en]
+The point of evidence in this saying of the Prophet, peace be upon him, is the sentence: whoever follows the game becomes heedless. Hunting here does not mean the case of necessity, when one finds nothing to eat and must hunt to save one's life. Rather it means the situation we see today, when people go out hunting as a hobby. Hunting is a permissible and lawful activity, but it often involves neglect of the prayers and other disliked acts, and the greatest of these is the waste of the precious time of life and heedlessness of the remembrance of Allah. That is why it is censured in this hadith. In the same way, one should stay away from other activities that bring heedlessness and waste of time, and spend one's life in purposeful work.

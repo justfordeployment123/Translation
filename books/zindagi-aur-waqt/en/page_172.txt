@@ -1,0 +1,32 @@
+# title: Page 172
+# English edition of book page 172, built by build_english.py from en_src/ and page_172.txt
+
+[en]
+So every Muslim should choose company that will make his life successful, so that he may be safe from every kind of loss in this world and the Hereafter. Otherwise, on the Day of Resurrection he will gain nothing but sorrow and regret. Allah the Exalted says:
+
+[ar]
+وَيَوْمَ يَعَضُّ الظَّالِمُ عَلَىٰ يَدَيْهِ يَقُولُ يَا لَيْتَنِي اتَّخَذْتُ مَعَ الرَّسُولِ سَبِيلَا
+
+[ar]
+يَا وَيْلَتَىٰ لَيْتَنِي لَمْ أَتَّخِذْ فُلَانًا خَلِيلَا
+
+[ar]
+لَقَدْ أَضَلَّنِي عَنِ الذِّكْرِ بَعْدَ إِذْ جَاءَنِي ۗ وَكَانَ الشَّيْطَانُ لِلْإِنْسَانِ خَذُولَا
+
+[ref]
+(الفرقان ۲۵: آیت ۲۷ تا ۲۹)
+
+[en]
+And the Day the wrongdoer will bite on his hands in regret he will say, "Oh, I wish I had taken with the Messenger a way. Oh, woe to me! I wish I had not taken that one as a friend. He led me away from the remembrance after it had come to me. And ever is Satan, to man, a deserter."
+
+[en]
+So when making friends, we should consider which friendship will benefit us and what the standard of our friendship should be. In this we should keep before us the Book of Allah and the words of the Noble Messenger, peace be upon him. Allah the Exalted has made piety and God-consciousness the standard of friendship, as Allah the Exalted says:
+
+[ar]
+الْأَخِلَّاءُ يَوْمَئِذٍ بَعْضُهُمْ لِبَعْضٍ عَدُوٌّ إِلَّا الْمُتَّقِينْ
+
+[ref]
+(الزخرف ۴۳: آیت ۶۷)
+
+[en]
+Close friends, that Day, will be enemies to each other, except for the righteous

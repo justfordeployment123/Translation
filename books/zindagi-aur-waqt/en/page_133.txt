@@ -1,0 +1,41 @@
+# title: Page 133
+# English edition of book page 133, built by build_english.py from en_src/ and page_133.txt
+
+[ar]
+وَأَنْكَرْتُ مِنْهَا مَا تَعَاطَيْتُ فِي الصِّبَا، كَأَنَّ شَبَابِي كَانَ سَهْمًا رَمَيْتُهُ
+
+[en]
+And among them I hated most what I did in my youth, as if my youth were an arrow that I had shot away.
+
+[ar]
+وَسَوَّدَ صُحُفِي بِالذُّنُوبِ أَوَانُهُ، وَوَلَّى سَرِيعًا مِثْلَ حُلْمٍ رَأَيْتُهُ
+
+[en]
+In its time it blackened my record with sins, and it turned away quickly, like a dream I had seen.
+
+[ref]
+الزہد الکبیر للبیہقی، ص: ۲۵۲
+
+[en]
+Abu Sa'd, may Allah have mercy on him, said:
+
+[ar]
+أَلَا فَارْجُ عَفْوَ اللَّهِ عَنْ هَفَوَاتِكَا، وَبَادِرْ إِلَى الْخَيْرَاتِ قَبْلَ فَوَاتِكَا
+
+[en]
+Indeed, hope for Allah's pardon for your slips, and hasten to good deeds before the chance escapes you.
+
+[ar]
+لَا تُمْضِ بِالتَّسْوِيفِ عُمْرَكَ إِنَّنِي، رَأَيْتُ الْمَنَايَا بِالنُّفُوسِ فَوَاتِكَا
+
+[en]
+Do not spend your life saying: soon, soon. I have seen death snatch souls away suddenly.
+
+[ref]
+الزہد الکبیر للبیہقی، ص: ۲۵۳
+
+[hen]
+A Note
+
+[en]
+Procrastination is a spiritual illness in which a person neglects his good deeds and keeps telling himself that he will do them soon, for example saying: soon I will pray, or soon I will start this deed. This is a deception of Satan for the son of Adam.

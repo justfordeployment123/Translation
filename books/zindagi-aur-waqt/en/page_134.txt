@@ -1,0 +1,35 @@
+# title: Page 134
+# English edition of book page 134, built by build_english.py from en_src/ and page_134.txt
+
+[en]
+Abu Bakr ibn al-Mu'ammal, may Allah have mercy on him, said:
+
+[ar]
+وَمَا حَالَاتُنَا إِلَّا ثَلَاثٌ، شَبَابٌ ثُمَّ شَيْبٌ ثُمَّ مَوْتٌ
+
+[en]
+We have only three states: youth, then old age, then death.
+
+[ref]
+الزہد الکبیر للبیہقی، ص: ۲۵۵
+
+[en]
+Abu Mus'hir, may Allah have mercy on him, said:
+
+[ar]
+وَمَا أَنْفُسُ الْأَحْيَاءِ إِلَّا رَهَائِنُ، سَتُقْبَضُ مِنَ الْأَحْيَاءِ تِلْكَ الرَّهَائِنُ
+
+[en]
+The souls of the living are only pledges, and soon these pledges, the souls, will be taken back from the living.
+
+[ref]
+الزہد الکبیر للبیہقی، ص: ۲۵۵
+
+[en]
+He also said:
+
+[ar]
+هَبْكَ عُمِّرْتَ مِثْلَ مَا عَاشَ نُوحٌ، ثُمَّ لَاقَيْتَ كُلَّ ذَلِكَ يَسَارَا
+
+[en]
+Suppose you were given as long a life as Nuh, peace be upon him, lived, and then you obtained all of this with ease.

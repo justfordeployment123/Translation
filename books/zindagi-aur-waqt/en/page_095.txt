@@ -1,0 +1,17 @@
+# title: Page 95
+# English edition of book page 95, built by build_english.py from en_src/ and page_095.txt
+
+[hen]
+The Sayings of al-Hasan al-Basri, may Allah have mercy on him (died 110 AH)
+
+[hen]
+The First Saying
+
+[ar]
+ابْنَ آدَمْ، إِنَّكَ بَيْنَ مَطِيَّتَيْنِ يُوضِعَانِكْ، اللَّيْلُ إِلَى النَّهَارْ، وَالنَّهَارُ إِلَى اللَّيْلْ، حَتَّى يُسْلِمَانِكَ إِلَى الْآخِرَةْ، فَمَنْ أَعْظَمُ مِنْكَ يَا ابْنَ آدَمَ خَطَرَا
+
+[ref]
+الزہد الکبیر للبیہقی، ص: ۲۰۴، حلیۃ الاولیاء، ۲/ ۱۵۲
+
+[en]
+Son of Adam, you are between two mounts that are driving you on: the night towards the day, and the day towards the night, until they deliver you to the Hereafter. Son of Adam, who could be in greater danger than you?

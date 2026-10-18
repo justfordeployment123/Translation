@@ -1,0 +1,26 @@
+# title: Page 83
+# English edition of book page 83, built by build_english.py from en_src/ and page_083.txt
+
+[hen]
+Fourth, at the Time of the Adhan and in Battle
+
+[ar]
+عَنْ سَهْلِ بْنِ سَعْدٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: ثِنْتَانِ لاَ تُرَدَّانْ، أَوْ قَلَّمَا تُرَدَّانْ، الدُّعَاءُ عِنْدَ النِّدَاءْ، وَعِنْدَ الْبَأْسِ حِينَ يُلْحِمُ بَعْضُهُمْ بَعْضَا
+
+[en]
+Sahl ibn Sa'd, may Allah be pleased with him, narrated that the Messenger of Allah, peace be upon him, said: Two supplications are not rejected, or are seldom rejected: the supplication at the time of the adhan, and in battle, when the fighters are locked together.
+
+[ref]
+سنن ابی داؤد، کتاب الجہاد، باب الدعاء عند اللقاء، رقم الحدیث: ۲۵۴۰، سنن الدارمی، رقم الحدیث: ۱۰۲۳، وابن خزیمہ، رقم الحدیث: ۴۱۹، وابن الجارود، رقم الحدیث: ۱۰۶۹، والحاکم: ۱/ ۱۹۸
+
+[hen]
+Fifth, an Hour in Every Night
+
+[ar]
+عَنْ جَابِرٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: سَمِعْتُ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ إِنَّ فِي اللَّيْلِ لَسَاعَةً لاَ يُوَافِقُهَا رَجُلٌ مُسْلِمٌ يَسْأَلُ اللَّهَ خَيْرًا مِنْ أَمْرِ الدُّنْيَا وَالآخِرَةِ إِلاَّ أَعْطَاهُ إِيَّاهُ وَذَلِكَ كُلَّ لَيْلَةْ
+
+[ref]
+صحیح مسلم، کتاب الصلاۃ، باب فی اللیل ساعۃ مستجاب فیہا الدعاء، رقم الحدیث: ۷۵۷، مسند احمد: ۱۴۳۵۵
+
+[en]
+Jabir, may Allah be pleased with him, narrated: I heard the Prophet, peace be upon him, say: In the night there is an hour in which no Muslim servant asks Allah for any good of this world or the Hereafter but that He gives it to him, and that is in every night.

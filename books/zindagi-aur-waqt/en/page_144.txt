@@ -1,0 +1,32 @@
+# title: Page 144
+# English edition of book page 144, built by build_english.py from en_src/ and page_144.txt
+
+[ar]
+أَيْقَنْتُ أَنِّي لَا مَحَالَةَ، حَيْثُ صَارَ الْقَوْمُ صَائِرُ
+
+[en]
+I became certain that I too, without doubt, will go where all the people have gone.
+
+[en]
+Then the Prophet, peace be upon him, turned to the delegation of Iyad and said: Was any will of Quss ibn Sa'idah found? The delegation said: Yes, after his death a letter was found under his pillow, in which was written:
+
+[ar]
+يَا نَاعِيَ الْمَوْتِ وَالْأَمْوَاتُ فِي جَدَثٍ، عَلَيْهِمْ مِنْ بَقَايَا ثَوْبِهِمْ خِرَقُ
+
+[en]
+O you who announce death, while the dead lie in their graves, with tattered rags left of their clothes upon them.
+
+[ar]
+دَعْهُمْ فَإِنَّ لَهُمْ يَوْمًا يُصَاحُ بِهِمْ، كَمَا يُنَبَّهُ مِنْ نَوْمَاتِهِ الصَّعِقُ
+
+[en]
+Leave them, for they have a day on which they will be called, as one who has fainted is roused from his swoon.
+
+[ar]
+مِنْهُمْ عُرَاةٌ وَمَوْتَى فِي ثِيَابِهِمْ، مِنْهَا الْجَدِيدُ وَمِنْهَا الْأَوْرَقُ الْخَلِقُ
+
+[en]
+Some of them will be naked, and some of the dead in their clothes, some of them new and some worn and old.
+
+[en]
+When the Messenger of Allah, peace be upon him, heard this, he said: By the One who sent me with the truth, Quss had believed in the Hereafter.

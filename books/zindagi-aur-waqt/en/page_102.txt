@@ -1,0 +1,38 @@
+# title: Page 102
+# English edition of book page 102, built by build_english.py from en_src/ and page_102.txt
+
+[en]
+He also said:
+
+[ar]
+يَا ابْنَ آدَمْ، اللَّيْلُ طَوِيلٌ فَلَا تُقَصِّرْهُ بِمَنَامِكْ، وَالنَّهَارُ نَقِيٌّ فَلَا تُدَنِّسْهُ بِآثَامِكْ
+
+[ref]
+صفۃ الصفوۃ لابن الجوزی، ۴/ ۹۴
+
+[en]
+Son of Adam, the night is long, so do not shorten it with your sleep, and the day is clean and bright, so do not stain it with your sins.
+
+[hen]
+The Saying of Abu Yazid Tayfur ibn Ali al-Bistami, may Allah have mercy on him (died 261 AH)
+
+[ar]
+إِنَّ اللَّيْلَ وَالنَّهَارَ رَأْسُ مَالِ الْمُؤْمِنْ، رِبْحُهَا الْجَنَّةُ وَخُسْرَانُهَا النَّارْ
+
+[ref]
+الزہد الکبیر للبیہقی، ص: ۲۹۷
+
+[en]
+The night and the day are the believer's capital. Their profit is Paradise, and their loss is the Fire.
+
+[hen]
+The Saying of Junayd al-Baghdadi, may Allah have mercy on him (died 298 AH)
+
+[ar]
+قَالَ لِرَجُلٍ وَهُوَ يَعِظُهْ: جُمَّاعُ الْخَيْرِ كُلُّهُ فِي ثَلَاثَةِ أَشْيَاءْ، إِنْ لَمْ تُمْضِ نَهَارَكَ بِمَا هُوَ لَكَ فَلَا تُمْضِهِ بِمَا عَلَيْكْ، وَإِنْ لَمْ تَصْحَبِ الْأَخْيَارَ فَلَا تَصْحَبِ الْأَشْرَارْ، وَإِنْ لَمْ تُنْفِقْ مَالَكَ فِيمَا لِلَّهِ فِيهِ رِضًى فَلَا تُنْفِقْهُ فِيمَا لِلَّهِ فِيهِ سَخَطْ
+
+[ref]
+الزہد الکبیر للبیہقی، ص: ۲۹۰
+
+[en]
+He said to a man while advising him: All good is gathered in three things. If you do not spend your day in what benefits you, then do not spend it in what harms you. If you do not keep the company of good people, then do not keep the company of bad people. And if you do not spend your wealth in what pleases Allah, then do not spend it in what angers Him.

@@ -1,0 +1,23 @@
+# title: Page 138
+# English edition of book page 138, built by build_english.py from en_src/ and page_138.txt
+
+[ar]
+عَجِبْتُ مِنْ ذِي أَخٍ يُسَرُّ بِهِ، إِذْ سُرَّ مِنْ بَعْدِهِ وَقَدْ دَفَنَهْ
+
+[en]
+I am amazed at a man who delights in his brother, yet goes on being happy after he has buried him.
+
+[ar]
+طَالَتْ بِهِ فِي الْحَيَاةِ فَرْحَتُهُ، وَلَمْ يَطُلْ بَعْدَ مَوْتِهِ حَزَنُهْ
+
+[en]
+His joy in his brother was long while he lived, but his grief after his death is not long.
+
+[ar]
+طُوبَى لِمَنْ لَمْ يَخُنْ أَمَانَتَهْ، وَالْوَيْلُ عِنْدَ الْحِسَابِ لِلْخَوَنَةْ
+
+[en]
+Glad tidings to the one who did not betray his trust, and woe to the betrayers at the reckoning.
+
+[ref]
+الزہد الکبیر للبیہقی، ص: ۲۶۰

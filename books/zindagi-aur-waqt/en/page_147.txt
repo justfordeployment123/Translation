@@ -1,0 +1,38 @@
+# title: Page 147
+# English edition of book page 147, built by build_english.py from en_src/ and page_147.txt
+
+[en]
+A poet said:
+
+[ar]
+أَشَابَ الصَّغِيرَ وَأَفْنَى الْكَبِيرَ، كَرُّ الْغَدَاةِ وَمَرُّ الْعَشِيِّ
+
+[en]
+The return of the mornings and the passing of the evenings have turned the young grey and worn out the old.
+
+[ar]
+إِذَا لَيْلَةٌ أَهْرَمَتْ يَوْمَهَا، أَتَى بَعْدَ ذَلِكَ يَوْمٌ فَتِيٌّ
+
+[en]
+Whenever a night has worn out its day, after it comes a young new day.
+
+[ref]
+این نحن من ہؤلاء، ۲/ ۱۸
+
+[en]
+A poet said:
+
+[ar]
+سَبِيلُكَ فِي الدُّنْيَا سَبِيلُ مُسَافِرٍ، وَلَا بُدَّ مِنْ زَادٍ لِكُلِّ مُسَافِرٍ
+
+[en]
+Your path in this world is the path of a traveller, and every traveller must have provision.
+
+[ar]
+وَلَا بُدَّ لِلْإِنْسَانِ مِنْ حَمْلِ عُدَّةٍ، وَلَا سِيَّمَا إِنْ خَافَ صَوْلَةَ قَاهِرٍ
+
+[en]
+And every person must carry his weapons, especially if he fears the attack of a mighty foe.
+
+[ref]
+این نحن من ہؤلاء، ۲/ ۲۲

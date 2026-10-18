@@ -220,7 +220,8 @@
   .foot { text-align: center; color: var(--faint); font-size: .74rem; margin-top: 24px; line-height: 2; }
 
   .toast { position: fixed; left: 50%; top: calc(72px + var(--top)); transform: translate(-50%, -8px); z-index: 90; background: var(--card-2); border: 1px solid var(--line-2);
-           padding: 8px 16px; border-radius: var(--r-md); opacity: 0; transition: opacity .2s, transform .2s; pointer-events: none; font-size: .86rem; white-space: nowrap; }
+           padding: 8px 16px; border-radius: var(--r-md); opacity: 0; transition: opacity .2s, transform .2s; pointer-events: none; font-size: .86rem;
+           width: max-content; max-width: calc(min(100vw, var(--app)) - 32px); text-align: center; }
   .toast.show { opacity: 1; transform: translate(-50%, 0); }
 </style>
 </head>
@@ -344,7 +345,7 @@ const UI = {
     lang: "زبان", speed: "رفتار", size: "متن کا سائز", downloads: "ڈاؤن لوڈ", dlSub: "اردو آڈیو، باب وار", install: "ایپ انسٹال کریں",
     instText: "ایپ کو ہوم اسکرین پر رکھیں، یہ پوری اسکرین پر اپنے آئیکن کے ساتھ کھلے گی۔", installBtn: "انسٹال کریں",
     ios: "آئی فون پر: سفاری میں شیئر بٹن دبائیں اور «ہوم اسکرین میں شامل کریں» منتخب کریں۔", foot: "نور لائبریری · اہلِ خانہ کے لیے · غیر تجارتی استعمال",
-    noEn: "اس کتاب کا انگریزی ترجمہ ابھی دستیاب نہیں", min: "منٹ", aria: { restart: "دوبارہ", prev: "پچھلا صفحہ", play: "چلائیں", pause: "روکیں", next: "اگلا صفحہ", contents: "فہرست", scan: "اصل صفحہ" },
+    noEn: "اس کتاب کا انگریزی ترجمہ ابھی دستیاب نہیں", noPage: (a, b) => `انگریزی ترجمہ صفحہ ${a} سے ${b} تک دستیاب ہے`, min: "منٹ", aria: { restart: "دوبارہ", prev: "پچھلا صفحہ", play: "چلائیں", pause: "روکیں", next: "اگلا صفحہ", contents: "فہرست", scan: "اصل صفحہ" },
   },
   en: {
     app: "Noor Library", tabs: ["Home", "Library", "Reader", "Settings"], hello: "Assalamu alaikum", headline: "What would you like to listen to today?",
@@ -355,7 +356,7 @@ const UI = {
     lang: "Language", speed: "Speed", size: "Text size", downloads: "Downloads", dlSub: "English audio, by chapter", install: "Install the app",
     instText: "Add the app to your home screen. It opens full screen, with its own icon.", installBtn: "Install",
     ios: "On iPhone: tap Share in Safari, then choose \"Add to Home Screen\".", foot: "Noor Library · For family use · Not for sale",
-    noEn: "The English translation of this book is not available yet", min: "min", aria: { restart: "Restart", prev: "Previous page", play: "Play", pause: "Pause", next: "Next page", contents: "Contents", scan: "Original page" },
+    noEn: "The English translation of this book is not available yet", noPage: (a, b) => `English is available for pages ${a} to ${b}`, min: "min", aria: { restart: "Restart", prev: "Previous page", play: "Play", pause: "Pause", next: "Next page", contents: "Contents", scan: "Original page" },
   },
 };
 const PAUSE = { normal: 650, ar: 900, h: 1100, page: 1600 };
@@ -440,7 +441,8 @@ function applyLang() {
 
 function renderHome() {
   const [b, i] = available[0];
-  const ed = b.editions[lang] || b.editions.ur, last = store.get("page:" + i, null);
+  const ed = b.editions[lang] || b.editions.ur, saved = store.get("pageno:" + i, null);
+  const found = saved === null ? -1 : ed.pages.findIndex(pg => pg.number === saved), last = found < 0 ? null : found;
   const r = $("resume"); r.innerHTML = "";
   r.append(cover(b));
   const d = document.createElement("div");
@@ -531,7 +533,8 @@ $("scanBtn").onclick = () => openSheet("scanSheet");
 function openBook(i) {
   book = BOOKS[i];
   const c = cover(book, true); c.id = "npCover"; $("npCover").replaceWith(c);
-  loadEdition(book.editions[lang] ? lang : "ur", store.get("page:" + i, 0));
+  const ed = book.editions[lang] ? lang : "ur", saved = store.get("pageno:" + i, null);
+  loadEdition(ed, Math.max(0, book.editions[ed].pages.findIndex(pg => pg.number === saved)));
 }
 function loadEdition(l, pageIndex) {
   const keepNumber = edition && shown >= 0 ? edition.pages[shown].number : null;
@@ -597,7 +600,7 @@ function showPage(p, scroll) {
   $("tAll").textContent = clock(edition.pageSeconds[p] / rate);
   updateTime();
   if (scroll) window.scrollTo({ top: 0, behavior: "smooth" });
-  store.set("page:" + BOOKS.indexOf(book), p);
+  store.set("pageno:" + BOOKS.indexOf(book), pg.number);
 }
 
 /* ============ Playback ============ */
@@ -678,6 +681,12 @@ $("next").onclick = () => goToPage(Math.min(edition.pages.length - 1, shown + 1)
 $("speedBtn").onclick = () => setRate(SPEEDS[(SPEEDS.indexOf(rate) + 1) % SPEEDS.length]);
 function setLang(l) {
   if (book && !book.editions[l]) { toast(UI[l].noEn); return; }
+  // stay on the same book page; if the other edition does not have it yet, say which pages it has
+  const target = book && book.editions[l], here = edition && shown >= 0 ? edition.pages[shown].number : null;
+  if (target && here !== null && !target.pages.some(pg => pg.number === here)) {
+    const nums = target.pages.map(pg => pg.number), num = x => l === "ur" ? String(x).replace(/\d/g, d => URDU_DIGITS[d]) : String(x);
+    toast(UI[l].noPage(num(Math.min(...nums)), num(Math.max(...nums)))); return;
+  }
   lang = l; store.set("lang", l);
   applyLang();
   if (book) loadEdition(l);

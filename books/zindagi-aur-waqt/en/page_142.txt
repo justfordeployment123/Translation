@@ -1,0 +1,23 @@
+# title: Page 142
+# English edition of book page 142, built by build_english.py from en_src/ and page_142.txt
+
+[ar]
+وَقُرِّبَ مِنْ لَحْدٍ فَكَانَ مَقِيلُهُ، وَفَارَقَ مَا قَدْ كَانَ بِالْأَمْسِ قَدْ جَمَعَ
+
+[en]
+He was laid near the grave, and that became his resting place, and he left behind all that he had gathered only yesterday.
+
+[ar]
+وَلَا يَتْرُكُ الْمَوْتُ الْغَنِيَّ لِمَالِهِ، وَلَا مُعْدِمًا فِي الْحَالِ ذَا حَاجَةٍ يَدَعْ
+
+[en]
+For death does not spare the rich man for his wealth, nor does it leave the destitute man in his need.
+
+[ref]
+الزہد الکبیر للبیہقی، ص: ۲۶۳
+
+[hen]
+Quss ibn Sa'idah al-Iyadi
+
+[en]
+Abdullah ibn Abbas, may Allah be pleased with them both, said that a delegation of the tribe of Iyad came to the Messenger of Allah, peace be upon him, and he asked them about Quss ibn Sa'idah. They told him that he had died. The Messenger of Allah, peace be upon him, said: I saw him in the season of Hajj at the market of Ukaz, riding a red camel, calling out loudly among the people: O people, gather together, listen carefully and remember, take heed and you will benefit. Whoever lives will die, whoever dies is gone, and everything that is to come will come. To proceed: in the sky there is news, and in the earth there are lessons. The stars will set and will not appear again, the seas surge and do not run dry, the sky is raised high and the earth is spread out wide, with rivers and springs. Quss swears by Allah, an oath that is neither false nor sinful, you will surely follow the matter even while displeased, though in this matter there is some pleasure and some displeasure, and it is not play; indeed, beyond it there is a wonder. Quss swears by Allah, an oath that is neither false nor sinful, Allah has a religion that is dearer to Him than our religion.

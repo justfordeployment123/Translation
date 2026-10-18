@@ -1,0 +1,53 @@
+# title: Page 105
+# English edition of book page 105, built by build_english.py from en_src/ and page_105.txt
+
+[hen]
+The Saying of Ahmad ibn Masruq at-Tusi, may Allah have mercy on him
+
+[ar]
+أَنْتَ فِي هَدْمِ عُمُرِكَ مُنْذُ خَرَجْتَ مِنْ بَطْنِ أُمِّكْ
+
+[ref]
+صفۃ الصفوۃ لابن الجوزی، ۴/ ۱۲۹
+
+[en]
+Ever since you came out of your mother's womb, you have been tearing down your life.
+
+[hen]
+The Saying of Ibn al-Faraji, may Allah have mercy on him
+
+[ar]
+مَنْ لَمْ يَغْتَنِمِ الْفُرْصَةَ فِي وَقْتِ الْإِمْكَانْ، وَرِثَ النَّدَمَ فِي وَقْتِ عَدَمِ الْوُجُودْ
+
+[ref]
+الزہد الکبیر للبیہقی، ص: ۱۹۹
+
+[en]
+Whoever does not seize the opportunity while it is possible will inherit regret when it is no longer possible.
+
+[en]
+That is, when he had youth, free time and favourable circumstances, he did not make use of them or recognise his purpose. Then when old age came and his limbs grew weak, and he could no longer worship properly, all that is left is regret: if only I had worshipped in my youth, while I was healthy and strong.
+
+[hen]
+The Saying of Abdullah ibn Munazil, may Allah have mercy on him
+
+[ar]
+مَنِ اشْتَغَلَ بِالْأَوْقَاتِ الْمَاضِيَةِ وَالْآتِيَةِ ذَهَبَ وَقْتُهُ بِلَا فَائِدَةْ
+
+[ref]
+الزہد الکبیر للبیہقی، ص: ۱۹۶
+
+[en]
+Whoever busies himself with past and future times, his time is lost without benefit.
+
+[hen]
+The Saying of Abul-Qasim an-Nasrabadi, may Allah have mercy on him
+
+[ar]
+مُرَاعَاةُ الْأَوْقَاتِ مِنْ عَلَامَاتِ التَّيَقُّظْ
+
+[ref]
+الزہد الکبیر للبیہقی، ص: ۱۹۷
+
+[en]
+Taking care of one's time is one of the signs of an awakened mind.
