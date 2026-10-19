@@ -59,6 +59,7 @@ pdftoppm -f 132 -l 132 -r 110 -png -singlefile Zindagi-Aur-Waqat.pdf books/zinda
 ```
 
 - **Output:** `books/zindagi-aur-waqt/page_NNN.png`, one per book page. The app shows this as the "Original page" button.
+- **The offset differs per book:** for *Shab o Roz ke Masnoon Amaal* the PDF page is book page + 1, and its scans are JPEGs in `books/shab-o-roz/scans/page_NNN.jpg` (set as `_scans` in `build_app.py`).
 - For reading the text, a page is also rendered at 220–500 dpi and cropped into halves, so small words, harakat and anything cut off at the scan's edge can be read clearly.
 
 ## Step 2: Transcribe each page
@@ -81,7 +82,8 @@ Rules followed on every page:
 - **Numbers** are written as words in spoken text (e.g. «دو سو چورانوے ہجری»). Digits appear only in `[ref]` blocks.
 - **Numbered lists** (①, ②) are read as words («پہلا نقصان», «دوسرا نقصان»), or the numbers are dropped when each item has its own heading.
 - **Honorific symbols** (ﷺ, ؓ, ؒ) may be typed as symbols; step 5 turns them into full words. Where ؓ refers to a woman or to more than one person, the full words are typed instead (رضی اللہ عنہا / عنہما).
-- **Chapter headings** start with «باب ...» (English: «Chapter ...»). The app builds its table of contents and chapter downloads from them.
+- **Chapter headings** start with «باب ...» (English: «Chapter ...»). The app builds its table of contents and chapter downloads from them. A book without «باب» chapters lists its sections in `build_app.py` instead (`_toc` and `_parts`).
+- **Honorific with وآلہ:** *Shab o Roz* prints the ligature «صلی اللہ علیہ وآلہ وسلم»; it is typed out in full, because ﷺ would be read without «وآلہ».
 
 ## Step 3: Fill Quran and hadith from official sources
 
@@ -103,6 +105,7 @@ python3 fill_hadith.py --check books/zindagi-aur-waqt/*.txt
 - **Quran:** text from api.alquran.cloud (Tanzil, full harakat). The only change is the stopping form of the last word.
 - **Hadith:** text from the hadith-api collections (Bukhari, Muslim, Abu Dawud, Tirmidhi, Nasa'i, Ibn Majah), cached in `cache/hadith/`. The salawat is written in full, and the stopping form is applied at each pause.
 - `from` / `to` select just the part the book quotes. Matching uses letters only, so differences in harakat don't matter.
+- **Hadith extras:** a phrase that occurs more than once takes `#n` for its n-th occurrence (`to الْجَدُّ#2`), and ` flat` before the closing braces drops the source's pauses inside the excerpt, so a dua can pause only where the book has commas: `{{H bukhari:614 from اللَّهُمَّ to التَّامَّةِ}}، {{H bukhari:614 from وَالصَّلاَةِ to الْقَائِمَةِ}}`.
 - Each filled line keeps its placeholder in a `# quran ...` / `# hadith ...` comment, so `--check` can rebuild it later and confirm it is **identical to the official text**.
 - **Hadith numbering:** the hadith-api numbers Sahih Muslim differently from the printed book (e.g. Muslim 2553 is 6516 there). Search the source by text, and keep the book's number in the `[ref]`.
 - **When the book's wording differs from the official text,** the official wording is read and the difference is noted with "Proofreader please check".
@@ -140,7 +143,10 @@ Tests: `python3 -m unittest test_preprocess`
 python3 make_sample.py books/zindagi-aur-waqt/page_150.txt --dry-run
 python3 make_sample.py books/zindagi-aur-waqt/page_150.txt --tag george        # Urdu edition
 python3 make_sample.py books/zindagi-aur-waqt/en/page_150.txt --tag en         # English edition
+python3 make_sample.py books/shab-o-roz/page_031.txt --tag sr                  # each book has its own tag
 ```
+
+**Each book needs its own tag,** because the folders are named by page number (`out/page_031_george` is *Zindagi Aur Waqt*, `out/page_031_sr` is *Shab o Roz*).
 
 What happens:
 
@@ -159,20 +165,20 @@ Rules for spending credits:
 ## Step 7: Build the app
 
 ```bash
-python3 build_app.py --pages 13-178
+python3 build_app.py
 ```
 
-`build_app.py` reads `out/page_NNN_george` (Urdu) and `out/page_NNN_en` (English) and produces `site/` and `site.zip`:
+`build_app.py` builds every book listed in its `BOOKS` list. Each entry has the book's details plus its build settings: the `out/` tag of each edition (`_editions`), its page range (`_pages`), the folder prefix for its audio and images (`_prefix`), and, if needed, its scans, contents and chapter parts. It produces `site/`, `site.zip` and `site_chapters/`:
 
 | Output | Contents |
 |---|---|
 | `index.html` | The app (from `app_template.html`), with all book data embedded |
-| `audio/ur/`, `audio/en/` | One MP3 per spoken block, named by page |
-| `images/` | The page scans |
-| `chapters/` | One audio file per chapter and language, for download: 48 kbps mono AAC (`.m4a`, made with macOS `afconvert`), or MP3 where that tool isn't available |
+| `audio/ur/`, `audio/en/`, `audio/<book>/ur/` | One MP3 per spoken block, named by page |
+| `images/`, `images/<book>/` | The page scans |
+| `site_chapters/` (beside `site/`) | One audio file per chapter and language, for download: 48 kbps mono AAC (`.m4a`, made with macOS `afconvert`). These are **not** part of the site: they are uploaded as assets of the GitHub Release `chapters`, and the app links to them there, which keeps the site under the 1 GB GitHub Pages limit |
 | `manifest.webmanifest`, `icons/`, `sw.js` | Lets the app be installed on a phone and work offline for pages already played |
 
-The table of contents comes from the `[h]` headings that start with «باب / مقدمہ / تمہید» (English: Chapter / Introduction / Preface). Book details, author, blurb, and the 14 "Coming soon" shelf places are set at the top of `build_app.py`.
+The table of contents comes from the `[h]` headings that start with «باب / مقدمہ / تمہید» (English: Chapter / Introduction / Preface), or from the book's `_toc` list. The shelf has 15 places; those without a book show "Coming soon".
 
 **In the app:**
 
@@ -203,8 +209,12 @@ Screenshots of every screen are reviewed in both languages.
 # in a separate clone of the repository, on branch gh-pages
 git rm -rq . && cp -R "<project>/site/." . && touch .nojekyll
 grep -rl "sk_" . --exclude-dir=.git      # must find nothing: no API key in the site
-git add -A && git commit -m "Update site" && git push origin HEAD:gh-pages
+git add -A && git commit -m "Update site"
+git push origin HEAD:gh-pages     # one push of 500 MB is rejected: push audio folders in separate commits
 gh api repos/justfordeployment123/Translation/pages/builds/latest --jq .status   # wait for "built"
+
+# chapter downloads: GitHub Release "chapters" (create it once with: gh release create chapters --title ...)
+gh release upload chapters "<project>"/site_chapters/*.m4a --clobber
 ```
 
 Then commit the source to `main` (`git push origin main`). These stay out of git, as listed in `.gitignore`:
@@ -227,7 +237,7 @@ The site is plain HTML, MP3 and PNG, so it can also be uploaded to any web host 
 2. Transcribe the pages (step 2), filling Quran and hadith (step 3).
 3. Optionally write the English edition (step 4).
 4. Dry run, then record (step 6).
-5. Add the book's details to `build_app.py` in place of one "Coming soon" place, then build, test and deploy (steps 7–9).
+5. Add the book to the `BOOKS` list in `build_app.py`, with its own record tag and folder prefix, then build, test and deploy (steps 7–9).
 
 ## Files at a glance
 

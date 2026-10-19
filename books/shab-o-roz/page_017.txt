@@ -1,0 +1,33 @@
+# title: Page 17
+# Shab o Roz ke Masnoon Amaal, book page 17 (PDF page 18), تقریظ
+# Book page 16 is a handwritten Arabic facsimile of this same commendation; this page is its Urdu text.
+# Arabic: harakat added (the print has none); sukun on the last word before each pause (waqf).
+# Print typo corrected: "او وہ بھی" -> "اور وہ بھی".
+# The signature line "أ. د. خالد بن علي المشيقح" is shown but not spoken; the Urdu byline at the top says the name.
+
+[h]
+تقریظ
+
+[ur]
+از ڈاکٹر خالد بن علی المشیقح
+
+[ar]
+الْحَمْدُ لِلَّهِ وَحْدَهُ، وَالصَّلَاةُ وَالسَّلَامُ عَلَى مَنْ لَا نَبِيَّ بَعْدَهُ، وَبَعْدْ
+
+[ur]
+میں نے الشیخ عبداللہ حمود فریح کی اس کتاب
+
+[ar]
+الْمِنَحُ الْعَلِيَّةُ فِي بَيَانِ السُّنَنِ الْيَوْمِيَّةْ
+
+[ur]
+کا مطالعہ کیا۔ میں نے اسے بے حد مفید پایا۔ اس میں دلائل سے ثابت شدہ دن رات کی قولی اور فعلی سنتوں کا احاطہ کیا گیا ہے۔ اس میں وہ سنتیں بھی شامل ہیں جو اپنی الگ حیثیت رکھتی ہیں اور وہ بھی جو دوسری سنتوں کے تابع ہیں۔
+
+[ur]
+اللہ تعالیٰ مصنف کو جزائے خیر عطا کرے اور اس کتاب کو نافع بنائے۔
+
+[ref]
+أ. د. خالد بن علي المشيقح
+
+[ur]
+پروفیسر قصیم یونیورسٹی، معلم حرمِ مکی و مدنی

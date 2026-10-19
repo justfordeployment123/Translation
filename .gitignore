@@ -10,5 +10,9 @@ cache/
 # generated: recordings, the built site (published on the gh-pages branch) and page scans
 out/
 site/
+site_*/
+site*.zip
+site_chapters/
 books/**/*.png
+books/**/scans/
 *.pdf

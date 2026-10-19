@@ -4,7 +4,11 @@ In an [ar] block, write the parts you type yourself (the narrator, "قَالَ �
 Prophet's words in as placeholders, which may share a line with typed text:
     عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: {{H bukhari:6419 from أَعْذَرَ to سَنَةً}}
     {{H muslim:296 from ثَلَاثَةٌ to يُزَكِّيهِمْ}} {{H muslim:296 from وَلَا يَنْظُرُ to مُسْتَكْبِرٌ}}
-Phrases are matched by their letters only (harakat and punctuation are ignored).
+Add " flat" before the closing braces to drop the source's pauses inside the excerpt (only its last word
+gets the stopping form), for where the source punctuation would make the voice pause mid-phrase:
+    {{H bukhari:7499 from وَلَكَ الْحَمْدُ أَنْتَ رَبُّ to فِيهِنَّ flat}}
+Phrases are matched by their letters only (harakat and punctuation are ignored). A phrase that occurs more
+than once can be followed by "#n" to pick its n-th occurrence: {{H muslim:594 from لاَ إِلَهَ#2 to اللَّهُ}}.
 
 Usage:
     python3 fill_hadith.py books/zindagi-aur-waqt/page_054.txt [...]   # fill, then check
@@ -26,7 +30,7 @@ from pathlib import Path
 
 from fill_quran import waqf
 
-PLACEHOLDER = re.compile(r"\{\{H (\w+):(\d+)(?: from (.+?))?(?: to (.+?))?\}\}")
+PLACEHOLDER = re.compile(r"\{\{H (\w+):(\d+)(?: from (.+?))?(?: to (.+?))?( flat)?\}\}")
 MARKER = "# hadith "
 MARKS = re.compile("[ً-ٰٟـ]")
 PUNCT = "،.:؟؛"
@@ -73,12 +77,17 @@ def _skeleton(word):
 
 
 def _find(words, phrase, ref, after=0):
-    """(start, end) word indexes of the first occurrence of `phrase` at or after word `after`."""
+    """(start, end) word indexes of the first occurrence of `phrase` at or after word `after`; a phrase
+    ending in "#n" (e.g. "لاَ إِلَهَ#3") selects its n-th occurrence instead."""
+    phrase, _, nth = phrase.partition("#")
+    nth = int(nth or 1)
     skeletons = [_skeleton(w) for w in words]
     want = [_skeleton(w) for w in phrase.split()]
     for i in range(after, len(skeletons) - len(want) + 1):
         if skeletons[i : i + len(want)] == want:
-            return i, i + len(want)
+            nth -= 1
+            if not nth:
+                return i, i + len(want)
     sys.exit(f"'{phrase}' not found in {ref}: {' '.join(words)}")
 
 
@@ -94,8 +103,9 @@ def _words(text):
     return words
 
 
-def excerpt(book, number, start=None, end=None):
-    """The words of the hadith from `start` to `end`, with waqf at every pause and at the end."""
+def excerpt(book, number, start=None, end=None, flat=None):
+    """The words of the hadith from `start` to `end`, with waqf at every pause and at the end
+    (with `flat`, only at the end)."""
     words = _words(hadith(book, number))
     ref = f"{book}:{number}"
     first = _find(words, start, ref)[0] if start else 0
@@ -104,8 +114,10 @@ def excerpt(book, number, start=None, end=None):
     for k, word in enumerate(words[first:last]):
         bare = word.rstrip(PUNCT)
         is_last = k == last - first - 1
-        if is_last or bare != word:  # a pause: stopping form, and a comma for the voice
+        if is_last or (bare != word and not flat):  # a pause: stopping form, and a comma for the voice
             out.append(waqf(bare) + ("" if is_last else "،"))
+        elif flat:
+            out.append(bare)
         else:
             out.append(word)
     return " ".join(out)

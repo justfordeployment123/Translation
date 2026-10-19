@@ -1,12 +1,14 @@
 """Build the reading app (bookshelf, synced text, docked controls) as a static website.
 
 Usage:
-    python3 build_app.py --pages 13-178           # Zindagi Aur Waqt, the whole book
-    python3 build_app.py --pages 13-62 --out site
+    python3 build_app.py                       # every book in BOOKS, all its pages
+    python3 build_app.py --out site_test
 
-For each page it uses out/page_NNN_george (Urdu edition) and, when it exists, out/page_NNN_en (English
-edition). Creates <out>/ (index.html, audio/, images/, chapters/) and <out>.zip. The site is plain
-HTML + MP3 + PNG: no backend and no API key are needed on the server.
+For each book and page it uses out/page_NNN_<suffix> (one suffix per edition, see BOOKS). Creates
+<out>/ (index.html, audio/, images/) and <out>.zip, plus <out>_chapters/ with one audio file per chapter
+for download. The chapter files are published as GitHub Release assets (see --chapters-url), not on
+GitHub Pages, so the site stays well under the Pages size limit. The site is plain HTML + MP3 + images:
+no backend and no API key are needed on the server.
 """
 import argparse
 import html
@@ -22,21 +24,55 @@ from make_sample import mp3_seconds
 ROOT = Path(__file__).parent
 MARKER = ".generated-by-export-site"
 SHELF_SIZE = 15
-BOOK = {
-    "id": "zindagi-aur-waqt", "title": "زندگی اور وقت", "subtitle": "Zindagi Aur Waqt", "en_title": "Life and Time",
-    "author": "ابو محمد عزیر یونس السلفی المدنی", "en_author": "Abu Muhammad Uzair Younus as-Salafi al-Madani",
-    "publisher": "مکتبہ دار التوحید الاسلامیہ", "en_publisher": "Maktaba Dar at-Tawhid al-Islamiyyah",
-    "blurb": "وقت کی قدر و قیمت پر قرآن، احادیث اور اقوالِ سلف کی روشنی میں ایک جامع کتاب۔",
-    "en_blurb": "A guide to the value of time, drawn from the Quran, the hadith and the words of the righteous predecessors.",
-}
+RELEASE = "https://github.com/justfordeployment123/Translation/releases/download/chapters"
+BOOKS = [
+    {
+        "id": "zindagi-aur-waqt", "title": "زندگی اور وقت", "subtitle": "Zindagi Aur Waqt", "en_title": "Life and Time",
+        "author": "ابو محمد عزیر یونس السلفی المدنی", "en_author": "Abu Muhammad Uzair Younus as-Salafi al-Madani",
+        "publisher": "مکتبہ دار التوحید الاسلامیہ", "en_publisher": "Maktaba Dar at-Tawhid al-Islamiyyah",
+        "blurb": "وقت کی قدر و قیمت پر قرآن، احادیث اور اقوالِ سلف کی روشنی میں ایک جامع کتاب۔",
+        "en_blurb": "A guide to the value of time, drawn from the Quran, the hadith and the words of the righteous predecessors.",
+        # build settings (not sent to the page): edition -> out/ folder suffix, page range, and the folder
+        # prefix for its audio and images ("" keeps the first book's URLs as they were)
+        "_editions": {"ur": "george", "en": "en"}, "_pages": (13, 178), "_prefix": "",
+    },
+    {
+        "id": "shab-o-roz", "title": "شب و روز کے مسنون اعمال", "subtitle": "Shab o Roz ke Masnoon Amaal",
+        "en_title": "Sunnahs of Day and Night",
+        "author": "ڈاکٹر عبداللہ بن حمود الفریح", "en_author": "Dr. Abdullah bin Hamood al-Furaih",
+        "blurb": "دن اور رات کی ثابت شدہ قولی و فعلی سنتیں، صحیح احادیث کے دلائل کے ساتھ۔",
+        "en_blurb": "The established sunnahs of day and night, each with its proof from authentic hadith.",
+        "_editions": {"ur": "sr"}, "_pages": (17, 170), "_prefix": "shab-o-roz/",
+        "_scans": "books/shab-o-roz/scans/page_{n:03d}.jpg",
+        # this book has no "باب" chapters: its contents are these sections (book page -> label), and the
+        # chapter downloads start at the pages listed in _parts
+        "_toc": {
+            17: "تقریظ", 19: "مقدمہ", 22: "تمہید", 29: "خاص اوقات کی سنتیں",
+            30: "فجر سے پہلے کرنے والے اعمال اور سنتیں", 52: "فجر کے وقت کرنے والے اعمال اور سنتیں",
+            100: "چاشت کے وقت کرنے والے اعمال اور سنتیں", 103: "ظہر کے وقت کرنے والے اعمال اور سنتیں",
+            105: "عصر کے وقت کرنے والے اعمال اور سنتیں", 108: "مغرب کے وقت کرنے والے اعمال اور سنتیں",
+            111: "وقتِ عشاء", 113: "نیند کی سنتیں", 129: "روزمرہ کے غیر مقید اعمال اور سنتیں",
+            130: "کھانے کے وقت کی سنتیں", 140: "سلام، ملاقات اور مجلس کے اوقات کی سنتیں",
+            149: "لباس اور زیب و زینت کے اوقات کی سنتیں", 152: "چھینک اور جمائی کے اوقات کی سنتیں",
+            156: "عام روز مرہ کی سنتیں",
+        },
+        "_parts": {
+            17: "تقریظ، مقدمہ و تمہید", 29: "فجر سے پہلے کی سنتیں", 52: "فجر کے وقت کی سنتیں",
+            100: "چاشت، ظہر اور عصر کی سنتیں", 108: "مغرب اور عشاء کی سنتیں", 113: "نیند کی سنتیں",
+            129: "کھانے پینے کی سنتیں", 140: "سلام، ملاقات اور مجلس کی سنتیں",
+            149: "لباس، چھینک اور جمائی کی سنتیں", 156: "عام روز مرہ کی سنتیں",
+        },
+    },
+]
 TOC_WORDS = ("باب", "مقدمہ", "تمہید", "Chapter", "Introduction", "Preface")
-EDITIONS = {"ur": "george", "en": "en"}  # edition -> out/ folder suffix
 
 
-def load_edition(site, lang, suffix, numbers):
+def load_edition(site, book, lang, suffix):
     """Pages and segments of one edition, with its audio and scans copied into the site."""
     pages, segments = [], []
-    for n in numbers:
+    prefix = book["_prefix"]
+    first, last = book["_pages"]
+    for n in range(first, last + 1):
         folder = ROOT / "out" / f"page_{n:03d}_{suffix}"
         if not (folder / "sync.json").exists():
             continue
@@ -44,25 +80,32 @@ def load_edition(site, lang, suffix, numbers):
         index = len(pages)
         for seg in sync["segments"]:
             if "audio" in seg:
-                dest = f"audio/{lang}/{n:03d}_{seg['audio']}"
+                dest = f"audio/{prefix}{lang}/{n:03d}_{seg['audio']}"
                 (site / dest).parent.mkdir(parents=True, exist_ok=True)
                 shutil.copy(folder / seg["audio"], site / dest)
                 seg = {**seg, "audio": dest, "d": round(mp3_seconds(folder / seg["audio"]), 2)}
             segments.append({**seg, "page": index})
+        scan = folder / sync["image"] if "image" in sync else ROOT / book.get("_scans", "-").format(n=n)
         image = ""
-        if "image" in sync:
-            image = f"images/page_{n:03d}.png"
+        if scan.exists():
+            image = f"images/{prefix}page_{n:03d}{scan.suffix}"
             if not (site / image).exists():
-                shutil.copy(folder / sync["image"], site / image)
+                (site / image).parent.mkdir(parents=True, exist_ok=True)
+                shutil.copy(scan, site / image)
         pages.append({"number": n, "image": image})
     if not pages:
         return None
-    # table of contents: chapter, introduction and preface headings
     toc = []
-    for seg in segments:
-        text = " ".join(w["w"] for w in seg.get("words", []))
-        if seg.get("style") == "h" and text.startswith(TOC_WORDS):
-            toc.append({"label": text, "page": seg["page"]})
+    if "_toc" in book:  # the book's own list of sections
+        for number, label in book["_toc"].items():
+            index = next((k for k, pg in enumerate(pages) if pg["number"] == number), None)
+            if index is not None:  # sections not recorded yet are left out
+                toc.append({"label": label, "page": index})
+    else:  # chapter, introduction and preface headings
+        for seg in segments:
+            text = " ".join(w["w"] for w in seg.get("words", []))
+            if seg.get("style") == "h" and text.startswith(TOC_WORDS):
+                toc.append({"label": text, "page": seg["page"]})
     seconds = sum(s.get("d", 0) for s in segments)
     return {"pages": pages, "segments": segments, "toc": toc, "seconds": round(seconds)}
 
@@ -71,10 +114,15 @@ INTRO = {"ur": "مقدمہ و تمہید", "en": "Introduction and Preface"}
 CHAPTER = {"ur": "باب", "en": "Chapter"}
 
 
-def chapter_mp3s(site, lang, edition):
-    """One MP3 per chapter, named in the edition's language. A chapter starts on the page of a table of
-    contents entry that begins with "باب" / "Chapter"; the pages before the first chapter are the introduction."""
-    starts = {t["page"]: t["label"].split(":")[0] for t in edition["toc"] if t["label"].startswith(CHAPTER[lang])}
+def chapter_mp3s(site, chapters, book, lang, edition, url):
+    """One audio file per chapter, named in the edition's language, written to the chapters folder and
+    linked at url/<file>. A chapter starts on the page of a table of contents entry that begins with "باب" /
+    "Chapter" (or, for a book with _parts, on each listed page); the pages before it are the introduction."""
+    if "_parts" in book:
+        numbers = [pg["number"] for pg in edition["pages"]]
+        starts = {numbers.index(k): v for k, v in book["_parts"].items() if k in numbers}
+    else:
+        starts = {t["page"]: t["label"].split(":")[0] for t in edition["toc"] if t["label"].startswith(CHAPTER[lang])}
     parts = []
     for seg in edition["segments"]:
         if seg["page"] in starts and (not parts or parts[-1]["start"] != seg["page"]):
@@ -85,12 +133,12 @@ def chapter_mp3s(site, lang, edition):
             parts[-1]["audio"].append(seg["audio"])
     links = []
     for n, part in enumerate(parts, 1):
-        joined = site / "chapters" / f"{lang}_part_{n:02d}.mp3"
-        joined.parent.mkdir(exist_ok=True)
+        joined = chapters / f"{book['id']}_{lang}_part_{n:02d}.mp3"
         # MP3 frames are self-contained, so joining the files byte-for-byte plays back fine
         joined.write_bytes(b"".join((site / a).read_bytes() for a in part["audio"]))
-        name = compress(joined).relative_to(site).as_posix()
-        links.append({"label": part["label"], "href": name, "seconds": round(sum(seg.get("d", 0) for seg in edition["segments"] if seg.get("audio") in part["audio"]))})
+        name = compress(joined).name
+        seconds = round(sum(seg.get("d", 0) for seg in edition["segments"] if seg.get("audio") in part["audio"]))
+        links.append({"label": part["label"], "href": f"{url.rstrip('/')}/{name}", "seconds": seconds})
     return links
 
 
@@ -108,33 +156,36 @@ def compress(mp3):
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("--pages", default="13-178", help="book page range, e.g. 13-62")
     ap.add_argument("--out", default="site")
     ap.add_argument("--title", default="Noor Library · نور لائبریری")
+    ap.add_argument("--chapters-url", default=RELEASE, help="where the chapter files are published")
     args = ap.parse_args()
-    first, last = map(int, args.pages.split("-"))
-    numbers = range(first, last + 1)
 
     site = ROOT / args.out
-    if site.exists():
-        if not (site / MARKER).exists():
-            sys.exit(f"{site}/ already exists and was not made by this script; choose another --out.")
-        shutil.rmtree(site)
-    (site / "images").mkdir(parents=True)
-    (site / MARKER).touch()
+    chapters = ROOT / f"{args.out}_chapters"
+    for folder in (site, chapters):
+        if folder.exists():
+            if not (folder / MARKER).exists():
+                sys.exit(f"{folder}/ already exists and was not made by this script; choose another --out.")
+            shutil.rmtree(folder)
+        folder.mkdir(parents=True)
+        (folder / MARKER).touch()
+    (site / "images").mkdir()
 
-    editions = {}
-    for lang, suffix in EDITIONS.items():
-        edition = load_edition(site, lang, suffix, numbers)
-        if edition:
-            editions[lang] = edition
-            print(f"{lang}: {len(edition['pages'])} pages, {sum(1 for s in edition['segments'] if 'audio' in s)} audio parts")
-    if "ur" not in editions:
-        sys.exit("No Urdu recordings found for that page range.")
+    shelf, downloads = [], {}
+    for book in BOOKS:
+        editions = {}
+        for lang, suffix in book["_editions"].items():
+            edition = load_edition(site, book, lang, suffix)
+            if edition:
+                editions[lang] = edition
+                print(f"{book['id']} {lang}: {len(edition['pages'])} pages, {sum(1 for s in edition['segments'] if 'audio' in s)} audio parts")
+        if "ur" not in editions:
+            sys.exit(f"{book['id']}: no Urdu recordings found.")
+        downloads[len(shelf)] = {lang: chapter_mp3s(site, chapters, book, lang, ed, args.chapters_url) for lang, ed in editions.items()}
+        shelf.append({**{k: v for k, v in book.items() if not k.startswith("_")}, "editions": editions})
 
-    downloads = {lang: chapter_mp3s(site, lang, edition) for lang, edition in editions.items()}
-
-    books = [{**BOOK, "editions": editions}] + [{"soon": True} for _ in range(2, SHELF_SIZE + 1)]
+    books = shelf + [{"soon": True} for _ in range(len(shelf) + 1, SHELF_SIZE + 1)]
     as_json = lambda data: json.dumps(data, ensure_ascii=False).replace("</", "<\\/")
     page = (ROOT / "app_template.html").read_text(encoding="utf-8")
     page = page.replace("{{TITLE}}", html.escape(args.title)).replace("{{DOWNLOADS}}", as_json(downloads)).replace("{{BOOKS}}", as_json(books))
@@ -146,7 +197,7 @@ def main():
     version = str(int(time.time()))
     (site / "sw.js").write_text((assets / "sw.js").read_text(encoding="utf-8").replace("{{VERSION}}", version), encoding="utf-8")
     archive = shutil.make_archive(str(site), "zip", site)
-    print(f"Done: {site}/index.html and {archive}")
+    print(f"Done: {site}/index.html, {archive} and the chapter files in {chapters}/")
 
 
 if __name__ == "__main__":

@@ -1,0 +1,24 @@
+# title: Page 22
+# Shab o Roz ke Masnoon Amaal, book page 22 (PDF page 23), تمہید
+# Book page 21 is blank.
+# This book prints the honorific as the ligature "صلی اللہ علیہ وآلہ وسلم" (with وآلہ), so it is typed out in
+# full in every page of this book instead of ﷺ (which preprocess.py would read without وآلہ).
+# List numbers (١، ٢، ٣) before the examples are not spoken.
+
+[h]
+تمہید
+
+[h]
+سنت کے معنی
+
+[ur]
+سنت مستحب اور مندوب کے معنی میں ہے۔ (مستحب اور مندوب ایک ہی اصطلاح کے دو نام ہیں۔)
+
+[ur]
+سنت وہ عمل ہے جس کا شارع علیہ السلام نے حکم دیا ہے لیکن اُسے لازم نہیں ٹھہرایا۔ اِسے انجام دینے پر ثواب ملتا ہے اور ترک کرنے پر گناہ نہیں ہوتا۔
+
+[h]
+اسلاف میں سنت پر عمل کرنے کی چند مثالیں
+
+[ur]
+نعمان بن سالم نے عمرو بن اوس سے روایت کیا کہ اُن سے عنبسہ بن ابو سفیان نے بیان کیا۔ وہ کہتے ہیں: میں نے سیدہ ام حبیبہ رضی اللہ عنہا کو یہ فرماتے ہوئے سنا۔

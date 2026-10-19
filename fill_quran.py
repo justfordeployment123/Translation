@@ -37,7 +37,7 @@ def ayah(ref):
     for attempt in range(5):  # the API sometimes times out or returns 503 for a moment
         try:
             with urllib.request.urlopen(url, timeout=60) as resp:
-                text = json.load(resp)["data"]["text"]
+                text = json.load(resp)["data"]["text"].replace("\ufeff", "")  # 1:1 starts with a BOM
             break
         except OSError:
             if attempt == 4:
@@ -55,6 +55,8 @@ def ayah(ref):
 def waqf(text):
     """The last word as read when stopping: tanween fath + alif -> fatha + alif; any other final
     vowel -> sukun, or just dropped when the letter has a shadda."""
+    if re.search("اً$", text):  # some hadith editions put the tanween after the alif ("أَصِيلاً")
+        return text[:-2] + "َا"  # -> fatha on the letter before the alif: "أَصِيلَا"
     match = re.search("([ً-ْ]+)([اى]?)$", text)
     if not match:
         return text
@@ -82,7 +84,7 @@ def _find(words, phrase, ref):
 def verse(ref, start=None, end=None):
     words = ayah(ref).split(" ")
     first = _find(words, start, ref)[0] if start else 0
-    last = _find(words, end, ref)[1] if end else len(words)
+    last = first + _find(words[first:], end, ref)[1] if end else len(words)  # the end phrase after the start
     return waqf(" ".join(words[first:last]))
 
 

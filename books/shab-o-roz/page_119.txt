@@ -1,0 +1,30 @@
+# title: Page 119
+# Shab o Roz ke Masnoon Amaal, book page 119 (PDF page 120), سوتے وقت کے اذکار
+# The first lines (the end of the third dua and its translation) are in page_118.txt.
+# Duas filled from Sahih al-Bukhari 6320 and Sahih Muslim 2715 (hadith-api muslim:6894), paused at the book's commas.
+# Proofreader please check: the book prints "بِاسْمِكَ رَبِّي"; Sahih al-Bukhari 6320 has "بِاسْمِكَ رَبِّ" (same meaning).
+#   The book also prints "مُؤْوِيَ" where the source has "مُئْوِيَ" (two spellings of the same word). The source is used.
+# Letters د، ھ are not spoken.
+
+[ar]
+# hadith {{H bukhari:6320 from بِاسْمِكَ to جَنْبِي}}، {{H bukhari:6320 from وَبِكَ to أَرْفَعُهُ}}، {{H bukhari:6320 from إِنْ to فَارْحَمْهَا}}، {{H bukhari:6320 from وَإِنْ to الصَّالِحِينَ}}
+بِاسْمِكَ رَبِّ وَضَعْتُ جَنْبِي، وَبِكَ أَرْفَعُهْ، إِنْ أَمْسَكْتَ نَفْسِي فَارْحَمْهَا، وَإِنْ أَرْسَلْتَهَا فَاحْفَظْهَا بِمَا تَحْفَظُ بِهِ عِبَادَكَ الصَّالِحِينْ
+
+[ur]
+“میرے رب! تیرے ہی نام سے میں نے اپنا پہلو رکھا اور تیری ہی مدد سے اسے اٹھاؤں گا۔ اگر تو میری رُوح کو روک لے تو اُس پر رحم فرما اور اگر تو اسے چھوڑ دے تو اس کی حفاظت فرما اُسی طرح جس طرح تو اپنے صالح بندوں کی حفاظت فرماتا ہے۔”
+
+[ref]
+(صحیح بخاری، حدیث: 6320۔)
+
+[ar]
+# hadith {{H muslim:6894 from الْحَمْدُ to وَآوَانَا flat}}، {{H muslim:6894 from فَكَمْ to مُئْوِيَ}}
+الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا وَكَفَانَا وَآوَانَا، فَكَمْ مِمَّنْ لاَ كَافِيَ لَهُ وَلاَ مُئْوِيْ
+
+[ur]
+“حمد اللہ کے لیے ہے جس نے ہمیں کھلایا، پلایا اور ہمیں کافی ہوا اور ہمیں پناہ دی۔ ورنہ کتنے لوگ ہیں جن کو نہ کوئی کفایت کرنے والا ہے، نہ پناہ دینے والا ہے۔”
+
+[ur]
+حضرت انس رضی اللہ عنہ سے مروی ہے وہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وآلہ وسلم جب اپنے بستر پر جاتے تو کہتے: الحمد للہ...
+
+[ref]
+(صحیح مسلم، حدیث: 2715۔)

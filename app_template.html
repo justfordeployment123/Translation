@@ -407,7 +407,7 @@ function bookTile(b) {
   info.querySelector("span").textContent = b.editions ? bookAuthor(b) : T("soon");
   el.append(info);
   el.dataset.search = b.editions ? `${b.title} ${b.subtitle} ${b.en_title} ${b.author} ${b.en_author}`.toLowerCase() : "";
-  el.onclick = () => (b.editions ? (location.hash = "#/read") : toast(T("soon")));
+  el.onclick = () => (b.editions ? (location.hash = "#/read/" + BOOKS.indexOf(b)) : toast(T("soon")));
   return el;
 }
 
@@ -439,8 +439,10 @@ function applyLang() {
   if (current) titles();
 }
 
+/* the book the reader opened last (the first available one before that) */
+function lastBook() { const i = store.get("lastBook", null); return BOOKS[i] && BOOKS[i].editions ? i : available[0][1]; }
 function renderHome() {
-  const [b, i] = available[0];
+  const i = lastBook(), b = BOOKS[i];
   const ed = b.editions[lang] || b.editions.ur, saved = store.get("pageno:" + i, null);
   const found = saved === null ? -1 : ed.pages.findIndex(pg => pg.number === saved), last = found < 0 ? null : found;
   const r = $("resume"); r.innerHTML = "";
@@ -454,7 +456,7 @@ function renderHome() {
   d.querySelector(".progress div").style.width = pct + "%";
   d.querySelector(".btn span").textContent = last !== null ? T("resume") : T("start");
   r.append(d);
-  r.onclick = () => (location.hash = "#/read");
+  r.onclick = () => (location.hash = "#/read/" + i);
   const secs = Object.values(b.editions).reduce((s, e) => s + e.seconds, 0);
   $("stats").innerHTML = "";
   [[n(ed.pages.length), T("pages")], [n((secs / 3600).toFixed(1)), T("hours")], [n(Object.keys(b.editions).length), T("langs")]].forEach(([v, l]) => {
@@ -478,8 +480,7 @@ function renderSettings() {
   SPEEDS.forEach(s => { const b = document.createElement("button"); b.textContent = n(s) + "×"; b.classList.toggle("on", s === rate); b.onclick = () => setRate(s); $("setSpeed").append(b); });
   SIZES.forEach((v, k) => { const b = document.createElement("button"); b.textContent = "A"; b.style.fontSize = (.66 + k * .12) + "rem"; b.classList.toggle("on", v === size); b.onclick = () => setSize(v); $("setSize").append(b); });
   $("dlList").innerHTML = "";
-  const [b] = available[0];
-  (DOWNLOADS[lang] || DOWNLOADS.ur).forEach(({ label, href, seconds }) => {
+  available.forEach(([b, i]) => (DOWNLOADS[i][lang] || DOWNLOADS[i].ur).forEach(({ label, href, seconds }) => {
     const it = document.createElement("div");
     it.className = "item";
     it.innerHTML = `<span class="ic"><svg><use href="#i-head"/></svg></span><span class="lbl"><span></span><small></small></span><a class="get" download href="${href}"><svg><use href="#i-download"/></svg></a>`;
@@ -487,7 +488,7 @@ function renderSettings() {
     it.querySelector(".lbl small").textContent = `${bookTitle(b)}${sep()}${n(Math.round(seconds / 60))} ${T("min")}`;
     it.querySelector(".get").setAttribute("aria-label", `${T("downloads")}: ${label}`);
     $("dlList").append(it);
-  });
+  }));
   $("speedBtn").textContent = n(rate) + "×";
 }
 function setRate(s) { rate = s; audio.playbackRate = rate; store.set("rate", rate); renderSettings(); if (edition && shown >= 0) $("tAll").textContent = clock(edition.pageSeconds[shown] / rate); }
@@ -497,7 +498,7 @@ document.documentElement.style.setProperty("--fs", size);
 /* ============ Navigation ============ */
 const SCREENS = { home: "screenHome", library: "screenLibrary", read: "screenRead", settings: "screenSettings" };
 function route() {
-  const r = (location.hash.replace(/^#\/?/, "").split("/")[0]) || "home";
+  const [r0, id] = location.hash.replace(/^#\/?/, "").split("/"), r = r0 || "home";
   current = SCREENS[r] ? r : "home";
   Object.entries(SCREENS).forEach(([k, id]) => $(id).hidden = k !== current);
   document.querySelectorAll(".tab").forEach(t => { const on = t.dataset.tab === current; t.classList.toggle("on", on); on ? t.setAttribute("aria-current", "page") : t.removeAttribute("aria-current"); });
@@ -505,7 +506,9 @@ function route() {
   $("app").classList.toggle("reading", reading);
   $("player").hidden = !reading; $("scanBtn").hidden = !reading;
   closeSheets();
-  if (reading && !book) openBook(available[0][1]);
+  // "#/read/<n>" opens book n; "#/read" goes back to the open book (or the last one read)
+  const want = id !== undefined && BOOKS[+id] && BOOKS[+id].editions ? +id : null;
+  if (reading && (want !== null ? BOOKS[want] !== book : !book)) openBook(want !== null ? want : lastBook());
   if (!reading) pause();
   if (current === "home") renderHome();
   titles();
@@ -532,6 +535,7 @@ $("scanBtn").onclick = () => openSheet("scanSheet");
 /* ============ Book and edition ============ */
 function openBook(i) {
   book = BOOKS[i];
+  store.set("lastBook", i);
   const c = cover(book, true); c.id = "npCover"; $("npCover").replaceWith(c);
   const ed = book.editions[lang] ? lang : "ur", saved = store.get("pageno:" + i, null);
   loadEdition(ed, Math.max(0, book.editions[ed].pages.findIndex(pg => pg.number === saved)));
