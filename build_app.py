@@ -94,12 +94,79 @@ BOOKS = [
             179: {"ur": "ساتواں اصول", "en": "The Seventh Principle"}, 188: {"ur": "آٹھواں اصول", "en": "The Eighth Principle"},
         },
     },
+    {
+        "id": "haraam-karobaar", "title": "100 حرام کاروبار اور تجارتی معاملات", "subtitle": "100 Haraam Karobaar aur Tijarti Mamlaat",
+        "en_title": "100 Forbidden Trades and Business Dealings",
+        "author": "ابراہیم بن فتحی بن عبدالمقتدر", "en_author": "Ibrahim bin Fathi bin Abd al-Muqtadir",
+        "publisher": "مکتبہ بیت السلام", "en_publisher": "Maktaba Bait-us-Salam",
+        "blurb": "خرید و فروخت اور کاروبار کی سو حرام صورتیں، بازاروں کے دوروں کی صورت میں، قرآن و حدیث کے دلائل کے ساتھ۔",
+        "en_blurb": "A hundred forbidden ways of buying, selling and doing business, told as tours of the markets, with their proofs from the Quran and the hadith.",
+        # text only for now: the pages come from the page files, with no recordings yet
+        "_text_only": True, "_editions": {"ur": None, "en": None}, "_pages": (17, 564), "_prefix": "haraam-karobaar/",
+        "_scans": "books/haraam-karobaar/scans/page_{n:03d}.jpg",
+    },
 ]
 TOC_WORDS = ("باب", "مقدمہ", "تمہید", "Chapter", "Introduction", "Preface")
 
 
+SOURCES = {}  # site audio path -> the recorded MP3 it was made from (chapter downloads join the MP3s)
+CACHE = ROOT / "cache" / "site_audio"
+
+
+def site_audio(site, source, dest):
+    """Copy one recorded segment into the site as 48 kbps mono AAC (.m4a): about 40% of the MP3's size, the
+    same length to the sample, so the word timings still fit. Converted files are cached, so a rebuild only
+    converts new recordings. Without afconvert the MP3 is copied as it is."""
+    if not shutil.which("afconvert"):
+        (site / dest).parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy(source, site / dest)
+        return dest
+    dest = str(Path(dest).with_suffix(".m4a"))
+    cached = CACHE / dest
+    if not cached.exists() or cached.stat().st_mtime < source.stat().st_mtime:
+        cached.parent.mkdir(parents=True, exist_ok=True)
+        subprocess.run(["afconvert", str(source), "-o", str(cached), "-f", "m4af", "-d", "aac", "-b", "48000", "-c", "1"], check=True)
+    (site / dest).parent.mkdir(parents=True, exist_ok=True)
+    shutil.copy(cached, site / dest)
+    return dest
+
+
+def text_edition(site, book, lang):
+    """Pages and segments of a book that is not recorded yet, read from its page files: the text is shown as it
+    will be spoken, with no audio, and the contents come from its chapter headings."""
+    import preview_book
+    from preprocess import preprocess
+    from make_sample import TAGS
+    pages, segments = [], []
+    first, last = book["_pages"]
+    data = [pg for pg in preview_book.pages(book["id"]) if first <= pg["n"] <= last]
+    for pg in data:
+        n, index = pg["n"], len(pages)
+        for tag, raw in pg[lang]:
+            tlang, style = TAGS[tag]
+            if style == "ref":
+                seg = {"lang": tlang, "text": " ".join(raw.split()), "style": "ref", **({"fn": 1} if tag in ("fn", "fen") else {})}
+            else:
+                text = preprocess(raw, tlang)
+                seg = {"lang": tlang, "text": text, **({"style": style} if style else {}), "words": [{"w": w, "s": 0, "e": 0} for w in text.split()]}
+            segments.append({**seg, "page": index})
+        scan = ROOT / book["_scans"].format(n=n)
+        image = ""
+        if scan.exists():
+            image = f"images/{book['_prefix']}page_{n:03d}{scan.suffix}"
+            (site / image).parent.mkdir(parents=True, exist_ok=True)
+            shutil.copy(scan, site / image)
+        pages.append({"number": n, "image": image})
+    if not any(pg[lang] for pg in data):
+        return None
+    toc = [{"label": t[lang] or t["ur"], "page": t["i"]} for t in preview_book.toc(data)]
+    return {"pages": pages, "segments": segments, "toc": toc, "seconds": 0}
+
+
 def load_edition(site, book, lang, suffix):
     """Pages and segments of one edition, with its audio and scans copied into the site."""
+    if book.get("_text_only"):
+        return text_edition(site, book, lang)
     pages, segments = [], []
     prefix = book["_prefix"]
     first, last = book["_pages"]
@@ -116,10 +183,10 @@ def load_edition(site, book, lang, suffix):
             if seg.get("style") == "ref" and seg["text"] in notes:
                 seg = {**seg, "fn": 1}
             if "audio" in seg:
-                dest = f"audio/{prefix}{lang}/{n:03d}_{seg['audio']}"
-                (site / dest).parent.mkdir(parents=True, exist_ok=True)
-                shutil.copy(folder / seg["audio"], site / dest)
-                seg = {**seg, "audio": dest, "d": round(mp3_seconds(folder / seg["audio"]), 2)}
+                source = folder / seg["audio"]
+                dest = site_audio(site, source, f"audio/{prefix}{lang}/{n:03d}_{seg['audio']}")
+                SOURCES[dest] = source
+                seg = {**seg, "audio": dest, "d": round(mp3_seconds(source), 2)}
             segments.append({**seg, "page": index})
         scan = folder / sync["image"] if "image" in sync else ROOT / book.get("_scans", "-").format(n=n)
         image = ""
@@ -171,7 +238,7 @@ def chapter_mp3s(site, chapters, book, lang, edition, url):
     for n, part in enumerate(parts, 1):
         joined = chapters / f"{book['id']}_{lang}_part_{n:02d}.mp3"
         # MP3 frames are self-contained, so joining the files byte-for-byte plays back fine
-        joined.write_bytes(b"".join((site / a).read_bytes() for a in part["audio"]))
+        joined.write_bytes(b"".join(SOURCES[a].read_bytes() for a in part["audio"]))
         name = compress(joined).name
         seconds = round(sum(seg.get("d", 0) for seg in edition["segments"] if seg.get("audio") in part["audio"]))
         links.append({"label": part["label"], "href": f"{url.rstrip('/')}/{name}", "seconds": seconds})
@@ -218,7 +285,7 @@ def main():
                 print(f"{book['id']} {lang}: {len(edition['pages'])} pages, {sum(1 for s in edition['segments'] if 'audio' in s)} audio parts")
         if "ur" not in editions:
             sys.exit(f"{book['id']}: no Urdu recordings found.")
-        downloads[len(shelf)] = {lang: chapter_mp3s(site, chapters, book, lang, ed, args.chapters_url) for lang, ed in editions.items()}
+        downloads[len(shelf)] = {} if book.get("_text_only") else {lang: chapter_mp3s(site, chapters, book, lang, ed, args.chapters_url) for lang, ed in editions.items()}
         shelf.append({**{k: v for k, v in book.items() if not k.startswith("_")}, "editions": editions})
 
     books = shelf + [{"soon": True} for _ in range(len(shelf) + 1, SHELF_SIZE + 1)]

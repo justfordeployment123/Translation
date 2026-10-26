@@ -347,7 +347,7 @@ const UI = {
     lang: "زبان", speed: "رفتار", size: "متن کا سائز", downloads: "ڈاؤن لوڈ", dlSub: "اردو آڈیو، باب وار", install: "ایپ انسٹال کریں",
     instText: "ایپ کو ہوم اسکرین پر رکھیں، یہ پوری اسکرین پر اپنے آئیکن کے ساتھ کھلے گی۔", installBtn: "انسٹال کریں",
     ios: "آئی فون پر: سفاری میں شیئر بٹن دبائیں اور «ہوم اسکرین میں شامل کریں» منتخب کریں۔", foot: "نور لائبریری · اہلِ خانہ کے لیے · غیر تجارتی استعمال",
-    noEn: "اس کتاب کا انگریزی ترجمہ ابھی دستیاب نہیں", noPage: (a, b) => `انگریزی ترجمہ صفحہ ${a} سے ${b} تک دستیاب ہے`, min: "منٹ", aria: { restart: "دوبارہ", prev: "پچھلا صفحہ", play: "چلائیں", pause: "روکیں", next: "اگلا صفحہ", contents: "فہرست", scan: "اصل صفحہ" },
+    noEn: "اس کتاب کا انگریزی ترجمہ ابھی دستیاب نہیں", noAudio: "اس کتاب کی آڈیو جلد آ رہی ہے، ابھی متن پڑھا جا سکتا ہے", noPage: (a, b) => `انگریزی ترجمہ صفحہ ${a} سے ${b} تک دستیاب ہے`, min: "منٹ", aria: { restart: "دوبارہ", prev: "پچھلا صفحہ", play: "چلائیں", pause: "روکیں", next: "اگلا صفحہ", contents: "فہرست", scan: "اصل صفحہ" },
   },
   en: {
     app: "Noor Library", tabs: ["Home", "Library", "Reader", "Settings"], hello: "Assalamu alaikum", headline: "What would you like to listen to today?",
@@ -358,7 +358,7 @@ const UI = {
     lang: "Language", speed: "Speed", size: "Text size", downloads: "Downloads", dlSub: "English audio, by chapter", install: "Install the app",
     instText: "Add the app to your home screen. It opens full screen, with its own icon.", installBtn: "Install",
     ios: "On iPhone: tap Share in Safari, then choose \"Add to Home Screen\".", foot: "Noor Library · For family use · Not for sale",
-    noEn: "The English translation of this book is not available yet", noPage: (a, b) => `English is available for pages ${a} to ${b}`, min: "min", aria: { restart: "Restart", prev: "Previous page", play: "Play", pause: "Pause", next: "Next page", contents: "Contents", scan: "Original page" },
+    noEn: "The English translation of this book is not available yet", noAudio: "Audio for this book is coming soon; the text can be read now", noPage: (a, b) => `English is available for pages ${a} to ${b}`, min: "min", aria: { restart: "Restart", prev: "Previous page", play: "Play", pause: "Pause", next: "Next page", contents: "Contents", scan: "Original page" },
   },
 };
 const PAUSE = { normal: 650, ar: 900, h: 1100, page: 1600 };
@@ -461,7 +461,7 @@ function renderHome() {
   r.onclick = () => (location.hash = "#/read/" + i);
   const secs = Object.values(b.editions).reduce((s, e) => s + e.seconds, 0);
   $("stats").innerHTML = "";
-  [[n(ed.pages.length), T("pages")], [n((secs / 3600).toFixed(1)), T("hours")], [n(Object.keys(b.editions).length), T("langs")]].forEach(([v, l]) => {
+  [[n(ed.pages.length), T("pages")], [secs ? n((secs / 3600).toFixed(1)) : "—", T("hours")], [n(Object.keys(b.editions).length), T("langs")]].forEach(([v, l]) => {
     const s = document.createElement("div"); s.className = "card stat"; s.innerHTML = '<b class="num"></b><span></span>';
     s.querySelector("b").textContent = v; s.querySelector("span").textContent = l; $("stats").append(s);
   });
@@ -482,7 +482,7 @@ function renderSettings() {
   SPEEDS.forEach(s => { const b = document.createElement("button"); b.textContent = n(s) + "×"; b.classList.toggle("on", s === rate); b.onclick = () => setRate(s); $("setSpeed").append(b); });
   SIZES.forEach((v, k) => { const b = document.createElement("button"); b.textContent = "A"; b.style.fontSize = (.66 + k * .12) + "rem"; b.classList.toggle("on", v === size); b.onclick = () => setSize(v); $("setSize").append(b); });
   $("dlList").innerHTML = "";
-  available.forEach(([b, i]) => (DOWNLOADS[i][lang] || DOWNLOADS[i].ur).forEach(({ label, href, seconds }) => {
+  available.forEach(([b, i]) => (DOWNLOADS[i][lang] || DOWNLOADS[i].ur || []).forEach(({ label, href, seconds }) => {
     const it = document.createElement("div");
     it.className = "item";
     it.innerHTML = `<span class="ic"><svg><use href="#i-head"/></svg></span><span class="lbl"><span></span><small></small></span><a class="get" download href="${href}"><svg><use href="#i-download"/></svg></a>`;
@@ -567,7 +567,7 @@ function render() {
     if (seg.style === "ref") { p.className = "ref" + (seg.lang === "en" ? " en" : "") + (seg.fn ? " long" : ""); p.textContent = seg.text; }
     else {
       p.className = "seg " + seg.lang + (seg.style === "h" ? " h" : "");
-      seg.words.forEach(w => { w.el = document.createElement("span"); w.el.textContent = w.w; w.el.onclick = () => seek(si, w.s, true); p.append(w.el, " "); });
+      seg.words.forEach(w => { w.el = document.createElement("span"); w.el.textContent = w.w; if (seg.audio) w.el.onclick = () => seek(si, w.s, true); p.append(w.el, " "); });
     }
     blocks[pg].append(p);
   });
@@ -622,7 +622,7 @@ function load(si, t, autoplay) {
   if (nx >= 0) fetch(edition.segments[nx].audio).catch(() => {});
 }
 function play() {
-  if (cur < 0) { const si = nextVoiced(firstOfPage(shown)); if (si < 0) return; load(si, 0, false); }
+  if (cur < 0) { const si = nextVoiced(firstOfPage(shown)); if (si < 0) { if (nextVoiced(0) < 0) toast(T("noAudio")); return; } load(si, 0, false); }
   playing = true; audio.playbackRate = rate;
   audio.play().catch(() => stopAll());
   setPlayIcon();
