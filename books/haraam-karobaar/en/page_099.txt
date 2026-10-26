@@ -1,0 +1,26 @@
+# title: Page 99
+# English edition of book page 99, built by build_english.py from en_src/ and page_099.txt
+
+[en]
+“The buyer and the seller have the choice as long as they have not parted. If they speak the truth and make (the defects) clear, blessing is put into their goods, and if they lie and hide (the defects), the blessing is taken away from their goods.”
+
+[en]
+Shopkeeper: Son, go and bring some drinks.
+
+[en]
+Teacher: May Allah bless you. We have just had a sherbet at the shop next door.
+
+[en]
+Shopkeeper: (insisting) It is no trouble; have a drink before you go.
+
+[en]
+Because the shopkeeper insisted, the teacher and his student had the drink, and they began to introduce themselves to one another.
+
+[en]
+Shopkeeper: My name is Salim.
+
+[en]
+Teacher: Ma sha Allah. My name is Salih, and my student's name is Ammar.
+
+[en]
+Salim: May Allah reward you; you have given us good counsel.

@@ -1,0 +1,17 @@
+# title: Page 115
+# English edition of book page 115, built by build_english.py from en_src/ and page_115.txt
+
+[en]
+Salim: Wa alaikum as-salam wa rahmatullah.
+
+[en]
+Ammar: Teacher! Where are we going now?
+
+[en]
+Teacher: Now let us go home. (The two of them set off for home.)
+
+[en]
+Teacher: Ammar! Can you tell me how many people we invited to the right path today, and which evils we have warned people against?
+
+[en]
+Ammar: Yes, Teacher! I will tell you.

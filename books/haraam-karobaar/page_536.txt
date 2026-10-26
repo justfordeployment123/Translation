@@ -1,0 +1,41 @@
+# title: Page 536
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 536 (PDF page 537), نواسیواں باب: چوری اور ڈاکا زنی سے مال حاصل کرنا
+# Print spelling normalized: «انانواں باب» -> «نواسیواں باب» (chapter 89; the book's spelling of the 90s is also its spelling of the 50s or is irregular, so the standard number word + «واں» is used); the contents page has the same spelling.
+# The page starts with the new chapter (page 535 ends the previous one with a full sentence).
+# «نعوذ بالله!» is printed in Arabic type at the start of the teacher's turn; it stays in the Urdu block as a set phrase, in Urdu spelling.
+# Al-Ma'idah 5:38 is printed in full; it is filled from the official text (fill_quran.py).
+# The hadith at the bottom of the page continues on page 537 ("فُطِنَ لَهُ ... ذَهَبَ بِهِ"); it is kept whole here, with its footnote ①
+# (صحيح مسلم 904), printed at the foot of page 537. Its Urdu translation starts on page 537 and stays there.
+# Hadith (Jabir): Muslim 2102 (sunnah.com numbering of Muslim 904), the eclipse sermon, from which the book quotes only the passage on the
+# man with the hooked staff: «لَقَدْ جِيءَ بِالنَّارِ» is joined (" cont") to «حَتَّى رَأَيْتُ فِيهَا ...» (the source's «وَحَتَّى» without its «وَ», "~"),
+# leaving out the source's «وَذَلِكُمْ حِينَ رَأَيْتُمُونِي تَأَخَّرْتُ مَخَافَةَ أَنْ يُصِيبَنِي مِنْ لَفْحِهَا», as the book does. Pauses at the book's commas.
+# The book's gloss «أَمْعَاءَهُ» (between dashes after «قُصْبَهُ», explaining the word; not in the hadith) is typed from the print, with no pause.
+
+[h]
+نواسیواں باب: چوری اور ڈاکا زنی سے مال حاصل کرنا
+
+[ur]
+عمار: سائل پوچھتا ہے کہ استاد صاحب! میں یہ جاننا چاہتا ہوں کہ اسلام میں چوری اور ڈاکا زنی سے لوگوں کا مال کھانے کا کیا حکم ہے؟
+
+[ur]
+استاد: نعوذ باللہ! اللہ کے عذاب اور اس کی پکڑ سے ڈرنا چاہیے کہ اللہ ہمیں ایسے شر پسند لوگوں سے اپنے حفظ و امان میں رکھے۔ چوری اور ڈاکا زنی کا شمار سب سے بڑے حرام کاموں میں ہوتا ہے اور یہ ایک خطرناک جرم ہے۔ اللہ تعالیٰ ارشاد فرماتے ہیں:
+
+[ar]
+# quran 5:38 from وَالسَّارِقُ وَالسَّارِقَةُ to عَزِيزٌ حَكِيمٌ
+وَالسَّارِقُ وَالسَّارِقَةُ فَاقْطَعُوا أَيْدِيَهُمَا جَزَاءً بِمَا كَسَبَا نَكَالًا مِنَ اللَّهِ ۗ وَاللَّهُ عَزِيزٌ حَكِيمْ
+
+[ref]
+[المائدة: 38]
+
+[ur]
+“اور جو چوری کرنے والا اور جو چوری کرنے والی ہے سو دونوں کے ہاتھ کاٹ دو، اس کی جزا کے لیے جو ان دونوں نے کمایا، اللہ کی طرف سے عبرت کے لیے اور اللہ سب پر غالب، کمال حکمت والا ہے۔”
+
+[ur]
+چور کے لیے اتنی سخت سزا اس لیے ہے کہ اللہ تعالیٰ کی حدود کو ذرا برابر بھی اہمیت نہیں دیتا۔ رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H muslim:2102 from لَقَدْ جِيءَ to بِالنَّارِ cont}} {{H muslim:2102 from ~حَتَّى رَأَيْتُ فِيهَا to قُصْبَهُ cont}} أَمْعَاءَهُ {{H muslim:2102 from فِي النَّارِ to بِمِحْجَنِهِ}}، {{H muslim:2102 from فَإِنْ فُطِنَ to بِمِحْجَنِي}}، {{H muslim:2102 from وَإِنْ غُفِلَ to بِهِ}}
+لَقَدْ جِيءَ بِالنَّارِ حَتَّى رَأَيْتُ فِيهَا صَاحِبَ الْمِحْجَنِ يَجُرُّ قُصْبَهُ أَمْعَاءَهُ فِي النَّارِ كَانَ يَسْرِقُ الْحَاجَّ بِمِحْجَنِهْ، فَإِنْ فُطِنَ لَهُ قَالَ إِنَّمَا تَعَلَّقَ بِمِحْجَنِي، وَإِنْ غُفِلَ عَنْهُ ذَهَبَ بِهْ
+
+[ref]
+صحيح مسلم، رقم الحديث [904]

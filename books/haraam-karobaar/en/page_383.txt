@@ -1,0 +1,8 @@
+# title: Page 383
+# English edition of book page 383, built by build_english.py from en_src/ and page_383.txt
+
+[en]
+Teacher: May Allah reward you! May Allah grant you a lawful and plentiful livelihood.
+
+[en]
+After this conversation, the manager gathered all the books the teacher had pointed out and put them in a special place to be burned.

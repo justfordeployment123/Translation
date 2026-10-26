@@ -1,0 +1,17 @@
+# title: Page 461
+# English edition of book page 461, built by build_english.py from en_src/ and page_461.txt
+
+[en]
+Teacher: In my view, you should cancel the will in the matter of your daughter and be content with half of the inheritance for her.
+
+[en]
+Abdur-Rahim: Can I make a will for someone who is not my heir?
+
+[en]
+Teacher: Yes, you can.
+
+[en]
+Abdur-Rahim: I mean, for the students of a madrasa.
+
+[en]
+Teacher: Yes, that is right. But how much of your wealth will you leave in the will?

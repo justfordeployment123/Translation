@@ -1,0 +1,32 @@
+# title: Page 456
+# English edition of book page 456, built by build_english.py from en_src/ and page_456.txt
+
+[en]
+Allah the Exalted has made it clear that when the decision of Allah and His Messenger, peace be upon him, comes in any matter, no believer has the right to reject it, and whoever opposes that decision has, as it were, invited misguidance.
+
+[ar]
+وَمَا كَانَ لِمُؤْمِنٍ وَلَا مُؤْمِنَةٍ إِذَا قَضَى اللَّهُ وَرَسُولُهُ أَمْرًا أَنْ يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ ۗ وَمَنْ يَعْصِ اللَّهَ وَرَسُولَهُ فَقَدْ ضَلَّ ضَلَالًا مُبِينَا
+
+[ref]
+[الأحزاب: 36]
+
+[en]
+It is not for a believing man or a believing woman, when Allah and His Messenger have decided a matter, that they should (thereafter) have any choice about their affair. And whoever disobeys Allah and His Messenger has certainly strayed into clear error.
+
+[en]
+Allah the Exalted has made it clear that accepting the decision one likes and rejecting what one does not like is a sign of hypocrisy.
+
+[ar]
+وَيَقُولُونَ آمَنَّا بِاللَّهِ وَبِالرَّسُولِ وَأَطَعْنَا ثُمَّ يَتَوَلَّىٰ فَرِيقٌ مِنْهُمْ مِنْ بَعْدِ ذَٰلِكَ ۚ وَمَا أُولَٰئِكَ بِالْمُؤْمِنِينْ
+
+[ar]
+وَإِذَا دُعُوا إِلَى اللَّهِ وَرَسُولِهِ لِيَحْكُمَ بَيْنَهُمْ إِذَا فَرِيقٌ مِنْهُمْ مُعْرِضُونْ
+
+[ar]
+وَإِنْ يَكُنْ لَهُمُ الْحَقُّ يَأْتُوا إِلَيْهِ مُذْعِنِينْ
+
+[ar]
+أَفِي قُلُوبِهِمْ مَرَضٌ أَمِ ارْتَابُوا أَمْ يَخَافُونَ أَنْ يَحِيفَ اللَّهُ عَلَيْهِمْ وَرَسُولُهُ ۚ بَلْ أُولَٰئِكَ هُمُ الظَّالِمُونْ
+
+[ref]
+[النور: 50-47]

@@ -1,0 +1,65 @@
+# title: Page 211
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 211 (PDF page 212), اٹھائیسواں باب: شراب کی خرید و فروخت
+# The page starts with a new dialogue turn (page 210 ends with a full sentence).
+# The Urdu translation of the poem continues on page 212 ("اے دنیا سے دل لگانے والے! ... کہ اب یہ راستہ کھلا ہے۔”"); it is kept whole here.
+# The teacher's turn opens straight with an Arabic poem, so the name stands alone in its [ur] block.
+# The poem is typed from the print, one printed line (each one rhymes) per [ar] block, with the printed harakat and rhyme vowels
+# (lines one to four print no vowel on the rhyming nun; typed as printed). Dagger-alif spellings in standard form
+# ("إِلٰى" -> "إِلَى", "مَضىٰ" -> "مَضَى", "وَرُحىٰ" -> "وَرُحَى"); the loosely spaced "وَ مُكَاثِر" is joined ("وَمُكَاثِر").
+# Print typo corrected: "يَا سَاكَنَ" -> "يَا سَاكِنَ" (the print has a fatha on the kaf; the vocative needs the participle).
+# Print typo corrected: "شِخصَك" -> "شَخصَك" (the print has a kasra under the shin).
+# Print spacing: "مَالك" (= «ما لك») is typed "مَا لك", so it is not read as one word.
+# Proofreader please check: "وَرُحَى الْمُنْيَةِ" is typed as printed; the translation ("موت کی چکی") reads it as "الْمَنِيَّةِ" (death).
+# Proofreader please check: "جَزَعا" is printed without tanween (for "جَزَعًا"); typed as printed.
+# Print typo corrected: the translation has "بھول جائیں گے،۔" (comma and full stop); typed "بھول جائیں گے۔".
+
+[ur]
+استاد: اس کا حل یہی ہے کہ فوری طور پر اسے یہاں سے نکال دو اور اسے کہیں بہا دو، اس کو واپس فیکٹری وغیرہ میں لے جانا اور اسے فروخت کر دینا بھی ناجائز اور حرام ہے۔
+
+[ur]
+احمد: استاد صاحب! ان شاء اللہ، موجودہ سٹاک فروخت کرنے کے بعد میں آیندہ کبھی اس کی خرید و فروخت نہیں کروں گا۔
+
+[ur]
+استاد: تمھاری یہ بات تو پہلی سے بھی زیادہ مضحکہ خیز ہے۔
+
+[ur]
+احمد: کیسے؟
+
+[ur]
+استاد: کیا تمھیں علم ہے کہ اس سٹاک کے ختم ہونے تک تم زندہ رہو گے اور تمھیں موت سے پہلے پہلے توبہ نصیب ہو جائے گی؟
+
+[ur]
+احمد: ہاں۔
+
+[ur]
+استاد:
+
+[ar]
+مَا لِيْ رَأَيْتُك تَطْمَئِنُّ إِلَى الْحَيَاةِ وَتَرْكَن
+
+[ar]
+يَا سَاكِنَ الشُّرُفَاتِ مَا لك غَيْر قَبْرِكَ مَسْكن
+
+[ar]
+فَالْيَوْمَ أَنْتَ مُفَاخِر وَمُكَاثِر تَتزيَّن
+
+[ar]
+وَغدًا تَصِيْرُ إِلَى الْقُبُوْر مُحَنَّط وَمُكَفَّن
+
+[ar]
+وَكَأَنَّ شَخصَك لَمْ يَكُنْ فِيْ النَّاسِ سَاعَة تُدْفَنُ
+
+[ar]
+وَكَأَنَّ أَهْلَك قَدْ بَكَوا جَزَعا عَلَيْكَ وَرَنَّنُوا
+
+[ar]
+فَإِذَا مَضَى لكَ جُمْعَةٌ فَكَأَنَّهُمْ لَمْ يَحْزَنُوْا
+
+[ar]
+وَالنَّاسُ فِيْ غَفَلَاتِهِمْ وَرُحَى الْمُنْيَةِ تَطْحَنُ
+
+[ar]
+أَحْدِثْ لِرَبِّكَ تَوْبَةً فَسَبِيْلُهَا لَكَ مُمْكِنُ
+
+[ur]
+“افسوس! میں نے تجھ کو زندگی کے ساتھ مطمئن دیکھا ہے، حالانکہ اے دنیا سے دل لگانے والے! قبر ہی تمھارا ٹھکانا ہے۔ آج تمھیں دنیاوی زیب و آرایش پر بڑا ناز ہے، حالانکہ کل تم نے قبروں میں دفن ہونا ہے۔ انسان تو چند لمحے لوگوں میں چل پھر سکے گا بالآخر تو دفن ہو جائے گا۔ تیرے گھر والے روئیں گے، پیٹیں گے، نوحہ کریں گے، لیکن چند دنوں بعد وہ بھی تیرے غم کو بھول جائیں گے۔ لوگ کس قدر غفلت کی نیند سوئے ہوئے ہیں اور موت کی چکی پیس رہی ہے۔ ابھی اپنے رب کی طرف لوٹ جاؤ کہ اب یہ راستہ کھلا ہے۔”

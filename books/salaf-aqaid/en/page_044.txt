@@ -1,0 +1,5 @@
+# title: Page 44
+# English edition of book page 44, built by build_english.py from en_src/ and page_044.txt
+
+[en]
+If a Muslim declares his attachment to the Righteous Predecessors, he should be proud of it. The word “Salafiyyah” is of the same kind. The way in which the Righteous Predecessors received Islam, understood it and acted upon it is called “Salafiyyah”. Thus the word “Salafiyyah” is used for those who act on the Book of Allah and the Sunnah of the Messenger of Allah, peace be upon him, according to the understanding of the Righteous Predecessors.

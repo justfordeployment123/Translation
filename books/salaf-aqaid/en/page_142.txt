@@ -1,0 +1,41 @@
+# title: Page 142
+# English edition of book page 142, built by build_english.py from en_src/ and page_142.txt
+
+[en]
+“If a person accuses another of being a transgressor, or accuses him of disbelief, the accusation will come back upon him, if his companion is not so.”
+
+[ref]
+صحيح البخاري، الأدب، حديث: 6045.
+
+[en]
+He also said:
+
+[ar]
+وَمَنْ رَمَى مُؤْمِنًا بِكُفْرْ، فَهْوَ كَقَتْلِهْ
+
+[en]
+“And whoever accuses a believer of disbelief, it is as though he had killed him.”
+
+[ref]
+صحيح البخاري، الأدب، حديث: 6105.
+
+[en]
+And he said:
+
+[ar]
+إِذَا قَالَ الرَّجُلُ لأَخِيهِ يَا كَافِرُ فَقَدْ بَاءَ بِهِ أَحَدُهُمَا
+
+[en]
+“When a man calls his brother a disbeliever, one of the two deserves it.”
+
+[ref]
+صحيح البخاري، الأدب، حديث: 6103.
+
+[hen]
+The Difference Between the General Ruling and the Specific Ruling
+
+[en]
+In the view of Ahl as-Sunnah wal-Jama'ah there is a clear difference between two things: passing a ruling of sin or of disbelief on the people of innovation in general terms, and specifically declaring a person whose Islam is established with certainty, and who has then committed some innovation, to be a sinner, a transgressor or a disbeliever.
+
+[en]
+They do not specifically call a Muslim a sinner, a transgressor or a disbeliever until the “truth” has been made clear to him by establishing proof against him and removing his doubts.

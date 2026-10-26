@@ -1,0 +1,26 @@
+# title: Page 516
+# English edition of book page 516, built by build_english.py from en_src/ and page_516.txt
+
+[hen]
+Summary of Buying and Selling Clothes with Obscene Pictures and High-Heeled Shoes
+
+[en]
+The teacher bought the things he needed, and, saying As-salamu alaikum and thanking Zaid, he set off back home. On the way Ammar spoke to the teacher.
+
+[en]
+Ammar: Teacher! In this sitting we have told people to keep away from the following forbidden things:
+
+[en]
+First: Buying and selling indecent clothes and high-heeled shoes.
+
+[en]
+Second: A tailor sewing clothes of indecent design.
+
+[en]
+Third: Buying and selling clothes that bear the symbols of the disbelievers and their pictures.
+
+[en]
+Fourth: Buying and selling carpets, prayer mats and the like with designs on them for mosques.
+
+[en]
+Teacher: Praise be to Allah.

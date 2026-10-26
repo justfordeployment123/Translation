@@ -1,0 +1,35 @@
+# title: Page 508
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 508 (PDF page 509), تراسیواں باب: فحش کپڑے سلائی کرنے کا بیان
+# The first two lines of the page ("کسی طرح بھی عورت کو ہاتھ لگائے بغیر ... نے ارشاد فرمایا:") end a sentence that is on page 507, where it starts.
+# The last sentence continues on page 509 ("گیا۔"); it is kept whole here. The teacher's turns continue throughout; the paragraphs
+# «لہٰذا یہ ہنر ...» and «اس آدمی نے جواب دیا ...» are printed as new paragraphs inside his turns, so each is a nameless block.
+# Hadith typed from the print (not in the hadith-api collections): the book cites المعجم الكبير للطبراني and صحيح الجامع 5045.
+# Typed with the printed harakat (including the printed shaddas of «يُّطْعَنَ», «مِّنْ», «يَّمَسَّ» and the sukun on «فِيْ», «حَدِيْدٍ»),
+# as on page 331 (the same hadith with «خَيْرٌ لَّهُ»); waqf on the last word. The mark over the kha of «بِمِخْيَطٍ» is read as a sukun.
+# Checked at 300 dpi (the extracted page image): the print has a single kasra on «بِمِخْيَطِ» and «حَدِيْدِ», and vowels the verb
+# «يُّطَعْنَ» (a fatha over the ta, a sukun over the ayn).
+# Proofreader please check: these are read as print vowel slips and typed «بِمِخْيَطٍ», «حَدِيْدٍ» (tanween, as the shadda of «مِّنْ» and
+# the grammar require; as on page 331) and «يُّطْعَنَ» (the passive «to be pierced»).
+# Print typo corrected: "تو وہ وہ بھی ایڈز کی مریض نکلی" -> "تو وہ بھی ایڈز کی مریض نکلی" (a doubled word).
+# «معاینہ» is typed as printed (twice).
+
+[ar]
+لَأَنْ يُّطْعَنَ فِيْ رَأْسِ أَحَدِكُمْ بِمِخْيَطٍ مِّنْ حَدِيْدٍ أَهْوَنُ عَلَيْهِ مِنْ أَنْ يَّمَسَّ امْرَأَةً لَا تَحِلُّ لَهْ
+
+[ref]
+المعجم الكبير للطبراني [211/20] صحيح الجامع، رقم الحديث [5045]
+
+[ur]
+“تم میں سے کسی کے سر میں لوہے کی کنگھی پھیری جائے، یہ اس سے بہتر ہے کہ وہ کسی عورت کو ہاتھ لگائے جو اس کے لیے حلال نہ ہو۔”
+
+[ur]
+لہٰذا یہ ہنر بہت سے حرام کاموں کا پیش خیمہ بن سکتا ہے۔ کیا تم پسند کرو گے کہ اس موقع پر میں تمھیں اس ہنر سے متعلق ایک شرمناک قصہ سناؤں، جو مجھے میرے ایک معتبر دوست نے سنایا تھا؟
+
+[ur]
+علی: ہاں، سنائیں۔
+
+[ur]
+استاد: یہ ایک ہندوستانی درزی کا واقعہ ہے، جو کئی سالوں سے اس شہر میں عورتوں کے کپڑے سلائی کر رہا تھا۔ ایک دن اس شہر کا ایک آدمی شدید بیمار ہو گیا، اسے علاج کے لیے ہسپتال لے جایا گیا تو ڈاکٹر اس کی بیماری دیکھ کر حیران رہ گیا۔ اس آدمی نے ڈاکٹر سے اپنی بیماری سے متعلق دریافت کیا تو ڈاکٹر نے اس سے پوچھا کہ کیا تمھارا عورتوں کے ساتھ کوئی غلط تعلق ہے؟
+
+[ur]
+اس آدمی نے جواب دیا: اللہ کی قسم! نہیں، ڈاکٹر نے اسے بتایا کہ تمھیں ایڈز کی بیماری لاحق ہے۔ وہ آدمی تعجب کرنے لگا کہ میں نے تو کبھی اپنی شرمگاہ کا غلط استعمال نہیں کیا تو مجھے یہ بیماری کیسے لاحق ہو گئی؟ اب ضروری تھا کہ اس کی بیوی کا بھی معاینہ کیا جائے کہ کہیں وہ بھی اس بیماری کا شکار تو نہیں۔ جب اس کا معاینہ کیا گیا تو وہ بھی ایڈز کی مریض نکلی۔ اب اسے بھی ہسپتال داخل کروا دیا گیا۔

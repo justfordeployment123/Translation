@@ -1,0 +1,54 @@
+# title: Page 75
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 75 (PDF page 76), چھٹا باب: فروخت کردہ سامان میں فریب سے کام لینا
+# Page 74 ends with a full dialogue turn ("استاد: ہاں، بہت زیادہ دلائل ہیں۔"); the teacher's proofs follow here, so the page opens with a nameless [ur] block.
+# The Urdu translation of the third hadith continues on page 76 ("کی اس چیز سے برکت نکال لی جاتی ہے۔”"); it is kept whole here.
+# Hadith 1: «مَنْ غَشَّنَا فَلَيْسَ مِنَّا», Ibn Majah 2225, as on page 67; the book cites Muslim [102] and Ibn Majah [2224].
+# Hadith 2: Muslim 4533 in the sunnah.com numbering (the book cites Bukhari [3186] and Muslim [1735]; Bukhari 3186 lacks "يُقَالُ هَذِهِ غَدْرَةُ فُلاَنٍ"),
+# filled in two excerpts so it pauses at the book's comma.
+# Hadith 3: Bukhari 2082 (the book cites Bukhari [2082] and Muslim [1532]); the source has "مَا لَمْ يَتَفَرَّقَا أَوْ قَالَ حَتَّى يَتَفَرَّقَا",
+# so the narrator's doubt the book leaves out is skipped by filling in two excerpts, which also gives the pause at the book's comma.
+
+[ur]
+رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H ibnmajah:2225 from مَنْ غَشَّنَا to مِنَّا}}
+مَنْ غَشَّنَا فَلَيْسَ مِنَّا
+
+[ref]
+صحيح مسلم، رقم الحديث [102] سنن ابن ماجه، رقم الحديث [2224]
+
+[ur]
+“جس نے ہمیں دھوکا دیا تو وہ ہمارے طریقے پر نہیں ہے۔”
+
+[ur]
+یہ تو سراسر دھوکا ہے۔ فوزی نے تیرے اوپر اعتماد کیا، لیکن تو نے اسے دھوکا دیا اور اس کی لاعلمی سے فائدہ اٹھایا۔
+
+[ur]
+رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H muslim:4533 from لِكُلِّ to الْقِيَامَةِ}}، {{H muslim:4533 from يُقَالُ to فُلاَنٍ}}
+لِكُلِّ غَادِرٍ لِوَاءٌ يَوْمَ الْقِيَامَةْ، يُقَالُ هَذِهِ غَدْرَةُ فُلاَنْ
+
+[ref]
+صحيح البخاري، رقم الحديث [3186] صحيح مسلم، رقم الحديث [1735]
+
+[ur]
+“قیامت کے دن ہر دھوکے باز کے لیے ایک جھنڈا ہوگا، کہا جائے گا کہ یہ فلاں کی دھوکے بازی ہے۔”
+
+[ur]
+تو اس معاملے میں دھوکے باز ثابت ہوا ہے، اس سے بڑی دھوکا بازی اور کیا ہو سکتی ہے کہ ایک بندے نے تجھے امانت دار سمجھا اور تو اس سے خیانت سے پیش آیا؟
+
+[ur]
+رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H bukhari:2082 from الْبَيِّعَانِ to يَتَفَرَّقَا}}، {{H bukhari:2082 from فَإِنْ صَدَقَا to بَيْعِهِمَا#2}}
+الْبَيِّعَانِ بِالْخِيَارِ مَا لَمْ يَتَفَرَّقَا، فَإِنْ صَدَقَا وَبَيَّنَا بُورِكَ لَهُمَا فِي بَيْعِهِمَا، وَإِنْ كَتَمَا وَكَذَبَا مُحِقَتْ بَرَكَةُ بَيْعِهِمَا
+
+[ref]
+صحيح البخاري، رقم الحديث [2082] صحيح مسلم، رقم الحديث [1532]
+
+[ur]
+“دو خرید و فروخت کرنے والے جب تک علاحدہ نہ ہو جائیں، ان کو (ردّ و بدل) کا اختیار ہوتا ہے۔ اگر وہ دونوں سچ بولیں اور (عیوب وغیرہ) واضح کریں تو ان کی اس چیز میں برکت ڈال دی جاتی ہے اور اگر وہ (عیوب وغیرہ) چھپائیں اور جھوٹ بولیں تو ان کی اس چیز سے برکت نکال لی جاتی ہے۔”

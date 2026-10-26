@@ -1,0 +1,32 @@
+# title: Page 81
+# English edition of book page 81, built by build_english.py from en_src/ and page_081.txt
+
+[en]
+Imam Malik ibn Anas, may Allah have mercy on him, said: “Beware of innovations.” Someone asked: What are innovations? He said: “The people of innovation are those who speak about the Names and Attributes of Allah, His speech, His knowledge and His power, and who do not keep silent about the things on which the noble Companions and their Successors kept silent.”
+
+[ref]
+شرح السنة للإمام البغوي: 217/1، للمكتب الإسلامي، بيروت.
+
+[en]
+A man asked the Imam about this verse:
+
+[ar]
+الرَّحْمَٰنُ عَلَى الْعَرْشِ اسْتَوَىٰ
+
+[ref]
+طهٰ 5:20.
+
+[en]
+(The Most Merciful (who is) above the Throne established), asking how the Most Merciful had risen over it. He answered: “The meaning of istiwa' is clear. Its how cannot be grasped by the mind. Faith in it is obligatory. Asking about it is an innovation, and to me you seem nothing but a man gone astray.” He ordered that the man be put out of the gathering.
+
+[ref]
+شرح السنة للإمام البغوي: 171/1، للمكتب الإسلامي، بيروت.
+
+[en]
+Imam Abu Hanifah, may Allah have mercy on him, said: “It is not permissible for anyone to say anything about the Essence of Allah the Exalted. He should describe Him only with the attributes that Allah Himself has stated, and not add his own opinion to them. Allah, Lord of the worlds, is most blessed and most high.”
+
+[ref]
+شرح العقيدة الطحاوية، للمكتب الإسلامي: 313/1.
+
+[en]
+When the Imam was asked about the attribute of descent, he said:

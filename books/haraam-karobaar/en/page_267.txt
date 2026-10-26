@@ -1,0 +1,17 @@
+# title: Page 267
+# English edition of book page 267, built by build_english.py from en_src/ and page_267.txt
+
+[en]
+Abu Jum'a: You mean this is forbidden?
+
+[en]
+Teacher: Think about it yourself. I have put all the evidence before you.
+
+[en]
+Abu Jum'a: Is there not even a little leeway?
+
+[en]
+Teacher: May Allah forgive you! What a strange thing you are saying. Little by little, things add up to a great heap. Let me tell you a story of this very kind:
+
+[en]
+“A farmer told his own story. He said: I took five metres of the road into my land. When the time came to sow the crop, I cleaned it up, cleared away the weeds and levelled it with the rest of the land. After cleaning it properly, I farmed it just as I had farmed all the rest of the land. But when the crop was ready, nothing at all had grown on that strip, while all the rest of the land had given an excellent yield. I thought that perhaps the part by the road had been short of something, whether seed, fertiliser, water or the like. So the next year I gave that part special attention and looked after it more than the rest of the land. But when the crop was ready, this time too, never mind a single grain, not even grass had grown there. It felt as if that part had been burnt beneath the ground, so that it had no power to produce anything at all. This went on for five years. At last I came to my senses and realised that this was a trial because of my disobedience to Allah the Exalted. So I joined that part back to the road and repented to Allah the Exalted.”

@@ -1,0 +1,41 @@
+# title: Page 159
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 159 (PDF page 160), پھل اور سبزی منڈی کا دورہ (the visit to Mustafa's garden, before انیسواں باب)
+# Page 158 ends with a full sentence ("مصطفیٰ: خوش آمدید، خوش آمدید۔"); this page opens with the poem Mustafa recites, continuing his turn.
+# The two poems are printed without harakat (apart from the shaddas of «حيّاك» and the tanween of «مليوناً») and are typed as printed, one verse per block
+# with its two halves joined by "، " (as on page 32).
+# The loose "و" of the print is joined to its word ("و أنت" -> "وأنت", "و قد" -> "وقد"); "بعد ما" is kept as printed.
+# The rhyme "مليوناً" is typed "مليونَا", as the rhyme vowel is read at the end of the verse.
+# The page ends with a full sentence; book page 160 is blank and has no file. Page 161 starts «انیسواں باب».
+
+[ar]
+يا شيخنا لو زرتنا لوجدتنا، نحن الضيوف وأنت رب المنزل
+
+[ar]
+حيّاك حيّاك لا حيّاك واحدة، حيّاك حيّاك بعد الألف مليونَا
+
+[ur]
+“استاد صاحب! اگر آپ ہماری زیارت کریں تو ہمیں پائیں گے کہ ہم مہمان ہیں اور آپ اس گھر کے مالک ہیں۔ خوش آمدید، خوش آمدید، ایک دفعہ نہیں بلکہ ہزار دفعہ، لاکھ دفعہ خوش آمدید۔”
+
+[ur]
+مصطفیٰ نے عمار سے بھی سلام لیا، پھر مہمانوں کو بٹھایا، ضیافت میں مختلف قسموں کے پھل پیش اور ٹھنڈا مشروب پیش کیا۔ مصطفیٰ شیخ صالح کو ایک مدت کے بعد مل کر بڑا خوش نظر آ رہا تھا اور شیخ کی مہمانی اس کے لیے کسی سعادت سے کم نہ تھی۔
+
+[ur]
+استاد: لا الہ الا اللہ، کسی نے کیا خوب کہا ہے:
+
+[ar]
+وقد يجمع الله الشتيتين بعد ما، يظنان كل الظن ألا تلاقيا
+
+[ur]
+بسا اوقات اللہ تعالیٰ ایسے دو بچھڑے ہوئے دوستوں کو اکٹھا کر دیتا جب وہ دونوں یہ گمان کیے ہوتے ہیں کہ اب ملاقات کی کوئی صورت نہیں ہے۔
+
+[ur]
+مصطفیٰ: آپ نے سچ کہا ہے کہ اللہ تعالیٰ ہی نے یہ موقع فراہم کیا ہے۔
+
+[ur]
+(قیام و طعام کے بعد شیخ نے کہا)
+
+[ur]
+استاد: مصطفیٰ صاحب! میرا خیال ہے، یہاں بیٹھنے سے بہتر ہے کہ باغ میں چل پھر کر پھولوں اور پھلوں کی خوشبو سے لطف اندوز ہوتے ہیں۔
+
+[ur]
+مصطفیٰ: ضرور، یہ تو ہمارے لیے اور ہمارے باغ کے لیے سعادت ہے کہ آپ تشریف لائے ہیں۔

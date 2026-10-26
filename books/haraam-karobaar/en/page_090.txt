@@ -1,0 +1,35 @@
+# title: Page 90
+# English edition of book page 90, built by build_english.py from en_src/ and page_090.txt
+
+[hen]
+Chapter Eight: Tampering with the Scales Used for Weighing Gold
+
+[en]
+Two men came up to them, talking. One man was saying to the other: Khalid! I have my doubts about that man's scales.
+
+[en]
+Khalid: Hasan! There is no need to worry. We will go to another shopkeeper and weigh it.
+
+[en]
+Hasan: As-salamu alaikum wa rahmatullah.
+
+[en]
+Everyone: Wa alaikum as-salam wa rahmatullahi wa barakatuh.
+
+[en]
+Khalid: We would like to weigh our gold on your scales.
+
+[en]
+Abu Faris: No problem; come, go ahead.
+
+[en]
+Abu Faris weighed their gold; it was ninety-six grams. Hasan looked at Khalid.
+
+[en]
+Hasan: I told you that this trader seemed to be a cheat.
+
+[en]
+Teacher: May Allah bless you. Speak calmly and with composure; tell us what the matter is. We are ready to help you.
+
+[en]
+Hasan: We bought ninety-nine grams of gold from the shop next door, and when we weighed it at your shop it came to ninety-six grams.

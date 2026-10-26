@@ -1,0 +1,29 @@
+# title: Page 119
+# English edition of book page 119, built by build_english.py from en_src/ and page_119.txt
+
+[hen]
+Chapter Twelve: Handing Over Currency on the Spot
+
+[en]
+The teacher and his student waited for quite a long time. Not one man was moving away from the counter. Ammar saw that one man had a great many dollars, while the company did not have that much Pakistani currency to give him in exchange. The man and the company's clerk were agreeing that he would collect the remaining one hundred thousand rupees the next day. Before they had finished talking, Ammar quickly went up to them.
+
+[en]
+Ammar: With a smile: As-salamu alaikum wa rahmatullahi wa barakatuh.
+
+[en]
+Man: Wa alaikum as-salam wa rahmatullahi wa barakatuh.
+
+[en]
+Ammar: May Allah protect you. Do you know the ruling of the Shariah on this sale?
+
+[en]
+(The man and the clerk looked at Ammar with great contempt.)
+
+[en]
+Man: And what is the ruling in the Shariah, mullah?
+
+[en]
+Ammar: I am not a mullah, but there is a great and eminent scholar here with me. Come, let us ask him.
+
+[en]
+Clerk: Mind your own business. Do not waste our time; we do not need all this philosophy.

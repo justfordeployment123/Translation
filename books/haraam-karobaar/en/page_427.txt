@@ -1,0 +1,29 @@
+# title: Page 427
+# English edition of book page 427, built by build_english.py from en_src/ and page_427.txt
+
+[en]
+“Al-mutafallijah” refers to filing the teeth down to make them smaller, so that they stand a little apart from one another, and “al-washr” means beauty.
+
+[ref]
+رياض الصالحين [ص:531]
+
+[en]
+Sa'd: Teacher! All right, I accept that having the teeth made smaller for beauty is forbidden. But if the teeth become large and also cause pain, what is the ruling on having them made smaller only for the sake of treatment?
+
+[en]
+Teacher: If treatment alone is the aim, there is no harm in it; but if beauty or the like is the aim, it is forbidden, and the payment for it is forbidden too.
+
+[en]
+Sa'd: So what is the solution now?
+
+[en]
+Teacher: If you have come to have the teeth made smaller for beauty, then go back without having the treatment done.
+
+[en]
+Sa'd: All right, we will go back without having the treatment done.
+
+[en]
+Teacher: But I too have a question to ask you.
+
+[en]
+Sa'd: Yes, ask.

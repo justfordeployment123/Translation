@@ -1,0 +1,54 @@
+# title: Page 473
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 473 (PDF page 474), ایسے حرام امور جن کا عموماً عورتیں گھروں میں ارتکاب کرتی ہیں
+# The page opens with the hadith introduced at the foot of page 472 ("رسول اللہ ﷺ نے فرمایا:"); the teacher's turn continues without his name.
+# Hadith 1: the book cites مسند أحمد [3917] and الصحيحة [2435] (Ibn Mas'ud); the same words are in Tirmidhi 2730 (Ibn Mas'ud,
+# quoted by al-Bukhari in Tirmidhi's comment), filled from there.
+# Hadith 2 (Anas): Sahih al-Bukhari 600, as the book cites; the print has no salawat after «النَّبِيَّ», so it is filled in two excerpts
+# that leave the source's salawat out (as on page 101); the first ends with " cont" (no pause in the print).
+# Hadith typed from the print (the book prints as-Sahihah's wording, which its translation follows; it cites سنن الترمذي [169] and الصحيحة [2781]):
+# «وَكَانَ ﷺ يَسْمُرُ هُوَ وَأَبُوْ بَكْرٍ وَعُمَرُ فِي الْأَمْرِ مِنْ أُمُوْرِ الْمُسْلِمِيْنَ»; Tirmidhi 169 has «كَانَ رَسُولُ اللَّهِ ﷺ يَسْمُرُ مَعَ أَبِي بَكْرٍ
+# فِي الأَمْرِ مِنْ أَمْرِ الْمُسْلِمِينَ وَأَنَا مَعَهُمَا». Printed harakat kept, including the sukun on the long vowels («أَبُوْ», «أُمُوْرِ», «الْمُسْلِمِيْنْ»);
+# «وَ أَبُوْبَكْرٍ» (printed with the waw apart and the name as one word) is typed «وَأَبُوْ بَكْرٍ»; stopping form at the end.
+# "حتی کہ" is printed without the dagger alif; typed "حتیٰ کہ". «الحمدللہ» in Ammar's turn is typed «الحمد للہ».
+# The page ends with a full narration paragraph; the rest of the page is blank. Page 474 starts «چھہترواں باب».
+
+[ar]
+# hadith {{H tirmidhi:2730 from لاَ سَمَرَ to مُسَافِرٍ}}
+لاَ سَمَرَ إِلاَّ لِمُصَلٍّ أَوْ مُسَافِرْ
+
+[ref]
+مسند أحمد، رقم الحديث [3917] الصحيحة، رقم الحديث [2435]
+
+[ur]
+“رات کو جاگنا جائز نہیں ہے، مگر اس آدمی کے لیے جو نماز پڑھنا چاہتا ہو یا سفر کا ارادہ رکھتا ہو۔”
+
+[ur]
+حضرت انس رضی اللہ عنہ سے مروی ہے:
+
+[ar]
+# hadith {{H bukhari:600 from نَظَرْنَا to النَّبِيَّ cont}} {{H bukhari:600 from ذَاتَ لَيْلَةٍ to يَبْلُغُهُ}}
+نَظَرْنَا النَّبِيَّ ذَاتَ لَيْلَةٍ حَتَّى كَانَ شَطْرُ اللَّيْلِ يَبْلُغُهْ
+
+[ref]
+صحيح البخاري، رقم الحديث [600]
+
+[ur]
+“ہم نے ایک رات نبی کریم ﷺ کو دیکھا، حتیٰ کہ رات کا کافی حصہ گزر چکا تھا۔”
+
+[ar]
+وَكَانَ ﷺ يَسْمُرُ هُوَ وَأَبُوْ بَكْرٍ وَعُمَرُ فِي الْأَمْرِ مِنْ أُمُوْرِ الْمُسْلِمِيْنْ
+
+[ref]
+سنن الترمذي، رقم الحديث [169] الصحيحة، رقم الحديث [2781]
+
+[ur]
+“رسول اللہ ﷺ، حضرت ابو بکر اور حضرت عمر رضی اللہ عنہما عشا کے بعد مسلمانوں کے معاملات کے بارے میں گفتگو کیا کرتے تھے۔”
+
+[ur]
+البتہ غیر شرعی مقاصد کی وجہ سے جاگنا اور باتیں کرنا مکروہ ہے، ہم آج نمازِ عشا کے بعد جس مقصد کی خاطر جاگیں گے اور باتیں کریں گے وہ جائز ہی نہیں، بلکہ مستحب ہے۔
+
+[ur]
+عمار: الحمد للہ! آپ نے مجھے مطمئن کر دیا ہے۔
+
+[ur]
+سب لوگ نمازِ عشا جماعت کے ساتھ ادا کرنے کے بعد واپس گھر تشریف لے آئے۔ استاد صاحب نے جلدی سے ان کے سامنے کھانا رکھا اور بار بار دعائیہ کلمات کے ساتھ ان کو خوش آمدید کہہ رہے تھے۔ سب نے مل کر کھانا کھایا، اس کے بعد استاد صاحب نے مختلف پھلوں سے ان کی تواضع کی۔

@@ -43,12 +43,14 @@ def load_env(path=Path(__file__).parent / ".env"):
 
 
 # block tag -> (language, style). [h] is a spoken heading; [ref] is a reference shown in the
-# text but never sent to ElevenLabs.
-TAGS = {"ar": ("ar", None), "ur": ("ur", None), "en": ("en", None), "h": ("ur", "h"), "hen": ("en", "h"), "ref": ("ur", "ref")}
+# text but never sent to ElevenLabs. [fn] is an explanatory footnote (prose, not just a source) and
+# [fen] its English translation; like [ref] they are shown and not spoken.
+TAGS = {"ar": ("ar", None), "ur": ("ur", None), "en": ("en", None), "h": ("ur", "h"), "hen": ("en", "h"), "ref": ("ur", "ref"),
+        "fn": ("ur", "ref"), "fen": ("en", "ref")}
 
 
 def parse_page(path):
-    """Split a page file into [(tag, text), ...] using its [ar] / [ur] / [en] / [h] / [ref] tags."""
+    """Split a page file into [(tag, text), ...] using its [ar] / [ur] / [en] / [h] / [ref] / [fn] tags."""
     segments, tag, lines = [], None, []
     for line in Path(path).read_text(encoding="utf-8").splitlines():
         if line.startswith("#"):

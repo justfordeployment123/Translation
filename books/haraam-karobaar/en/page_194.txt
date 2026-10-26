@@ -1,0 +1,32 @@
+# title: Page 194
+# English edition of book page 194, built by build_english.py from en_src/ and page_194.txt
+
+[en]
+Second: There is no element of good at all in throwing pebbles and the like; rather, it holds the makings of evil, mischief and fighting. For example, someone's tooth may be broken, an eye may be put out, and it may come to a fight.
+
+[en]
+Imam an-Nawawi says:
+
+[en]
+Al-khadhf means placing a pebble, a date stone or the like between two fingers and throwing it, and it involves many kinds of harm.
+
+[ref]
+شرح صحيح مسلم للنووي [106-105/13]
+
+[en]
+Shopkeeper: Teacher! From what you say, it seems that this means only throwing something by hand, and not shooting it with a slingshot or the like?
+
+[en]
+Teacher: Just hear me out in full, and in sha Allah this difficulty of yours will be cleared up too.
+
+[en]
+Third: No sane, adult and sensible Muslim can say that every kind of need makes every kind of means permissible.
+
+[en]
+Shopkeeper: Then what shall we say?
+
+[en]
+Teacher: We shall say that means and ways are of two kinds, and they have certain rulings:
+
+[en]
+Permissible means: These are the means whose ruling depends on the five rulings by which people are held accountable. The five rulings are: obligatory, forbidden, recommended, disliked and permissible. That is, if the need falls under the obligatory, then whatever serves as the means to it will also be obligatory; likewise, if the need is permissible, then taking up the means to it will also be permissible.

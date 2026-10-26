@@ -1,0 +1,26 @@
+# title: Page 438
+# English edition of book page 438, built by build_english.py from en_src/ and page_438.txt
+
+[en]
+Allah the Exalted is the One who is responsible for provision.
+
+[en]
+Salim: Yes, it is true that provision is the responsibility of Allah the Exalted, but reason does not accept it. So how will the expenses of ten children be met from such a small salary?
+
+[en]
+Teacher: Allah the Exalted puts blessing into it, and this same small salary becomes enough. Provision is of two kinds:
+
+[en]
+First: Positive. Second: Negative.
+
+[en]
+First: Positive: what Allah the Exalted gives His servants in the form of wealth and riches.
+
+[en]
+Second: Negative: that is, Allah the Exalted removes trials, misfortunes and hardships from His servant. This is a provision that is more beneficial than the positive kind.
+
+[en]
+Salim: Teacher! Thank you for explaining all these things to us.
+
+[en]
+(After the conversation, Sa'd and Salim got up and went back without having the check-up done.)

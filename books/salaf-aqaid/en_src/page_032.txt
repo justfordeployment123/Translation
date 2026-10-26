@@ -1,0 +1,13 @@
+# English source for book page 32
+
+[en]
+In religion, a creed is that which is believed, such as believing that Allah exists and that He sent Prophets and Messengers. In Arabic the plural of aqidah is aqa'id (the same plural is used in Urdu too).
+
+[en]
+In short, whatever matter a person's heart becomes bound to through believing in it is a creed, whether that matter is right or wrong.
+
+[en]
+The technical definition of creed: In technical usage, creed means those things which the heart must accept as true, and in which the human soul must be so assured that, to it, they become certain and definite, leaving no room for any doubt or suspicion about their being established. In other words, creed means certain faith which no doubt can enter. It must conform to the actual state of affairs and to reality, and must let no doubt or conjecture come near it. If knowledge does not reach the level of definite certainty, it is not called a creed. A creed is called aqidah because a person ties his heart firmly to it.
+
+[en]
+The Islamic creed: The Islamic creed means that a person has firm faith that Allah the Exalted is the Lord of all the worlds and the one true deity; that he believes in the Names and Attributes of Allah the Exalted, the angels, His Books, the Prophets and Messengers, the Last Day, the divine decree, its good and its bad, all the matters of the unseen that are established by evidence, the fundamentals of the religion, and the basic teachings and first principles of the religion; and also that he believes in the matters on which the Righteous Predecessors reached consensus (ijma').

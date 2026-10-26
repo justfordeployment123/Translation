@@ -1,0 +1,8 @@
+# title: Page 440
+# English edition of book page 440, built by build_english.py from en_src/ and page_440.txt
+
+[en]
+Ammar: Teacher! May I take my leave?
+
+[en]
+Teacher: No, we will eat together; after that you may go.

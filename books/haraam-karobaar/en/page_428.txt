@@ -1,0 +1,23 @@
+# title: Page 428
+# English edition of book page 428, built by build_english.py from en_src/ and page_428.txt
+
+[hen]
+Chapter Sixty-Six: Women Being Examined by a Male Doctor When a Female Doctor Is Available
+
+[en]
+Teacher: Sa'd! I have seen that, even though a female doctor is available, you have brought your wife to a male doctor to be examined. Why did you do that?
+
+[en]
+Sa'd: Is this forbidden too?
+
+[en]
+Teacher: Sa'd! It is permissible for women to be examined by male doctors under certain conditions.
+
+[en]
+Sa'd: What are these conditions?
+
+[en]
+Teacher: First: That there is no female doctor around you and near you. However, if there is a female doctor far away and you can bear the cost of reaching her, you should have the treatment done by her.
+
+[en]
+Second: If the illness is truly dangerous and treatment is very necessary, then she may turn to a male doctor. Going to a male doctor merely because of a headache or a slight fever is not right.

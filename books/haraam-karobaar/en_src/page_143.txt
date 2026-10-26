@@ -1,0 +1,49 @@
+# English source for book page 143
+
+[en]
+Teacher: I am only asking. Was it really you?
+
+[en]
+Man: Yes, it was me.
+
+[en]
+Teacher: Why did you do this?
+
+[en]
+Man: Wait; let the sale go through, then we will talk.
+
+[en]
+Teacher: I will wait, but first tell me: do you want to buy this camel?
+
+[en]
+Man: No.
+
+[en]
+Teacher: Then why are you pushing forward and raising the price?
+
+[en]
+Man: Please wait a little while; I will tell you.
+
+[en]
+Teacher: No, first I want to know why you are doing this.
+
+[en]
+Man: Mullah! This too is a way of earning money.
+
+[en]
+Teacher: How, for example?
+
+[en]
+Man: I have agreed on a certain sum with the camel's owner beforehand, just for raising the price.
+
+[en]
+Teacher: This is impermissible in the Shariah; it is bay' an-najsh (a deceptive sale). That is, you do not want to buy the goods, yet you keep raising the price in order to deceive others and to collect more money. This is forbidden by the texts of the Quran and the hadith. The Messenger of Allah, peace be upon him, said:
+
+[en]
+“Do not deceive one another.”
+
+[en]
+Imam an-Nawawi, may Allah have mercy on him, says:
+
+[en]
+“There is consensus that bay' an-najsh is forbidden, and the one who deceives is a sinner. If the seller of the goods and the one raising the price are in league with each other, both of them are sinners.”

@@ -1,0 +1,29 @@
+# title: Page 439
+# English edition of book page 439, built by build_english.py from en_src/ and page_439.txt
+
+[hen]
+Summary of Forbidden Things Done in Hospitals
+
+[en]
+Ammar: Teacher! Ma sha Allah, we got the chance to invite people to the right path in the hospital too.
+
+[en]
+Teacher: Yes. Which things did we mention here?
+
+[en]
+Ammar: First: Making gaps in the teeth.
+
+[en]
+Second: Women being examined by male doctors.
+
+[en]
+Third: Ending a pregnancy without an excuse.
+
+[en]
+Fourth: The question of using contraceptive medicines.
+
+[en]
+(The teacher's turn for the check-up came. He went to the doctor and had his teeth cleaned. After that, they were setting off back home when, on the way, the adhan for Maghrib began. From there the two of them went into the mosque. After praying Maghrib, as the teacher was setting off home, he saw that one of his relatives, Muhammad Husain, was there, having come from the village to visit him. Since the teacher had not been at home before Maghrib, Husain had come to the mosque and was waiting for him, because he could not go into the teacher's house while the teacher was away.)
+
+[en]
+The teacher welcomed Husain, brought him home with him, served him cold drinks, and began talking with him about how things were in the village.

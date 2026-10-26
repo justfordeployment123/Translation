@@ -1,0 +1,8 @@
+# title: Page 303
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 303 (PDF page 304), چوتھا دورہ، ہیر ڈریسنگ اور بیوٹی پارلر مارکیٹ میں دورہ
+# A framed title page (no page number printed): «① ہیر ڈریسنگ اور بیوٹی پارلر مارکیٹ میں دورہ», the first smaller round of
+# «چوتھا دورہ» (page 301; contents, book page 10). The circled number is dropped, since the title is a heading of its own.
+# The title is printed on three lines («ہیر ڈریسنگ / اور / بیوٹی پارلر مارکیٹ میں دورہ»); it is one heading.
+
+[h]
+ہیر ڈریسنگ اور بیوٹی پارلر مارکیٹ میں دورہ

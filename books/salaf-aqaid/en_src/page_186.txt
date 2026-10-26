@@ -1,0 +1,10 @@
+# English source for book page 186
+
+[en]
+It is not permissible for him to act on anyone's saying without knowing its evidence, because in that way he would become a follower (muqallid). In disputed issues, a student of knowledge should strive his utmost to adopt the preferable position, and if he is not able to determine which is preferable, his ruling is that of an ordinary person, so he should ask the people of knowledge. As for the ordinary person, his school is that of his mufti; however, it is obligatory on him to ask the people of knowledge about the Quran and the Sunnah, because Allah the Exalted says:
+
+[fen]
+Imam ash-Shafi'i, may Allah have mercy on him, said: “In every issue on which a hadith is authentic according to the people of hadith and goes against what I have said, I retract that saying of mine, in my lifetime and after my death as well.” Imam Ahmad, may Allah have mercy on him, said: “Do not follow me in taqlid, nor follow Malik, nor ash-Shafi'i, nor al-Awza'i, nor ath-Thawri; do not follow anyone in taqlid. Take from where they took.”
+
+[fen]
+The imams have many sayings on this subject, because they understood well the meaning of these words of Allah the Exalted: {{QEN 7:3}} (al-A'raf 7:3)

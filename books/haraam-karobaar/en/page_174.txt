@@ -1,0 +1,26 @@
+# title: Page 174
+# English edition of book page 174, built by build_english.py from en_src/ and page_174.txt
+
+[en]
+“Interest has seventy-three doors (degrees), and the lightest degree is like marrying one's own mother. And the Prophet, peace be upon him, also said: For a man knowingly to consume a single dirham of interest is a more serious crime than committing adultery thirty-six times.”
+
+[en]
+We also often see how many big traders, wealthy and rich people reach the door of poverty and destitution because of interest. The interest grows so large that in the end it drags down all their property, factories and so on with it; besides this, the very idea of blessing in their wealth no longer exists.
+
+[en]
+The noble Prophet, peace be upon him, said:
+
+[ar]
+اَلرِّبَا وَإِنْ كَثُرَ فَإِنَّ عَاقِبَتَهُ تَصِيرُ إِلَى قُلّ
+
+[ref]
+المستدرك للحاكم [37/2] صحيح الجامع، رقم الحديث [3542]
+
+[en]
+“Although interest may look like a lot, its end is always scarcity (hardship).”
+
+[en]
+Interest, whether little or much, is forbidden in any case; there is no exception saying that such-and-such an amount is permissible and so on. Remember also that those who consume interest will be raised from their graves on the Day of Resurrection in a state as if Satan had seized them and driven them out of their senses.
+
+[en]
+Allah the Exalted says:

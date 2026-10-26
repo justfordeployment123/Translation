@@ -1,0 +1,49 @@
+# title: Page 218
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 218 (PDF page 219), سپر سٹور اور مارکیٹ میں دورے کا خلاصہ
+# The summary of the round «③ سپر سٹور اور دکانوں کا دورہ» (contents, book page 8); the page starts with its heading and ends
+# with a full sentence. The summary dialogue goes on at the top of page 220 with a new turn: the title page of «تیسرا دورہ»
+# (page 219) is printed between the two, so nothing runs across 218/219 or 219/220.
+# The list numbers ①–⑧ are read as words that agree with «کام» (the list is "مندرجہ ذیل کاموں"): پہلا ... آٹھواں.
+# The closing «الحمد لله علىٰ ذلك.» is printed in Arabic type without harakat; it is kept as an Urdu set phrase, in Urdu letters.
+
+[h]
+سپر سٹور اور مارکیٹ میں دورے کا خلاصہ
+
+[ur]
+استاد اپنے شاگرد کے ساتھ روانہ ہوئے۔
+
+[ur]
+عمار: استاد صاحب! اب کدھر جانا ہے؟
+
+[ur]
+استاد: گھر چلتے ہیں۔
+
+[ur]
+عمار: الحمد للہ! اللہ کی توفیق سے آج ہم نے مندرجہ ذیل کاموں میں امر بالمعروف اور نہی عن المنکر کا فریضہ انجام دیا ہے:
+
+[ur]
+پہلا: تمباکو اور سگریٹ وغیرہ کی فروخت۔
+
+[ur]
+دوسرا: قسمت آزمائی کے کھیل کی خرید و فروخت۔
+
+[ur]
+تیسرا: تاش وغیرہ کی خرید و فروخت۔
+
+[ur]
+چوتھا: غلیل وغیرہ کی خرید و فروخت۔
+
+[ur]
+پانچواں: دھماکہ خیز مواد کی خرید و فروخت۔
+
+[ur]
+چھٹا: خطبہ جمعہ اور نمازِ جمعہ کے وقت خرید و فروخت۔
+
+[ur]
+ساتواں: شراب کی خرید و فروخت۔
+
+[ur]
+آٹھواں: حرام چیزوں کی خرید و فروخت کے لیے جگہ کرائے پر دینا۔
+
+[ur]
+الحمد للہ علیٰ ذلک۔

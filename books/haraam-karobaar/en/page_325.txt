@@ -1,0 +1,26 @@
+# title: Page 325
+# English edition of book page 325, built by build_english.py from en_src/ and page_325.txt
+
+[en]
+Allah the Exalted says:
+
+[ar]
+قُلْ لَا يَسْتَوِي الْخَبِيثُ وَالطَّيِّبُ وَلَوْ أَعْجَبَكَ كَثْرَةُ الْخَبِيثْ
+
+[ref]
+[المائدة:100]
+
+[en]
+Say, “Not equal are the evil and the good, although the abundance of evil might impress you.”
+
+[en]
+Suppose that giving up shaving beards would reduce provision and lower profit; even then it would certainly not be a good thing for a Muslim to commit what is forbidden out of greed for more profit and more provision. Rather, in such a situation he should show patience, gratitude, contentment and acceptance with the provision that Allah the Exalted has given him. Sometimes Allah the Exalted puts a person through a financial trial to test his faith, his certainty and his trust in Him; and after that, when the man passes this test, when he does not commit what is forbidden, and when he is content, with patience and gratitude, with what Allah the Exalted has given, Allah the Exalted opens countless doors of provision for him. It should be well understood that forbidden wealth soon runs out, while the punishment remains forever.
+
+[en]
+Young man: I will soon repent to Allah the Exalted and grow a beard as well.
+
+[en]
+Teacher: Are you completely sure that you will live longer? That you will get the chance to repent and will be able to grow a beard? Oh brother! Make a pledge right now, repent right now; there is no knowing when death will come.
+
+[en]
+(The young man stood up, wiped the cream from his face, and together with the other young men cried out in a loud voice, “Allah is the Greatest!”, and resolved to grow his beard from that very moment.)

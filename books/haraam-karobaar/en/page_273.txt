@@ -1,0 +1,26 @@
+# title: Page 273
+# English edition of book page 273, built by build_english.py from en_src/ and page_273.txt
+
+[en]
+Atiyyah! You must at once give your sister her full right, according to the Shariah, from all of your father's property. And take to heart a hadith of the Prophet, peace be upon him, as well.
+
+[en]
+The Messenger of Allah, peace be upon him, said:
+
+[ar]
+إِنَّ اللَّهَ خَلَقَ الْخَلْقْ، حَتَّى إِذَا فَرَغَ مِنْ خَلْقِهِ قَامَتِ الرَّحِمْ، فَقَالَ مَهْ؟ قَالَتْ هَذَا مَقَامُ الْعَائِذِ بِكَ مِنَ الْقَطِيعَةْ، قَالَ نَعَمْ، أَمَا تَرْضَيْنَ أَنْ أَصِلَ مَنْ وَصَلَكْ، وَأَقْطَعَ مَنْ قَطَعَكْ؟ قَالَتْ بَلَى يَا رَبّ! قَالَ فَذَلِكِ لَكْ، ثُمَّ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ اقْرَءُوا إِنْ شِئْتُمْ
+
+[ref]
+صحيح البخاري، رقم الحديث [5641] صحيح مسلم، رقم الحديث [2554]
+
+[en]
+“Allah the Exalted created the creation. When He had finished it, the womb stood up. Allah said: What is it? It said: This is the place of one who seeks refuge with You from the severing of kinship. Allah the Exalted said: Yes. Are you not pleased that I will join whoever joins you, and cut off whoever cuts you off? The womb said: Indeed, O Lord! Allah the Exalted said: That is yours. After this the Messenger of Allah, peace be upon him, said: If you wish, recite this blessed verse of the Noble Quran:”
+
+[ar]
+فَهَلْ عَسَيْتُمْ إِنْ تَوَلَّيْتُمْ أَنْ تُفْسِدُوا فِي الْأَرْضِ وَتُقَطِّعُوا أَرْحَامَكُمْ
+
+[ar]
+أُولَٰئِكَ الَّذِينَ لَعَنَهُمُ اللَّهُ فَأَصَمَّهُمْ وَأَعْمَىٰ أَبْصَارَهُمْ
+
+[ref]
+[محمد: 22,23]

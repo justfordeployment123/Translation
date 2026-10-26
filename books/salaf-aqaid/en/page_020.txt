@@ -1,0 +1,20 @@
+# title: Page 20
+# English edition of book page 20, built by build_english.py from en_src/ and page_020.txt
+
+[en]
+They have raised the banners of tribulation and rebelled against their rulers. They have made shameful attempts to create political instability. Even after the path of guidance became clear to them, they disobeyed the Prophet's commands and took a path that is not the path of the Muslims.
+
+[en]
+Thus it becomes incumbent on the scholars of the Ummah and those who call to the Quran and the Sunnah, who are deeply zealous for the religion, to feel their responsibilities, explain the fundamentals of the religion, and bring forward the methodology on which our Salaf stood in this matter. It is obligatory on them to spread the books of the imams of guidance and make them widely known, to carry out the duties of editing and explaining them, and to make their viewpoint clear in their sermons and lessons. In matters of belief, they should teach people to follow in the footsteps of the noble Prophet, peace be upon him, and his noble Companions, may Allah be pleased with them, because Allah the Exalted has said:
+
+[ar]
+إِنْ كُنْتُمْ تُحِبُّونَ اللَّهَ فَاتَّبِعُونِي يُحْبِبْكُمُ اللَّهُ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ ۗ وَاللَّهُ غَفُورٌ رَحِيمْ
+
+[en]
+If you should love Allah, then follow me, (so) Allah will love you and forgive you your sins. And Allah is Forgiving and Merciful.
+
+[ref]
+آل عمران 31:3.
+
+[en]
+And the Prophet said:

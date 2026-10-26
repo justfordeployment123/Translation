@@ -1,0 +1,40 @@
+# title: Page 277
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 277 (PDF page 278), انتالیسواں باب: بھنگ اور افیون وغیرہ نشہ آور چیزیں کاشت کرنا
+# Page 276 ends with a full dialogue turn; this page starts with a new one.
+# «أستغفر الله، لا حول ولا قوة إلا بالله.» is set in Arabic type inside the teacher's Urdu turn; it stays in the Urdu block as a set phrase,
+# in Urdu spelling (استغفر اللہ، لا حول ولا قوۃ الا باللہ), as on pages 137 and 186.
+# Hadith (Ibn Umar): Abu Dawud 3674, as the book cites, split into excerpts at the book's commas (the source has none). Abu Dawud 3674 ends
+# at «وَالْمَحْمُولَةَ إِلَيْهِ»; the book's last words «وَآكِلَ ثَمَنَهَا» are joined from Tirmidhi 1295 (Anas's report of the same hadith,
+# «وَآكِلَ ثَمَنِهَا»), as on page 280; Ibn Majah 3380, the other report the book cites, has the genitive «وَآكِلِ ثَمَنِهَا», which does not fit the sentence.
+# Proofreader please check: the hadith is joined from Abu Dawud 3674 (Ibn Umar) and Tirmidhi 1295 (Anas); the print vowels «ثَمَنَهَا»,
+# the source has «ثَمَنِهَا», which is filled.
+# The last sentence continues on page 278 ("ہے، ان چیزوں کو کاشت کرنے والا ... عذاب تیار کیا ہوا ہے۔"); it is kept whole here.
+# Book page 278 is PDF page 280: the PDF has book pages 278 and 279 in swapped order (PDF page 279 is book page 279).
+
+[ur]
+عبدالخالق: استاد صاحب! بھنسی نے اپنی زمین میں بھنگ کاشت کی ہوئی تھی اور دوسری طرف ہمسائیوں کے ساتھ اس کا تنازع چل رہا تھا۔ انھوں نے موقع سے فائدہ اٹھاتے ہوئے وزارتِ انسداد منشیات کو شکایت درج کرا دی جس کی وجہ سے اس پر کیس ہو چکا تھا۔
+
+[ur]
+استاد: استغفر اللہ، لا حول ولا قوۃ الا باللہ۔ بھنسی! تمھارا ذہنی توازن تو ٹھیک ہے؟ کیا آپ جیسا نمازی آدمی بھی اتنا سنگین جرم کر سکتا ہے؟ افسوس!
+
+[ur]
+بھنسی: استاد صاحب! کیا یہ حرام ہے؟
+
+[ur]
+استاد: آج کے دور میں بعض کسان اپنے اللہ کو بالکل بھول چکے ہیں، کسی کو ڈر خوف نہیں ہے۔ ڈھٹائی کے ساتھ ہر کوئی حرام روزی کمانے میں مصروف ہے۔ سنو! حرام چیز کی کاشت اور خرید و فروخت وغیرہ ناجائز ہے۔
+
+[ur]
+رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H abudawud:3674 from لَعَنَ اللَّهُ to وَشَارِبَهَا}}، {{H abudawud:3674 from وَسَاقِيَهَا to وَسَاقِيَهَا}}، {{H abudawud:3674 from وَبَائِعَهَا to وَبَائِعَهَا}}، {{H abudawud:3674 from وَمُبْتَاعَهَا to وَمُبْتَاعَهَا}}، {{H abudawud:3674 from وَعَاصِرَهَا to وَعَاصِرَهَا}}، {{H abudawud:3674 from وَمُعْتَصِرَهَا to وَمُعْتَصِرَهَا}}، {{H abudawud:3674 from وَحَامِلَهَا to وَحَامِلَهَا}}، {{H abudawud:3674 from وَالْمَحْمُولَةَ to إِلَيْهِ}}، {{H tirmidhi:1295 from وَآكِلَ to ثَمَنِهَا}}
+لَعَنَ اللَّهُ الْخَمْرَ وَشَارِبَهَا، وَسَاقِيَهَا، وَبَائِعَهَا، وَمُبْتَاعَهَا، وَعَاصِرَهَا، وَمُعْتَصِرَهَا، وَحَامِلَهَا، وَالْمَحْمُولَةَ إِلَيْهْ، وَآكِلَ ثَمَنِهَا
+
+[ref]
+صحيح. سنن أبي داود، رقم الحديث [3674] سنن ابن ماجه [3380]
+
+[ur]
+“اللہ تعالیٰ نے شراب، اس کے پینے والے، پلانے والے، بیچنے والے، خریدنے والے، نچوڑنے والے، نچڑوانے والے، اس کو اٹھانے والے اور جس کی طرف اٹھائی جا رہی ہو اور اس کی قیمت کھانے والے سب پر لعنت فرمائی ہے۔”
+
+[ur]
+بھنگ اور افیون کی کاشت تو شراب کی خرید و فروخت سے زیادہ بڑا جرم ہے، ان چیزوں کو کاشت کرنے والا درحقیقت زمین میں فساد پھیلانے والا، اللہ اور اس کے رسول ﷺ سے اعلان جنگ کرنے والا ہے اور ایسے لوگوں کے لیے اللہ تعالیٰ نے عبرت ناک عذاب تیار کیا ہوا ہے۔

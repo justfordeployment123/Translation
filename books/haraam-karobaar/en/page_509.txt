@@ -1,0 +1,26 @@
+# title: Page 509
+# English edition of book page 509, built by build_english.py from en_src/ and page_509.txt
+
+[en]
+The matter went to court. When the court investigated it, it came out that this Indian tailor had had wrongful relations with those two women, and that the tailor had AIDS, from whom those women caught the disease as well. How many people do you think it proved fatal for?
+
+[en]
+Ali: About ten people.
+
+[en]
+Teacher: No, in fact it caused the deaths of four hundred people, whereas the AIDS virus usually spreads to forty people. The purpose of telling this story is to show that men's contacts with women always lead to a bad end.
+
+[en]
+We do not say that all tailors are alike, but we will certainly say that whoever stays around a pasture is likely to stray into it, so one should live one's life in fear of Allah.
+
+[en]
+Ali: Now what is the solution to this?
+
+[en]
+Teacher: The solution is that a male tailor should sew clothes only for men and children, and keep away from women.
+
+[en]
+Ali: In sha Allah, from now on I will do just that.
+
+[en]
+Teacher: May Allah reward you with good.

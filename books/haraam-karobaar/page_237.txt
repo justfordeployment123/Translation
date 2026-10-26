@@ -1,0 +1,33 @@
+# title: Page 237
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 237 (PDF page 238), تینتیسواں باب: ضرورت کے بغیر رخصت لینا
+# The page starts with the new chapter and ends with the Urdu translation of the verse; page 238 continues the teacher's turn
+# with a new sentence.
+# Al-Hajj 22:30 is quoted in part, as on page 235; filled from the official text (fill_quran.py).
+# Proofreader please check: the English gloss «(short leave)» printed after "شارٹ رخصت" is left out of the audio (the Urdu
+# "شارٹ رخصت" already says it), as with "(Star)" on Zindagi Aur Waqt page 75.
+# "اپنے، گھر، دکان" is typed with the comma as printed.
+
+[h]
+تینتیسواں باب: ضرورت کے بغیر رخصت لینا
+
+[ur]
+عبدالوہاب: (لمبا سانس لیتے ہوئے بولا) استاد صاحب! صورتِ حال یہ ہے کہ ہمارے سرکاری اداروں کا تو نظام ہی درہم برہم ہو چکا ہے۔ نظم و ضبط کا تو کوئی تصور ہی نہیں۔ جھوٹی گواہی سے بھی سنگین جرم ہمارے ملازموں میں رواج پا چکا ہے۔
+
+[ur]
+استاد: اللہ آپ کو برکت دے! وہ کون سا جرم ہے؟
+
+[ur]
+عبدالوہاب: اکثر سرکاری ملازم ڈیوٹی پر دس بجے آتے ہیں، جب کہ ٹائم آٹھ بجے کا ہے۔ مزید بددیانتی یہ کہ دس بجے آ کر بھی صحیح طرح سے کام نہیں کرتے اور ایک یا دو گھنٹے بیٹھتے ہیں، پھر بغیر کسی عذر اور کام کے شارٹ رخصت کی درخواست لکھتے ہیں اور واپس چلے جاتے ہیں۔ اپنے، گھر، دکان یا دیگر کاموں میں مصروف ہو جاتے ہیں، اس کا شرعی حکم کیا ہے؟
+
+[ur]
+استاد: سابقہ بات کی طرح یہ بھی ایک جھوٹ اور جھوٹی گواہی ہے، جیسا کہ ہم نے ذکر کیا ہے کہ اللہ تعالیٰ نے ارشاد فرمایا:
+
+[ar]
+# quran 22:30 from وَاجْتَنِبُوا قَوْلَ to الزُّورِ
+وَاجْتَنِبُوا قَوْلَ الزُّورْ
+
+[ref]
+[الحج: 30]
+
+[ur]
+“اور جھوٹی بات سے بچو۔”

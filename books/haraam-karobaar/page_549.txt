@@ -1,0 +1,29 @@
+# title: Page 549
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 549 (PDF page 550), چھیانوےواں باب: فلموں اور ڈراموں وغیرہ میں کام کرنا
+# Print spelling normalized: «چھیانواں باب» -> «چھیانوےواں باب» (chapter 96; the book's spelling of the 90s is also its spelling of the 50s or is irregular, so the standard number word + «واں» is used); the contents page has the same spelling.
+# The page starts with the new chapter (page 548 ends the previous one with a full sentence).
+# Print typo corrected: the title's «فلموں» is printed with a broken final letter; it is typed «فلموں».
+# Print typo corrected: a stray mark between «جملوں» and «اور» («ان جملوں !اور محاوروں») is not typed.
+# The four expressions (①–④) are printed on one line and stay one block, read as words: پہلا، دوسرا، تیسرا، چوتھا (the items are
+# «محاورے»). The print has no punctuation between them (the circled numbers separate them), so a comma is put where each number
+# stood, so the voice does not run the items together.
+# The last sentence («بچے اور نوجوان ... اعلانِ جنگ کرنے کے مترادف ہے۔») continues on page 550 and fills all of its text; it is kept whole
+# here, so page 550 has no file. «اُڑایا» is typed with its printed pesh.
+
+[h]
+چھیانوےواں باب: فلموں اور ڈراموں وغیرہ میں کام کرنا
+
+[ur]
+عمار: استاد صاحب! ٹیلی ویژن پر دکھائی جانے والی فلموں اور ڈراموں میں کام کرنے کا کیا حکم ہے؟
+
+[ur]
+استاد: آج کل ٹیلی ویژن پر نشر کیے جانے والے ڈراموں، فلموں، مورننگ شوز اور دیگر فحش پروگراموں میں کام کرنے کا حکم جاننے کے لیے یہی کافی ہے کہ تم ان چند محاوروں اور جملوں پر غور کرو جو عموماً ٹیلی ویژن سکرین پر مردوں اور عورتوں کے درمیان بولے جاتے ہیں۔ عموماً مندرجہ ذیل چار محاوروں کا زیادہ استعمال ہوتا ہے:
+
+[ur]
+پہلا: عشق و محبت کے بعد لڑائی، دوسرا: لڑائی کے بعد عشق و محبت، تیسرا: شادی پھر طلاق، چوتھا: طلاق کے بعد پھر شادی۔
+
+[ur]
+ان جملوں اور محاوروں کے علاوہ مردوں اور عورتوں کا بوس و کنار، ایک دوسرے کو ہاتھ لگانا اور دیگر فحش حرکات بھی سرِ عام ٹیلی ویژن سکرین پر نظر آتی ہیں۔ اس اعتبار سے یہ تمام پروگرام جو انٹرٹینمینٹ اور فنون لطیفہ کے نام سے دکھائے جاتے ہیں، وہ معاشرے میں فحاشی پھیلنے کا سبب بنتے ہیں۔ مثلاً:
+
+[ur]
+عریانی اور لچر پن کا کلچر، مرد و زن کا اختلاط، موسیقی کا فروغ، تمام اعضا کا زنا۔ بچے اور نوجوان ایسے فاسق و فاجر لوگوں کو اپنے لیے آئیڈیل بناتے ہیں، دینی اور اخلاقی قدروں کی پامالی، لادینیت کو فروغ ملتا ہے، مقدس چیزوں کا مذاق اُڑایا جاتا ہے، شرک کا پھیلاؤ، یعنی شوٹنگ کے دوران بعض ایسے مناظر بنائے جاتے ہیں، جن سے غیر اللہ کا تصور آتا ہے، لہٰذا اس میدان میں کام کرنا اللہ اور اس کے رسول ﷺ سے اعلانِ جنگ کرنے کے مترادف ہے۔

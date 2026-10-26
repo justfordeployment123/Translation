@@ -1,0 +1,39 @@
+# title: Page 156
+# Salaf-e-Saliheen ke Aqaid o Nazariyat, book page 156 (PDF page 153), چوتھا اصول: وعدہ وعید کی نصوص (صریح عبارتوں) پر ایمان
+# The page opens with the hadith introduced at the foot of page 155 («اور نبی کریم ﷺ نے فرمایا:»).
+# Hadith 1: Muslim 7113 in the hadith-api numbering (the book's «صحيح مسلم، صفات المنافقين، حديث: 2816»), in excerpts at the book's
+# pauses (the full stop, «؟», «!» and the comma); the colons after «فَقِيلَ» and «قَالَ» are not pauses.
+# Az-Zumar 39:53 is filled from the official text (fill_quran.py); its footnote follows the translation, which carries the marker.
+# The reference is typed as it appears on the page, left to right («53:39»).
+# Hadith 2 at the foot of the page runs on to page 157 ("فَأَخَّرَهُ، فَشَكَرَ اللَّهُ لَهُ، فَغَفَرَ لَهُ"); the Arabic is kept whole here, filled from
+# Bukhari 652, as the book cites, in excerpts at the book's commas. Its Urdu translation and footnote start on page 157 and are there.
+
+[ar]
+# hadith {{H muslim:7113 from مَا مِنْ to الْجَنَّةَ}}. {{H muslim:7113 from فَقِيلَ to أَنْتَ}}؟ {{H muslim:7113 from يَا رَسُولَ to اللَّهِ}}! {{H muslim:7113 from قَالَ وَلاَ أَنَا to أَنَا}}، {{H muslim:7113 from إِلاَّ أَنْ to بِرَحْمَةٍ}}
+مَا مِنْ أَحَدٍ يُدْخِلُهُ عَمَلُهُ الْجَنَّةْ. فَقِيلَ وَلاَ أَنْتْ؟ يَا رَسُولَ اللَّهْ! قَالَ وَلاَ أَنَا، إِلاَّ أَنْ يَتَغَمَّدَنِي رَبِّي بِرَحْمَةْ
+
+[ur]
+“کوئی ایک شخص بھی ایسا نہیں جسے اس کا عمل جنت میں لے جائے۔” عرض کیا گیا کہ آپ بھی نہیں؟ اللہ کے رسول! فرمایا: “میں بھی نہیں اِلّا یہ کہ اللہ مجھے اپنی رحمت سے ڈھانپ لے۔”
+
+[ref]
+صحيح مسلم، صفات المنافقين، حديث: 2816.
+
+[ur]
+اہل سنت والجماعت کسی ایسے شخص کے لیے عذاب کو لازم نہیں سمجھتے جس کا گناہ کفر کے زمرے تک نہ پہنچے۔ ایسا شخص اگر نیکی کی راہ اختیار کر کے نیک اعمال کرے یا توبہ کر لے یا مصائب و آلام اور ایسے امراض میں مبتلا ہو جائے جو اس کے گناہوں کو مٹا دیں تو کبھی اللہ تعالیٰ اس کے گناہ معاف بھی کر دیتا ہے۔ ارشاد باری تعالیٰ ہے:
+
+[ar]
+# quran 39:53 from قُلْ يَا عِبَادِيَ to الْغَفُورُ الرَّحِيمُ
+قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنْفُسِهِمْ لَا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ ۚ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ جَمِيعًا ۚ إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمْ
+
+[ur]
+“آپ کہہ دیجیے: (اللہ فرماتا ہے:) اے میرے بندو جنھوں نے اپنی جانوں پر ظلم و زیادتی کی ہے! تم اللہ کی رحمت سے مایوس نہ ہو، بے شک اللہ سب کے سب گناہ معاف کر دیتا ہے، یقیناً وہی خوب بخشنے والا، نہایت رحم کرنے والا ہے۔”
+
+[ref]
+الزمر 53:39.
+
+[ur]
+اور نبی مکرم ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H bukhari:652 from بَيْنَمَا to بِطَرِيقٍ}}، {{H bukhari:652 from وَجَدَ to لَهُ#2}}
+بَيْنَمَا رَجُلٌ يَمْشِي بِطَرِيقْ، وَجَدَ غُصْنَ شَوْكٍ عَلَى الطَّرِيقِ فَأَخَّرَهْ، فَشَكَرَ اللَّهُ لَهْ، فَغَفَرَ لَهْ

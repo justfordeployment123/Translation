@@ -1,0 +1,47 @@
+# title: Page 74
+# English edition of book page 74, built by build_english.py from en_src/ and page_074.txt
+
+[en]
+I did not know anything about rice. I said to a shopkeeper: Give me number one hundred and two rice. He charged me the rate for that variety, but gave me rice of a lower variety, number four hundred. He deceived me because of my lack of knowledge.
+
+[en]
+Teacher: Do you know this man?
+
+[en]
+Fawzi: Yes, his shop is at the end of this market.
+
+[en]
+Teacher: Come! Let us give him some advice.
+
+[en]
+As soon as they reached him, Fawzi began to say loudly: You cheat! You deceived me. I asked for number one hundred and two rice, but you gave me number four hundred rice?
+
+[en]
+Shopkeeper: You have no grounds for complaint now. You should have looked before you bought.
+
+[en]
+Fawzi: I told you that I knew nothing about it. Shaykh, what do you think?
+
+[en]
+Shopkeeper: I have nothing to do with your Shaykh. You should have looked before buying.
+
+[en]
+Teacher: Is it really as Fawzi says?
+
+[en]
+Shopkeeper: He said very angrily: Yes!
+
+[en]
+Teacher: Is this permissible?
+
+[en]
+Shopkeeper: Yes, it is permissible. I showed them to him first.
+
+[en]
+Teacher: No; rather, this is forbidden. It is deception, and impermissible.
+
+[en]
+Shopkeeper: Do you have any proof for calling it forbidden?
+
+[en]
+Teacher: Yes, a great many proofs.

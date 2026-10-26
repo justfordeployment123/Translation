@@ -1,0 +1,63 @@
+# title: Page 514
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 514 (PDF page 515), پچاسیواں باب: مساجد کے لیے نقش و نگار والے قالینوں کی خرید و فروخت
+# The page opens with the Urdu translation of the hadith printed at the foot of page 513; the teacher's turn continues.
+# The last sentence continues on page 515 ("نہ ان پر نماز ہی پڑھی جائے۔"); it is kept whole here.
+# Hadith 1: Abu Dawud 449 (Anas), filled from there; the book cites مسند أحمد and صحيح الجامع 7421.
+# Proofreader please check: hadith 1 is printed "حَتَّى يَتَبَاهَى النَّاسُ بِالْمَسَاجِدِ"; Abu Dawud 449, Ibn Majah 739 and Musnad Ahmad
+# all have "فِي الْمَسَاجِدِ", so Abu Dawud's wording is read.
+# Ibn Abbas's words «لَتُزَخْرِفُنَّهَا ...» are his own (Abu Dawud 448, which the book cites, gives them after the Prophet's
+# «مَا أُمِرْتُ بِتَشْيِيدِ الْمَسَاجِدِ»), so they are typed from the print as other Arabic, with the printed harakat, including the sukun
+# on the waw of «الْيَهُوْدُ» (read at 300 dpi; the letters are the same as Abu Dawud's). The last word needs no change for waqf.
+# Umar's words are typed from the print (Bukhari quotes them without a chain in a chapter heading, outside the hadith-api text; the book cites
+# "صحيح البخاري [171/1]"), with waqf at the comma and at the end. «أُكِنُّ» is typed as printed (first person, as its translation «میں ... بچانا چاہتا ہوں»).
+# Proofreader please check: the print vowels the verb «فَتَفْتَنُ» (checked at 300 dpi: a fatha on the second ta, no kasra under it, a damma
+# on the nun); typed «فَتَفْتِنَ» (so that you tempt the people), the only reading that fits the sentence.
+# Print typo corrected (Proofreader please check): "ایسے قالین اور چادریں وغیرہ بچھائی اور نہ لٹکائی جائیں" -> "... وغیرہ نہ بچھائی اور نہ لٹکائی جائیں"
+# (the first «نہ» of «نہ ... اور نہ ...» is missing in the print, which would read the opposite; the sentence ends "اور نہ ان پر نماز ہی پڑھی جائے").
+# «یہود و نصاری» in the translation takes the dagger alif («نصاریٰ») so it is read with a long a.
+
+[ur]
+“یہ چادر ابوجہم کے پاس لے جاؤ اور مجھے اس کی انجبانی چادر (سادہ، موٹی چادر) لا دو، کیونکہ اس نے ابھی نماز سے میری توجہ ہٹا دی تھی۔”
+
+[ur]
+زید: استاد صاحب! اس بات کا میرے ساتھ کوئی تعلق نہیں ہے۔
+
+[ur]
+استاد: تمھارے ساتھ کیوں تعلق نہیں؟ کیا تم نے رسول اللہ ﷺ کی یہ حدیث نہیں سنی؟
+
+[ar]
+# hadith {{H abudawud:449 from لاَ تَقُومُ to الْمَسَاجِدِ}}
+لاَ تَقُومُ السَّاعَةُ حَتَّى يَتَبَاهَى النَّاسُ فِي الْمَسَاجِدْ
+
+[ref]
+مسند أحمد، صحيح الجامع، رقم الحديث [7421]
+
+[ur]
+“قیامت اس وقت تک قائم نہیں ہوگی، یہاں تک کہ لوگ اپنی مسجدوں پر فخر نہ کرنے لگ جائیں۔”
+
+[ur]
+حضرت عبداللہ بن عباس رضی اللہ عنہما نے فرمایا:
+
+[ar]
+لَتُزَخْرِفُنَّهَا كَمَا زَخْرَفَتِ الْيَهُوْدُ وَالنَّصَارَى
+
+[ref]
+سنن أبي داود، رقم الحديث [448]
+
+[ur]
+“تم انھیں (مسجدوں کو) ضرور مزین کرو گے، جیسا کہ یہود و نصاریٰ نے (اپنے معبد) مزین کیے تھے۔”
+
+[ur]
+حضرت عمر رضی اللہ عنہ نے جب مسجد کی تعمیر کا حکم دیا تو فرمایا:
+
+[ar]
+أُكِنُّ النَّاسَ مِنَ الْمَطَرْ، وَإِيَّاكَ أَنْ تُحَمِّرَ أَوْ تُصَفِّرَ فَتَفْتِنَ النَّاسْ
+
+[ref]
+صحيح البخاري [171/1]
+
+[ur]
+“میں لوگوں کو بارش سے بچانا چاہتا ہوں اور مسجدوں پر سرخ، زرد رنگ مت کرو، کیونکہ اس سے لوگ فتنے میں پڑ جائیں گے۔”
+
+[ur]
+یہ تمام روایات اس بات کی دلیل ہیں کہ مسجد میں ایسے قالین اور چادریں وغیرہ نہ بچھائی اور نہ لٹکائی جائیں، جن پر نقش و نگار اور پھول بوٹے بنے ہوں اور نہ ان پر نماز ہی پڑھی جائے۔

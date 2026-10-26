@@ -1,0 +1,19 @@
+# title: Page 25
+# Salaf-e-Saliheen ke Aqaid o Nazariyat, book page 25 (PDF page 22), پیش لفظ (end)
+# The first lines of the page (the end of the translation of the hadith of Musnad Ahmad, "ہے یا بالوں کا ہے (خیمہ ہے) ... کو ذلیل کرے گا۔”")
+# and its footnote ① («مسند أحمد: 103/4.») are on page 24, where the hadith and its translation start.
+# The photo shows a finger at the top and the edge of the facing page at the right; neither is part of this page's text.
+# The closing formula «وَآخِرُ دَعْوَانَا أَنِ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ.» is printed in Arabic type with harakat as its own sentence after
+# the last Urdu sentence; it is an [ar] block (other Arabic, not the Quran's wording, which is «دَعْوَاهُمْ»), typed as printed, the
+# dagger alif of «لِلّٰهِ» in the standard form, waqf on the last word, the final full stop not typed.
+# The signature of the foreword's writer (name, title and date) is shown but not spoken; it is a [fn] block, as the author's
+# signature on page 30.
+
+[ur]
+میں فاضل مصنف کا شکریہ ادا کرتا ہوں کہ انھوں نے اس حساس موضوع کی اہمیت باور کرتے ہوئے یہ کتاب تحریر کی۔ میں اللہ تعالیٰ سے دعا کرتا ہوں کہ وہ انھیں جزائے خیر عطا فرمائے، ان کے کام میں برکت دے، امت کے عقیدے کی حفاظت کرے اور علماء کو یہ توفیق دے کہ وہ سلف صالحین کی پیروی میں اس امت کے قدموں کو اس ڈگر پر لے جائیں جو اللہ کو پسند ہے۔
+
+[ar]
+وَآخِرُ دَعْوَانَا أَنِ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينْ
+
+[fn]
+صالح بن عبدالعزیز بن محمد آل الشیخ، وزیر اوقاف و مذہبی امور، سعودی عرب، جمادی الأولیٰ: 1421ھ

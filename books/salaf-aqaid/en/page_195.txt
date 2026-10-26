@@ -1,0 +1,29 @@
+# title: Page 195
+# English edition of book page 195, built by build_english.py from en_src/ and page_195.txt
+
+[ar]
+السَّمْعُ وَالطَّاعَةُ عَلَى الْمَرْءِ الْمُسْلِمْ، فِيمَا أَحَبَّ وَكَرِهْ، مَا لَمْ يُؤْمَرْ بِمَعْصِيَةْ، فَإِذَا أُمِرَ بِمَعْصِيَةٍ فَلاَ سَمْعَ وَلاَ طَاعَةْ
+
+[en]
+“Listening and obeying (that is, listening to the ruler and doing as he says) is obligatory on a Muslim person, in what he likes and in what he dislikes, as long as he is not commanded to commit a sin; but when he is commanded to commit a sin, there is no listening and no obeying.”
+
+[ref]
+صحيح البخاري، الأحكام، حديث: 7144، وصحيح مسلم، الإمارة، حديث: 1839.
+
+[en]
+And he also said:
+
+[ar]
+لاَ طَاعَةَ فِي مَعْصِيَةِ اللَّهِ إِنَّمَا الطَّاعَةُ فِي الْمَعْرُوفْ
+
+[en]
+“There is no obedience in disobedience to Allah; obedience is only in what is ma'ruf (good deeds).”
+
+[ref]
+صحيح مسلم، الإمارة، حديث: 1840.
+
+[en]
+It is binding on the ruler to fear Allah regarding his subjects. He should know that he is merely an employee whom Allah the Exalted has given this employment: to look after the Ummah, to serve the religion and Shariah of Allah, and to carry out the prescribed punishments of Allah on criminals, whether the criminal is a common person or one of the elite.
+
+[fen]
+In their view such a government was not worthy of being called a government. “Government is only that which establishes the religion, whether, after that, the government is good or bad.” Ali, may Allah be pleased with him, said: “People must have government, whether that government is righteous or wicked.” Someone asked: Government, yes, but why one that is not righteous? He said: “Through it too the roads are made safe, the prescribed punishments are established, jihad is waged against the enemy, and the spoils of war are distributed.” (Minhaj as-Sunnah by Ibn Taymiyyah 1/146)

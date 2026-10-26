@@ -1,0 +1,23 @@
+# title: Page 400
+# English edition of book page 400, built by build_english.py from en_src/ and page_400.txt
+
+[en]
+Manager: Is trading in them forbidden too?
+
+[en]
+Teacher: When Allah the Exalted makes something forbidden, its price becomes forbidden too.
+
+[en]
+Manager: In sha Allah, I will stop this work too.
+
+[en]
+Teacher: May Allah the Exalted protect you. Now tell us the price of our things.
+
+[en]
+Manager: These things come to fifty-five dinars, but just give me fifty.
+
+[en]
+Teacher: May Allah reward you with good!
+
+[en]
+The teacher paid the price, thanked the bookseller, and set off back from there with his student Ammar.

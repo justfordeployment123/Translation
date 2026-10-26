@@ -1,0 +1,56 @@
+# title: Page 521
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 521 (PDF page 522), چھیاسیواں باب: شراب اور سگریٹ وغیرہ کی فیکٹری میں کام کرنے کا بیان
+# The first lines of the page ("مِنْ طِينَةِ الْخَبَالِ ... عُصَارَةُ أَهْلِ النَّارِ") end the hadith that is on page 520, where it starts; its footnote ①,
+# printed at the foot of this page, is typed there too. The hadith's Urdu translation starts here, so it stays here.
+# The Arabic term «طِيْنَةُ الْخَبَال», quoted twice inside the Urdu translation, is typed inside the translation's [ur] block each time
+# (read in the Urdu flow, as on page 207), its quote marks dropped; the print has no vowel on the last letter.
+# Proofreader please check: the print vowels the term «طِيْنَةُ الْخِبَال» (kasra on the خ) both times; typed «الْخَبَال», as in the hadith.
+# Hadith typed from the print (not in the hadith-api collections): «مَنْ مَّاتَ مُدْمِنَ خَمْرٍ ...», the book cites الطبراني and صحيح الجامع 6549
+# (as on page 207). Printed harakat kept, including the shadda of «مَّاتَ»; waqf on the last word ("وَثَنٍ" -> "وَثَنْ").
+# Hadith «كُلُّ مُسْكِرٍ حَرَامٌ» (no reference printed): filled from Bukhari 6124 (the Prophet's words to Abu Musa and Mu'adh).
+# The last hadith continues on page 522 ("مِنْ رَدْغَةِ الْخَبَالِ ... عُصَارَةُ أَهْلِ النَّارِ"); it is kept whole here, with its footnote
+# (صحيح. سنن ابن ماجه 3377), printed at the foot of page 522. Its Urdu translation starts on page 522 and stays there.
+# Last hadith: Ibn Majah 3377, the same hadith as on page 209, in excerpts that pause at the book's commas and «؟» (not at the colons after
+# قَالُوا / قَالَ). The book has no pause after «يَا رَسُولَ اللَّهِ» here, so «قَالُوا ... وَمَا رَدْغَةُ الْخَبَالِ» is one excerpt.
+# Proofreader please check: the last hadith is read as Ibn Majah 3377, whose conjunctions differ from the print (as on page 209): the source has
+# "وَإِنْ مَاتَ" (first time; the book: "فَإِنْ مَّاتَ"), "فَإِنْ تَابَ" three times (the book: "وَإِنْ تَابَ") and "وَإِنْ عَادَ كَانَ حَقًّا"
+# (the book: "فَإِنْ عَادَ كَانَ حَقًّا"). No excerpt reproduces the book's wording.
+# The print also vowels «وَسُكِرَ» / «فَسُكِرَ» and «مَّاتَ»; the source has «وَسَكِرَ» / «فَسَكِرَ» and «مَاتَ», which are read.
+
+[ur]
+“اللہ تعالیٰ پر لازم ہے کہ وہ شراب پینے والے کو طِيْنَةُ الْخَبَال پلائے۔ صحابہ کرام نے پوچھا: اے اللہ کے رسول! طِيْنَةُ الْخَبَال کیا ہے؟ آپ ﷺ نے فرمایا: (اس سے مراد) جہنمیوں کی پیپ ہے۔”
+
+[ur]
+حضرت عبداللہ بن عباس رضی اللہ عنہما سے مروی ہے کہ رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+مَنْ مَّاتَ مُدْمِنَ خَمْرٍ لَقِيَ اللَّهَ وَهُوَ كَعَابِدِ وَثَنْ
+
+[ref]
+الطبراني [45/12] صححه الألباني في صحيح الجامع، رقم الحديث [6549]
+
+[ur]
+“شراب کا عادی اگر اسی حالت میں مر گیا تو وہ اللہ تعالیٰ کو اس حالت میں ملے گا، گویا وہ بتوں کی عبادت کرنے والا تھا۔”
+
+[ur]
+رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H bukhari:6124 from كُلُّ مُسْكِرٍ to حَرَامٌ}}
+كُلُّ مُسْكِرٍ حَرَامْ
+
+[ur]
+“ہر نشہ آور چیز حرام ہے۔”
+
+[ur]
+شراب خور کو نبی ﷺ کی مندرجہ ذیل حدیث ضرور یاد رکھنی چاہیے۔
+
+[ur]
+آپ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H ibnmajah:3377 from مَنْ شَرِبَ to صَبَاحًا}}، {{H ibnmajah:3377 from وَإِنْ مَاتَ to النَّارَ}}، {{H ibnmajah:3377 from فَإِنْ تَابَ to عَلَيْهِ}}، {{H ibnmajah:3377 from وَإِنْ عَادَ to صَبَاحًا}}، {{H ibnmajah:3377 from فَإِنْ مَاتَ to النَّارَ}}، {{H ibnmajah:3377 from فَإِنْ تَابَ#2 to عَلَيْهِ}}، {{H ibnmajah:3377 from وَإِنْ عَادَ#2 to صَبَاحًا}}، {{H ibnmajah:3377 from فَإِنْ مَاتَ#2 to النَّارَ}}، {{H ibnmajah:3377 from فَإِنْ تَابَ#3 to عَلَيْهِ}}، {{H ibnmajah:3377 from وَإِنْ عَادَ#3 to الْقِيَامَةِ}}، {{H ibnmajah:3377 from قَالُوا to الْخَبَالِ}}، {{H ibnmajah:3377 from قَالَ عُصَارَةُ to النَّارِ}}
+مَنْ شَرِبَ الْخَمْرَ وَسَكِرَ لَمْ تُقْبَلْ لَهُ صَلاَةٌ أَرْبَعِينَ صَبَاحَا، وَإِنْ مَاتَ دَخَلَ النَّارْ، فَإِنْ تَابَ تَابَ اللَّهُ عَلَيْهْ، وَإِنْ عَادَ فَشَرِبَ فَسَكِرَ لَمْ تُقْبَلْ لَهُ صَلاَةٌ أَرْبَعِينَ صَبَاحَا، فَإِنْ مَاتَ دَخَلَ النَّارْ، فَإِنْ تَابَ تَابَ اللَّهُ عَلَيْهْ، وَإِنْ عَادَ فَشَرِبَ فَسَكِرَ لَمْ تُقْبَلْ لَهُ صَلاَةٌ أَرْبَعِينَ صَبَاحَا، فَإِنْ مَاتَ دَخَلَ النَّارْ، فَإِنْ تَابَ تَابَ اللَّهُ عَلَيْهْ، وَإِنْ عَادَ كَانَ حَقًّا عَلَى اللَّهِ أَنْ يَسْقِيَهُ مِنْ رَدْغَةِ الْخَبَالِ يَوْمَ الْقِيَامَةْ، قَالُوا يَا رَسُولَ اللَّهِ وَمَا رَدْغَةُ الْخَبَالْ، قَالَ عُصَارَةُ أَهْلِ النَّارْ
+
+[ref]
+صحيح. سنن ابن ماجه، رقم الحديث [3377]

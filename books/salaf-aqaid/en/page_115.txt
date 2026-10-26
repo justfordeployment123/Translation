@@ -1,0 +1,38 @@
+# title: Page 115
+# English edition of book page 115, built by build_english.py from en_src/ and page_115.txt
+
+[en]
+As for the disbelievers, there will be no intercession for them. Allah the Exalted says:
+
+[ar]
+فَمَا تَنْفَعُهُمْ شَفَاعَةُ الشَّافِعِينْ
+
+[en]
+So there will not benefit them the intercession of (any) intercessors.
+
+[ref]
+المدثر 48:74.
+
+[en]
+The deeds of the believers will also intercede for them on the Day of Resurrection. The bearer of the Message, peace be upon him, said:
+
+[ar]
+اَلصِّيَامُ وَالْقُرْآنُ يَشْفَعَانِ لِلْعَبْدِ يَوْمَ الْقِيَامَةْ
+
+[en]
+“Fasting and the Quran will intercede for the servant on the Day of Resurrection.”
+
+[ref]
+مسند أحمد: 174:2.
+
+[en]
+On the Day of Resurrection, death will be brought and slaughtered. He, peace be upon him, said:
+
+[ar]
+إِذَا صَارَ أَهْلُ الْجَنَّةِ إِلَى الْجَنَّةْ، وَأَهْلُ النَّارِ إِلَى النَّارْ، جِيءَ بِالْمَوْتِ حَتَّى يُجْعَلَ بَيْنَ الْجَنَّةِ وَالنَّارْ، ثُمَّ يُذْبَحْ، ثُمَّ يُنَادِي مُنَادٍ يَا أَهْلَ الْجَنَّةْ، لاَ مَوْتْ، يَا أَهْلَ النَّارْ، لاَ مَوْتْ، فَيَزْدَادُ أَهْلُ الْجَنَّةِ فَرَحًا إِلَى فَرَحِهِمْ، وَيَزْدَادُ أَهْلُ النَّارِ حُزْنًا إِلَى حُزْنِهِمْ
+
+[en]
+“When the people of Paradise have gone into Paradise and the people of Hell into Hell, death will be brought between Paradise and Hell and slaughtered. Then a caller will call out: O people of Paradise! (After this) there is no death. And O people of Hell! (After this) there is no death. Because of this, the joy of the people of Paradise and the grief of the people of Hell will increase.”
+
+[ref]
+صحيح البخاري، الرقاق، حديث: 6548، وصحيح مسلم، الجنة ونعيمها، حديث: 2850.

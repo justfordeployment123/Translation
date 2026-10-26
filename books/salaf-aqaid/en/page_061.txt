@@ -1,0 +1,20 @@
+# title: Page 61
+# English edition of book page 61, built by build_english.py from en_src/ and page_061.txt
+
+[en]
+These six things are the pillars of faith. Faith is not complete without believing in them in the way the Quran and the Sunnah have described. Whoever denies any one of them is not a believer.
+
+[en]
+Each of the pillars is now explained in detail below:
+
+[en]
+Faith in Allah (believing in Allah): Faith in Allah means that a person accepts with certainty that Allah exists, and acknowledges that Allah the Exalted possesses all the attributes of perfection and all the qualities of majesty (the attributes of greatness), and that he believes with a sincere heart that He alone is worthy of worship. A person's heart should be so assured of these things that the effects of this assurance are clearly visible in his deeds and conduct. As a result of this belief, he carries out the commands of Allah the Exalted and avoids what He has forbidden.
+
+[en]
+Faith in Allah is the foundation of the Islamic creed and its very essence. It is the root, and all the other pillars of the creed are its branches.
+
+[en]
+Faith in Allah includes believing in the Oneness of Allah the Exalted and believing in the truth that He alone is worthy of worship.
+
+[en]
+There is no doubt at all about the existence of Allah. This truth is beyond every kind of doubt and suspicion. The natural disposition (fitrah) and the Shariah point to this truth, and reason and the senses bear witness to it.

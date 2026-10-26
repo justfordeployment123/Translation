@@ -1,0 +1,9 @@
+# title: Page 471
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 471 (PDF page 472), پانچواں دورہ، ایسے حرام امور جن کا عموماً عورتیں گھروں میں ارتکاب کرتی ہیں
+# A framed title page (no page number printed): «④ ایسے حرام امور جن کا عموماً عورتیں گھروں میں ارتکاب کرتی ہیں», the fourth smaller
+# round of «پانچواں دورہ» (contents, book pages 11 and 13). The circled number is dropped, since the title is a heading of its own
+# (as on pages 423 and 441). The title is printed on two lines; it is one heading.
+# Page 470 ends with a full turn, so nothing runs onto this page.
+
+[h]
+ایسے حرام امور جن کا عموماً عورتیں گھروں میں ارتکاب کرتی ہیں

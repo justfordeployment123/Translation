@@ -1,0 +1,20 @@
+# title: Page 51
+# English edition of book page 51, built by build_english.py from en_src/ and page_051.txt
+
+[en]
+Teacher: May Allah put blessing in your buying and selling and your business. We give thanks to Allah that He has granted you understanding of the truth so quickly. The Shaykh said goodbye to Abu Fahd and Abu Ali, saying: As-salamu alaikum wa rahmatullah.
+
+[en]
+Abu Ali: Wa alaikum as-salam wa rahmatullahi wa barakatuh.
+
+[en]
+Abu Fahd: May Allah keep you in His protection and care.
+
+[en]
+The Shaykh praised and glorified Allah the Exalted for the people accepting the truth so quickly, and said to Ammar: Ammar, know that there is a great deal of good in people, but they want someone who will tell them the truth and bring them close to Allah.
+
+[en]
+Ammar: Shaykh! May Allah reward you and bless you.
+
+[en]
+Then Shaykh Salih and Ammar both began looking for some other new dealing in the market.

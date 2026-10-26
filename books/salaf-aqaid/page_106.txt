@@ -1,0 +1,97 @@
+# title: Page 106
+# Salaf-e-Saliheen ke Aqaid o Nazariyat, book page 106 (PDF page 103), پہلا اصول: ایمان اور ارکانِ ایمان
+# Page 105 ends with a full list item; the list of the minor signs of the Hour goes on here. The two-column part is typed row by row
+# (right column, then left), one [ur] block per item, as printed; the full-width items that follow end with «۔» as printed.
+# The stone's words «يا مُسْلِمُ! هٰذَا يَهُودِيٌّ، فَتَعَالَ فَاقْتُلْهُ» are hadith words quoted to be recited, so they are an [ar] block that splits
+# the item; its footnote ① follows the Urdu translation, which carries the marker.
+# Hadith typed from the print (not in the hadith-api collections in this wording): the book cites Bukhari 2926 and Muslim 2921. The
+# printed wording, with «فَتَعَالَ», is that of Muslim 2921 (Ibn Umar), which is missing from the hadith-api Muslim data (its entries
+# 7329-7343 are empty); Bukhari 2926 reads «يَا مُسْلِمُ، هَذَا يَهُودِيٌّ وَرَائِي فَاقْتُلْهُ». Printed harakat kept («يا» unvowelled as printed),
+# «هٰذَا» in the standard form «هَذَا»; stopping form before each pause and at the end.
+# Checked: the photo shows «يا مُسْلِمُ! هٰذَا يَهُودِيٌّ، فَتَعَالَ فَاقْتُلْهُ» letter by letter as typed (bare «يا», damma on «مُسْلِمُ», tanwin
+# with shadda on «يَهُودِيٌّ», sukun on «فَاقْ»); the stopping forms before «!», «،» and at the end are applied.
+# Proofreader please check: whether to read the hadith in the printed (Muslim) wording, as typed, or fill it from Bukhari 2926.
+
+[ur]
+برے لوگوں کا نیک لوگوں کے درپے ہونا
+
+[ur]
+باندی کا اپنی مالکن کو جنم دینا
+
+[ur]
+امت میں شرک و بت پرستی کا ظاہر ہونا
+
+[ur]
+صرف جان پہچان کے لوگوں کو سلام کرنا
+
+[ur]
+بازاروں کا قریب ہونا
+
+[ur]
+کثرتِ تجارت
+
+[ur]
+حرص و طمع کا عام ہونا
+
+[ur]
+جھوٹی گواہی کا عام ہونا
+
+[ur]
+سچی گواہی چھپانا
+
+[ur]
+فحاشی عام ہونا
+
+[ur]
+پڑوسی سے برا سلوک
+
+[ur]
+قطع رحمی
+
+[ur]
+لوگوں کے مابین اجنبیت پیدا ہونا
+
+[ur]
+فتنوں کا ظہور
+
+[ur]
+بوڑھوں کا جوانوں کی مشابہت کرنا
+
+[ur]
+اہل ایمان شخص کو سچے خواب نظر آنا
+
+[ur]
+مدینہ منورہ میں نیک لوگوں کا باقی رہ جانا
+
+[ur]
+فتح قسطنطنیہ کی طرح فتحِ روما
+
+[ur]
+یہودیوں سے مسلمانوں کی جنگ حتیٰ کہ پتھر اور درخت کہیں گے:
+
+[ar]
+يا مُسْلِمْ! هَذَا يَهُودِيّ، فَتَعَالَ فَاقْتُلْهْ
+
+[ur]
+“اے مسلمان! یہ یہودی ہے۔ آؤ، اسے قتل کرو۔”
+
+[ref]
+صحيح البخاري، الجهاد والسير، حديث:2926؛ وصحيح مسلم، الفتن، حديث:2921.
+
+[ur]
+شدید آزمائشوں کے باعث موت کی آرزو کرنا اور مرنے والوں کو خوش نصیب سمجھنا۔
+
+[ur]
+ظالموں کی مدد کرنے والے پولیس والوں کی کثرت جو لوگوں کو کوڑوں سے پیٹیں گے۔
+
+[ur]
+مساجد کی تزئین و آرائش کے سلسلے میں لوگوں کا ایک دوسرے کے مقابلے میں فخر کرنا۔
+
+[ur]
+وہ سنتیں جن کی ترغیب اسلام نے دی ہے، ان پر عمل پیرا ہونے میں کوتاہی برتنا۔
+
+[ur]
+اَصاغر (علمی امور و معاملات میں نوخیز، ناپختہ کار لوگوں) سے علم حاصل کرنا۔
+
+[ur]
+عورتوں کا اس انداز سے لباس پہننا کہ وہ لباس پہننے کے باوجود ننگی ہوں۔

@@ -1,0 +1,26 @@
+# title: Page 54
+# English edition of book page 54, built by build_english.py from en_src/ and page_054.txt
+
+[en]
+I want to sell it. The trader asks him where the rice is. He tells him that it is with so-and-so and so-and-so, and then he sells the rice to that trader. That is the extent of Abu Rashid's role and involvement. After that, the wholesale trader collects a tonne or two from each of the people concerned and takes the rice away.
+
+[en]
+Shaykh, you know that we are farming people. For two or three weeks, or for however long he does not take the rice away, we are in trouble all that time. What is your view on this?
+
+[en]
+Teacher: That is, Abu Rashid buys rice from you, but he does not move it to his own warehouse, and the rice stays with you until the other trader comes?
+
+[en]
+Everyone: Yes.
+
+[en]
+Teacher: That is, Abu Rashid's role is only this: he settles the deal, pays the price and sends the other trader.
+
+[en]
+Gharib: Yes, Shaykh! What is the ruling on this?
+
+[en]
+Teacher: Before we find any solution to your matter, we should first of all find out the real nature of this practice, should we not?
+
+[en]
+Everyone: What do you mean?

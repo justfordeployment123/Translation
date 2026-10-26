@@ -1,0 +1,19 @@
+# English source for book page 40
+
+[en]
+He says:
+
+[en]
+{{QEN 4:65}}
+
+[en]
+Allah the Exalted told us that His Prophet, peace be upon him, is for us the excellent example and the model whom we must follow in every case. He says:
+
+[en]
+{{QEN 33:21}}
+
+[en]
+Allah the Exalted has tied His pleasure to the pleasure of His Messenger, peace be upon him. He says:
+
+[en]
+But Allah and His Messenger are more worthy for them to satisfy, if they should be believers.

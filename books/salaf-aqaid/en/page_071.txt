@@ -1,0 +1,50 @@
+# title: Page 71
+# English edition of book page 71, built by build_english.py from en_src/ and page_071.txt
+
+[en]
+Say, “Are you more knowing or is Allah?”
+
+[ref]
+البقرة 140:2.
+
+[en]
+And He says:
+
+[ar]
+فَلَا تَضْرِبُوا لِلَّهِ الْأَمْثَالَ ۚ إِنَّ اللَّهَ يَعْلَمُ وَأَنْتُمْ لَا تَعْلَمُونْ
+
+[en]
+So do not assert similarities to Allah. Indeed, Allah knows and you do not know.
+
+[ref]
+النحل 74:16.
+
+[en]
+After Allah the Exalted, no one knows more about Him than His Messenger, peace be upon him, about whom Allah the Exalted Himself said:
+
+[ar]
+وَمَا يَنْطِقُ عَنِ الْهَوَىٰ
+
+[ar]
+إِنْ هُوَ إِلَّا وَحْيٌ يُوحَىٰ
+
+[en]
+Nor does he speak from (his own) inclination. It is not but a revelation revealed.
+
+[ref]
+النجم 3:53 ،4.
+
+[en]
+Ahl as-Sunnah wal-Jama'ah believe that Allah the Exalted alone is the First, before whom there is nothing. He is the Last, after whom there is nothing. He is the Ascendant, above whom there is nothing. He is the Intimate, from whom nothing is hidden, as Allah the Exalted says:
+
+[ar]
+هُوَ الْأَوَّلُ وَالْآخِرُ وَالظَّاهِرُ وَالْبَاطِنُ ۖ وَهُوَ بِكُلِّ شَيْءٍ عَلِيمْ
+
+[en]
+He is the First and the Last, the Ascendant and the Intimate, and He is, of all things, Knowing.
+
+[ref]
+الحديد 3:57.
+
+[en]
+Just as the Essence of Allah the Exalted is not like any other essence, so His attributes are not like the attributes of anyone else.

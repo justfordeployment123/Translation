@@ -1,0 +1,17 @@
+# title: Page 54
+# English edition of book page 54, built by build_english.py from en_src/ and page_054.txt
+
+[en]
+Here, the Sunnah stands in contrast to innovation, and the Jama'ah in contrast to division. This is also what is meant by the hadiths about holding to the Jama'ah and avoiding division. The interpreter of the Noble Quran, Abdullah ibn Abbas, may Allah be pleased with them both, said the same in explaining the verse
+
+[ar]
+يَوْمَ تَبْيَضُّ وُجُوهٌ وَتَسْوَدُّ وُجُوهْ
+
+[en]
+(On the Day (some) faces will turn white and (some) faces will turn black). He said: “The faces of Ahl as-Sunnah wal-Jama'ah will be bright, and the faces of the people of innovation and division will turn black.”
+
+[ref]
+تفسير ابن كثير:1;390.
+
+[en]
+The phrase “the Righteous Predecessors” is synonymous with the technical phrase “Ahl as-Sunnah wal-Jama'ah”. Terms such as the people of athar (athar: narration), the people of hadith, the victorious group, the saved sect and the people of ittiba' (following) are also used for them. These names and terms are taken from the scholars of the Salaf.

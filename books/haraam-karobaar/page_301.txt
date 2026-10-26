@@ -1,0 +1,17 @@
+# title: Page 301
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 301 (PDF page 302), چوتھا دورہ
+# A framed title page (no page number printed): the fourth of the six large rounds, with the list of its three
+# smaller rounds. The list numbers (①–③) are read as words: پہلا، دوسرا، تیسرا (as on pages 31 and 133).
+# Page 300 ends with a full paragraph. Book page 302 is blank and has no file.
+
+[h]
+چوتھا دورہ
+
+[ur]
+پہلا: ہیر ڈریسنگ اور بیوٹی پارلر مارکیٹ۔
+
+[ur]
+دوسرا: الیکٹرونک مارکیٹ۔
+
+[ur]
+تیسرا: کتاب مارکیٹ۔

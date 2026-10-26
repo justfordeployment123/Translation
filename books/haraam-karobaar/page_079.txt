@@ -1,0 +1,7 @@
+# title: Page 79
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 79 (PDF page 80), صرافہ بازار کا دورہ
+# A framed title page (no page number printed): «② صرافہ بازار کا دورہ», the second smaller round of «پہلا دورہ» (page 31).
+# The circled number is dropped, since the title is a heading of its own. Book page 78 before it and book page 80 after it are blank and have no file.
+
+[h]
+صرافہ بازار کا دورہ

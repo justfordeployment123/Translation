@@ -1,0 +1,37 @@
+# English source for book page 255
+
+[en]
+Haitham: Sorry! We are getting the children ready for the annual ceremony.
+
+[en]
+Teacher: How strange! Preparing music for the annual ceremony? Will the children sing satanic songs at the ceremony?
+
+[en]
+Haitham: So is there anything wrong in that?
+
+[en]
+Teacher: Yes, music is forbidden in the religion.
+
+[en]
+Haitham: You have no right to say things of your own in the religion of Allah.
+
+[en]
+Teacher: Pay no attention to what I say, but at least listen carefully to the views of other people of knowledge about music.
+
+[en]
+Haitham: It is my period now, but the next period is free, so I will come back in five minutes. (A little later, Haitham came back.)
+
+[en]
+Haitham: As-salamu alaikum wa rahmatullahi wa barakatuh.
+
+[en]
+Teacher: Wa alaikum as-salam wa rahmatullahi wa barakatuh. Welcome.
+
+[en]
+Haitham: I have come back so that I can learn the views of the people of knowledge about music.
+
+[en]
+Teacher: Allah the Exalted says:
+
+[en]
+{{QEN 31:6}}

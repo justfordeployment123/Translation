@@ -1,0 +1,29 @@
+# title: Page 462
+# English edition of book page 462, built by build_english.py from en_src/ and page_462.txt
+
+[hen]
+Chapter Seventy-Three: Making a Will of More Than a Third of One's Wealth Is Forbidden
+
+[en]
+Abdur-Rahim: I think I will make a will of half my wealth for the students of the madrasa.
+
+[en]
+Teacher: May Allah the Exalted reward you, accept your sincerity and put blessing in your wealth and your children. But there is one small issue.
+
+[en]
+Abdur-Rahim: Now what issue has come up?
+
+[en]
+Teacher: I want you to bring your will down from a half to a third.
+
+[en]
+Abdur-Rahim: Why?
+
+[en]
+Teacher: Because a will of more than a third is not permissible.
+
+[en]
+Abdur-Rahim: What is the proof of that?
+
+[en]
+Teacher: Sa'd ibn Abi Waqqas, may Allah be pleased with him, says: In the year of the Farewell Pilgrimage, the Messenger of Allah, peace be upon him, came to visit me in my illness; by then my illness had become severe. I said: O Messenger of Allah, peace be upon him! You can see that illness has taken hold of me, and I am a wealthy man. I have no heir except one daughter. So may I give two thirds of my wealth in charity? The Messenger of Allah, peace be upon him, replied: No. Then I said: O Messenger of Allah, peace be upon him! Half? He said: No. Then I said: O Messenger of Allah, peace be upon him! A third?

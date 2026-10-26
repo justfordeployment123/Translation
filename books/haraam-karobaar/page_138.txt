@@ -1,0 +1,62 @@
+# title: Page 138
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 138 (PDF page 139), پندرھواں باب: جانوروں کے تھنوں میں دودھ روک کر رکھنا
+# The page starts with a new dialogue turn (page 137 ends with the man's full turn).
+# The page ends with hadith ③ and its reference; its translation starts on page 139 (so it stays there, as on pages 56–57). The teacher's turn continues on page 139.
+# The Arabic term «بَيْعُ الْمُصَرَّاةِ», quoted three times inside Urdu sentences, is typed as printed inside its sentence's [ur] block each time (read in the Urdu flow)
+# (quote marks dropped, stopping form on the last word), as on page 56.
+# The numbered reasons (① here, ② on page 139) are read as words: پہلی، دوسری (the items are وجوہات).
+# Hadith 1: Bukhari 2148 in the sunnah.com numbering (the book cites Bukhari [2150] and Muslim [1515]), filled from "لاَ تُصَرُّوا" to "وَالْغَنَمَ";
+# the dots the print sets after it ("......", the hadith goes on) are not typed.
+# Proofreader please check: the print vowels the verb "تُصِرُّوا" (re-read at 600 dpi); Bukhari 2148 has "تُصَرُّوا", which is filled.
+# Imam an-Nawawi's words are given in Urdu only; footnote ② follows them.
+# Hadith 3: Bukhari 5219 (the book cites Bukhari [5219] and Muslim [2130]), filled from there.
+
+[ur]
+استاد: (عمار کی طرف دیکھتے ہوئے بولے) عمار یہ بَيْعُ الْمُصَرَّاةْ ہے۔
+
+[ur]
+عمار: استاد صاحب! بَيْعُ الْمُصَرَّاةْ کا کیا معنی ہے؟
+
+[ur]
+استاد: اس کا مطلب ہے کہ اونٹنی، بکری اور گائے وغیرہ کا دودھ نہ دھونا اور اسے تھنوں میں جمع کر کے رکھنا، تاکہ خریدار یہ سمجھے کہ یہ جانور تو بہت زیادہ دودھ دینے والا ہے۔ شرعی اعتبار سے یہ حرام ہے، کیوں کہ یہ دھوکے کا سودا ہے اور باطل طریقے سے لوگوں کا مال کھانے کے مترادف ہے۔
+
+[ur]
+رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H bukhari:2148 from لاَ تُصَرُّوا to وَالْغَنَمَ}}
+لاَ تُصَرُّوا الإِبِلَ وَالْغَنَمْ
+
+[ref]
+صحيح البخاري، رقم الحديث [2150] صحيح مسلم، رقم الحديث [1515]
+
+[ur]
+“اونٹنیوں اور بکریوں کے تھنوں میں دودھ روک کر نہ رکھو۔”
+
+[ur]
+یعنی جانور بیچنے کی غرض سے اس کے تھنوں میں دودھ جمع نہ کرو، جس سے خریدار کو دھوکا دیا جا سکے۔ مزید اس بارے میں امام نووی رحمہ اللہ کی رائے بھی سن لو۔
+
+[ur]
+آدمی: وہ کیا فرماتے ہیں؟
+
+[ur]
+استاد: وہ فرماتے ہیں:
+
+[ur]
+“جان لو کہ اونٹنی، گائے، بکری، گھوڑی اور گدھی وغیرہ کے تھنوں میں دودھ جمع کرنا حرام ہے، کیونکہ یہ ملاوٹ اور دھوکا ہے۔”
+
+[ref]
+شرح صحيح مسلم [161/10]
+
+[ur]
+مندرجہ ذیل دو وجوہات کی بنا پر بَيْعُ الْمُصَرَّاةْ منع ہے:
+
+[ur]
+پہلی: یہ دھوکا ہے اور اس سے ایسی چیز ظاہر کی جاتی ہے، جس کی کوئی حقیقت نہیں ہوتی۔ نبی کریم ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H bukhari:5219 from الْمُتَشَبِّعُ to زُورٍ}}
+الْمُتَشَبِّعُ بِمَا لَمْ يُعْطَ كَلاَبِسِ ثَوْبَيْ زُورْ
+
+[ref]
+صحيح البخاري، رقم الحديث [5219] صحيح مسلم، رقم الحديث [2130]

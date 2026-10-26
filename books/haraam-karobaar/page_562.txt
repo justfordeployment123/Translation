@@ -1,0 +1,31 @@
+# title: Page 562
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 562 (PDF page 563), سوواں باب: مبہم اور جوئے سے مشابہت رکھنے والے انعامات کے ساتھ مقابلے منعقد کروانا
+# The first lines of the page ("میں اس سے دس انعامات خرید لیے جاتے ہیں ... تقسیم کر دیا جاتا ہے۔") end Ammar's sentence that is on page 561,
+# where it starts; the page goes on with the teacher's answer.
+# Hadith typed from the print (not in the hadith-api collections): «اَلْخَيْلُ ثَلَاثَةٌ: فَرَسٌ لِلرَّحْمَنِ ...», the book cites مسند أحمد [395/1]
+# and الإرواء للألباني [1508] (the collections have only other hadiths that begin «الْخَيْلُ ثَلاَثَةٌ», e.g. Muslim 2290, with other words).
+# Typed with the printed harakat (read on the 300 dpi scan image; the sukun printed on the long vowels of «فَالَّذِيْ», «فِيْ» and «سَبِيْلِ» kept),
+# "الرَّحْمٰنِ" and "اللّٰهُ" in the standard form, the loose "وَ ذَكَرَ" joined, and the stopping form at each comma, at the two colons
+# (they mark pauses here, not the «قَالَ:» kind) and at the end.
+# Print typo corrected: the vowel slip «فَعِلْفُهُ» -> «فَعَلَفُهُ» (عَلَف, fodder; the word as known in this hadith).
+# Proofreader please check: «فَعَلَفُهُ» is typed for the printed «فَعِلْفُهُ» (the print checked on the extracted 300 dpi page image:
+# kasra under the ع, sukun on the ل).
+# The Urdu translation of the hadith continues on page 563 ("ہے۔ شیطان کے گھوڑے سے مراد ... رکھا ہو۔”"); it is kept whole here.
+
+[ur]
+استاد: مقابلے منعقد کروانے کی یہ صورت بھی فاسد اور ناجائز ہے۔
+
+[ur]
+عمار: کیوں؟
+
+[ur]
+استاد: اس لیے کہ یہ جوئے کے مشابہ ہے، کیونکہ پیسے جمع کرنے میں سب برابر ہیں، لیکن فائدہ صرف ان دس لوگوں کو ہوتا ہے جو کامیاب ہوتے ہیں، بلکہ وہ اپنے دس پاؤنڈ سے کچھ زیادہ لے جاتے ہیں، جب کہ ناکام رہنے والوں کو خسارہ اٹھانا پڑتا ہے، اس اعتبار سے یہ چیز جوئے کے زمرے میں آتی ہے، کیونکہ جوا بھی یہی ہوتا ہے کہ دو یا دو سے زائد لوگ مقابلہ کرتے ہیں اور برابر کی رقم جمع کرتے ہیں، کھیل کے بعد جیتنے والا ساری رقم لے جاتا ہے، جو حرام ہے۔ اس کی دلیل رسول اللہ ﷺ کی یہ حدیث ہے، جس میں آپ ﷺ نے فرمایا:
+
+[ar]
+اَلْخَيْلُ ثَلَاثَةْ: فَرَسٌ لِلرَّحْمَنْ، وَفَرَسٌ لِلْإِنْسَانْ، وَفَرَسٌ لِلشَّيْطَانْ، فَأَمَّا فَرَسُ الرَّحْمَنْ: فَالَّذِيْ يُرْبَطُ فِيْ سَبِيْلِ اللَّهْ، فَعَلَفُهُ وَرَوْثُهُ وَبَوْلُهُ وَذَكَرَ مَا شَاءَ اللَّهْ، أَجْرْ، وَأَمَّا فَرَسُ الشَّيْطَانِ فَالَّذِيْ يُقَامِرُ وَيُرَاهِنُ عَلَيْهْ
+
+[ref]
+مسند أحمد [395/1] صححه الألباني في الإرواء [1508]
+
+[ur]
+“گھوڑوں کی تین قسمیں ہیں: رحمٰن کے لیے گھوڑا، انسان کے لیے گھوڑا، شیطان کے لیے گھوڑا۔ رحمٰن کے گھوڑے سے مراد اللہ کے راستے کے لیے تیار کیا گیا گھوڑا ہے، اس کا چارہ، گوبر، پیشاب اور اس کے علاوہ بھی جو اللہ نے چاہا اور آپ ﷺ نے ذکر کیا، وہ اجر ہے۔ شیطان کے گھوڑے سے مراد وہ گھوڑا ہے جو جوا کھیلنے کے لیے اور شرط لگانے کے لیے رکھا ہو۔”

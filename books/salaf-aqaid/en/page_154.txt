@@ -1,0 +1,20 @@
+# title: Page 154
+# English edition of book page 154, built by build_english.py from en_src/ and page_154.txt
+
+[en]
+Whomever he, peace be upon him, bore witness to as being among the people of Paradise, Ahl as-Sunnah wal-Jama'ah bear the same witness about him. He said:
+
+[ar]
+أَبُو بَكْرٍ فِي الْجَنَّةْ، وَعُمَرُ فِي الْجَنَّةْ، وَعُثْمَانُ فِي الْجَنَّةْ، وَعَلِيٌّ فِي الْجَنَّةْ، وَطَلْحَةُ فِي الْجَنَّةْ، وَالزُّبَيْرُ فِي الْجَنَّةْ، وَعَبْدُ الرَّحْمَنِ بْنُ عَوْفٍ فِي الْجَنَّةْ، وَسَعْدٌ فِي الْجَنَّةْ، وَسَعِيدٌ فِي الْجَنَّةْ، وَأَبُو عُبَيْدَةَ بْنُ الْجَرَّاحِ فِي الْجَنَّةْ
+
+[en]
+“Abu Bakr is in Paradise, Umar is in Paradise, Uthman is in Paradise, Ali is in Paradise, Talhah is in Paradise, az-Zubayr is in Paradise, Abd ar-Rahman ibn Awf is in Paradise, Sa'd ibn Abi Waqqas is in Paradise, Sa'id ibn Zayd is in Paradise and Abu Ubaydah ibn al-Jarrah is in Paradise.” May Allah be pleased with them all.
+
+[ref]
+جامع الترمذي، المناقب، حديث: 3747.
+
+[en]
+In the narrations, a large number of the noble Companions were given the good news of Paradise. Among them are Ukkashah ibn Mihsan, Abdullah ibn Salam, the family of Yasir, Bilal ibn Rabah, Ja'far ibn Abi Talib, Amr ibn Thabit, Zayd ibn Harithah, Abdullah ibn Rawahah, Fatimah the daughter of the Messenger, peace be upon him, Khadijah bint Khuwaylid, Aishah, Safiyyah, Hafsah and all the other pure wives, may Allah be pleased with them all.
+
+[en]
+Those about whom the narrations say that they are among the people of Hell, we too bear witness about them that they are among the people of Hell. The texts say about Abu Lahab and his wife Umm Jamil that both of them are among the people of Hell.

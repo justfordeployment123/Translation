@@ -1,0 +1,62 @@
+# title: Page 150
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 150 (PDF page 151), سترھواں باب: تجارت میں جھوٹی قسمیں اٹھانا اور حیلہ کرنا
+# The page opens with the hadith introduced at the bottom of page 149 ("آپ ﷺ نے فرمایا:"); the teacher's turn goes on without his name.
+# The rest of the page is blank after the last turn (the chapter ends here).
+# Hadith 1: Muslim 4283, filled from "يَمِينُكَ"; the dots the print sets before it (the hadith is quoted from its middle) are not typed.
+# The Arabic words quoted inside the Urdu sentence that follows ("يُصَدِّقُكَ عَلَيْهِ صَاحِبُكَ") are split into their own [ar] block,
+# filled from the same hadith.
+# Hadith 2: Muslim 4284. «جزاك الله خيرا» is set in Arabic type inside the man's Urdu turn; it is kept in the Urdu block, in Urdu letters
+# (جزاک اللہ خیرا), as on pages 45 and 89.
+# Proofreader please check: the book cites "صحيح مسلم، رقم الحديث [1635]" for both hadith; they are Muslim 1653 (1653a and 1653b,
+# numbered 4283 and 4284 in the hadith-api), so "1635" looks like swapped digits. The printed reference is kept.
+
+[ar]
+# hadith {{H muslim:4283 from يَمِينُكَ to صَاحِبُكَ}}
+يَمِينُكَ عَلَى مَا يُصَدِّقُكَ عَلَيْهِ صَاحِبُكْ
+
+[ref]
+صحيح مسلم، رقم الحديث [1635]
+
+[ur]
+“تیری قسم کا وہی مفہوم قابلِ قبول ہوگا، جس کی تصدیق تیرا دوسرا ساتھی کر دے۔”
+
+[ur]
+حضرت عمرو (راوی حدیث) نے پوچھا
+
+[ar]
+# hadith {{H muslim:4283 from يُصَدِّقُكَ to صَاحِبُكَ}}
+يُصَدِّقُكَ عَلَيْهِ صَاحِبُكْ
+
+[ur]
+کا کیا مطلب ہے؟ تو آپ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H muslim:4284 from الْيَمِينُ to الْمُسْتَحْلِفِ}}
+الْيَمِينُ عَلَى نِيَّةِ الْمُسْتَحْلِفْ
+
+[ref]
+صحيح مسلم، رقم الحديث [1635]
+
+[ur]
+یعنی قسم کا مفہوم وہی مراد لیا جائے گا جو قسم لینے والے کی نیت کے مطابق ہوا۔
+
+[ur]
+امام نووی فرماتے ہیں:
+
+[ur]
+“حیلہ سازی، دھوکے اور توریے (حقیقت چھپا کر بات کرنے) کی وجہ سے وہ آدمی گناہ گار ہوگا۔”
+
+[ref]
+شرح مسلم [117/11]
+
+[ur]
+سارے دلائل کا خلاصہ یہ ہوا کہ کثرت کے ساتھ قسمیں اٹھانا اور حیلہ سازی کرنا قطعی طور پر ناجائز اور حرام ہے۔
+
+[ur]
+آدمی: جزاک اللہ خیرا۔
+
+[ur]
+استاد: السلام علیکم ورحمۃ اللہ وبرکاتہ۔
+
+[ur]
+آدمی: وعلیکم السلام ورحمۃ اللہ وبرکاتہ۔

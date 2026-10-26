@@ -1,0 +1,38 @@
+# title: Page 173
+# English edition of book page 173, built by build_english.py from en_src/ and page_173.txt
+
+[en]
+Teacher: My brother! I have said it before: this is interest, and an extremely serious crime. In the Noble Quran, nothing other than interest has been described as amounting to a declaration of war with Allah the Exalted. Allah says:
+
+[ar]
+يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَذَرُوا مَا بَقِيَ مِنَ الرِّبَا إِنْ كُنْتُمْ مُؤْمِنِينْ
+
+[ar]
+فَإِنْ لَمْ تَفْعَلُوا فَأْذَنُوا بِحَرْبٍ مِنَ اللَّهِ وَرَسُولِهْ
+
+[ref]
+[البقرة: 279_278]
+
+[en]
+O you who have believed, fear Allah and give up what remains (due to you) of interest, if you should be believers. And if you do not, then be informed of a war (against you) from Allah and His Messenger.
+
+[en]
+This one blessed verse of the Noble Quran is enough on its own to show how vile, evil and hateful this crime is.
+
+[en]
+The Prophet, peace be upon him, has called accursed anyone who takes part in dealings in interest, in whatever capacity. Jabir, may Allah be pleased with him, says that the Messenger of Allah, peace be upon him, cursed the one who consumes interest, the one who pays it, the one who writes it down and those who act as witnesses. The words of another narration are that they are all equal in sin.
+
+[en]
+From this we learn that merely writing up dealings in interest, acting as a witness to them, considering a business built on interest to be right, or supervising dealings in interest and so on are all impermissible and forbidden.
+
+[en]
+The noble Prophet, peace be upon him, making its ugliness clear, said:
+
+[ar]
+اَلرِّبَا ثَلَاثَةٌ وَّسَبْعُوْنَ بَابَا، أَيْسَرُهَا مِثْلُ أَنْ يَّنْكِحَ الرَّجُلُ أُمَّهْ
+
+[ar]
+وَقَوْلُهُ دِرْهَمُ رِبًا يَأْكُلُهُ الرَّجُلْ، وَهُوَ يَعْلَمْ، أَشَدُّ مِنْ سِتَّةٍ وَّثَلَاثِيْنَ زِنْيَةْ
+
+[ref]
+مسند أحمد [225/5] صحيح الجامع، رقم الحديث [3375]

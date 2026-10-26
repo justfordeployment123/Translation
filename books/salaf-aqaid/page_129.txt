@@ -1,0 +1,68 @@
+# title: Page 129
+# Salaf-e-Saliheen ke Aqaid o Nazariyat, book page 129 (PDF page 126), دوسرا اصول: حقیقتِ ایمان
+# The first line ("رہے، ان پر فرشتے (یہ کہتے ہوئے) اترتے ہیں: نہ تم ڈرو اور نہ غم کھاؤ۔”") ends the translation of Fussilat 41:30 on page 128, where it starts;
+# its footnote ① ("حٰمٓ السجدة 30:41."), printed here, moves with it.
+# The Urdu translation of the last hadith continues on page 130 ("الا اللہ کہنا ہے ... ایک عظیم شعبہ ہے۔”"); it is kept whole here, with its footnote ①, printed on page 130.
+# Az-Zukhruf 43:72 and Al-Asr 103:1-3 (one ayah per block) are filled from the official text (fill_quran.py).
+# The first hadith («قُلْ آمَنْتُ بِاللَّهِ، ثُمَّ اسْتَقِمْ»; the book cites مسند أحمد 413/3) is in no collection in one report, so it is joined from two reports
+# of Sufyan ibn Abdullah ath-Thaqafi: «قُلْ آمَنْتُ بِاللَّهِ» from Muslim 159 (which goes on «فَاسْتَقِمْ») and «ثُمَّ اسْتَقِمْ» from Tirmidhi 2410
+# (which opens «قُلْ رَبِّيَ اللَّهُ»). Proofreader please check: the join (the alternative is to type Musnad Ahmad's wording from the print).
+# The second hadith: Muslim 153 in the hadith-api numbering (the book cites "صحيح مسلم، الإيمان، حديث: 35"), in excerpts at the book's commas;
+# the colon after «قَوْلُ» is not a pause.
+
+[ar]
+# quran 43:72 from وَتِلْكَ الْجَنَّةُ to تَعْمَلُونَ
+وَتِلْكَ الْجَنَّةُ الَّتِي أُورِثْتُمُوهَا بِمَا كُنْتُمْ تَعْمَلُونْ
+
+[ur]
+“اور یہی وہ جنت ہے جس کے تم وارث بنائے گئے ہو، ان اعمال کے بدلے جو تم کرتے رہے۔”
+
+[ref]
+الزخرف 72:43.
+
+[ur]
+اور فرمایا:
+
+[ar]
+# quran 103:1
+وَالْعَصْرْ
+
+[ar]
+# quran 103:2
+إِنَّ الْإِنْسَانَ لَفِي خُسْرْ
+
+[ar]
+# quran 103:3
+إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرْ
+
+[ur]
+“زمانے کی قسم! بے شک ہر انسان یقیناً خسارے میں ہے۔ سوائے ان لوگوں کے جو ایمان لائے اور انھوں نے نیک عمل کیے اور ایک دوسرے کو حق کی وصیت کی اور ایک دوسرے کو صبر کی وصیت کی۔”
+
+[ref]
+العصر 3-1:103.
+
+[ur]
+نبی اکرم ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H muslim:159 from قُلْ آمَنْتُ to بِاللَّهِ}}، {{H tirmidhi:2410 from ثُمَّ اسْتَقِمْ to اسْتَقِمْ}}
+قُلْ آمَنْتُ بِاللَّهْ، ثُمَّ اسْتَقِمْ
+
+[ur]
+“کہو، میں اللہ پر ایمان لایا، پھر ڈٹ جاؤ۔”
+
+[ref]
+مسند أحمد: 413/3.
+
+[ur]
+آپ نے ایک اور موقع پر فرمایا:
+
+[ar]
+# hadith {{H muslim:153 from الإِيمَانُ to شُعْبَةً}}، {{H muslim:153 from فَأَفْضَلُهَا to اللَّهُ}}، {{H muslim:153 from وَأَدْنَاهَا to الطَّرِيقِ}}، {{H muslim:153 from وَالْحَيَاءُ to الإِيمَانِ}}
+الإِيمَانُ بِضْعٌ وَسَبْعُونَ أَوْ بِضْعٌ وَسِتُّونَ شُعْبَةْ، فَأَفْضَلُهَا قَوْلُ لاَ إِلَهَ إِلاَّ اللَّهْ، وَأَدْنَاهَا إِمَاطَةُ الأَذَى عَنِ الطَّرِيقْ، وَالْحَيَاءُ شُعْبَةٌ مِنَ الإِيمَانْ
+
+[ur]
+“ایمان کے ستر سے زائد یا ساٹھ سے زائد شعبے ہیں جن میں سے افضل لا الٰہ الا اللہ کہنا ہے جبکہ ادنیٰ راستے سے تکلیف دہ شے ہٹا دینا ہے۔ اور حیا ایمان کا ایک عظیم شعبہ ہے۔”
+
+[ref]
+صحيح مسلم، الإيمان، حديث: 35.

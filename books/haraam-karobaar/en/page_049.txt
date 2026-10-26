@@ -1,0 +1,32 @@
+# title: Page 49
+# English edition of book page 49, built by build_english.py from en_src/ and page_049.txt
+
+[en]
+It is narrated from Anas ibn Malik, may Allah be pleased with him:
+
+[ar]
+إِنَّ رَسُولَ اللَّهِ ﷺ نَهَى عَنْ بَيْعِ الثِّمَارِ حَتَّى تُزْهِيْ، فَقِيلَ لَهُ وَمَا تُزْهِي قَالَ حَتَّى تَحْمَرّ، فَقَالَ أَرَأَيْتَ إِذَا مَنَعَ اللَّهُ الثَّمَرَةْ، بِمَ يَأْخُذُ أَحَدُكُمْ مَالَ أَخِيهْ
+
+[ref]
+صحيح البخاري، رقم الحديث [2198] صحيح مسلم، رقم الحديث [1555]
+
+[en]
+“The Messenger of Allah, peace be upon him, forbade the sale of fruit until it becomes bright. He, peace be upon him, was asked: What does becoming bright mean? He, peace be upon him, said: Until it turns red. Then he said: What do you think, if (a blight comes and) Allah the Exalted withholds the fruit, in return for what would you take your brother's wealth?”
+
+[ar]
+وَنَهَى ﷺ عَنْ بَيْعِ الثِّمَارِ حَتَّى يَبْدُوَ صَلاَحُهَا، نَهَى الْبَائِعَ وَالْمُبْتَاعْ
+
+[ref]
+صحيح. مسند أحمد [7/2]
+
+[en]
+“He, peace be upon him, forbade selling fruit until its soundness becomes clear. He, peace be upon him, forbade both the seller and the buyer from it.”
+
+[ar]
+نَهَى عَنْ بَيْعِ النَّخْلِ حَتَّى يَزْهُوْ، وَعَنِ السُّنْبُلِ حَتَّى يَبْيَضَّ وَيَأْمَنَ الْعَاهَةْ
+
+[ref]
+صحيح مسلم، رقم الحديث [1535]
+
+[en]
+“He, peace be upon him, forbade buying and selling dates until they become bright, and he forbade the sale of ears of grain until they turn white and are safe from blight.”

@@ -1,0 +1,35 @@
+# title: Page 55
+# English edition of book page 55, built by build_english.py from en_src/ and page_055.txt
+
+[en]
+Teacher: First of all, consider whether the way you make your deal is even valid.
+
+[en]
+Mukhaimir: Oh, you have brought us a Sunni fellow who will soon make everything forbidden for us!
+
+[en]
+Everyone laughed at what Mukhaimir said.
+
+[en]
+Gharib: It seems our whole life is steeped in what is forbidden.
+
+[en]
+Teacher: With great wisdom, insight and openness of heart, and in a very gentle tone, he addressed Mukhaimir: May Allah have mercy on you! We do not declare anything forbidden on our own account; rather, it is Allah the Exalted who makes things forbidden or lawful. For what is lawful and forbidden, we must turn to the Shariah. Allah the Exalted says:
+
+[ar]
+وَلَا تَقُولُوا لِمَا تَصِفُ أَلْسِنَتُكُمُ الْكَذِبَ هَٰذَا حَلَالٌ وَهَٰذَا حَرَامٌ لِتَفْتَرُوا عَلَى اللَّهِ الْكَذِبَ ۚ إِنَّ الَّذِينَ يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ لَا يُفْلِحُونْ
+
+[ref]
+[النحل: 116]
+
+[en]
+And do not say about what your tongues assert of untruth, “This is lawful and this is unlawful,” to invent falsehood about Allah. Indeed, those who invent falsehood about Allah will not succeed.
+
+[en]
+When Allah the Exalted has made something forbidden, then what is there to laugh at? That shows a lack of knowledge. One laughs at something that seems strange.
+
+[en]
+Everyone: We are sorry, Shaykh!
+
+[en]
+Teacher: May Allah forgive you. The form of sale you have described is absolutely forbidden, and when something void occurs in a sale, the seller has no right to take its price, nor does the buyer have the right to take the goods.

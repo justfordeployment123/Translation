@@ -1,0 +1,26 @@
+# title: Page 24
+# English edition of book page 24, built by build_english.py from en_src/ and page_024.txt
+
+[en]
+It is not permissible for anyone other than those who have knowledge of the Book and the Sunnah to speak about what is lawful and forbidden, because a severe warning has been given to whoever declares anything lawful or forbidden without knowledge. Allah the Exalted says:
+
+[ar]
+وَلَا تَقُولُوا لِمَا تَصِفُ أَلْسِنَتُكُمُ الْكَذِبَ هَٰذَا حَلَالٌ وَهَٰذَا حَرَامٌ لِتَفْتَرُوا عَلَى اللَّهِ الْكَذِبَ ۚ إِنَّ الَّذِينَ يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ لَا يُفْلِحُونْ
+
+[ref]
+[النحل: 116]
+
+[en]
+And do not say about what your tongues assert of untruth, “This is lawful and this is unlawful,” to invent falsehood about Allah. Indeed, those who invent falsehood about Allah will not succeed.
+
+[en]
+Forbidden things are set out in many places in the Noble Quran, for example:
+
+[ar]
+قُلْ تَعَالَوْا أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ ۖ أَلَّا تُشْرِكُوا بِهِ شَيْئًا ۖ وَبِالْوَالِدَيْنِ إِحْسَانًا ۖ وَلَا تَقْتُلُوا أَوْلَادَكُمْ مِنْ إِمْلَاقْ
+
+[ref]
+[الأنعام: 151]
+
+[en]
+Say, “Come, I will recite what your Lord has prohibited to you. (He commands) that you not associate anything with Him, and to parents, good treatment, and do not kill your children out of poverty.”

@@ -1,0 +1,38 @@
+# title: Page 152
+# Salaf-e-Saliheen ke Aqaid o Nazariyat, book page 152 (PDF page 149), چوتھا اصول: وعدہ وعید کی نصوص (صریح عبارتوں) پر ایمان
+# The first lines of the page ("غالب آ جاتا ہے تو وہ اہل جہنم ... اور جنت میں چلا جاتا ہے۔”") end the Urdu translation of the hadith
+# «إِنَّ أَحَدَكُمْ لَيَعْمَلُ ...» that starts on page 151; it is kept whole there, and its footnote ① ("صحيح مسلم، القدر، حديث: 2643."),
+# printed at the foot of this page, moves with it to page 151. This page starts with «لیکن مومنین اور متقین ...».
+# Al-Baqarah 2:25 (up to «تَحْتِهَا الْأَنْهَارُ») and Al-Qamar 54:54-55 are filled from the official text (fill_quran.py), one ayah per block;
+# each footnote follows the translation, which carries the marker.
+# References: the digit groups are typed as they appear on the page, left to right («25:2», «55,54:54»).
+
+[ur]
+لیکن مومنین اور متقین میں سے جو اسلام پر وفات پاتا ہے، اہل سنت والجماعت اس کے ظاہر اسلام کو دیکھتے ہوئے یہ عمومی شہادت دیتے ہیں کہ ایسے لوگ ان شاء اللہ اہل جنت میں سے ہیں۔ ارشادِ باری تعالیٰ ہے:
+
+[ar]
+# quran 2:25 from وَبَشِّرِ الَّذِينَ to تَحْتِهَا الْأَنْهَارُ
+وَبَشِّرِ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أَنَّ لَهُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارْ
+
+[ur]
+“اور ان لوگوں کو خوشخبری دے دیجیے جو ایمان لائے اور انھوں نے اچھے عمل کیے، یقیناً ان کے لیے باغات ہیں جن کے نیچے نہریں بہتی ہیں۔”
+
+[ref]
+البقرة 25:2.
+
+[ur]
+اور فرمایا:
+
+[ar]
+# quran 54:54 from إِنَّ الْمُتَّقِينَ to وَنَهَرٍ
+إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَنَهَرْ
+
+[ar]
+# quran 54:55 from فِي مَقْعَدِ to مُقْتَدِرٍ
+فِي مَقْعَدِ صِدْقٍ عِنْدَ مَلِيكٍ مُقْتَدِرْ
+
+[ur]
+“بلاشبہ متقین باغات اور نہروں میں ہوں گے۔ حقیقی عزت کی جگہ میں، ہر طرح کی قدرت والے بادشاہ کے نزدیک۔”
+
+[ref]
+القمر 55,54:54.

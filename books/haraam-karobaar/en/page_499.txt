@@ -1,0 +1,11 @@
+# title: Page 499
+# English edition of book page 499, built by build_english.py from en_src/ and page_499.txt
+
+[hen]
+The Sixth Tour
+
+[en]
+First: Buying and selling clothes with obscene pictures and high-heeled shoes.
+
+[en]
+Second: Some miscellaneous forbidden things.

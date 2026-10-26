@@ -1,0 +1,35 @@
+# title: Page 145
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 145 (PDF page 146), سولھواں باب: دھوکے کا سودا
+# The page opens with the quoted words of Ibn Abi Awfa, whose lead-in ("ابن ابی اوفی فرماتے ہیں:") ends page 144.
+# The footnote marker after the hadith is printed ① again; its footnote is the second one (صحيح الجامع [4519]).
+# Hadith typed from the print (not in the hadith-api collections): «كُلُّ جَسَدٍ نَبَتَ مِنَ السُّحْتِ فَالنَّارُ أَوْلَى بِهِ», the book cites
+# صحيح الجامع [4519]; stopping form on the last word, and «أَوْلٰى» with the dagger alif typed in the standard form «أَوْلَى».
+# Proofreader please check: the print vowels the verb "نُبِتَ" (passive); it is typed "نَبَتَ", as on page 19 for the same hadith
+# ("كُلُّ لَحْمٍ نَبَتَ مِنْ سُحْتٍ") and as in Tirmidhi 614.
+
+[ur]
+“دھوکا دینے والا سودی اور خائن ہے۔”
+
+[ref]
+صحيح البخاري، رقم الحديث [2675]
+
+[ur]
+آدمی: شیخ! اس سے چھٹکارا کیسے ممکن ہے؟
+
+[ur]
+استاد: فوری طور پر اس نافرمانی سے توبہ کی جائے اور اپنی اولاد کی پرورش حلال رزق سے کرنے کی تمنا کرنی چاہیے اور یہ بات جان لینی چاہیے کہ اس طریقے سے کمایا گیا مال حرام ہوتا ہے۔ نبی اکرم ﷺ نے فرمایا:
+
+[ar]
+كُلُّ جَسَدٍ نَبَتَ مِنَ السُّحْتِ فَالنَّارُ أَوْلَى بِهْ
+
+[ref]
+صحيح الجامع، رقم الحديث [4519]
+
+[ur]
+“ہر وہ جسم جس نے حرام سے پرورش پائی، وہ آگ کا حق دار ہے۔”
+
+[ur]
+اس لیے تم اللہ سے ڈرو اور اپنی اولاد کو حرام سے بچاؤ۔ یہ بات ذہن نشین کر لو کہ حلال کی تھوڑی سی کمائی بھی حرام کی زیادہ کمائی سے بابرکت اور بہتر ہوتی ہے۔
+
+[ur]
+وہ آدمی شیخ کا شکریہ ادا کرتے ہوئے اور اللہ سے توبہ استغفار کرتے ہوئے واپس چلا گیا۔

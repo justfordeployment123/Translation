@@ -1,0 +1,35 @@
+# title: Page 372
+# English edition of book page 372, built by build_english.py from en_src/ and page_372.txt
+
+[hen]
+Chapter Fifty-Six: On Bay' al-'Inah
+
+[en]
+The teacher was sitting there talking when a man came into the shop; he wanted to buy an AC.
+
+[en]
+Buyer: As-salamu alaikum wa rahmatullah.
+
+[en]
+Everyone: Wa alaikum as-salam wa rahmatullah.
+
+[en]
+Buyer: I want to buy such-and-such a kind of AC. What is its price?
+
+[en]
+Salah: If you want to buy it in cash, three thousand pounds, and if you want to buy it on instalments, four thousand.
+
+[en]
+Buyer: I want to buy it on instalments, but at the moment I have only four hundred pounds.
+
+[en]
+Salah: Come, let us ask the shop's manager, Faisal, and see what he says.
+
+[en]
+Faisal: Yes, what is the matter?
+
+[en]
+Salah: This gentleman wants to buy an AC on instalments, but he has only four hundred pounds to pay in advance.
+
+[en]
+Faisal: No, brother; according to the rules you will have to pay one thousand pounds in advance.

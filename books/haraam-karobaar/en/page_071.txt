@@ -1,0 +1,47 @@
+# title: Page 71
+# English edition of book page 71, built by build_english.py from en_src/ and page_071.txt
+
+[en]
+Teacher: If you know those buyers, give them back what they are owed; and if you do not know them, give the money for their share in charity.
+
+[en]
+Trader: I do not even know how many people there were.
+
+[en]
+Teacher: Give in charity according to your best estimate.
+
+[en]
+Trader: Shaykh! We will start with you first of all. Here is your one pound.
+
+[en]
+Teacher: You have followed Allah's command, so I happily give this one pound back to you, and we will buy another sack from you.
+
+[en]
+Trader: May Allah bless you. When one hears Allah's command, one should obey it.
+
+[en]
+A sherbet seller passed by, and Ammar hurried over to him.
+
+[en]
+Ammar: Two glasses of sherbet, please.
+
+[en]
+The Shaykh sat down to one side and began to drink the sherbet. Meanwhile the trader also finished selling his rice, and Allah the Exalted gave him a great deal of profit. People came flocking to him to buy rice.
+
+[en]
+The Shaykh came back to him, saying:
+
+[en]
+Teacher: Did I not tell you:
+
+[ar]
+وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجَا
+
+[ar]
+وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبْ
+
+[ref]
+[الطلاق: 2.3]
+
+[en]
+And whoever fears Allah - He will make for him a way out. And will provide for him from where he does not expect.

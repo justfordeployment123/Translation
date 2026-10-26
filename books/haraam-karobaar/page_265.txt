@@ -1,0 +1,58 @@
+# title: Page 265
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 265 (PDF page 266), سینتیسواں باب: راستے کی جگہ اپنی زمین میں شامل کرنے کا بیان
+# The page opens with the hadith introduced at the foot of page 264 ("حضرت عبداللہ بن عمر ... نے فرمایا:"); the teacher's words go on without his name.
+# Hadith 1 (Ibn Umar): Sahih al-Bukhari 2454, as the book cites.
+# Hadith 2 (Aisha): Sahih al-Bukhari 2453, as the book cites.
+# Proofreader please check: hadith 2 is printed «قَيْدَ شِبْرٍ»; Bukhari 2453 and the Muslim report (4137 in the hadith-api numbering)
+# both have «قِيدَ» (same letters), which is filled and will be read.
+# The Arabic of hadith 3 at the foot of the page runs on to page 266 ("آخِرَ سَبْعِ أَرْضِيْنَ ... بَيْنَ النَّاسِ"); it is kept whole here,
+# with its footnote printed on page 266 (الطبراني ... [2722]). Its translation starts on page 266 and is there.
+# Hadith 3 typed from the print (not in the hadith-api collections): الطبراني, صحيح الجامع [2722], «أَيُّمَا رَجُلٍ ظَلَمَ شِبْرًا ...».
+# Printed harakat kept, including the shadda of assimilation in «أَنْ يَّحْفِرَهُ» and the sukun on the long vowel in «أَرْضِيْنَ»;
+# dagger-alif spellings typed in the standard form («اللَّهُ», «حَتَّى», «يُقْضَى»); stopping form at the comma and at the end.
+# Proofreader please check: hadith 3 is printed «سَبْعِ أَرْضِيْنَ» (sukun on the ra); the collections have «أَرَضِينَ» in the same phrase.
+# «یعلی» is typed «یعلیٰ» (dagger alif, read with a long a).
+
+[ar]
+# hadith {{H bukhari:2454 from مَنْ أَخَذَ to أَرَضِينَ}}
+مَنْ أَخَذَ مِنَ الأَرْضِ شَيْئًا بِغَيْرِ حَقِّهِ خُسِفَ بِهِ يَوْمَ الْقِيَامَةِ إِلَى سَبْعِ أَرَضِينْ
+
+[ref]
+صحيح البخاري، رقم الحديث [2454]
+
+[ur]
+“جس شخص نے ناحق کسی زمین کا تھوڑا سا حصہ بھی لے لیا تو قیامت کے دن اسے سات زمینوں تک دھنسایا جائے گا۔”
+
+[ur]
+سیدہ عائشہ رضی اللہ عنہا فرماتی ہیں کہ رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H bukhari:2453 from مَنْ ظَلَمَ to أَرَضِينَ}}
+مَنْ ظَلَمَ قِيدَ شِبْرٍ مِنَ الأَرْضِ طُوِّقَهُ مِنْ سَبْعِ أَرَضِينْ
+
+[ref]
+صحيح البخاري، رقم الحديث [2453] صحيح مسلم، رقم الحديث [1612]
+
+[ur]
+“اگر کسی شخص نے ایک بالشت بھر زمین بھی کسی دوسرے کی ظلم سے لے لی تو (قیامت کے دن) سات زمینوں کا طوق اس کی گردن میں ڈالا جائے گا۔”
+
+[ur]
+یہ احادیث ثابت کرتی ہیں کہ ناجائز اور ناحق کسی کی زمین پر قبضہ کرنے والا غاصب ہوتا ہے۔
+
+[ur]
+عمار: شیخ صاحب! ہمارے کبار علما کا اس کے بارے میں کیا موقف ہے؟
+
+[ur]
+استاد: علما فرماتے ہیں:
+
+[ur]
+جب انسان کو اللہ کا خوف نہیں رہتا تو اس کے اندر ایک ایسی قوت اور طاقت آ جاتی ہے جو حقیقت میں اس کے لیے وبالِ جان ہوتی ہے اور اسے ظلم پر ابھارتی ہے، جس سے وہ لوگوں کے مال ہڑپ کرتا ہے اور زمینوں پر قبضہ کرتا ہے۔
+
+[ur]
+حضرت یعلیٰ بن مرہ رضی اللہ عنہ فرماتے ہیں کہ رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+أَيُّمَا رَجُلٍ ظَلَمَ شِبْرًا مِنَ الْأَرْضِ كَلَّفَهُ اللَّهُ أَنْ يَّحْفِرَهُ حَتَّى يَبْلُغَ آخِرَ سَبْعِ أَرْضِيْنْ، ثُمَّ يُطَوَّقُهُ يَوْمَ الْقِيَامَةِ حَتَّى يُقْضَى بَيْنَ النَّاسْ
+
+[ref]
+الطبراني، صححه الألباني في صحيح الجامع، رقم الحديث [2722]

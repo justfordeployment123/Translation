@@ -1,0 +1,37 @@
+# title: Page 560
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 560 (PDF page 561), سوواں باب: مبہم اور جوئے سے مشابہت رکھنے والے انعامات کے ساتھ مقابلے منعقد کروانا
+# The page starts with the last chapter of the book (page 559 ends the previous one with a full paragraph).
+# Ammar's turn (the question he reads out) runs over the whole page and goes on at the top of page 561.
+# The three essay titles (①–③) are read as words: پہلا، دوسرا، تیسرا (the items are «عنوانات»).
+# The prizes are printed as a list, one per line, with their own Urdu ordinals («اول انعام», «دوم انعام» ...); typed as printed.
+# The fifth prize («پنجم انعام: مناسب تحفہ۔») is printed at the top of page 561 and is there (each prize is its own sentence).
+
+[h]
+سوواں باب: مبہم اور جوئے سے مشابہت رکھنے والے انعامات کے ساتھ مقابلے منعقد کروانا
+
+[ur]
+عمار: سائل پوچھتا ہے کہ بعض اوقات ہماری مساجد میں سرکاری یا غیر سرکاری سطح پر دینی موضوعات پر مقابلے منعقد ہوتے ہیں، مثلاً مندرجہ ذیل میں سے کسی ایک عنوان پر مقالہ لکھیں، مقالہ پچاس صفحات سے زائد نہ ہو، عنوانات یہ ہیں:
+
+[ur]
+پہلا: نبی ﷺ کا یہودیوں کے ساتھ طرزِ عمل۔
+
+[ur]
+دوسرا: اسلام کا نظامِ عدل۔
+
+[ur]
+تیسرا: نیکی کا حکم دینے اور برائی سے روکنے کی اہمیت۔
+
+[ur]
+ایک کمیٹی ان مقالہ جات کو چیک کرے گی اور پہلی پانچ پوزیشنیں حاصل کرنے والوں کو مندرجہ ذیل انعامات سے نوازا جائے گا۔
+
+[ur]
+اول انعام: بہت زیادہ رقم۔
+
+[ur]
+دوم انعام: قیمتی تحائف۔
+
+[ur]
+سوم انعام: قیمتی کتب۔
+
+[ur]
+چہارم انعام: مناسب تحفہ۔

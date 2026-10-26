@@ -1,0 +1,29 @@
+# title: Page 422
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 422 (PDF page 423), خلاصہ
+# The summary of the first smaller round of «پانچواں دورہ» («ٹیکسی سٹینڈ کا دورہ», chapters sixty-two to sixty-four);
+# the contents (book page 12) lists it as «خلاصہ» at page 422. Page 421 ends with a full turn.
+# Ammar's list (①–③) is read as words: پہلا، دوسرا، تیسرا (the items are «امور»), as on page 377.
+# «ماشاءاللہ» is typed «ما شاء اللہ»; «الحمد لله رب العالمين» is set in Arabic type as the teacher's turn; it is kept in the Urdu block,
+# in Urdu letters (الحمد للہ رب العالمین), as on page 377.
+# The page ends with a full turn; the rest of the page is blank. Page 423 is the title page of the next smaller round.
+
+[h]
+خلاصہ
+
+[ur]
+استاد اور عمار گاڑی سے اتر کر ہسپتال میں داخل ہوئے، چیک اپ کے لیے پرچی وصول کی اور اپنی باری کے انتظار میں انتظار گاہ میں بیٹھ گئے۔
+
+[ur]
+عمار: استاد صاحب! اس ڈرائیور کے ساتھ بہت اچھا سفر رہا ہے، ما شاء اللہ آپ نے اسے مندرجہ ذیل امور کی نصیحت فرمائی ہے:
+
+[ur]
+پہلا: ناجائز کاموں کے لیے ٹیکسی کی خدمات مہیا کرنا۔
+
+[ur]
+دوسرا: ڈرائیور کا خفیہ طور پر گاڑی کے مالک کے ساتھ طے شدہ رقم سے زائد وصول کرنا۔
+
+[ur]
+تیسرا: سرکاری یا کمپنی کی گاڑی کا ناجائز استعمال کرنا۔
+
+[ur]
+استاد: الحمد للہ رب العالمین۔

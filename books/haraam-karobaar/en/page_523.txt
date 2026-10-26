@@ -1,0 +1,5 @@
+# title: Page 523
+# English edition of book page 523, built by build_english.py from en_src/ and page_523.txt
+
+[en]
+These things are forbidden in this respect as well: they bring ruin, destruction and death among the Muslims. My brother! Keep away from such things, which are a danger to your religion and your faith.

@@ -1,0 +1,32 @@
+# title: Page 442
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 442 (PDF page 443), انہترواں باب: گھروں میں قرآن خوانی کی مجالس قائم کرنا اور قبروں پر قرآن خوانی کرنا
+# The first chapter of the round «مسلمان گھرانوں میں ہونے والے حرام کام» (page 441). Page 441 is a title page, so nothing runs onto this page.
+# Print typo corrected: "انسٹھواں باب" -> "انہترواں باب". This is chapter sixty-nine: the contents (book page 12) put it between
+# «اڑسٹھواں باب» (page 435) and «سترواں باب» (page 446), and «انسٹھواں باب» (the fifty-ninth) is the chapter on page 389.
+# The contents repeat the same misprint.
+# «إنا لله و إنا إليه راجعون» is printed in Arabic type at the start of the teacher's turn. It is said here as the usual phrase on
+# hearing of a death, not quoted for recitation, so it stays in the Urdu block in Urdu spelling («انا للہ و انا الیہ راجعون»), like
+# the other set phrases (pages 137, 277, 388).
+# «ماشاءاللہ», printed joined the first time, is typed «ماشاء اللہ»; the second one, printed «ما شاء اللہ», is kept as printed.
+# The page ends with a full dialogue turn; page 443 starts with the teacher's reply.
+
+[h]
+انہترواں باب: گھروں میں قرآن خوانی کی مجالس قائم کرنا اور قبروں پر قرآن خوانی کرنا
+
+[ur]
+استاد: (حسین سے مخاطب ہوئے) گاؤں والے سب کیسے ہیں؟ امید ہے سب خیریت سے ہوں گے۔
+
+[ur]
+حسین: الحمد للہ سب خیریت سے ہیں، البتہ پچھلے ہفتے چچا عبدالحمید ابوعلی صاحب فوت ہو گئے تھے۔
+
+[ur]
+استاد: انا للہ و انا الیہ راجعون! اللہ تعالیٰ ان پر اپنی رحمتوں کا نزول فرمائے، ماشاء اللہ وہ بہت نیک اور نمازی آدمی تھے، کیسے فوت ہوئے؟ کیا وہ بیمار تھے؟
+
+[ur]
+حسین: تین دن بیمار رہنے کے بعد چوتھے دن وفات پا گئے تھے۔
+
+[ur]
+استاد: ان کی اولاد نے ان کے بعد کیا کام کیا؟
+
+[ur]
+حسین: ان کی اولاد نے ایک ہزار پاؤنڈ معاوضے پر ایک قاری مقرر کیا ہے، جو نمازِ عصر سے نماز عشا تک ان کے گھر بیٹھ کر قرآن مجید کی تلاوت کرتا تھا۔ وفات کے تین دن بعد انھوں نے پانچ اور قاریوں کو معاوضے پر رکھ لیا ہے اور وہ سب ہر روز گھر میں قرآن خوانی کا اہتمام کرتے ہیں، اللہ تعالیٰ ان کو جزا دے ما شاء اللہ وہ اس فرض کو بہت اچھی طرح سرانجام دے رہے ہیں۔

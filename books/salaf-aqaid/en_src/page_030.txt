@@ -1,0 +1,7 @@
+# English source for book page 30
+
+[en]
+This is the humble written effort of a person of little worth, which he presents in the service of the readers. If it is a good effort, it is from Allah. If there is any mistake in it, it is from me and from Satan. I hope that those who find any mistake in it will not be miserly in advising me. I pray to Allah the Exalted that He make this work of mine purely for His pleasure, accept it from me and let the Muslims benefit from it. If anything has found its way into the book that is contrary to the Quran and the Sunnah and the understanding of the Righteous Predecessors, I declare myself free of it before Allah. If such a thing has come from me unknowingly, I retract it in my lifetime and after my death.
+
+[fen]
+Hoping for the mercy of the Most Forgiving Lord, Abu Muhammad Abdullah ibn Abd al-Hamid Al Isma'il al-Athari, resident of Istanbul, Dhu al-Hijjah 1416 AH

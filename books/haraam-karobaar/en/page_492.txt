@@ -1,0 +1,53 @@
+# title: Page 492
+# English edition of book page 492, built by build_english.py from en_src/ and page_492.txt
+
+[en]
+Second:
+
+[ar]
+وَلَا تَبَرَّجْنَ تَبَرُّجَ الْجَاهِلِيَّةِ الْأُولَىٰ
+
+[ref]
+[الأحزاب: 33]
+
+[en]
+And do not display yourselves as (was) the display of the former times of ignorance.
+
+[en]
+It is well known that most women make a point of adorning themselves when they go out of the house.
+
+[en]
+Third: In the hadiths the mixing of men and women has been forbidden.
+
+[en]
+Fourth: There is a hadith of the Prophet:
+
+[ar]
+الْمَرْأَةُ عَوْرَةْ
+
+[ref]
+سنن الترمذي، رقم الحديث [1173] صحيح الجامع، رقم الحديث [6690]
+
+[en]
+(A woman is something to be covered), meaning that a woman must keep herself covered.
+
+[en]
+Fifth: Among women's responsibilities are bringing up the children, protecting the honour of the home and the family, and so on.
+
+[en]
+Sixth: When a woman goes out of the house, she becomes a trial for men.
+
+[en]
+Especially when a woman's husband, father or guardian is there and is working to provide her daily bread, no excuse remains for the woman to go out of the house to take a job and work.
+
+[en]
+The Messenger of Allah, peace be upon him, said:
+
+[ar]
+كُلُّكُمْ رَاعٍ وَكُلُّكُمْ مَسْئُولٌ عَنْ رَعِيَّتِهْ، الرَّجُلُ رَاعٍ فِي أَهْلِهِ وَمَسْئُولٌ عَنْ رَعِيَّتِهْ
+
+[ref]
+صحيح البخاري، رقم الحديث [893] صحيح مسلم، رقم الحديث [1829]
+
+[en]
+“Each of you is responsible, and each of you will be asked about his responsibility... A man is responsible for his family, and he will be asked about his responsibility...”

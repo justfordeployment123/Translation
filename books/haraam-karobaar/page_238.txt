@@ -1,0 +1,40 @@
+# title: Page 238
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 238 (PDF page 239), تینتیسواں باب: ضرورت کے بغیر رخصت لینا
+# Page 237 ends with a full sentence; this page opens with a nameless block that continues the teacher's turn.
+# The last sentence continues on page 239 ("جانچ پڑتال کرتی ہے، ... قانونی کارروائی کی جاتی ہے۔"); it is kept whole here.
+# The hadith words «أَلَا وَقَوْلُ الزُّوْرِ» in the first sentence are named as a saying («... کے ارشاد کے ساتھ»), so they stay in the
+# sentence's [ur] block (read in the Urdu flow), typed as printed with their harakat, quote marks dropped, stopping form on the last
+# word (as on pages 56, 138 and 256).
+# Hadith: Bukhari 6094 (Ibn Mas'ud), the part the book quotes ("وَإِنَّ الْكَذِبَ ... كَذَّابًا"), in two excerpts so the voice does not
+# pause at the source's comma after "لَيَكْذِبُ" (the book has none there).
+# Proofreader please check: the book cites "صحيح البخاري، رقم الحديث [6064]", but Bukhari 6064 is another hadith (on suspicion);
+# the quoted words are Bukhari 6094. The printed reference is kept.
+# "حتی کہ" is printed without the superscript alif; typed "حتیٰ کہ" (TRANSCRIBING.md, dagger alif).
+
+[ur]
+اور جیسے أَلَا وَقَوْلُ الزُّوْرْ کے ارشاد کے ساتھ رسول اللہ ﷺ نے جھوٹ سے ڈرایا ہے۔ ڈیوٹی کے اوقات میں لیٹ آنے والا اور بغیر عذر جھوٹی درخواست لکھ کر رخصت لینے والا جھوٹا آدمی ہے اور مجرم ہے۔ ایسے آدمی کو اللہ سے ڈرنا چاہیے اور توبہ کرنی چاہیے۔ رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H bukhari:6094 from وَإِنَّ الْكَذِبَ to النَّارِ}}، {{H bukhari:6094 from وَإِنَّ الرَّجُلَ لَيَكْذِبُ to كَذَّابًا flat}}
+وَإِنَّ الْكَذِبَ يَهْدِي إِلَى الْفُجُورْ، وَإِنَّ الْفُجُورَ يَهْدِي إِلَى النَّارْ، وَإِنَّ الرَّجُلَ لَيَكْذِبُ حَتَّى يُكْتَبَ عِنْدَ اللَّهِ كَذَّابَا
+
+[ref]
+صحيح البخاري، رقم الحديث [6064]
+
+[ur]
+“جھوٹ برائی کی طرف راہنمائی کرتا ہے اور برائی آگ کی طرف رہنمائی کرتی ہے۔ آدمی جھوٹ بولتا رہتا ہے، حتیٰ کہ اللہ تعالیٰ کے ہاں بھی جھوٹا لکھ دیا جاتا ہے۔”
+
+[ur]
+یعنی جھوٹ اتنا خطرناک جرم ہے، جو انسان سے مزید گناہ کرواتا ہے اور بالآخر انسان گناہوں کی دلدل میں ایسا پھنس جاتا ہے کہ جہنم کی آگ اس کا مقدر بن جاتی ہے اور اللہ تعالیٰ کے نزدیک اس آدمی کا شمار جھوٹوں میں ہونے لگتا ہے۔
+
+[ur]
+عبید صاحب! آپ دفتری امور کے ذمے دار ہیں۔ ملازموں کو رخصت دینے سے پہلے تحقیق کر لیا کرو کہ کون چھٹی کا مستحق ہے اور کون نہیں۔
+
+[ur]
+عبید: استاد صاحب! جھوٹ بولنے والا مجھ اکیلے ہی کو جواب دہ نہیں ہے۔
+
+[ur]
+استاد: اور کس کس کو جواب دہ ہے؟
+
+[ur]
+عبید: سب سے پہلے تو وہ اللہ تعالیٰ کو جواب دہ ہے، دوسرے نمبر پر ادارے کا سربراہ بھی اس سے پوچھ گچھ کا حق رکھتا ہے۔ اس کے علاوہ گورنمنٹ کے ہر ادارے میں ایک خاص کمیٹی ہوتی ہے جو ملازموں کی درخواستوں کی جانچ پڑتال کرتی ہے، چھٹیوں کا حساب کتاب کرتی ہے، ملازم کی غیر حاضریوں اور چھٹیوں کا ریکارڈ بنتا ہے، اگر کسی کا ریکارڈ زیادہ خراب ہو تو اس پر باقاعدہ قانونی کارروائی کی جاتی ہے۔

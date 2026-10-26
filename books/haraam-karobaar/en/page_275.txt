@@ -1,0 +1,11 @@
+# title: Page 275
+# English edition of book page 275, built by build_english.py from en_src/ and page_275.txt
+
+[en]
+From now on I will always keep the ties of kinship with you, and never expect me to cut you off.
+
+[en]
+Khadijah: I have forgiven you; may Allah the Exalted forgive you too. My land will stay with you on lease. As for my share of the house, I give it to you as a gift.
+
+[en]
+Teacher: May Allah reward you with good.

@@ -1,0 +1,35 @@
+# title: Page 399
+# English edition of book page 399, built by build_english.py from en_src/ and page_399.txt
+
+[en]
+Teacher: To remember them, it is not necessary to hang up pictures; rather, true remembrance is when prayers for their pardon and forgiveness come from the heart. It is also necessary to remove pictures from homes and deface them, because Ali, may Allah be pleased with him, said to Abu al-Hayyaj: Shall I not send you on the mission on which the Messenger of Allah, peace be upon him, sent me? He said: Of course (send me). Ali said:
+
+[ar]
+أَنْ لاَ تَدَعَ صُورَةً إِلاَّ طَمَسْتَهَا وَلاَ قَبْرًا مُشْرِفًا إِلاَّ سَوَّيْتَهْ
+
+[ref]
+صحيح مسلم، رقم الحديث [969]
+
+[en]
+“(Go,) do not leave any picture without defacing it, and do not leave any raised grave without levelling it.”
+
+[en]
+Manager: Teacher! This is a business and a means of livelihood.
+
+[en]
+Teacher: If you cannot give up this work for the sake of business and livelihood, then keep pictures that are not of living things, such as natural scenery, trees and the like, because Abdullah ibn Abbas, may Allah be pleased with them both, said to those who made pictures:
+
+[ar]
+إِنْ كُنْتَ لَا بُدَّ فَاعِلَا، فَاصْنَعِ الشَّجَرَ وَمَا لَا رُوْحَ فِيْهْ
+
+[ref]
+صحيح البخاري، رقم الحديث [2225]
+
+[en]
+“If you must make pictures, then make them of trees and of things that have no soul.”
+
+[en]
+Manager: So a picture is forbidden, whatever form it is in?
+
+[en]
+Teacher: Yes, every kind of picture of a living being, whether in the form of a statue or not, is forbidden. However, some scholars have allowed having a picture made at a time of extreme need, such as for an identity card and the like.

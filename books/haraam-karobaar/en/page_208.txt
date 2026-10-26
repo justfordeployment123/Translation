@@ -1,0 +1,32 @@
+# title: Page 208
+# English edition of book page 208, built by build_english.py from en_src/ and page_208.txt
+
+[en]
+“May Allah the Exalted curse the Jews, for Allah the Exalted made fat forbidden to them, but they began to sell it and consumed its price. And indeed, when Allah the Exalted makes a thing forbidden to a people, He also makes its price forbidden to them.”
+
+[en]
+In our time today there are all sorts of alcoholic drinks and drugs, and they also go by many names, Arabic and non-Arabic. People have given them the following names:
+
+[en]
+Beer, alcohol, juice, gutka, champagne and so on. The kind of alcohol that the noble Prophet, peace be upon him, foretold has now been invented in this Ummah:
+
+[ar]
+لَيَشْرَبَنَّ نَاسٌ مِنْ أُمَّتِي الْخَمْرَ يُسَمُّونَهَا بِغَيْرِ اسْمِهَا
+
+[ref]
+سنن أبي داود، رقم الحديث [3688] صحيح الجامع، رقم الحديث [5452]
+
+[en]
+“Those people will call alcohol by the name of relaxing drinks instead of alcohol.”
+
+[en]
+That is, the drink will in reality be alcohol, but its name will be changed to deceive and mislead. Allah the Exalted says:
+
+[ar]
+يُخَادِعُونَ اللَّهَ وَالَّذِينَ آمَنُوا وَمَا يَخْدَعُونَ إِلَّا أَنْفُسَهُمْ وَمَا يَشْعُرُونْ
+
+[ref]
+[البقرة: 9]
+
+[en]
+They (think to) deceive Allah and those who believe, but they deceive not except themselves and perceive (it) not.

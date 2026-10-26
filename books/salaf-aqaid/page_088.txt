@@ -1,0 +1,31 @@
+# title: Page 88
+# Salaf-e-Saliheen ke Aqaid o Nazariyat, book page 88 (PDF page 85), پہلا اصول: ایمان اور ارکانِ ایمان
+# The Arabic at the top of the page ("وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ﴾") ends al-Baqarah 2:285, which starts on page 87, where it is
+# kept whole. The page starts here with its Urdu translation and footnote.
+# The last sentence continues on page 89 ("حفاظت نہیں کی، چنانچہ ان میں تبدیلی پیدا ہوئی اور تحریف و تغیر نے ان کے اندر راہ پائی۔"); it is kept whole here.
+# Ibrahim 14:1 is quoted whole; filled from the official text.
+# The footnotes print "285 : 2" and "1:14" (left to right); typed in that order, without the spaces inside the number group.
+# Proofreader please check: the translation of 14:1 opens with the separate letters «الٓرٰ» (alif lam ra), typed as printed in the
+# Urdu block; the voice may read them as one word (the same applies to «الر» at the start of the filled ayah).
+
+[ur]
+“رسول (ﷺ) اس (ہدایت) پر ایمان لائے ہیں جو ان کے رب کی طرف سے ان پر نازل کی گئی ہے اور سارے مومن بھی، سب اللہ پر، اس کے فرشتوں، اس کی کتابوں اور اس کے رسولوں پر ایمان لائے ہیں۔”
+
+[ref]
+البقرة 285:2.
+
+[ur]
+اللہ تعالیٰ نے انسانیت کی رہنمائی کے لیے یہ کتابیں نازل فرمائیں۔ فرمایا:
+
+[ar]
+# quran 14:1 from الر كِتَابٌ to الْعَزِيزِ الْحَمِيدِ
+الر ۚ كِتَابٌ أَنْزَلْنَاهُ إِلَيْكَ لِتُخْرِجَ النَّاسَ مِنَ الظُّلُمَاتِ إِلَى النُّورِ بِإِذْنِ رَبِّهِمْ إِلَىٰ صِرَاطِ الْعَزِيزِ الْحَمِيدْ
+
+[ur]
+“الٓرٰ، (اے نبی!) (یہ) عظیم الشان کتاب ہے جسے ہم نے آپ کی طرف نازل کیا ہے تاکہ آپ لوگوں کو اندھیروں سے روشنی کی طرف ان کے رب کے اذن سے نکال لائیں، نہایت غالب، انتہائی لائق تعریف (پروردگار) کے راستے کی طرف۔”
+
+[ref]
+إبراهيم 1:14.
+
+[ur]
+ان الہامی کتابوں میں قرآن، توریت، انجیل، زبور اور حضراتِ ابراہیم و موسیٰ کے صحیفے شامل ہیں۔ توریت، انجیل اور قرآن سب سے بڑی کتابیں ہیں۔ ان تینوں میں سب سے بڑی، گزشتہ کتابوں کے احکامات منسوخ کرنے والی، سب سے افضل کتاب قرآن ہے۔ توریت و انجیل و زبور اور قرآن کے سوا دیگر الہامی کتابیں جب اللہ تعالیٰ نے نازل کیں تو ان کی حفاظت کا ذمہ نہیں لیا۔ ان کے علماء اور ربانیوں (درویشوں) سے یہ کہا گیا کہ وہ اپنی کتابوں کی حفاظت کریں لیکن انھوں نے ان کتابوں کی کماحقہ حفاظت نہیں کی، چنانچہ ان میں تبدیلی پیدا ہوئی اور تحریف و تغیر نے ان کے اندر راہ پائی۔

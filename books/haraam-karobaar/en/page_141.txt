@@ -1,0 +1,8 @@
+# title: Page 141
+# English edition of book page 141, built by build_english.py from en_src/ and page_141.txt
+
+[en]
+May Allah bless you. As-salamu alaikum wa rahmatullahi wa barakatuh.
+
+[en]
+Man: Wa alaikum as-salam wa rahmatullahi wa barakatuh.

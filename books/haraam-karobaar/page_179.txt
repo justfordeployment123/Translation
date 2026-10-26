@@ -1,0 +1,8 @@
+# title: Page 179
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 179 (PDF page 180), دوسرا دورہ، سپر سٹور اور دکانوں کا دورہ
+# A framed title page (no page number printed): «③ سپر سٹور اور دکانوں کا دورہ», the third smaller round of «دوسرا دورہ»
+# (contents, book pages 7-8). The circled number is dropped, since the title is a heading of its own.
+# Page 178 ends with a full dialogue turn, so nothing runs onto this page.
+
+[h]
+سپر سٹور اور دکانوں کا دورہ

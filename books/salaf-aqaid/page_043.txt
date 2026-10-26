@@ -1,0 +1,35 @@
+# title: Page 43
+# Salaf-e-Saliheen ke Aqaid o Nazariyat, book page 43 (PDF page 40), سلف کی تعریف
+# The first word of the page ("تھا۔") ends a sentence that is on page 42, where it starts; the paragraph continues here.
+# Hadith: Tirmidhi 2641 (the book cites Tirmidhi, al-Iman, 2641), filled in excerpts at the book's commas and «؟»; the book starts
+# its quote without the source's joined «وَ» («تَفْتَرِقُ» for «وَتَفْتَرِقُ», `~`).
+# Print slip: the book prints «قَالَ: وَمَنْ هِيَ يَا رَسُولَ اللَّهِ؟» where Tirmidhi 2641 has «قَالُوا وَمَنْ هِيَ»; the source's «قَالُوا» is
+# kept (the Companions ask; the book's own Urdu translation has the plural, «صحابہ کرام نے دریافت کیا»).
+# The Urdu translation is typed with its quote marks as printed (an opening mark before «میری» and before «وہ جس پر», one closing mark).
+# An-Nisa 4:115 (quoted again, as on page 35) is filled from the official text (fill_quran.py).
+
+[ur]
+یہی وجہ ہے کہ اللہ تعالیٰ نے انھیں اپنے دین کی نشر و اشاعت اور سنت نبوی کی تبلیغ کے لیے منتخب کیا۔ رسول اکرم ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H tirmidhi:2641 from ~تَفْتَرِقُ to مِلَّةً}}، {{H tirmidhi:2641 from كُلُّهُمْ to النَّارِ}}، {{H tirmidhi:2641 from إِلاَّ مِلَّةً to وَاحِدَةً}}، {{H tirmidhi:2641 from قَالُوا to رَسُولَ اللَّهِ}}؟ {{H tirmidhi:2641 from قَالَ مَا to وَأَصْحَابِي}}
+تَفْتَرِقُ أُمَّتِي عَلَى ثَلاَثٍ وَسَبْعِينَ مِلَّةْ، كُلُّهُمْ فِي النَّارْ، إِلاَّ مِلَّةً وَاحِدَةْ، قَالُوا وَمَنْ هِيَ يَا رَسُولَ اللَّهْ؟ قَالَ مَا أَنَا عَلَيْهِ وَأَصْحَابِي
+
+[ur]
+“میری امت تہتر ملتوں میں بٹے گی جو سب کی سب جہنم میں جائیں گی سوائے ایک ملت کے۔ صحابہ کرام نے دریافت کیا: وہ کون سی ملت ہے اللہ کے رسول؟ فرمایا: “وہ جس پر میں اور میرے اصحاب ہیں۔”
+
+[ref]
+جامع الترمذي، الإيمان، حديث: 2641.
+
+[ur]
+یوں جو لوگ سلف صالحین کی پیروی کرتے اور ان کے منہاج پر قائم رہتے ہیں انھیں سلف کی نسبت سے “سلفی” کہا جاتا ہے۔ اس طرح ایسے لوگوں سے ان کا امتیاز ہو جاتا ہے جو سلف صالحین کے بتائے ہوئے راستے پر نہیں چلتے اور ان کے نہج پر قائم نہیں رہتے۔ ارشادِ باری تعالیٰ ہے:
+
+[ar]
+# quran 4:115 from وَمَنْ يُشَاقِقِ الرَّسُولَ to وَسَاءَتْ مَصِيرًا
+وَمَنْ يُشَاقِقِ الرَّسُولَ مِنْ بَعْدِ مَا تَبَيَّنَ لَهُ الْهُدَىٰ وَيَتَّبِعْ غَيْرَ سَبِيلِ الْمُؤْمِنِينَ نُوَلِّهِ مَا تَوَلَّىٰ وَنُصْلِهِ جَهَنَّمَ ۖ وَسَاءَتْ مَصِيرَا
+
+[ur]
+“اور جس شخص کے سامنے واضح شکل میں ہدایت آ جائے، اس کے بعد وہ رسول (ﷺ) کی مخالفت کرے اور مسلمانوں کا راستہ چھوڑ کر دوسرے راستے کی پیروی کرے تو ہم اسے اسی طرف پھیر دیں گے جس طرف وہ جانا چاہے اور ہم اسے جہنم میں ڈالیں گے اور وہ بہت برا ٹھکانا ہے۔”
+
+[ref]
+النسآء 115:4.

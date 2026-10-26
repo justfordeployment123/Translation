@@ -1,0 +1,32 @@
+# title: Page 20
+# English edition of book page 20, built by build_english.py from en_src/ and page_020.txt
+
+[en]
+If someone has wrongfully taken another person's right, he should return it as soon as possible, and he should settle his worldly dealings before that day comes when a person will have nothing but his good deeds and his bad deeds.
+
+[en]
+It is narrated from Abu Hurairah, may Allah be pleased with him, that the Messenger of Allah, peace be upon him, said:
+
+[ar]
+إِنَّ اللَّهَ طَيِّبٌ لاَ يَقْبَلُ إِلاَّ طَيِّبَا، وَإِنَّ اللَّهَ أَمَرَ الْمُؤْمِنِينَ بِمَا أَمَرَ بِهِ الْمُرْسَلِينْ
+
+[ar]
+يَا أَيُّهَا الرُّسُلُ كُلُوا مِنَ الطَّيِّبَاتِ وَاعْمَلُوا صَالِحًا ۖ إِنِّي بِمَا تَعْمَلُونَ عَلِيمْ
+
+[ref]
+[المؤمنون:51]
+
+[ar]
+وَقَالْ يَا أَيُّهَا الَّذِينَ آمَنُوا كُلُوا مِنْ طَيِّبَاتِ مَا رَزَقْنَاكُمْ
+
+[ref]
+[البقرة: 172]
+
+[ar]
+ثُمَّ ذَكَرَ الرَّجُلَ يُطِيلُ السَّفَرْ، أَشْعَثَ أَغْبَرْ، يَمُدُّ يَدَيْهِ إِلَى السَّمَاءْ، يَا رَبّ، يَا رَبّ، وَمَطْعَمُهُ حَرَامْ، وَمَشْرَبُهُ حَرَامْ، وَمَلْبَسُهُ حَرَامْ، وَغُذِيَ بِالْحَرَامْ، فَأَنَّى يُسْتَجَابُ لِذَلِكْ
+
+[ref]
+صحيح مسلم، رقم الحديث [1015] سنن الترمذي، رقم الحديث [2989]
+
+[en]
+“Allah the Exalted is pure and loves only what is pure. Allah the Exalted has given the believers the same command that He gave His messengers. Allah the Exalted said: ‘O messengers, eat from the good foods and work righteousness. Indeed, I, of what you do, am Knowing.’ And He said: ‘O you who have believed, eat from the good things which We have provided for you.’ Then he, peace be upon him, mentioned a man who has made a long journey, his hair dishevelled and his body covered in dust. He raises his hands and supplicates: O my Lord! O my Lord! Yet his food is forbidden, his drink is forbidden, his clothing is forbidden, and his nourishment is forbidden. So how will his supplication be answered?”

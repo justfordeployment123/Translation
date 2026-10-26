@@ -1,0 +1,26 @@
+# title: Page 161
+# English edition of book page 161, built by build_english.py from en_src/ and page_161.txt
+
+[ar]
+ثَلاَثٌ مَنْ كُنَّ فِيهِ وَجَدَ حَلاَوَةَ الإِيمَانْ: مَنْ كَانَ اللَّهُ وَرَسُولُهُ أَحَبَّ إِلَيْهِ مِمَّا سِوَاهُمَا، وَمَنْ أَحَبَّ عَبْدًا لاَ يُحِبُّهُ إِلاَّ لِلَّهْ، وَمَنْ يَكْرَهُ أَنْ يَعُودَ فِي الْكُفْرِ بَعْدَ إِذْ أَنْقَذَهُ اللَّهُ كَمَا يَكْرَهُ أَنْ يُلْقَى فِي النَّارْ
+
+[en]
+“Whoever has three things in him has found the sweetness of faith: the one to whom Allah and His Messenger, peace be upon him, are dearer than all else; the one who loves a servant of Allah only for the sake of Allah; and the one who hates to return to disbelief after Allah has saved him from it, just as he would hate to be thrown into the Fire.”
+
+[ref]
+صحيح البخاري، الإيمان، حديث: 21، وصحيح مسلم، الإيمان، حديث: 43.
+
+[en]
+Fourth: By adopting this belief, faith becomes complete. The noble Messenger, peace be upon him, said:
+
+[ar]
+مَنْ أَحَبَّ لِلَّهْ، وَأَبْغَضَ لِلَّهْ، وَأَعْطَى لِلَّهْ، وَمَنَعَ لِلَّهْ، فَقَدِ اسْتَكْمَلَ الإِيمَانْ
+
+[en]
+“Whoever loved for the sake of Allah, hated for the sake of Allah, gave for the sake of Allah and withheld for the sake of Allah has completed his faith.”
+
+[ref]
+سنن أبي داود، السنة، حديث: 4681.
+
+[en]
+Fifth: Adopting this belief is also necessary because whoever loves others besides Allah and their religion, and hates Allah, His religion and the people of Allah, is a disbeliever and denies Allah utterly.

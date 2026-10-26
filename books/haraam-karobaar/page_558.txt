@@ -1,0 +1,36 @@
+# title: Page 558
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 558 (PDF page 559), ننانوےواں باب: کسی مسلمان کے سودے پر سودا کرنا اور اس کی خریدی ہوئی چیز خریدنا
+# Print spelling normalized: «نناواں باب» -> «ننانوےواں باب» (chapter 99; the print's spelling drops «نو» and the book's 90s spellings are irregular, so the standard number word + «واں» is used); the contents page has the same spelling.
+# The page starts with the new chapter (page 557 ends the previous one with a full paragraph).
+# Hadith (Ibn Umar): Muslim 3811 (the book cites Bukhari [2140] and Muslim [1412]; Muslim 3811 is 1412 in the book of sales, in the
+# sunnah.com numbering), filled from there. Bukhari 2140 has the meaning in other words («وَلاَ يَبِيعُ الرَّجُلُ عَلَى بَيْعِ أَخِيهِ»).
+# The two cases (①, ②) are read as words: پہلی، دوسری (the items are «صورتیں»). The second is on page 559.
+# The page ends with the first case, a full sentence; its explanation starts on page 559.
+
+[h]
+ننانوےواں باب: کسی مسلمان کے سودے پر سودا کرنا اور اس کی خریدی ہوئی چیز خریدنا
+
+[ur]
+عمار: سائل کہتا ہے کہ ہم نے نبی اکرم ﷺ کی یہ حدیث سنی ہے کہ آپ ﷺ نے مسلمان کو اپنے دوسرے مسلمان بھائی کے سودے پر سودا کرنے سے منع فرمایا ہے، آپ وضاحت کر دیں کہ اس سے کیا مراد ہے؟
+
+[ur]
+استاد: یہ بات اچھی طرح ذہن نشین کر لو کہ کسی مسلمان کے سودے پر سودا کرنا اور اس کی خریدی ہوئی چیز خریدنا حرام ہے اور اس ذریعے سے حاصل کیا گیا مال حرام کے زمرے میں آتا ہے، اس کی دلیل نبی مکرم ﷺ کی یہ حدیث ہے، جس میں آپ ﷺ نے ارشاد فرمایا:
+
+[ar]
+# hadith {{H muslim:3811 from لاَ يَبِعْ to بَعْضٍ}}
+لاَ يَبِعْ بَعْضُكُمْ عَلَى بَيْعِ بَعْضْ
+
+[ref]
+صحيح البخاري، رقم الحديث [2140] صحيح مسلم، رقم الحديث [1412]
+
+[ur]
+“تم میں سے کوئی کسی دوسرے کے سودے پر سودا نہ کرے۔”
+
+[ur]
+عمار: اس کی صورت کیا بنتی ہے؟ ذرا وضاحت کر دیں۔
+
+[ur]
+استاد: اس کی دو صورتیں بنتی ہیں:
+
+[ur]
+پہلی: کسی دوسرے کے سودے پر اپنا سودا کرنا۔

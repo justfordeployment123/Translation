@@ -1,0 +1,17 @@
+# title: Page 419
+# English edition of book page 419, built by build_english.py from en_src/ and page_419.txt
+
+[en]
+Teacher: Like the earlier things, this too is forbidden. Except in two cases, a government car, a company car or the owner's car may not be put to one's own use in any form.
+
+[en]
+Driver: Which two cases?
+
+[en]
+Teacher: First: You may put the car to your own personal use, but on condition that you yourself pay the same fare that you charge a passenger who is a stranger; or, if you use the car for a friend of yours or someone else, you charge him the same fare too. If you do not do this, you will have to give account of it on the Day of Resurrection. And remember that on the Day of Resurrection a person will have no wealth, riches, dirhams or dinars with which to repay; rather, on that day scores will be settled with good deeds and bad deeds. No one will enter Paradise until he has been cleared of the wrongs he did in the world. Just think: if death comes to you in this state, and tomorrow, on the Day of Resurrection, in the court of Allah the Exalted, the owner of the car brings a case against you that in the world you kept consuming what was his by right, what will your state be then? There will be justice in the court of Allah the Exalted, and the form justice will take then is that your good deeds will be given to that owner. If the account is still not settled and his right over you still remains, his bad deeds will be put into your account, and then you will be left with nothing but regret and shame.
+
+[en]
+Driver: What is the second case?
+
+[en]
+Teacher: Second: You tell the owner of the car plainly: When I use the car myself, or give some dear one, relative or the like a ride in the car, I do not charge a fare for it.

@@ -1,0 +1,29 @@
+# title: Page 149
+# English edition of book page 149, built by build_english.py from en_src/ and page_149.txt
+
+[en]
+Teacher: How, for example?
+
+[en]
+Ammar: That is, a buyer asks the seller: Is this she-camel pregnant? He answers: Yes, she is pregnant, and in her fifth month. To make sure, the buyer asks the same thing again and says: Tell the truth. The seller takes hold of the cow's tail and says: By Allah, those are four, and this is the fifth. What he means is that she has four legs and the fifth is the tail, while the buyer understands that four months have passed and the fifth is under way. What is the Shariah's ruling on this kind of trick?
+
+[en]
+Teacher: (Amazed at people's tricks and deceit, and laughing, he said) May Allah forgive! What a pity that traders tell so many lies just to sell their goods!
+
+[en]
+Ammar: Yes, Shaykh, that is the truth.
+
+[en]
+Teacher: The Messenger of Allah, peace be upon him, spoke the truth:
+
+[ar]
+إِنَّ التُّجَّارَ هُمُ الْفُجَّارْ، فَقِيلَ يَا رَسُولَ اللَّهْ! أَلَيْسَ قَدْ أَحَلَّ اللَّهُ الْبَيْعْ؟ قَالَ: نَعَمْ وَلَكِنَّهُمْ يَحْلِفُوْنَ فَيَأْثَمُوْنَ وَيُحَدِّثُوْنَ فَيَكْذِبُوْنْ
+
+[ref]
+مسند أحمد [428/3] سنن البيهقي [266/5] صحيح الجامع [1594]
+
+[en]
+“It is the traders who are the sinners. He, peace be upon him, was asked: Has Allah the Exalted not made buying, selling and trade lawful? He, peace be upon him, said: Yes, but the traders are sinners because they swear oaths and so become sinners, and they tell lies.”
+
+[en]
+Ammar! In this hadith an even more severe warning has come. He, peace be upon him, said:

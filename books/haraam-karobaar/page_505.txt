@@ -1,0 +1,46 @@
+# title: Page 505
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 505 (PDF page 506), بیاسیواں باب: فحش تصاویر والے ملبوسات اور اونچی ایڑھی والے جوتوں کی خرید فروخت کا بیان
+# The first line of the page ("تھوڑے لوگ یہ کام نہیں کرتے، ... ہوتی ہے۔") ends a sentence that is on page 504, where it starts.
+# The page ends with the second hadith; its Urdu translation starts on page 506 and stays there. The teacher's turn continues throughout.
+# The list (①–②) is read as words: پہلا، دوسرا (the items are «دردوں»).
+# Hadith 1: «لَا ضَرَرَ وَلَا ضِرَارَ», filled from Ibn Majah 2341 (Ibn Abbas, the Prophet's saying); the book cites "سنن ابن ماجه" and صحيح الجامع 7517.
+# Hadith 2: Muslim 5881 (Abu Sa'id; the book cites "صحيح مسلم، رقم الحديث [2252]"), filled in two excerpts that leave out the source's
+# "وَهُوَ أَطْيَبُ الطِّيبِ", which the book does not print; the first takes " cont", since the book runs on after "مِسْكًا".
+# Proofreader please check: the rest of hadith 2 is printed differently from Muslim 5881 and no excerpt reproduces it, so Muslim's wording
+# is read: the book has "مُغْلَفًا بِطِينٍ" (Muslim: "مُغْلَقٍ مُطْبَقٍ"), "فَمَرَّتْ عَلَى امْرَأَتَيْنِ" (Muslim: "فَمَرَّتْ بَيْنَ الْمَرْأَتَيْنِ")
+# and "بِيَدِيهَا" (Muslim: "بِيَدِهَا").
+
+[ur]
+ملبوسات کی طرح یہ اونچی ایڑھی والے جوتوں کی خرید و فروخت بھی حرام ہے، کیونکہ ماہرینِ طب اور ڈاکٹروں کا کہنا ہے کہ اونچی ایڑھی والے جوتے مندرجہ ذیل دو طرح کے دردوں کا سبب بنتے ہیں:
+
+[ur]
+پہلا: ریڑھ کی ہڈی میں درد۔
+
+[ur]
+دوسرا: ٹخنوں میں درد۔
+
+[ur]
+اس معاملے میں اطبا اور ڈاکٹروں کی بات معتبر ہوگی، کیوں کہ نبی کریم ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H ibnmajah:2341 from لاَ ضَرَرَ to ضِرَارَ}}
+لاَ ضَرَرَ وَلاَ ضِرَارْ
+
+[ref]
+سنن ابن ماجه، صحيح الجامع، رقم الحديث [7517]
+
+[ur]
+“کسی کو نقصان نہ پہنچاؤ اور نہ بدلے میں کسی کو نقصان پہنچاؤ۔”
+
+[ur]
+اسی طرح ایک اور اعتبار سے بھی ایسے جوتوں کی خرید و فروخت حرام ہے اور وہ یہ کہ ایسا جوتا پہن کر جب عورت چلتی ہے تو اس کے قدموں کی آواز دور دور تک سنائی دیتی ہے، جس سے عورت کی چال ڈھال دوسروں کو سنائی دیتی ہے۔
+
+[ur]
+حالانکہ عورت کو اپنی چال ڈھال ظاہر کرنے سے منع کیا گیا ہے۔ حدیث میں آتا ہے کہ رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H muslim:5881 from كَانَتِ امْرَأَةٌ to مِسْكًا cont}} {{H muslim:5881 from فَمَرَّتْ to هَكَذَا}}
+كَانَتِ امْرَأَةٌ مِنْ بَنِي إِسْرَائِيلَ قَصِيرَةٌ تَمْشِي مَعَ امْرَأَتَيْنِ طَوِيلَتَيْنِ فَاتَّخَذَتْ رِجْلَيْنِ مِنْ خَشَبٍ وَخَاتَمًا مِنْ ذَهَبٍ مُغْلَقٍ مُطْبَقٍ ثُمَّ حَشَتْهُ مِسْكًا فَمَرَّتْ بَيْنَ الْمَرْأَتَيْنِ فَلَمْ يَعْرِفُوهَا فَقَالَتْ بِيَدِهَا هَكَذَا
+
+[ref]
+صحيح مسلم، رقم الحديث [2252]

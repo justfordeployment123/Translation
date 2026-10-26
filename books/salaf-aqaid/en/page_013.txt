@@ -1,0 +1,23 @@
+# title: Page 13
+# English edition of book page 13, built by build_english.py from en_src/ and page_013.txt
+
+[hen]
+Foreword
+
+[ar]
+اَلْحَمْدُ لِلَّهِ وَالصَّلَاةُ وَالسَّلَامُ عَلَى رَسُولِ اللَّهْ، أَمَّا بَعْدْ
+
+[en]
+Before the advent of the bearer of the Message, Muhammad, peace be upon him, people were held fast in the grip of Jahiliyyah (ignorance). They wandered in the darkness of shirk (associating partners with Allah) and ignorance. They were victims of superstition. They were embroiled in civil war and were being ground badly in the mill of tribal feuds and strife. They killed one another and took one another hostage. They lived in the torment of extreme backwardness, disorder, and racial and factional discrimination. In this regard their guiding principle was:
+
+[ar]
+وَمَنْ لَمْ يَذُدْ عَنْ حَوْضِهِ بِسِلَاحِهِ، يُهَدَّمْ وَمَنْ لَا يَظْلِمِ النَّاسَ يُظْلَمِ
+
+[en]
+“Whoever does not defend his watering place by force of arms has his watering place torn down; and whoever does not wrong people is himself wronged.”
+
+[ref]
+معلقة زهير بن أبي سلمى المزني.
+
+[en]
+Then the sun of Islam rose. The Seal of the Prophets, Muhammad, peace be upon him, was sent, and humanity received this message: “There is no true god but Allah.”

@@ -1,0 +1,41 @@
+# title: Page 17
+# English edition of book page 17, built by build_english.py from en_src/ and page_017.txt
+
+[en]
+Allah the Exalted has mentioned the counsel of Luqman, peace be upon him, to his son:
+
+[ar]
+يَا بُنَيَّ لَا تُشْرِكْ بِاللَّهِ ۖ إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمْ
+
+[en]
+O my son, do not associate (anything) with Allah. Indeed, association (with him) is great injustice.
+
+[ref]
+لقمان 13:31.
+
+[en]
+Abu ad-Darda', may Allah be pleased with him, reports that the Prophet, peace be upon him, said: Allah, the Mighty and Majestic, said:
+
+[ar]
+إِنِّي وَالْإِنْسُ وَالْجِنُّ فِي نَبَأٍ عَظِيمْ، أَخْلُقُ وَيُعْبَدُ غَيْرِي، وَأَرْزُقُ وَيُشْكَرُ غَيْرِي
+
+[en]
+“Strange indeed is the story of Me and of mankind and the jinn. It is I who create, but someone else is worshipped. It is I who provide, while someone else is thanked.”
+
+[fen]
+Although this hadith is sound in meaning, it is weak in its chain of narration; Shaykh al-Albani, may Allah have mercy on him, has declared it weak in as-Silsilah ad-Da'ifah (2371).
+
+[en]
+It is the greatest lie that a man should associate anyone with Allah, when it is Allah who created him.
+
+[en]
+Allah the Exalted has commanded reform and forbidden spreading corruption. Allah says:
+
+[ar]
+وَلَا تُفْسِدُوا فِي الْأَرْضِ بَعْدَ إِصْلَاحِهَا وَادْعُوهُ خَوْفًا وَطَمَعًا ۚ إِنَّ رَحْمَتَ اللَّهِ قَرِيبٌ مِنَ الْمُحْسِنِينْ
+
+[en]
+And cause not corruption upon the earth after its reformation. And invoke Him in fear and aspiration. Indeed, the mercy of Allah is near to the doers of good.
+
+[ref]
+الأعراف 56:7.

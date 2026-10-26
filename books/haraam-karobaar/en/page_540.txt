@@ -1,0 +1,8 @@
+# title: Page 540
+# English edition of book page 540, built by build_english.py from en_src/ and page_540.txt
+
+[en]
+“Glory be to Allah! How much severity Allah the Exalted has sent down in the matter of debt! By the One in whose hand my soul is, if a man were martyred in the way of Allah, then brought back to life, then martyred, then brought back to life and then martyred again, and he owed a debt, that man would not enter Paradise until his debt was paid off.”
+
+[en]
+Even after such severity and such a warning, should people still be negligent?

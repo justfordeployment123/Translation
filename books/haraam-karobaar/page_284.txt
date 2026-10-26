@@ -1,0 +1,63 @@
+# title: Page 284
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 284 (PDF page 285), اکتالیسواں باب: جفتی کے لیے سانڈ کرائے پر دینا
+# Page 283 ends with a full dialogue turn; this page starts with a new one and ends with Ibn al-Mundhir's quoted words.
+# The paragraphs that introduce each hadith continue the teacher's turn, so they open without his name.
+# Hadith 1 (Ibn Umar): the book cites Bukhari [2284], which has "نَهَى النَّبِيُّ"; the book's words "نَهَى رَسُولُ اللَّهِ ﷺ عَنْ عَسْبِ الْفَحْلِ"
+# are Abu Dawud 3429 (the same report, Nafi' from Ibn Umar), filled from there. The print vowels "عَسَبِ"; the source has "عَسْبِ".
+# Hadith 2 (Jabir): Muslim 4005 in the sunnah.com numbering (the book cites Muslim [1565]), filled from there.
+# Hadith 3 typed from the print (not in the hadith-api collections): «نَهَى رَسُوْلُ اللَّهِ ﷺ عَنْ بَيْعِ الْمَلَاقِيْحِ», the book cites صحيح الجامع [6937];
+# printed harakat kept (the sukun on the long vowels of "رَسُوْلُ" and "الْمَلَاقِيْحِ" included; "اللّٰهِ" typed "اللَّهِ"), stopping form on the last word.
+# Imam Ibn al-Mundhir's words are given in Urdu only; footnote ④ follows them.
+
+[ur]
+بھنسی: استاد صاحب! کیا ہر چیز حرام ہے؟ جن چیزوں کو ہم اپنے آبا و اجداد سے دیکھتے چلے آ رہے ہیں، آپ ان کو حرام قرار دے رہے ہیں؟ ہم نے آج تک ان کی حرمت کے بارے نہیں سنا۔ آپ کے پاس سانڈ کی کمائی کے حرام ہونے کی کیا دلیل ہے؟
+
+[ur]
+استاد: اللہ کے بندے میں اپنی طرف سے حرام قرار نہیں دے رہا، بلکہ شریعت نے اسے حرام ٹھہرایا ہے۔
+
+[ur]
+حضرت عبداللہ بن عمر رضی اللہ عنہما سے مروی ہے:
+
+[ar]
+# hadith {{H abudawud:3429 from نَهَى to الْفَحْلِ}}
+نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ عَسْبِ الْفَحْلْ
+
+[ref]
+صحيح البخاري، رقم الحديث [2284]
+
+[ur]
+“رسول اللہ ﷺ نے نر کی جفتی پر اجرت لینے سے منع فرمایا ہے۔”
+
+[ur]
+حضرت جابر رضی اللہ عنہ سے مروی ہے:
+
+[ar]
+# hadith {{H muslim:4005 from نَهَى to الْجَمَلِ}}
+نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ بَيْعِ ضِرَابِ الْجَمَلْ
+
+[ref]
+صحيح مسلم، رقم الحديث [1565]
+
+[ur]
+“رسول اللہ ﷺ نے نر اونٹ کو، مادہ کو ملانے کی اجرت سے منع فرمایا۔”
+
+[ur]
+حضرت عبداللہ بن عباس رضی اللہ عنہما سے مروی ہے:
+
+[ar]
+نَهَى رَسُوْلُ اللَّهِ ﷺ عَنْ بَيْعِ الْمَلَاقِيْحْ
+
+[ref]
+صحيح الجامع، رقم الحديث [6937]
+
+[ur]
+“رسول اللہ ﷺ نے جو چیز اونٹوں کے پیٹ میں ہے، اس کی بیع سے منع فرمایا ہے۔”
+
+[ur]
+امام ابن منذر رحمہ اللہ فرماتے ہیں:
+
+[ur]
+“علما کا اتفاق ہے کہ جانوروں کی جفتی پر قیمت وصول کرنا بیع فاسد ہے۔”
+
+[ref]
+الإجماع [ص: 474]

@@ -1,0 +1,64 @@
+# title: Page 153
+# Salaf-e-Saliheen ke Aqaid o Nazariyat, book page 153 (PDF page 150), چوتھا اصول: وعدہ وعید کی نصوص (صریح عبارتوں) پر ایمان
+# Page 152 ends with a full paragraph (the translation of Al-Qamar 54:54-55 and its footnote); this page starts with a new one.
+# The hadith is printed inline after «نبی ﷺ نے فرمایا:»; the sentence is split around it. Filled from Muslim 136 in the hadith-api
+# numbering (the book's «صحيح مسلم، الإيمان، حديث: 26»), in two excerpts so it pauses at the book's comma.
+# Al-Baqarah 2:39, Al-Bayyinah 98:6 and An-Nisa 4:145 (up to «مِنَ النَّارِ», printed inline after «اور فرمایا:») are filled from the
+# official text (fill_quran.py); each footnote follows the translation, which carries the marker.
+# References: the digit groups are typed as they appear on the page, left to right («39:2», «6:98», «145:4»).
+# The last sentence continues on page 154 ("کریم ﷺ نے ان کے متعلق یہ شہادت دی تھی۔"); it is kept whole here.
+
+[ur]
+نبی ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H muslim:136 from مَنْ مَاتَ to إِلاَّ اللَّهُ}}، {{H muslim:136 from دَخَلَ to الْجَنَّةَ}}
+مَنْ مَاتَ وَهُوَ يَعْلَمُ أَنَّهُ لاَ إِلَهَ إِلاَّ اللَّهْ، دَخَلَ الْجَنَّةْ
+
+[ur]
+“جو شخص اس حال میں فوت ہوا کہ وہ جانتا تھا، اللہ کے سوا کوئی معبود برحق نہیں، وہ جنت میں گیا۔”
+
+[ref]
+صحيح مسلم، الإيمان، حديث: 26.
+
+[ur]
+اہل سنت والجماعت یہ بھی شہادت دیتے ہیں کہ کفار، مشرکین اور منافقین اہل جہنم میں سے ہیں۔ ارشادِ الٰہی ہے:
+
+[ar]
+# quran 2:39 from وَالَّذِينَ كَفَرُوا to فِيهَا خَالِدُونَ
+وَالَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا أُولَٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونْ
+
+[ur]
+“اور جن لوگوں نے کفر کیا اور ہماری آیتوں کو جھٹلایا وہی دوزخ والے ہیں، وہ اس میں ہمیشہ رہیں گے۔”
+
+[ref]
+البقرة 39:2.
+
+[ur]
+ایک دوسرے مقام پر فرمایا:
+
+[ar]
+# quran 98:6 from إِنَّ الَّذِينَ كَفَرُوا to شَرُّ الْبَرِيَّةِ
+إِنَّ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ فِي نَارِ جَهَنَّمَ خَالِدِينَ فِيهَا ۚ أُولَٰئِكَ هُمْ شَرُّ الْبَرِيَّةْ
+
+[ur]
+“بے شک اہل کتاب میں سے جن لوگوں نے کفر کیا اور مشرکین، جہنم کی آگ میں ہوں گے، وہ اس میں ہمیشہ رہیں گے، یہی لوگ مخلوق میں بدترین ہیں۔”
+
+[ref]
+البينة 6:98.
+
+[ur]
+اور فرمایا:
+
+[ar]
+# quran 4:145 from إِنَّ الْمُنَافِقِينَ to مِنَ النَّارِ
+إِنَّ الْمُنَافِقِينَ فِي الدَّرْكِ الْأَسْفَلِ مِنَ النَّارْ
+
+[ur]
+“بے شک منافقین دوزخ کے سب سے نچلے طبقے میں جائیں گے۔”
+
+[ref]
+النسآء 145:4.
+
+[ur]
+اہل سنت والجماعت یہ بھی شہادت دیتے ہیں کہ عشرہ مبشرہ جنتی ہیں جیسا کہ نبی کریم ﷺ نے ان کے متعلق یہ شہادت دی تھی۔

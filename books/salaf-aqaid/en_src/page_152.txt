@@ -1,0 +1,13 @@
+# English source for book page 152
+
+[en]
+But whoever among the believers and the God-fearing dies upon Islam, Ahl as-Sunnah wal-Jama'ah, looking at his outward Islam, bear a general witness that such people are, in sha Allah, among the people of Paradise. Allah the Exalted says:
+
+[en]
+And give good tidings to those who believe and do righteous deeds that they will have gardens (in Paradise) beneath which rivers flow.
+
+[en]
+And He says:
+
+[en]
+{{QEN 54:54 54:55}}

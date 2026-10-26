@@ -1,0 +1,14 @@
+# title: Page 114
+# English edition of book page 114, built by build_english.py from en_src/ and page_114.txt
+
+[en]
+On the Day of Resurrection, the honour of intercession and the Praiseworthy Station belong to our Prophet Muhammad, peace be upon him, alone. He, peace be upon him, will intercede for the people standing on the plain of gathering, that judgement be passed on them; this is the Praiseworthy Station. He will intercede for the people of Paradise, that they be admitted into Paradise. He himself will be the first to enter Paradise. He, peace be upon him, will intercede for his uncle Abu Talib, that his punishment be lightened.
+
+[en]
+These three intercessions are exclusive to our Prophet Muhammad, peace be upon him. No one besides him will be granted this honour.
+
+[en]
+He will intercede for those of the Ummah who go to Paradise, that their ranks be raised. He will intercede for a group of the Ummah, that they go to Paradise without being brought to account. He will intercede for those whose good deeds and bad deeds are equal, that they go into Paradise. He will intercede for certain others, about whom the order will have been given that they be thrown into Hell, that they not be cast into Hell. Those of the people of Tawhid who are cast into Hell because of their sins will be taken out of Hell and admitted into Paradise through his intercession, peace be upon him. In this intercession the angels, the prophets, the martyrs, the truthful, the righteous and other believers will also join him. After that, Allah the Exalted will take many people out of Hell purely by His grace and generosity, without any intercession.
+
+[fen]
+The acceptance of this intercession will have two conditions. The first condition is that Allah the Exalted gives permission for the intercession. He says: Who is it that can intercede with Him except by His permission? (al-Baqarah 2:255) The second condition is that Allah the Exalted is pleased with both the intercessor and the one interceded for. He says: And they cannot intercede except on behalf of one whom He approves. (al-Anbiya 21:28)

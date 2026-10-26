@@ -1,0 +1,7 @@
+# English source for book page 178
+
+[en]
+{{QEN 16:99 16:100}}
+
+[en]
+Here end the explanations of the sixth principle, “Affirming the Karamat of the Friends of Allah”, among the principles of religion that Ahl as-Sunnah wal-Jama'ah accept. Now the details of the seventh principle, “The Sources for Deriving Rulings and Issues, and the Method of Reasoning from Evidence”, are presented. By the method of reasoning from evidence is meant the method that Ahl as-Sunnah wal-Jama'ah follow to derive a ruling from a text of the Quran and the Sunnah.

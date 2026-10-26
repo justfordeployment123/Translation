@@ -1,0 +1,11 @@
+# title: Page 449
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 449 (PDF page 450), ستّرواں باب: جادو کے ذریعے سے علاج کروانا
+# The first line of the page ("بھی کر دی تو اس نے محمد ﷺ ... کفر کیا۔”") ends the hadith's translation, which is on page 448, where it starts.
+# Husain's turn runs over three lines as one paragraph («... علاج بھی کر دیا ہے۔ لیکن آپ کی باتیں ...»), so it is one block.
+# The chapter ends on this page with the teacher's full turn; the rest of the page is blank. Chapter seventy-one starts on page 450.
+
+[ur]
+حسین: استاد صاحب! ہم نے دیکھا ہے کہ جن چیزوں کا علاج بڑے بڑے نیک لوگ بھی نہیں کر سکے، ان جادوگروں نے ان کا علاج بھی کر دیا ہے۔ لیکن آپ کی باتیں بڑی عجیب محسوس ہوتی ہیں۔
+
+[ur]
+استاد: میں تفصیل عرض کر چکا ہوں کہ وہ نہ نفع دے سکتے ہیں اور نہ نقصان۔

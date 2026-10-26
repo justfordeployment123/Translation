@@ -1,0 +1,29 @@
+# title: Page 414
+# English edition of book page 414, built by build_english.py from en_src/ and page_414.txt
+
+[ar]
+قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنْفُسِهِمْ لَا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ ۚ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ جَمِيعًا ۚ إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمْ
+
+[ref]
+[الزمر: 53]
+
+[en]
+Say, “O My servants who have transgressed against themselves (by sinning), do not despair of the mercy of Allah. Indeed, Allah forgives all sins. Indeed, it is He who is the Forgiving, the Merciful.”
+
+[en]
+In another place Allah the Exalted says:
+
+[ar]
+إِنَّمَا التَّوْبَةُ عَلَى اللَّهِ لِلَّذِينَ يَعْمَلُونَ السُّوءَ بِجَهَالَةٍ ثُمَّ يَتُوبُونَ مِنْ قَرِيبٍ فَأُولَٰئِكَ يَتُوبُ اللَّهُ عَلَيْهِمْ ۗ وَكَانَ اللَّهُ عَلِيمًا حَكِيمَا
+
+[ref]
+[النساء: 17]
+
+[en]
+The repentance accepted by Allah is only for those who do wrong in ignorance (or carelessness) and then repent soon after. It is those to whom Allah will turn in forgiveness, and Allah is ever Knowing and Wise.
+
+[en]
+When a servant turns back to Allah the Exalted, Allah the Exalted accepts his repentance.
+
+[en]
+Remember one more thing: you should not think your sins so great that Satan turns you away from repentance and makes you despair of Allah's mercy. May Allah grant you the ability to repent sincerely.

@@ -1,0 +1,44 @@
+# title: Page 132
+# English edition of book page 132, built by build_english.py from en_src/ and page_132.txt
+
+[en]
+Abdullah ibn Mas'ud, may Allah be pleased with him, made this supplication:
+
+[ar]
+اَللَّهُمَّ زِدْنَا إِيمَانَا، وَيَقِينَا، وَفِقْهَا
+
+[en]
+“O Allah, increase our faith and certainty, and our fiqh (understanding).”
+
+[ref]
+شرح أصول اعتقاد أهل السنة والجماعة للالكائي: 298/4.
+
+[en]
+Abdullah ibn Abbas, Abu Hurairah and Abu ad-Darda', may Allah be pleased with them, used to say: “Faith increases and decreases.”
+
+[ref]
+شرح أصول اعتقاد أهل السنة والجماعة للالكائي: 306/4، 310.
+
+[en]
+Imam Waki' ibn al-Jarrah, may Allah have mercy on him, said: “Ahl as-Sunnah wal-Jama'ah say that faith is speech and action.”
+
+[ref]
+شرح أصول اعتقاد أهل السنة والجماعة للالكائي: 141/4.
+
+[en]
+The imam of Ahl as-Sunnah, Imam Ahmad ibn Hanbal, may Allah have mercy on him, said: “Faith keeps increasing and decreasing. It increases through action and decreases through abandoning action.”
+
+[ref]
+شرح أصول اعتقاد أهل السنة والجماعة للالكائي: 410/4.
+
+[en]
+Imam al-Hasan al-Basri, may Allah have mercy on him, said: “Faith does not come by adorning oneself or by wishing for faith. Faith is what settles in the hearts and is confirmed by deeds.”
+
+[ref]
+كتاب الإيمان لابن أبي شيبة، رقم: 93، وسلسلة الأحاديث الضعيفة، رقم: 1098.
+
+[en]
+Imam ash-Shafi'i, may Allah have mercy on him, said: “Faith is speech and action. It both increases and decreases. It increases by doing acts of obedience and decreases by doing acts of disobedience.” Then he recited this verse as evidence:
+
+[ar]
+وَيَزْدَادَ الَّذِينَ آمَنُوا إِيمَانَا

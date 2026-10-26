@@ -1,0 +1,19 @@
+# title: Page 390
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 390 (PDF page 391), انسٹھواں باب: تصویروں والے سکول بیگ کی خرید و فروخت
+# The page opens with the explanation of the hadith printed at the end of page 389; the teacher's turn continues.
+# «جزاك الله خيراً» is set in Arabic type inside the teacher's Urdu turn; it is kept in the Urdu block, in Urdu letters (جزاک اللہ خیراً).
+# «آیندہ» is spelled as printed.
+# Print typo corrected: "ایسی چیزی نہیں خریدوں گا" -> "ایسی چیزیں نہیں خریدوں گا" (the verb «بنا دیں» is plural).
+# The chapter ends on this page with a full turn; the rest of the page is blank. Chapter sixty starts on page 391.
+
+[ur]
+یعنی قیامت کے دن آدمی انہی لوگوں کے ساتھ ہو گا جن کو وہ پسند کرتا تھا۔
+
+[ur]
+فحش تصویروں والے بستے خریدنا اس بات کی علامت ہے کہ اس آدمی کو ان چیزوں سے محبت ہے اور وہ ان کو پسند کرتا ہے، لہٰذا ایسا بندہ قیامت کے دن اسی طرح کے کافروں اور فاجروں کے ساتھ اٹھایا جائے گا۔ میری رائے میں ہر طالب علم بچے اور بچی کو غور کرنا چاہیے کہ اس کی پسند کیا ہے؟ ورنہ ہمارے مسلمان بچے بھی کافروں کے ساتھ ہوں گے۔
+
+[ur]
+مدیر: ان شاء اللہ آیندہ میں ایسی چیزیں نہیں خریدوں گا، جو میری روزی کو حرام بنا دیں۔
+
+[ur]
+استاد: جزاک اللہ خیراً۔

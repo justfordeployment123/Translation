@@ -1,0 +1,26 @@
+# title: Page 165
+# English edition of book page 165, built by build_english.py from en_src/ and page_165.txt
+
+[en]
+Worker: Mustafa! This way we will lose a great deal.
+
+[en]
+Mustafa: A little lawful income is better than a lot of forbidden income.
+
+[en]
+Teacher: Mustafa! May Allah reward you. Allah the Exalted says:
+
+[ar]
+وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجَا
+
+[ar]
+وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبْ
+
+[ref]
+[الطلاق: 2.3]
+
+[en]
+And whoever fears Allah - He will make for him a way out. And will provide for him from where he does not expect.
+
+[en]
+Thanks be to Allah that you accepted the truth so quickly.

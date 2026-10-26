@@ -1,0 +1,14 @@
+# title: Page 489
+# English edition of book page 489, built by build_english.py from en_src/ and page_489.txt
+
+[en]
+Husain: What is that standard?
+
+[en]
+Teacher: A committee is formed to examine such women. That committee inspects the woman concerned with her clothes completely removed and carefully observes every part of her body; even her cheeks, nose, hair, face, ears, neck, belly, waist, thighs and back are checked thoroughly, to see whether or not this woman can take part in the contest. Husain! Judge for yourself whether one should take part in such shameless work or not.
+
+[en]
+Husain: I seek Allah's forgiveness, we seek refuge in Allah! I would never approve of this at all.
+
+[en]
+Teacher: That is why taking part in this work and living off its earnings is forbidden.

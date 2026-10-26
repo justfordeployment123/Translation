@@ -1,0 +1,11 @@
+# title: Page 383
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 383 (PDF page 384), ستاونواں باب: بے ہودگی اور غلیظ مواد پر مبنی کتب کی خرید و فروخت
+# The first lines of the page ("مجھے نصیحت فرمائی ... خیال رکھوں گا۔") end the manager's sentence that is on page 382, where it starts.
+# «جزاك الله» is set in Arabic type inside the teacher's Urdu turn; it is kept in the Urdu block, in Urdu letters (جزاک اللہ), as on page 359.
+# The chapter ends on this page with a full paragraph; the rest of the page is blank. Chapter fifty-eight starts on page 384.
+
+[ur]
+استاد: جزاک اللہ! اللہ آپ کو حلال اور وسیع روزی عطا فرمائے۔
+
+[ur]
+اس گفتگو کے بعد مدیر نے وہ تمام کتابیں اکٹھی کیں، جن کی طرف استاد نے اشارہ کیا تھا اور ان کو جلانے کے لیے ایک خاص جگہ پر رکھ دیا۔

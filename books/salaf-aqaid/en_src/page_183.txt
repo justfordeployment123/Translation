@@ -1,0 +1,13 @@
+# English source for book page 183
+
+[en]
+Reason works within its own sphere. This is why they came to be called Ahl as-Sunnah: because they follow the Prophet's guidance, hold firmly to it and accept it completely. Allah the Exalted says:
+
+[en]
+{{QEN 28:50}}
+
+[en]
+After the Quran and the Sunnah, Ahl as-Sunnah wal-Jama'ah take the consensus (ijma') of the scholars of the Ummah as evidence and rely on it. The noble Prophet, peace be upon him, said:
+
+[en]
+“Allah the Exalted will not gather my Ummah (or he said: the Ummah of Muhammad, peace be upon him) upon misguidance. The hand of Allah is over the Jama'ah (the united body of the Muslims), and whoever went apart went apart into Hell.”

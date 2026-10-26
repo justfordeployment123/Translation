@@ -1,0 +1,44 @@
+# title: Page 437
+# English edition of book page 437, built by build_english.py from en_src/ and page_437.txt
+
+[en]
+Do you already have so many children that you now want to leave a gap?
+
+[en]
+Salim: I have eight children, six sons and two daughters.
+
+[en]
+Teacher: Oh, brother! Fear Allah! You have only eight children so far, and from now on you want to stop having any more? I was thinking you must have twenty children, which was why you now wanted to give your wife a little rest. Do not get caught up in ending pregnancies; let there be ten children, and after that you will have a reasonable ground for abortion.
+
+[en]
+Salim: Is birth control, that is, not having any more children, impermissible?
+
+[en]
+Teacher: Birth control is permissible with certain conditions:
+
+[en]
+First: That it is not done by harmful means.
+
+[en]
+Second: That it has the husband's permission.
+
+[en]
+Third: That reducing the Muslim population is not the aim.
+
+[en]
+Fourth: That it is not done out of fear of scarce provision, poverty and hunger.
+
+[en]
+Salim: Teacher! How can a small salary meet the expenses of so many children?
+
+[en]
+Teacher: Allah the Exalted says:
+
+[ar]
+وَلَا تَقْتُلُوا أَوْلَادَكُمْ خَشْيَةَ إِمْلَاقٍ ۖ نَحْنُ نَرْزُقُهُمْ وَإِيَّاكُمْ ۚ إِنَّ قَتْلَهُمْ كَانَ خِطْئًا كَبِيرَا
+
+[ref]
+[الإسراء: 31]
+
+[en]
+And do not kill your children for fear of poverty. We provide for them and for you. Indeed, their killing is ever a great sin.

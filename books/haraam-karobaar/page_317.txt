@@ -1,0 +1,72 @@
+# title: Page 317
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 317 (PDF page 318), پینتالیسواں باب: ڈاڑھی منڈوانا
+# The page opens with Al-Hashr 59:7 (part), introduced by item ③ at the end of page 316 («مزید ارشاد ہوتا ہے:»); filled from the official text.
+# The teacher's list of hadith proofs (boxed ①–⑦, «دلائل», ①–③ here and ④–⑦ on page 318) is read as words: پہلی، دوسری، تیسری.
+# Hadith ①: the book's wording is Muslim 602 (the sunnah.com numbering of Muslim 259; the book cites Bukhari [5892]); filled in two
+# excerpts so it pauses at the book's colon after «الْمُشْرِكِينَ» (as on page 315).
+# Hadith ②: Proofreader please check: the book prints «خَالِفُوا الْمُشْرِكِينَ: أَحْفُوا الشَّوَارِبَ وَأَوْفِرُوا اللِّحَى» (cites Bukhari [5892]);
+# «وَأَوْفِرُوا» (re-read at 400 dpi) is in none of the collections, so it is read as Muslim 602 («وَأَوْفُوا اللِّحَى»), the same text
+# as hadith ①. Decision (proofreading): Muslim 602 is the closest report: it has the print's order (moustaches first, as in the Urdu
+# translation) and differs only by the «ر». Bukhari 5892 («خَالِفُوا الْمُشْرِكِينَ، وَفِّرُوا اللِّحَى، وَأَحْفُوا الشَّوَارِبَ») has the other
+# order and «وَأَحْفُوا»; reproducing the print from it would need its excerpts reordered and joined with Muslim 602, and would still read
+# «وَفِّرُوا» without the «وَأَ».
+# Hadith ③: Bukhari 5893 (the book cites [5893]), " flat" because the book has no comma after «الشَّوَارِبَ».
+# Proofreader please check: the book prints «أَنْهِكُوا» where Bukhari 5893 has «انْهَكُوا»; the source text is read.
+
+[ar]
+# quran 59:7 from وَمَا آتَاكُمُ to فَانْتَهُوا
+وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانْتَهُوا
+
+[ref]
+[الحشر: 7]
+
+[ur]
+“اور رسول تمھیں جو کچھ دے تو وہ لے لو اور جس سے تمھیں روک دے تو رک جاؤ۔”
+
+[ur]
+رسول اللہ ﷺ نے ڈاڑھی بڑھانے اور مونچھیں کٹوانے کا حکم دیا ہے۔
+
+[ur]
+نوجوان: یہ تو عمومی دلائل ہیں۔ میں چاہتا ہوں کوئی ایسی دلیل پیش کریں جس میں واضح طور پر ڈاڑھی بڑھانے کا حکم دیا گیا ہو۔
+
+[ur]
+استاد: اگر تم سمجھتے ہو کہ یہ عمومی دلائل ہیں تو میں تمھیں حدیث نبوی سے کچھ اور دلائل دیتا ہوں۔
+
+[ur]
+پہلی: رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H muslim:602 from خَالِفُوا to الْمُشْرِكِينَ}}، {{H muslim:602 from أَحْفُوا to اللِّحَى}}
+خَالِفُوا الْمُشْرِكِينْ، أَحْفُوا الشَّوَارِبَ وَأَوْفُوا اللِّحَى
+
+[ref]
+صحيح البخاري، رقم الحديث [5892]
+
+[ur]
+“تم مشرکین کی مخالفت کرو، ڈاڑھی چھوڑ دو اور مونچھیں کتراؤ۔”
+
+[ur]
+دوسری: رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H muslim:602 from خَالِفُوا to الْمُشْرِكِينَ}}، {{H muslim:602 from أَحْفُوا to اللِّحَى}}
+خَالِفُوا الْمُشْرِكِينْ، أَحْفُوا الشَّوَارِبَ وَأَوْفُوا اللِّحَى
+
+[ref]
+صحيح البخاري، رقم الحديث [5892]
+
+[ur]
+“تم مشرکین کی مخالفت کرو، مونچھیں خوب کتروا لیا کرو اور ڈاڑھی کو بڑھاؤ۔”
+
+[ur]
+تیسری: نبی اکرم ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H bukhari:5893 from انْهَكُوا to اللِّحَى flat}}
+انْهَكُوا الشَّوَارِبَ وَأَعْفُوا اللِّحَى
+
+[ref]
+صحيح البخاري، رقم الحديث [5893]
+
+[ur]
+“مونچھیں چھوٹی کرواؤ اور ڈاڑھی بڑھاؤ۔”

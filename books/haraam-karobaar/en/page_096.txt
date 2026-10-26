@@ -1,0 +1,50 @@
+# title: Page 96
+# English edition of book page 96, built by build_english.py from en_src/ and page_096.txt
+
+[ar]
+مَنْ غَشَّنَا فَلَيْسَ مِنَّا وَالْمَكْرُ وَالْخِدَاعُ فِي النَّارْ
+
+[ref]
+الطبراني في الكبير، رقم الحديث [10234]
+
+[en]
+“Whoever practises adulteration is not following our way, and the one who deceives and tricks will be in the Fire.”
+
+[en]
+Shopkeeper: Wait, sir! Listen to what I have to say.
+
+[en]
+Teacher: Yes, go on.
+
+[en]
+Shopkeeper: I am very skilled at this work. I polish old gold and make it so new that sometimes, if I do not pay attention, even I find it hard to tell new from old. I have been doing this work for thirty years. All kinds of customers come to me.
+
+[en]
+Teacher: Leave aside your idle talk for a moment and listen to me.
+
+[en]
+Shopkeeper: Yes, go on.
+
+[en]
+Teacher: Tell me: the customers who come to you, do they come to buy new gold, or polished old gold?
+
+[en]
+Shopkeeper: Obviously, they come to buy new gold.
+
+[en]
+Teacher: Then do you point out the difference and tell them that this is new and this is polished old gold?
+
+[en]
+Shopkeeper: No, sir! Why do I need to tell them that, when there is no difference left at all between new and old?
+
+[en]
+Teacher: Come now, brother, this is deception, adulteration and an outright wrong against the Muslims.
+
+[en]
+The Messenger of Allah, peace be upon him, said:
+
+[ar]
+الْمُسْلِمُ أَخُو الْمُسْلِمْ، وَلاَ يَحِلُّ لِمُسْلِمٍ بَاعَ مِنْ أَخِيهِ بَيْعًا فِيهِ عَيْبٌ إِلاَّ بَيَّنَهُ لَهْ
+
+[ref]
+سنن ابن ماجه، رقم الحديث [2246]

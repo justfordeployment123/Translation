@@ -1,0 +1,35 @@
+# title: Page 339
+# English edition of book page 339, built by build_english.py from en_src/ and page_339.txt
+
+[en]
+Second: It makes a person look the opposite of what he really is, whereas the Messenger of Allah, peace be upon him, has said:
+
+[ar]
+الْمُتَشَبِّعُ بِمَا لَمْ يُعْطَ كَلاَبِسِ ثَوْبَيْ زُورْ
+
+[ref]
+صحيح البخاري، رقم الحديث [5219] صحيح مسلم، رقم الحديث [2130]
+
+[en]
+“One who makes a show of something that is not truly his is like a person who is wearing a garment of falsehood.”
+
+[en]
+Third: It does not leave a good impression on other people, because it is a kind of trickery and deception.
+
+[en]
+Young man: You mean that dyeing the hair black is forbidden without exception?
+
+[en]
+Teacher: No, it is not forbidden without exception; there is one situation in which the hair may be dyed black.
+
+[en]
+Young man: What situation is that?
+
+[en]
+Teacher: Dyeing the hair black is permissible at the time of war with the enemy, because then everyone will look young and strong, which will unnerve the enemy, and fear of the Muslims will settle in his heart.
+
+[en]
+Young man: What is the ruling on any colour other than black?
+
+[en]
+Teacher: It is established from the noble Prophet, peace be upon him, that the colour of white hair may be changed with henna and the like, that is, it may be made yellow or red, as is reported about Abu Quhafah, the father of Abu Bakr, may Allah be pleased with him: on the day of the conquest of Makkah he was brought before the noble Prophet, peace be upon him, and his head and beard were as white as the thaghamah (a tree). The Messenger of Allah, peace be upon him, said:

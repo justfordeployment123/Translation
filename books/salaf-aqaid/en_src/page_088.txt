@@ -1,0 +1,13 @@
+# English source for book page 88
+
+[en]
+The Messenger has believed in what was revealed to him from his Lord, and (so have) the believers. All of them have believed in Allah and His angels and His books and His messengers.
+
+[en]
+Allah the Exalted sent down these Books to guide humanity. He says:
+
+[en]
+{{QEN 14:1}}
+
+[en]
+These revealed Books include the Quran, the Torah, the Gospel, the Psalms and the Scrolls of Ibrahim and Musa. The Torah, the Gospel and the Quran are the greatest Books. The greatest of these three, the one that abrogates the rulings of the earlier Books, and the most excellent Book of all, is the Quran. As for the Torah, the Gospel, the Psalms and the other revealed Books apart from the Quran, when Allah the Exalted sent them down He did not take their preservation upon Himself. Their scholars and rabbis (devout men of religion) were told to preserve their Books, but they did not preserve them as they deserved to be preserved, and so changes came into them, and distortion and alteration found their way into them.

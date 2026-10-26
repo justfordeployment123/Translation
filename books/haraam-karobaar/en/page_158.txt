@@ -1,0 +1,38 @@
+# title: Page 158
+# English edition of book page 158, built by build_english.py from en_src/ and page_158.txt
+
+[en]
+Teacher: Ammar! A very old friend of mine lives close by here. I have not met him for a long time. He has a beautiful garden, and Allah the Exalted has blessed him with a great deal of wealth. It is very hot today, so let us go there. We will rest for a while in the shade of the trees in the garden. We will eat fruit there and drink cold water, and there is a congregational mosque close by, where we will pray Zuhr.
+
+[en]
+Ammar: Shaykh! As you wish. Come, let us spend some free time there, and sit and settle our plans for what comes next as well.
+
+[en]
+Teacher: Ma sha Allah, what a good suggestion!
+
+[en]
+(The teacher and his student reached the gate of the friend's garden. After giving the greeting of peace, Shaykh Salih spoke to the watchman.)
+
+[en]
+Teacher: Is Mustafa here?
+
+[en]
+Watchman: Yes, he is right here. Your name?
+
+[en]
+Teacher: Tell Mustafa: Your old friend is standing at the gate.
+
+[en]
+(The watchman told Mustafa.)
+
+[en]
+Mustafa: Let him come in.
+
+[en]
+Watchman: Teacher! Please come in.
+
+[en]
+When the teacher and his student entered the garden, Mustafa was left speechless with joy at seeing his guest, Shaykh Salih, and Mustafa greeted Shaykh Salih warmly.
+
+[en]
+Mustafa: Welcome, welcome.

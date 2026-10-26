@@ -1,0 +1,32 @@
+# title: Page 448
+# English edition of book page 448, built by build_english.py from en_src/ and page_448.txt
+
+[en]
+Likewise, it is not permissible for a sick person to go for treatment to people who claim to treat by means of the unseen, nor should one believe what such people say, because they are merely groping in the dark. On the basis of circumstances, events and outward signs they form baseless, made-up theories and lead the patients astray, or they lead people astray with the help of the jinn, although these have nothing to do with reality.
+
+[en]
+Husain: Should one not go to a magician even to remove the effects of magic?
+
+[en]
+Teacher: One should not go to a magician in any case at all, not even as a joke or for peace of mind. The Messenger of Allah, peace be upon him, said:
+
+[ar]
+مَنْ أَتَى عَرَّافًا فَسَأَلَهُ عَنْ شَيْءٍ فَصَدَّقَهُ لَمْ تُقْبَلْ لَهُ صَلَاةٌ أَرْبَعِيْنَ يَوْمَا
+
+[ref]
+صحيح مسلم، رقم الحديث [2230]
+
+[en]
+“Whoever comes to a fortune-teller and asks him about something, and then believes what he says, that person's prayer will not be accepted for forty days.”
+
+[en]
+In another hadith, the Messenger of Allah, peace be upon him, said:
+
+[ar]
+مَنْ أَتَى عَرَّافًا أَوْ كَاهِنًا فَصَدَّقَهُ بِمَا يَقُوْلُ فَقَدْ كَفَرَ بِمَا أُنْزِلَ عَلَى مُحَمَّدْ
+
+[ref]
+مسند أحمد، صحيح الجامع، رقم الحديث [5939]
+
+[en]
+“Whoever goes to an astrologer or a soothsayer and then also believes what they say has disbelieved in the Shariah brought by Muhammad, peace be upon him.”

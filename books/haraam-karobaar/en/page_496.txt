@@ -1,0 +1,17 @@
+# title: Page 496
+# English edition of book page 496, built by build_english.py from en_src/ and page_496.txt
+
+[ar]
+وَمَا كَانَ لِمُؤْمِنٍ وَلَا مُؤْمِنَةٍ إِذَا قَضَى اللَّهُ وَرَسُولُهُ أَمْرًا أَنْ يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ ۗ وَمَنْ يَعْصِ اللَّهَ وَرَسُولَهُ فَقَدْ ضَلَّ ضَلَالًا مُبِينَا
+
+[ref]
+[الأحزاب: 36]
+
+[en]
+It is not for a believing man or a believing woman, when Allah and His Messenger have decided a matter, that they should (thereafter) have any choice about their affair. And whoever disobeys Allah and His Messenger has certainly strayed into clear error.
+
+[en]
+Abdur-Rahim: Teacher! May Allah reward you with good.
+
+[en]
+After that, everyone thanked the teacher and went back.

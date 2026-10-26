@@ -1,0 +1,32 @@
+# title: Page 455
+# English edition of book page 455, built by build_english.py from en_src/ and page_455.txt
+
+[en]
+Abdur-Rahim: I have written a will that my daughter will also own the remaining half of my property.
+
+[en]
+Teacher: What you said: “I do not consider equality among children in gifts and donations necessary.”
+
+[en]
+This is not right, and you have said something very dangerous, which goes against the explicit texts of the Shariah. We should avoid saying such things merely on the basis of reason when they clash with the Quran and the hadith. About people who do not accept the rulings of the Shariah and act against them, Allah the Exalted has said:
+
+[ar]
+فَلْيَحْذَرِ الَّذِينَ يُخَالِفُونَ عَنْ أَمْرِهِ أَنْ تُصِيبَهُمْ فِتْنَةٌ أَوْ يُصِيبَهُمْ عَذَابٌ أَلِيمْ
+
+[ref]
+[النور: 63]
+
+[en]
+So let those beware who dissent from the Prophet's order, lest fitnah strike them or a painful punishment.
+
+[en]
+Being obedient and submissive to the commands of Allah and His Messenger, peace be upon him, is in fact the proof of being a believer. Allah the Exalted says:
+
+[ar]
+فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ ثُمَّ لَا يَجِدُوا فِي أَنْفُسِهِمْ حَرَجًا مِمَّا قَضَيْتَ وَيُسَلِّمُوا تَسْلِيمَا
+
+[ref]
+[النساء: 65]
+
+[en]
+But no, by your Lord, they will not (truly) believe until they make you, (O Muhammad), judge concerning that over which they dispute among themselves and then find within themselves no discomfort from what you have judged and submit in (full, willing) submission.

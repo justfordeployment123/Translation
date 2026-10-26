@@ -1,0 +1,45 @@
+# title: Page 49
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 49 (PDF page 50), دوسرا باب: پکنے سے پہلے پھلوں کی خرید و فروخت
+# The first words of the page ("ذیل حدیثِ نبوی ہے۔") end a sentence that is on page 48, where it starts; the teacher's turn continues here.
+# The hadith numbers ①②③ are dropped: each item starts with its own Arabic hadith, and a number word cannot go in an [ar] block.
+# Hadith 1: the book's wording («... قِيلَ: وَمَا تُزْهِي؟ قَالَ: حَتَّى تَحْمَرَّ، قَالَ: أَرَأَيْتَ إِنْ مَنَعَ اللَّهُ الثَّمَرَةَ بِمَ يَسْتَحِلُّ أَحَدُكُمْ مَالَ أَخِيهِ»)
+# is in none of the collections (closest: Bukhari 2198, Bukhari 2208, Nasa'i 4526, Muslim 3978), so the official text of Bukhari 2198 (the first
+# source the book cites) is filled; the narrator's «إِنَّ رَسُولَ اللَّهِ ﷺ» is typed from the print.
+# Proofreader please check: hadith 1 is read as Bukhari 2198 ("فَقِيلَ لَهُ ... فَقَالَ أَرَأَيْتَ إِذَا مَنَعَ اللَّهُ الثَّمَرَةَ، بِمَ يَأْخُذُ أَحَدُكُمْ")
+# where the book prints "قِيلَ ... قَالَ: أَرَأَيْتَ إِنْ مَنَعَ اللَّهُ الثَّمَرَةَ بِمَ يَسْتَحِلُّ أَحَدُكُمْ".
+# Hadith 2: the book cites Musnad Ahmad; the same words are in Bukhari 2194, filled from there; «وَنَهَى ﷺ» is typed from the print.
+# Hadith 3: Muslim 3864 (the book cites "صحيح مسلم، رقم الحديث [1535]"), filled in two excerpts so it pauses at the book's comma.
+# Proofreader please check: hadith 3 is read as Muslim 3864 "وَعَنِ السُّنْبُلِ" where the book prints "وَعَنْ بَيْعِ السُّنْبُلِ".
+
+[ur]
+سیدنا انس بن مالک رضی اللہ عنہ سے مروی ہے:
+
+[ar]
+# hadith إِنَّ رَسُولَ اللَّهِ ﷺ {{H bukhari:2198 from نَهَى to أَخِيهِ}}
+إِنَّ رَسُولَ اللَّهِ ﷺ نَهَى عَنْ بَيْعِ الثِّمَارِ حَتَّى تُزْهِيْ، فَقِيلَ لَهُ وَمَا تُزْهِي قَالَ حَتَّى تَحْمَرّ، فَقَالَ أَرَأَيْتَ إِذَا مَنَعَ اللَّهُ الثَّمَرَةْ، بِمَ يَأْخُذُ أَحَدُكُمْ مَالَ أَخِيهْ
+
+[ref]
+صحيح البخاري، رقم الحديث [2198] صحيح مسلم، رقم الحديث [1555]
+
+[ur]
+“رسول اللہ ﷺ نے پھلوں کی بیع کرنے سے منع فرمایا، حتیٰ کہ وہ نکھر جائیں۔ آپ ﷺ سے پوچھا گیا: نکھر جانے کا کیا مطلب ہے؟ آپ ﷺ نے فرمایا: وہ سرخ ہو جائیں۔ پھر فرمایا: تمھارا کیا خیال ہے اگر (آفت آ جائے) اور اللہ تعالیٰ پھل کو روک لیں تو اپنے بھائی کا مال کس چیز کے بدلے لو گے؟”
+
+[ar]
+# hadith وَنَهَى ﷺ {{H bukhari:2194 from عَنْ بَيْعِ to وَالْمُبْتَاعَ}}
+وَنَهَى ﷺ عَنْ بَيْعِ الثِّمَارِ حَتَّى يَبْدُوَ صَلاَحُهَا، نَهَى الْبَائِعَ وَالْمُبْتَاعْ
+
+[ref]
+صحيح. مسند أحمد [7/2]
+
+[ur]
+“آپ ﷺ نے پھلوں کو بیچنے سے منع فرمایا، حتیٰ کہ ان کی درستی واضح ہو جائے۔ آپ ﷺ نے اسے بیچنے اور خریدنے والے کو منع فرمایا۔”
+
+[ar]
+# hadith {{H muslim:3864 from نَهَى to يَزْهُوَ}}، {{H muslim:3864 from وَعَنِ to الْعَاهَةَ}}
+نَهَى عَنْ بَيْعِ النَّخْلِ حَتَّى يَزْهُوْ، وَعَنِ السُّنْبُلِ حَتَّى يَبْيَضَّ وَيَأْمَنَ الْعَاهَةْ
+
+[ref]
+صحيح مسلم، رقم الحديث [1535]
+
+[ur]
+“آپ ﷺ نے کھجور کی خرید و فروخت سے منع فرمایا، حتیٰ کہ وہ نکھر آئے اور خوشے کے سفید ہونے اور آفت سے محفوظ ہونے تک اس کی بیع سے منع فرمایا۔”

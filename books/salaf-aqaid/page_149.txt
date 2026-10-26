@@ -1,0 +1,16 @@
+# title: Page 149
+# Salaf-e-Saliheen ke Aqaid o Nazariyat, book page 149 (PDF page 146), تیسرا اصول: مسئلہ تکفیر کے بارے میں اہل سنت والجماعت کا موقف
+# The page opens with the hadith introduced at the foot of page 148 («ایک اور موقع پر فرمایا:»).
+# Hadith: Muslim 227 in the hadith-api numbering (the book's Muslim 67), in two excerpts at the book's comma.
+# The third principle ends here, with a decorative ornament; the rest of the page is blank (the faint marks below are the reverse side
+# showing through the paper) apart from the footnote. The fourth principle starts on page 150.
+
+[ar]
+# hadith {{H muslim:227 from اثْنَتَانِ to كُفْرٌ}}، {{H muslim:227 from الطَّعْنُ to الْمَيِّتِ}}
+اثْنَتَانِ فِي النَّاسِ هُمَا بِهِمْ كُفْرْ، الطَّعْنُ فِي النَّسَبِ وَالنِّيَاحَةُ عَلَى الْمَيِّتْ
+
+[ur]
+“لوگوں میں دو باتیں ایسی ہیں جو ان کے لیے کفر ہیں، خاندان (نسب) کا طعنہ دینا اور میت پر نوحہ کرنا۔”
+
+[ref]
+صحيح مسلم، الإيمان، حديث: 67.

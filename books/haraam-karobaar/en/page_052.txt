@@ -1,0 +1,23 @@
+# title: Page 52
+# English edition of book page 52, built by build_english.py from en_src/ and page_052.txt
+
+[hen]
+Chapter Three: Selling Goods On Before Taking Possession of Them
+
+[en]
+Shaykh Salih and his student Ammar passed by two men in the market. One was saying to the other: Abu Rashid! What you are doing is forbidden for you. There is rice lying everywhere in my house. My house is small. I have tied my horse up in the children's bedroom.
+
+[en]
+Abu Rashid: Abu Khalid! I have spoken to a wholesale trader, and our deal has been settled too. He will soon come to your village and take the rice from everyone I bought it from. Wait until next Saturday.
+
+[en]
+Abu Khalid: Saturday! Am I to wait another week? Two weeks have already gone by. This is not right. Then Abu Khalid saw a group of the people from whom Abu Rashid had bought rice coming from a distance, and Abu Rashid saw that they too were angry.
+
+[en]
+Abu Khalid: Come, sir! Sa'd, Hamuda, Mukhaimir, Gharib and old Ayyad: these are all the people you bought rice from.
+
+[en]
+As soon as they arrived, they all flared up at Abu Rashid, and their voices began to rise.
+
+[en]
+Sa'd: This is not good at all.

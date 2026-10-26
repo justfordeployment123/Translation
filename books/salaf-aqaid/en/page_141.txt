@@ -1,0 +1,32 @@
+# title: Page 141
+# English edition of book page 141, built by build_english.py from en_src/ and page_141.txt
+
+[en]
+The noble Prophet, peace be upon him, urged great caution lest anyone declare another a disbeliever without clear evidence. He said:
+
+[ar]
+أَيُّمَا امْرِئٍ قَالَ لأَخِيهِ يَا كَافِرْ! فَقَدْ بَاءَ بِهَا أَحَدُهُمَا، إِنْ كَانَ كَمَا قَالْ، وَإِلاَّ رَجَعَتْ عَلَيْهْ
+
+[en]
+“Whoever says to his brother, ‘O disbeliever!’, then one of the two deserves this title. If he is as he said (then he deserves it); otherwise the word comes back upon the one (who said it).”
+
+[ref]
+صحيح مسلم، الإيمان، حديث: 60.
+
+[en]
+On another occasion he said:
+
+[ar]
+وَمَنْ دَعَا رَجُلاً بِالْكُفْرْ، أَوْ قَالَ عَدُوَّ اللَّهْ، وَلَيْسَ كَذَلِكَ إِلاَّ حَارَ عَلَيْهْ
+
+[en]
+“And whoever calls a man a disbeliever, or calls him an enemy of Allah, when he is not so, this title will come back upon the one (who said it).”
+
+[ref]
+صحيح مسلم، الإيمان، حديث: 61.
+
+[en]
+According to another narration, he said:
+
+[ar]
+لاَ يَرْمِي رَجُلٌ رَجُلاً بِالْفُسُوقْ، وَلاَ يَرْمِيهِ بِالْكُفْرْ، إِلاَّ ارْتَدَّتْ عَلَيْهْ، إِنْ لَمْ يَكُنْ صَاحِبُهُ كَذَلِكْ

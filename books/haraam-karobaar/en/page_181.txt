@@ -1,0 +1,23 @@
+# title: Page 181
+# English edition of book page 181, built by build_english.py from en_src/ and page_181.txt
+
+[hen]
+Chapter Twenty-Two: Buying and Selling Tobacco, Cigarettes, Paan and the Like
+
+[en]
+The teacher and his student entered the shop. Teacher Salih bought about three hundred dinars' worth of goods. The shopkeeper packed the goods into two bags. The teacher was paying the bill when suddenly Ammar's eye fell on boxes of cigarettes and paan lying in a cabinet, and he cried out.
+
+[en]
+Ammar: Teacher! This shopkeeper sells cigarettes and paan as well!
+
+[en]
+Teacher: (speaking angrily) Where are they?
+
+[en]
+Ammar: Pointing at the cigarettes, he said: There, look over that way.
+
+[en]
+Shopkeeper: Why have you got so angry? What is so forbidden about this?
+
+[en]
+Teacher: Smoking, paan and the like do so much harm that, because of it, their being forbidden is no secret. Shopkeepers must never buy and sell such things. Satan whispers into the shopkeeper's heart that these things help his other goods to sell as well, but my view is that a person must not earn his provision by disobeying Allah the Exalted. Every servant of Allah should firmly believe: whatever has been written in my destiny will surely reach me.

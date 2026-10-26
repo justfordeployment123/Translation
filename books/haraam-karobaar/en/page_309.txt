@@ -1,0 +1,32 @@
+# title: Page 309
+# English edition of book page 309, built by build_english.py from en_src/ and page_309.txt
+
+[en]
+Young man: No.
+
+[en]
+Teacher: Because in that era, in Arab society, men did not adorn and beautify themselves in this way; rather, all these things were done by women. That is why only women are mentioned in the hadith. And consider this: something a woman may not do even in a situation of extreme need, since it is not permissible for her to adorn herself in this way even for her husband, how can it be permissible for men? The young man from whom help for the religion was hoped for is, sadly, busy today with the doings of eunuchs.
+
+[en]
+Servants of Allah! Know that pulling out, or having pulled out, the hair of the face, the eyebrows, the cheeks, the forehead and so on is impermissible and forbidden. The payment for this work counts as forbidden earnings, because the noble Prophet, peace be upon him, said:
+
+[ar]
+وَإِنَّ اللَّهَ إِذَا حَرَّمَ شَيْئًا حَرَّمَ ثَمَنَهْ
+
+[ref]
+مسند أحمد [293/1] صحيح الجامع، رقم الحديث [5107]
+
+[en]
+“When Allah the Exalted makes something forbidden, He also makes its price forbidden.”
+
+[en]
+Many scholars have given fatwas that this act is forbidden.
+
+[en]
+The great scholar Ibn Baz, may Allah have mercy on him, says:
+
+[en]
+“It is not permissible to remove the hair of the eyebrows or to have it shortened, because the noble Prophet, peace be upon him, cursed the women who pluck out facial hair and those who have it plucked out.”
+
+[ref]
+فتاوىٰ المرأة [171]

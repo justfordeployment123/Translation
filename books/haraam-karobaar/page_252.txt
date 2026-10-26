@@ -1,0 +1,38 @@
+# title: Page 252
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 252 (PDF page 253), پینتیسواں باب: گرلز سکولوں میں مرد اساتذہ کا بالغ لڑکیوں کو پڑھانا
+# The first line of the page ("ترقی سے بھی متاثر کرنے کی کوشش کرتے ہیں۔") ends the teacher's sentence that is on page 251, where it starts;
+# the teacher's turn continues here.
+# Print typo corrected: "غلیظ اور گندھا کھیل" -> "غلیظ اور گندا کھیل".
+# Arabic poetry (one verse, printed as two stacked half-lines): one [ar] block, its halves joined by "، ", typed from the print with its
+# harakat (read on the 300 dpi scan image); poetry keeps its vowels (no stopping forms), as on pages 32, 159 and 211.
+# "إِلَى" in the standard form for the printed dagger alif. "الْكِلَاب", "تَطوْفُ" and "بِاللحْمَانِ" are typed with only the harakat
+# printed on them (no vowel on the ب of الكلاب or on the ط of تطوف, none on the first lam of اللحمان); the sukun printed on the long
+# vowels of "النَّاظِرِيْنَ" and "تَطوْفُ" is kept.
+# The numbered reasons (① here, ② on page 253) are read as words: پہلی، دوسری (the items are وجوہات).
+
+[ur]
+حسن صاحب! مخلوط تعلیم ہی کا نتیجہ ہے کہ کورٹ میرج میں اضافہ ہو رہا ہے، زنا اور مقدماتِ زنا کی روش بڑھ رہی ہے، بے پردگی اور غیر اسلامی لباس عام ہو رہا ہے۔ تمھارے خیال میں یہ غلیظ اور گندا کھیل جاری رہنا چاہیے یا رک جانا چاہیے؟
+
+[ur]
+حسن: استاد صاحب! یہ نقصانات تو مخلوط نظام تعلیم کے ہیں نہ کہ مرد ٹیچر کے؟
+
+[ur]
+استاد: حسن صاحب! مدرس خواہ کردار کا کتنا اچھا ہو، نیک سیرت ہو، لیکن یہ بھی تو حقیقت ہے کہ وہ لڑکیوں کی طرف نظر اٹھا کر دیکھے گا، ان سے مخاطب ہوگا وغیرہ، کسی شاعر کا قول ہے:
+
+[ar]
+إِنَّ الرِّجَالَ النَّاظِرِيْنَ إِلَى النِّسَاءِ، مِثْلُ الْكِلَاب تَطوْفُ بِاللحْمَانِ
+
+[ur]
+“عورتوں کی طرف دیکھنے والے مرد ان کتوں کی طرح ہیں جو گوشت کے اردگرد گھومتے ہیں۔”
+
+[ur]
+میری تو بس دعا ہے کہ اللہ تعالیٰ تمھیں اس آگ میں جلنے سے بچائے اور اپنے حفظ و امان میں رکھے۔
+
+[ur]
+حسن: آگ سے بچاؤ کی دعا؟ اس کا کیا مطلب؟ کیا میں آگ میں جل رہا ہوں؟
+
+[ur]
+استاد: یعنی دنیا میں عشق و محبت کی آگ میں جلنا اور اگر توبہ نہ کی تو آخرت میں جہنم کی آگ میں جلنا۔ میری گفتگو کا خلاصہ یہ ہے کہ مرد اساتذہ کا لڑکیوں کو پڑھانا مندرجہ ذیل دو وجوہات کی بنا پر حرام ہے:
+
+[ur]
+پہلی: مرد مدرس اور طالبات کا اختلاط۔

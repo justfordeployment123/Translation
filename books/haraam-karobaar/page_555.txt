@@ -1,0 +1,41 @@
+# title: Page 555
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 555 (PDF page 556), اٹھانوےواں باب: سودی بنکوں اور انشورنس کمپنیوں میں ملازمت کرنا
+# Print spelling normalized: «اٹھانواں باب» -> «اٹھانوےواں باب» (chapter 98; the book's spelling of the 90s is also its spelling of the 50s or is irregular, so the standard number word + «واں» is used); the contents page has the same spelling.
+# The page starts with the new chapter (page 554 ends the previous one with a full turn).
+# The page ends with the second hadith and its footnote; its Urdu translation is printed on page 556 and is there.
+# Hadith 1 typed from the print (not in the hadith-api collections): «لَعَنَ اللَّهُ الرِّبَا ... وَهُم يَعْلَمُوْنَ», the book cites
+# "صحيح. الطبراني، الصحيحة، رقم الحديث [5094]" (page 172 has the same words without «وَهُمْ يَعْلَمُونَ»; Muslim 4093, Abu Dawud 3333 and
+# Nasa'i 5104 have "لَعَنَ رَسُولُ اللَّهِ ... آكِلَ الرِّبَا"). Typed with the printed harakat (read on the 300 dpi scan image; the sukun printed
+# on the long vowels of «وَمُوْكِلَهُ» and «يَعْلَمُوْنَ» kept; «وَهُم» has no sukun printed on its mim, so none is typed), "اللّٰهُ" in the
+# standard form, and the stopping form at each comma and at the end.
+# Hadith 2 typed from the print (not in the hadith-api collections in this wording): «لَعَنَ اللَّهُ الرِّبَا، وَآكِلَ الرِّبَا ... هُمْ فِيْهِ سَوَاءٌ»,
+# the book cites "صحيح مسلم، صحيح الجامع، رقم الحديث [5090]" and prints Sahih al-Jami's wording (Muslim 4093: «لَعَنَ رَسُولُ اللَّهِ ﷺ
+# آكِلَ الرِّبَا وَمُؤْكِلَهُ وَكَاتِبَهُ وَشَاهِدَيْهِ وَقَالَ هُمْ سَوَاءٌ»). Typed with the printed harakat, "اللّٰهُ" in the standard form, and the stopping
+# form at each comma and at the end. (The print has a damma on the last letter of «وَشَاهِدَيْهُ»; it falls away in the stopping form.)
+
+[h]
+اٹھانوےواں باب: سودی بنکوں اور انشورنس کمپنیوں میں ملازمت کرنا
+
+[ur]
+عمار: استاد صاحب! سودی بنکوں اور انشورنس کمپنیوں میں ملازمت کرنے کا کیا حکم ہے؟
+
+[ur]
+استاد: اس سے پہلے ہم قرآن و سنت کی روشنی میں سود کا حکم بیان کر چکے ہیں کہ یہ ناجائز، حرام اور اللہ تعالیٰ کے ساتھ اعلانِ جنگ کے مترادف ہے۔ سود کے معاملات میں کسی بھی طرح سے شامل ہونا حرام ہے، جیسا کہ رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+لَعَنَ اللَّهُ الرِّبَا، وَآكِلَهْ، وَمُوْكِلَهُ وَكَاتِبَهْ، وَشَاهِدَهْ، وَهُم يَعْلَمُوْنْ
+
+[ref]
+صحيح. الطبراني، الصحيحة، رقم الحديث [5094]
+
+[ur]
+“اللہ تعالیٰ نے سود کھانے والے، سود کھلانے والے، سودی معاملات لکھنے والے اور اس پر گواہ بننے والے پر لعنت فرمائی ہے، حالانکہ وہ (اس کی حرمت کو) جانتے ہیں۔”
+
+[ur]
+ایک دوسری حدیث میں آپ ﷺ نے فرمایا:
+
+[ar]
+لَعَنَ اللَّهُ الرِّبَا، وَآكِلَ الرِّبَا، وَمُوْكِلَهْ، وَشَاهِدَيْهْ، وَكَاتِبَهْ، هُمْ فِيْهِ سَوَاءْ
+
+[ref]
+صحيح مسلم، صحيح الجامع، رقم الحديث [5090]

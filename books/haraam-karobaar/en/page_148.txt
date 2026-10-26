@@ -1,0 +1,50 @@
+# title: Page 148
+# English edition of book page 148, built by build_english.py from en_src/ and page_148.txt
+
+[en]
+The Messenger of Allah, peace be upon him, said:
+
+[ar]
+إِيَّاكُمْ وَكَثْرَةَ الْحَلِفِ فَإِنَّهُ يُنَفِّقُ ثُمَّ يَمْحَقْ
+
+[ref]
+صحيح مسلم، رقم الحديث [1607]
+
+[en]
+“Beware of swearing too many oaths, for it makes goods sell, but no blessing remains.”
+
+[en]
+Imam an-Nawawi, may Allah have mercy on him, says:
+
+[en]
+“In this hadith, swearing many oaths in trade is forbidden.”
+
+[ref]
+شرح صحيح مسلم [47/11]
+
+[en]
+The Messenger of Allah, peace be upon him, said:
+
+[ar]
+مَنِ اقْتَطَعَ حَقَّ امْرِئٍ مُسْلِمٍ بِيَمِينِهِ فَقَدْ أَوْجَبَ اللَّهُ لَهُ النَّارَ وَحَرَّمَ عَلَيْهِ الْجَنَّةْ
+
+[en]
+“Whoever wrongfully takes possession of a Muslim's property by means of a false oath, Allah the Exalted will make the Fire obligatory for him and Paradise forbidden to him.”
+
+[en]
+A man said: O Messenger of Allah, peace be upon him! Even if it is something trivial? He, peace be upon him, said:
+
+[ar]
+وَإِنْ كَانَ قَضِيبًا مِنْ أَرَاكْ
+
+[ref]
+صحيح البخاري، رقم الحديث [2356] صحيح مسلم، رقم الحديث [137]
+
+[en]
+“Even if it is just a twig from a tree.”
+
+[en]
+This is forbidden in countless hadiths.
+
+[en]
+Ammar: Shaykh! What is the ruling on using tricks?

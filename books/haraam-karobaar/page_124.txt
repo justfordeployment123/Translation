@@ -1,0 +1,16 @@
+# title: Page 124
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 124 (PDF page 125), بارھواں باب: کرنسی کو فوری ادا کرنے کا بیان (end)
+# The first line of the page ("پاکستانی کرنسی آ جائے تو تبدیل کروا لیں۔") ends a sentence that is on page 123, where it starts.
+# «بارك الله فيك!» (printed in Arabic type) is typed in Urdu spelling inside the teacher's turn, as a set phrase. The rest of the page is blank.
+
+[ur]
+آدمی: اللہ آپ کو جزا دے! ہم اس طرح ہی کریں گے۔
+
+[ur]
+استاد: بارک اللہ فیک!
+
+[ur]
+آدمی: السلام علیکم ورحمۃ اللہ وبرکاتہ۔
+
+[ur]
+استاد: وعلیکم السلام ورحمۃ اللہ وبرکاتہ۔

@@ -1,0 +1,32 @@
+# title: Page 185
+# English edition of book page 185, built by build_english.py from en_src/ and page_185.txt
+
+[en]
+Smoking and using tobacco, buying and selling these things, and renting out premises for this purpose are all forbidden, because they amount to cooperating in sin and evil. The proof that it is forbidden is this saying of Allah the Exalted:
+
+[ar]
+وَلَا تُؤْتُوا السُّفَهَاءَ أَمْوَالَكُمُ الَّتِي جَعَلَ اللَّهُ لَكُمْ قِيَامَا
+
+[ref]
+[النساء: 5]
+
+[en]
+And do not give the weak-minded your property, which Allah has made a means of sustenance for you.
+
+[en]
+The point drawn from it is that Allah the Exalted has forbidden us to give wealth to the weak-minded, because a weak-minded person does not spend wealth on its proper uses, while Allah the Exalted wants wealth to be spent on its proper uses. Spending money on smoking is not a proper use in any sense, religious or worldly. If a person spends money on these things, it is as though he is doing what disobeys Allah the Exalted and what He dislikes. The second proof that smoking is forbidden is this:
+
+[ar]
+وَلَا تَقْتُلُوا أَنْفُسَكُمْ
+
+[ref]
+[النساء: 29]
+
+[en]
+And do not kill yourselves (or one another).
+
+[en]
+The point drawn from it is that medicine today has proved that smoking causes cancer and other deadly diseases like it. So I advise all my Muslim brothers, especially those who have fallen into this bad habit: keep away from smoking and from the trade in it.
+
+[ref]
+فتوى. 9 من أسئلة مهمة [ص: 16] لابن عثيمين

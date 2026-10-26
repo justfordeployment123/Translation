@@ -1,0 +1,30 @@
+# title: Page 509
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 509 (PDF page 510), تراسیواں باب: فحش کپڑے سلائی کرنے کا بیان
+# The first word of the page ("گیا۔") ends a sentence that is on page 508, where it starts; the teacher's story continues here in a nameless block.
+# The paragraph «ہم یہ نہیں کہتے ...» is printed as a new paragraph inside the teacher's turn; it is a nameless block.
+# «جزاک اللہ خیراً» is printed in Arabic type as the teacher's turn; it is kept in the Urdu block, in Urdu spelling.
+# The page ends with a full dialogue turn; the rest of the page is blank.
+
+[ur]
+یہ معاملہ عدالت میں گیا۔ عدالت نے اس کی تحقیق کی تو پتا چلا کہ اس ہندوستانی درزی کے ان دو عورتوں کے ساتھ غلط قسم کے تعلقات تھے اور وہ درزی ایڈز کا مریض تھا، جہاں سے ان عورتوں کو بھی یہ بیماری لگ گئی۔ تمھارے خیال میں یہ کتنے لوگوں کے لیے جان لیوا ثابت ہوئی ہوگی؟
+
+[ur]
+علی: تقریباً دس لوگوں کے لیے۔
+
+[ur]
+استاد: نہیں، بلکہ یہ چار سو لوگوں کی موت کا سبب بنی، حالانکہ عام طور پر ایڈز کا وائرس چالیس لوگوں تک پھیلتا ہے۔ یہ قصہ سنانے کا مقصد یہ ہے کہ عورتوں کے ساتھ مردوں کے روابط کا نتیجہ ہمیشہ غلط ہی نکلتا ہے۔
+
+[ur]
+ہم یہ نہیں کہتے کہ تمام درزی ایک طرح کے ہوتے ہیں، لیکن یہ ضرور کہیں گے کہ جو شخص چراگاہ کے اردگرد رہے گا، قریب ہے کہ وہ اس میں داخل ہو جائے، اس لیے اللہ سے ڈر کر زندگی گزارنی چاہیے۔
+
+[ur]
+علی: اب اس کا حل کیا ہے؟
+
+[ur]
+استاد: اس کا حل یہ ہے کہ مرد درزی صرف مردوں اور بچوں کے کپڑے سلائی کرے، عورتوں سے احتیاط برتے۔
+
+[ur]
+علی: ان شاء اللہ میں آیندہ ایسے ہی کروں گا۔
+
+[ur]
+استاد: جزاک اللہ خیراً۔

@@ -1,5 +1,6 @@
 # secrets: never commit the API key
 .env
+.env.bak
 
 __pycache__/
 .DS_Store
@@ -17,3 +18,7 @@ books/**/*.png
 books/**/scans/
 *.pdf
 audio_review/
+
+# local text previews (preview_book.py)
+preview/
+noor-library-source.zip

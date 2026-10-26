@@ -1,0 +1,29 @@
+# title: Page 97
+# English edition of book page 97, built by build_english.py from en_src/ and page_097.txt
+
+[en]
+Allah the Exalted sent many prophets and Messengers, some of whom He mentioned in the Book. Some were mentioned by our noble Messenger, peace be upon him, while about many other prophets and Messengers we have been told nothing. Allah the Exalted says:
+
+[ar]
+وَلَقَدْ أَرْسَلْنَا رُسُلًا مِنْ قَبْلِكَ مِنْهُمْ مَنْ قَصَصْنَا عَلَيْكَ وَمِنْهُمْ مَنْ لَمْ نَقْصُصْ عَلَيْكْ
+
+[en]
+And We have already sent messengers before you. Among them are those (whose stories) We have related to you, and among them are those (whose stories) We have not related to you.
+
+[ref]
+المؤمن 78:40.
+
+[en]
+And He says:
+
+[ar]
+وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَسُولًا أَنِ اعْبُدُوا اللَّهَ وَاجْتَنِبُوا الطَّاغُوتْ
+
+[en]
+And We certainly sent into every nation a messenger, (saying), “Worship Allah and avoid Taghut.”
+
+[ref]
+النحل 36:16.
+
+[en]
+Twenty-five prophets and Messengers are named in the Noble Quran. They include the father of mankind, Adam, peace be upon him, Idris, peace be upon him, Nuh, peace be upon him, Hud, peace be upon him, Salih, peace be upon him, Ibrahim, peace be upon him, Lut, peace be upon him, Isma'il, peace be upon him, Ishaq, peace be upon him, Ya'qub, peace be upon him, Yusuf, peace be upon him, Shu'ayb, peace be upon him, Ayyub, peace be upon him, Dhul-Kifl, peace be upon him, Musa, peace be upon him, Harun, peace be upon him, Dawud, peace be upon him, Sulayman, peace be upon him, Ilyas, peace be upon him, al-Yasa', peace be upon him, Yunus, peace be upon him, Zakariyya, peace be upon him, Yahya, peace be upon him, Isa, peace be upon him, and the Seal of the Prophets and Messengers, Muhammad, peace be upon him.

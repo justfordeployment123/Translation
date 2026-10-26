@@ -60,7 +60,7 @@ pdftoppm -f 132 -l 132 -r 110 -png -singlefile Zindagi-Aur-Waqat.pdf books/zinda
 
 - **Output:** `books/zindagi-aur-waqt/page_NNN.png`, one per book page. The app shows this as the "Original page" button.
 - **The offset differs per book:** for *Shab o Roz ke Masnoon Amaal* the PDF page is book page + 1, and its scans are JPEGs in `books/shab-o-roz/scans/page_NNN.jpg` (set as `_scans` in `build_app.py`).
-- For reading the text, a page is also rendered at 220–500 dpi and cropped into halves, so small words, harakat and anything cut off at the scan's edge can be read clearly.
+- For reading the text, a page is also rendered at 220–500 dpi and cropped into halves, so small words, harakat and anything cut off at the scan's edge can be read clearly: `python3 render_page.py <book>.pdf 37 --offset 1 --out <folder>` (`--offset` is PDF page minus book page).
 
 ## Step 2: Transcribe each page
 
@@ -72,7 +72,9 @@ Each book page becomes one text file, `books/zindagi-aur-waqt/page_NNN.txt`. The
 | `[ur]` | Urdu text or translation | Yes, in Urdu |
 | `[h]` | Urdu heading (chapter, section, person's name) | Yes, with a longer pause |
 | `[ref]` | Source reference, e.g. «صحیح البخاری، رقم الحدیث: ۶۴۱۲» | No, shown only |
+| `[fn]` | Explanatory footnote: prose that explains or comments, not only a source (*Salaf-e-Saliheen ke Aqaid* has many) | No, shown only; to voice them, change its style in `TAGS` in `make_sample.py` (and write its numbers as words) |
 | `[en]` / `[hen]` | English text / heading (English edition only) | Yes, in English |
+| `[fen]` | English translation of an `[fn]` footnote (English edition only) | No, shown only |
 
 Rules followed on every page:
 
@@ -105,24 +107,25 @@ python3 fill_hadith.py --check books/zindagi-aur-waqt/*.txt
 - **Quran:** text from api.alquran.cloud (Tanzil, full harakat). The only change is the stopping form of the last word.
 - **Hadith:** text from the hadith-api collections (Bukhari, Muslim, Abu Dawud, Tirmidhi, Nasa'i, Ibn Majah), cached in `cache/hadith/`. The salawat is written in full, and the stopping form is applied at each pause.
 - `from` / `to` select just the part the book quotes. Matching uses letters only, so differences in harakat don't matter.
-- **Hadith extras:** a phrase that occurs more than once takes `#n` for its n-th occurrence (`to الْجَدُّ#2`), and ` flat` before the closing braces drops the source's pauses inside the excerpt, so a dua can pause only where the book has commas: `{{H bukhari:614 from اللَّهُمَّ to التَّامَّةِ}}، {{H bukhari:614 from وَالصَّلاَةِ to الْقَائِمَةِ}}`.
+- **Hadith extras:** a phrase that occurs more than once takes `#n` for its n-th occurrence (`to الْجَدُّ#2`); a `from` phrase starting with `~` also matches where the source joins «وَ»/«فَ» onto the first word and leaves the conjunction out (`from ~الإِثْمُ#2`), for a book that starts its quote without it; ` cont` ends an excerpt without the stopping form, where the next excerpt carries on mid-phrase; and ` flat` before the closing braces drops the source's pauses inside the excerpt, so a dua can pause only where the book has commas: `{{H bukhari:614 from اللَّهُمَّ to التَّامَّةِ}}، {{H bukhari:614 from وَالصَّلاَةِ to الْقَائِمَةِ}}`.
 - Each filled line keeps its placeholder in a `# quran ...` / `# hadith ...` comment, so `--check` can rebuild it later and confirm it is **identical to the official text**.
-- **Hadith numbering:** the hadith-api numbers Sahih Muslim differently from the printed book (e.g. Muslim 2553 is 6516 there). Search the source by text, and keep the book's number in the `[ref]`.
+- **Hadith numbering:** the hadith-api numbers Sahih Muslim differently from the printed book (e.g. Muslim 2553 is 6516 there), and some books cite volume/page instead of a number. Search the source by text with `python3 find_source.py "<a few printed words>"` (or `--quran` for ayat), and keep the book's own reference in the `[ref]`.
 - **When the book's wording differs from the official text,** the official wording is read and the difference is noted with "Proofreader please check".
 
 ## Step 4: Write the English edition
 
 The English edition follows the Urdu page exactly, so the two languages always show the same book page.
 
-1. **`books/zindagi-aur-waqt/en_src/page_NNN.txt`**: only the English, with one `[en]` for every `[ur]` and one `[hen]` for every `[h]` of the Urdu page, in the same order. A page with no Urdu blocks gets an empty file.
+1. **`books/zindagi-aur-waqt/en_src/page_NNN.txt`**: only the English, with one `[en]` for every `[ur]`, one `[hen]` for every `[h]` and one `[fen]` for every `[fn]` of the Urdu page, in the same order. A page with no Urdu blocks gets an empty file.
 2. **Quran translations** are never our own wording:
    - For a whole verse, write `{{QEN 23:51}}` (several verses: `{{QEN 102:1 102:2}}`), and Sahih International is filled in.
    - For a partial quotation, the matching part of the Sahih International text is copied word for word.
 3. **Build:**
    ```bash
-   python3 build_english.py 63-178
+   python3 build_english.py 63-178                          # Zindagi Aur Waqt
+   python3 build_english.py 17-564 --book haraam-karobaar  # another book, by its folder
    ```
-   This interleaves the English with the Urdu page's `[ar]` and `[ref]` blocks, copied unchanged, and writes `books/zindagi-aur-waqt/en/page_NNN.txt`. It stops with an error if the number or order of blocks doesn't match the Urdu page.
+   With `--parens` (used for *100 Haraam Karobaar*), Sahih International's bracketed added words are kept as (words) and its quote marks are made curly; without it (the first book's recorded English) the brackets are dropped. The build interleaves the English with the Urdu page's `[ar]` and `[ref]` blocks, copied unchanged, and writes `books/zindagi-aur-waqt/en/page_NNN.txt`. It stops with an error if the number or order of blocks doesn't match the Urdu page.
 
 ## Step 5: Clean the text for speech (automatic)
 
@@ -136,6 +139,8 @@ The English edition follows the Urdu page exactly, so the two languages always s
 Tests: `python3 -m unittest test_preprocess`
 
 ## Step 6: Dry run, then record
+
+**Check the text first:** `python3 check_pages.py books/<book>/page_*.txt` cleans every spoken block as the recording would and reports anything that would be read wrongly (unfilled placeholders, digits, stray symbols, mixed Arabic/Urdu letters). It must report 0 problems.
 
 **Always dry-run first.** It prints the exact cleaned text that would be spoken and the character count, without calling the API.
 
@@ -244,11 +249,15 @@ The site is plain HTML, MP3 and PNG, so it can also be uploaded to any web host 
 | File | Role |
 |---|---|
 | `preprocess.py` | Text cleaning for speech (step 5) |
+| `render_page.py` | Renders a page large, in two halves, for reading (step 1) |
 | `fill_quran.py`, `fill_hadith.py` | Official Quran and hadith text, with checks (step 3) |
+| `find_source.py` | Finds a hadith's number (or an ayah) from a few printed words (step 3) |
+| `check_pages.py` | Reports text that would be read wrongly, before recording (step 6) |
 | `build_english.py` | Builds English page files (step 4) |
 | `make_sample.py` | Records a page with ElevenLabs and makes word timings (step 6) |
 | `build_app.py`, `app_template.html`, `app_assets/` | Builds the app (step 7) |
 | `books/zindagi-aur-waqt/` | Urdu pages, `en_src/` English source, `en/` built English pages |
+| `books/shab-o-roz/`, `books/haraam-karobaar/` | The second and third books. `haraam-karobaar/` has its own rules (`TRANSCRIBING.md` for the Urdu, `ENGLISH.md` for the English edition, with the glossary) and `REVIEW.md`, the list of points for a human reader |
 | `out/` | Recordings, one folder per page and edition (not in git) |
 | `find_voices.py` | Lists ElevenLabs voices for a language |
 | `export_site.py`, `player_template.html`, `website_template.html` | Earlier single-player and website versions, kept for reference |

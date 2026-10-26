@@ -1,0 +1,50 @@
+# title: Page 147
+# English edition of book page 147, built by build_english.py from en_src/ and page_147.txt
+
+[en]
+Judge for yourself: if true oaths have been forbidden, how severe the warning must be for false oaths!
+
+[en]
+Man: We need to do this. Do not be so harsh.
+
+[en]
+Teacher: There is nothing harsh about it; rather, the Shariah has made it forbidden.
+
+[en]
+Man: Brother! If we do not swear oaths, you people do not believe us.
+
+[en]
+Teacher: Even if swearing oaths is forbidden?
+
+[en]
+Man: Oh, servant of Allah! I have said it before: do not be so harsh. Do you have even a single proof?
+
+[en]
+Teacher: If you are given sound proofs, will you accept them then?
+
+[en]
+Man: Yes, what is wrong with that!
+
+[en]
+Teacher: Then listen carefully.
+
+[en]
+Man: I am listening carefully.
+
+[en]
+Teacher: The Messenger of Allah, peace be upon him, said:
+
+[ar]
+الْحَلِفُ مَنْفَقَةٌ لِلسِّلْعَةِ مَمْحَقَةٌ لِلْكَسْبْ
+
+[ref]
+صحيح البخاري، رقم الحديث [2087] صحيح مسلم، رقم الحديث [1606]
+
+[en]
+“Swearing oaths makes goods sell quickly, but no blessing remains in those earnings.”
+
+[en]
+That is, more money can be earned through a false oath, but that wealth is empty of blessing, and wealth empty of blessing brings loss in both this world and the Hereafter.
+
+[ref]
+فتح الباري [316/4]

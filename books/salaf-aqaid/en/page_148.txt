@@ -1,0 +1,53 @@
+# title: Page 148
+# English edition of book page 148, built by build_english.py from en_src/ and page_148.txt
+
+[en]
+The one who commits them falls under the warning, but he will not be punished by remaining in Hell forever. Examples of them include fighting a Muslim, swearing by other than Allah, taunting someone about his lineage, wailing over the dead, a believer calling his believing brother a disbeliever, and other major sins. Allah says:
+
+[ar]
+وَإِنْ طَائِفَتَانِ مِنَ الْمُؤْمِنِينَ اقْتَتَلُوا فَأَصْلِحُوا بَيْنَهُمَا
+
+[en]
+And if two factions among the believers should fight, then make settlement between the two.
+
+[ref]
+الحجرات 9:49.
+
+[en]
+The noble Prophet, peace be upon him, said:
+
+[ar]
+سِبَابُ الْمُسْلِمِ فُسُوقْ، وَقِتَالُهُ كُفْرْ
+
+[en]
+“Abusing a Muslim is transgression (deviation from the path of truth), and fighting him is disbelief.”
+
+[ref]
+صحيح البخاري، الإيمان، حديث: 48.
+
+[en]
+And he said:
+
+[ar]
+لاَ تَرْجِعُوا بَعْدِي كُفَّارًا يَضْرِبُ بَعْضُكُمْ رِقَابَ بَعْضْ
+
+[en]
+“Do not become disbelievers after me, striking one another's necks.”
+
+[ref]
+صحيح البخاري، العلم، حديث: 121.
+
+[en]
+And he said:
+
+[ar]
+مَنْ حَلَفَ بِغَيْرِ اللَّهِ فَقَدْ كَفَرْ، أَوْ أَشْرَكْ
+
+[en]
+“Whoever swears by other than Allah has committed disbelief or shirk.”
+
+[ref]
+جامع الترمذي، النذور والأيمان، حديث: 1535.
+
+[en]
+On another occasion he said:

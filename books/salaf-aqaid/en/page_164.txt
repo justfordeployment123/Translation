@@ -1,0 +1,17 @@
+# title: Page 164
+# English edition of book page 164, built by build_english.py from en_src/ and page_164.txt
+
+[ar]
+إِنَّمَا وَلِيُّكُمُ اللَّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونْ
+
+[ar]
+وَمَنْ يَتَوَلَّ اللَّهَ وَرَسُولَهُ وَالَّذِينَ آمَنُوا فَإِنَّ حِزْبَ اللَّهِ هُمُ الْغَالِبُونْ
+
+[en]
+Your ally is none but Allah and (therefore) His Messenger and those who have believed - those who establish prayer and give zakah, and they bow (in worship). And whoever is an ally of Allah and His Messenger and those who have believed - indeed, the party of Allah - they will be the predominant.
+
+[ref]
+المآئدة 56,55:5.
+
+[en]
+Second: Those who deserve love and loyalty in one respect, and enmity and hatred in another: these are the Muslims who do not carry out the obligations of the Shariah and who commit forbidden acts and deeds that do not reach the level of disbelief. Such people must be given sincere advice, and their forbidden acts must be denounced. It is not permissible to stay silent about their offences; rather, they should be denounced, and such people should be enjoined to do good and forbidden from evil. The prescribed punishments (hudud) should be carried out on them and penalties imposed, so that they give up their offences and repent of their sins. Abdullah, may Allah be pleased with him, had the nickname Himar (donkey). When he drank wine, he was brought before the Prophet, and the noble Prophet, peace be upon him, dealt with him in this same way too. When some of the Companions cursed Abdullah, may Allah be pleased with him, he said to them:

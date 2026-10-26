@@ -1,0 +1,19 @@
+# English source for book page 91
+
+[en]
+{{QEN 26:192 26:193 26:194 26:195}}
+
+[en]
+The Noble Quran is written in the Preserved Tablet. It is preserved in the hearts. Countless tongues recite it. It is written down on pages. Allah the Exalted says:
+
+[en]
+Rather, the Qur'an is distinct verses (preserved) within the breasts of those who have been given knowledge.
+
+[en]
+And He says:
+
+[en]
+{{QEN 56:77 56:78 56:79 56:80}}
+
+[en]
+The Noble Quran is the great, everlasting miracle of Muhammad, peace be upon him. It is the last heavenly Book. It will be neither abrogated nor changed. Allah the Exalted has taken it upon Himself to protect the Noble Quran from every kind of distortion and alteration and from every kind of addition and omission.

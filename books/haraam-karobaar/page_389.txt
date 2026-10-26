@@ -1,0 +1,42 @@
+# title: Page 389
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 389 (PDF page 390), انسٹھواں باب: تصویروں والے سکول بیگ کی خرید و فروخت
+# The page starts with the new chapter (page 388 ends the previous one with a full turn).
+# The numbered list (①–⑤) is read as words: پہلی، دوسری، تیسری، چوتھی، پانچویں (the items are برائیاں).
+# Hadith: Bukhari 6168 (Ibn Mas'ud), filled from there. The page ends with the hadith and its reference; the explanation
+# starts on page 390 and stays there (as on pages 56 and 138). The teacher's turn continues on page 390.
+# Proofreader please check: the book cites "صحيح البخاري، رقم الحديث [5818]"; in the sunnah.com numbering that number
+# is another report, and the words «الْمَرْءُ مَعَ مَنْ أَحَبَّ» are Bukhari 6168. The printed reference is kept.
+
+[h]
+انسٹھواں باب: تصویروں والے سکول بیگ کی خرید و فروخت
+
+[ur]
+مدیر: استاد صاحب! طلبا و طالبات کے لیے ایسے سکول بیگ یا بستے جن پر فحش اور انتہائی شرم ناک قسم کی تصویریں بنی ہوتی ہیں، جو جذبات کو برانگیختہ کرتی ہیں، مثلاً عورتوں کی فحش تصاویر وغیرہ، ان کے بارے میں آپ کی کیا رائے ہے؟
+
+[ur]
+استاد: کوئی بھی ایسی چیز جو بچوں اور بچیوں میں فحاشی کا سبب بنے، جیسے ہم دیکھتے ہیں کہ گاڑیوں، دیواروں، کتابوں اور بستوں وغیرہ پر فحش تصاویر بنی ہوتی ہیں، یہ سب ناجائز ہیں، کیونکہ ان میں مندرجہ ذیل برائیاں پائی جاتی ہیں:
+
+[ur]
+پہلی: حرام چیز کو دیکھنا۔
+
+[ur]
+دوسری: ایسی چیزوں سے نوجوان بچوں اور بچیوں کے جذبات ابھرتے ہیں۔
+
+[ur]
+تیسری: مومنوں میں اخلاق رذیلہ کی اشاعت ہوتی ہے۔
+
+[ur]
+چوتھی: ایسی چیزوں سے فتنے پیدا ہوتے ہیں۔
+
+[ur]
+پانچویں: نفسانی خواہشات جنم لیتی ہیں۔
+
+[ur]
+نبی کریم ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H bukhari:6168 from الْمَرْءُ to أَحَبَّ}}
+الْمَرْءُ مَعَ مَنْ أَحَبّ
+
+[ref]
+صحيح البخاري، رقم الحديث [5818] صحيح مسلم، رقم الحديث [2641]

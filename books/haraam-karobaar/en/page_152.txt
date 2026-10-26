@@ -1,0 +1,29 @@
+# title: Page 152
+# English edition of book page 152, built by build_english.py from en_src/ and page_152.txt
+
+[en]
+I told him: You deceived me, so give me back my money and keep your cow. But he says: That day you looked her over and satisfied yourself before you bought her. What can resolve this dispute of ours? And yes, that man is standing right here beside me.
+
+[en]
+Teacher: The seller of goods must make the defects of the item clear; hiding the defects of goods is not permissible in any way.
+
+[en]
+The Messenger of Allah, peace be upon him, passed by a heap of grain. He, peace be upon him, put his hand into the heap and his hand felt wetness (that is, the grain was wet inside). He, peace be upon him, asked its owner: What is this? He answered: O Messenger of Allah, peace be upon him! It got wet because of the rain. He, peace be upon him, said:
+
+[ar]
+أَفَلاَ جَعَلْتَهُ فَوْقَ الطَّعَامِ حَتَّى يَرَاهُ النَّاسْ! مَنْ غَشَّنَا فَلَيْسَ مِنَّا
+
+[ref]
+صحيح مسلم، رقم الحديث [102] سنن ابن ماجه، رقم الحديث [2224]
+
+[en]
+“Why did you not put it on top of the heap so that people could see it too? Whoever deceives is not one of us.”
+
+[en]
+Alas! Nowadays people no longer fear Allah, and most people hide defects and flaws when selling goods, or deceive the buyer in such a way that he cannot even recognise the flaw in the goods, whereas this is plainly forbidden. The noble Prophet, peace be upon him, said:
+
+[ar]
+الْمُسْلِمُ أَخُو الْمُسْلِمْ، وَلاَ يَحِلُّ لِمُسْلِمٍ بَاعَ مِنْ أَخِيهِ بَيْعًا فِيهِ عَيْبٌ إِلاَّ بَيَّنَهُ لَهْ
+
+[ref]
+مسند أحمد [158/4] سنن ابن ماجه، رقم الحديث [2246]

@@ -1,0 +1,35 @@
+# title: Page 478
+# English edition of book page 478, built by build_english.py from en_src/ and page_478.txt
+
+[en]
+Abdur-Rahim: You mean that, in your view, it is forbidden for a woman to work as an air hostess?
+
+[en]
+Teacher: Yes, there is no doubt at all that it is forbidden. The following four things are found in it, because of which this work is forbidden:
+
+[en]
+First: The mixing of men and women, which is entirely forbidden on the basis of the definitive proofs of the Quran and the Sunnah; there is no room for it at all.
+
+[en]
+Second: In this job your daughter will make long journeys alone, without a mahram, and it is forbidden for a woman to travel alone without a mahram. The Messenger of Allah, peace be upon him, said:
+
+[ar]
+لاَ يَحِلُّ لاِمْرَأَةٍ تُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ أَنْ تُسَافِرَ مَسِيرَةَ يَوْمٍ وَلَيْلَةٍ إِلاَّ مَعَ ذِي مَحْرَمْ
+
+[ref]
+صحيح البخاري، رقم الحديث [1088]
+
+[en]
+“It is not lawful for a woman who believes in Allah and the Day of Resurrection to make a journey of a day and a night alone, unless a mahram is with her.”
+
+[en]
+Abdullah ibn Abbas, may Allah be pleased with them both, heard the Prophet, peace be upon him, saying:
+
+[ar]
+لاَ يَخْلُوَنَّ رَجُلٌ بِامْرَأَةٍ إِلاَّ وَمَعَهَا ذُو مَحْرَمْ، وَلاَ تُسَافِرِ الْمَرْأَةُ إِلاَّ مَعَ ذِي مَحْرَمْ، فَقَامَ رَجُلٌ فَقَالَ يَا رَسُولَ اللَّهِ إِنَّ امْرَأَتِي خَرَجَتْ حَاجَّةْ، وَإِنِّي اكْتُتِبْتُ فِي غَزْوَةِ كَذَا وَكَذَا. قَالَ انْطَلِقْ فَحُجَّ مَعَ امْرَأَتِكْ
+
+[ref]
+صحيح البخاري، رقم الحديث [3006] صحيح مسلم، رقم الحديث [1341]
+
+[en]
+“No man should be alone with a (non-mahram) woman, and no woman should travel unless a mahram of hers is with her. A man stood up and said: O Messenger of Allah, peace be upon him! My wife is setting out for Hajj, and I have put my name down for such-and-such an expedition? He, peace be upon him, said: Go, and perform Hajj with your wife.”

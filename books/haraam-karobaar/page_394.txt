@@ -1,0 +1,29 @@
+# title: Page 394
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 394 (PDF page 395), ساٹھواں باب: آلاتِ موسیقی کی خرید و فروخت
+# The first lines of the page ("اور مستی والے ہوتے ہیں ... کے مترادف ہے۔") end a sentence that is on page 393, where it starts;
+# the teacher's turn continues here.
+# The narration "مدیر کھڑا ہوا ... نکالنے لگا۔" runs on inside the manager's printed paragraph, so it stays in his turn.
+# «جزاك الله خيراً» is set in Arabic type inside the teacher's Urdu turn; it is kept in the Urdu block, in Urdu letters (جزاک اللہ خیراً).
+# «آیندہ» is spelled as printed.
+# The chapter ends on this page with a full turn; the rest of the page is blank. Chapter sixty-one starts on page 395.
+
+[ur]
+تم یہ بھی اچھی طرح سمجھ چکے ہو کہ اللہ تعالیٰ جس چیز کو حرام ٹھہراتے ہیں، اس کی قیمت بھی حرام ہوتی ہے۔ موسیقی سے متعلقہ ہر طرح کی تجارت حرام ہے۔
+
+[ur]
+مدیر: سبحان اللہ! یہ سارے دلائل موسیقی کی حرمت بیان کر رہے ہیں؟
+
+[ur]
+استاد: ہاں، ابھی میں نے بہت اختصار کے ساتھ ان کا ذکر کیا ہے۔
+
+[ur]
+مدیر: ہم اللہ سے توبہ کرتے ہیں اور آیندہ کبھی ایسے آلات کی خرید و فروخت نہیں کریں گے۔
+
+[ur]
+استاد: اگر ممکن ہو تو ان کی جگہ پر ایسی سی ڈیز اور کیسٹیں لے آؤ جن میں تلاوتیں، نعتیں اور علما کی تقاریر ہوں۔
+
+[ur]
+مدیر: ان شاء اللہ۔ مدیر کھڑا ہوا اور الماری سے آلاتِ موسیقی کو باہر نکالنے لگا۔
+
+[ur]
+استاد: جزاک اللہ خیراً۔

@@ -1,0 +1,5 @@
+# title: Page 49
+# English edition of book page 49, built by build_english.py from en_src/ and page_049.txt
+
+[en]
+Ahl as-Sunnah wal-Jama'ah hold steadfastly to following the Prophet and keep away from innovations. These people will remain until the Day of Resurrection; they will remain dominant and they will be helped. To follow in their footsteps is guidance, and to oppose them is misguidance.

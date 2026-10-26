@@ -1,0 +1,32 @@
+# title: Page 189
+# English edition of book page 189, built by build_english.py from en_src/ and page_189.txt
+
+[en]
+And the Prophet said:
+
+[ar]
+مَنْ أَطَاعَنِي فَقَدْ أَطَاعَ اللَّهْ، وَمَنْ عَصَانِي فَقَدْ عَصَى اللَّهْ، وَمَنْ يُطِعِ الأَمِيرَ فَقَدْ أَطَاعَنِي، وَمَنْ يَعْصِ الأَمِيرَ فَقَدْ عَصَانِي
+
+[en]
+“Whoever obeys me has obeyed Allah. Whoever disobeys me has disobeyed Allah. And whoever obeys the ruler has obeyed me, and whoever disobeys the ruler has disobeyed me.”
+
+[ref]
+صحيح البخاري، الجهاد والسير، حديث: 2957، وصحيح مسلم، الإمارة، حديث: 1835.
+
+[en]
+On another occasion he, peace be upon him, said:
+
+[ar]
+اسْمَعُوا وَأَطِيعُوا، وَإِنِ اسْتُعْمِلَ عَلَيْكُمْ عَبْدٌ حَبَشِيٌّ كَأَنَّ رَأْسَهُ زَبِيبَةْ
+
+[en]
+“Listen (to the ruler) and obey, even if an Abyssinian slave whose head is like a raisin is made your ruler.”
+
+[ref]
+صحيح البخاري، الأحكام، حديث: 7142.
+
+[en]
+And he said:
+
+[ar]
+تَسْمَعُ وَتُطِيعُ لِلأَمِيرْ، وَإِنْ ضُرِبَ ظَهْرُكَ وَأُخِذَ مَالُكْ، فَاسْمَعْ وَأَطِعْ

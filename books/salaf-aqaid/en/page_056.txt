@@ -1,0 +1,20 @@
+# title: Page 56
+# English edition of book page 56, built by build_english.py from en_src/ and page_056.txt
+
+[en]
+First: The only way to be rid of sectarianism, and to set the Muslims in general, and the scholars and callers in particular, on the path of unity and agreement, is to adopt the beliefs of the Righteous Predecessors, because these beliefs are taken from divine revelation and the life of the Prophet, and the noble Companions also held these same beliefs.
+
+[en]
+Whatever other creed people agree on in place of this creed, its outcome can be nothing but sectarianism, disorder and division: the very sectarianism and discord whose displays and grave harms we see with our own eyes in Muslim society today. Allah the Exalted says:
+
+[ar]
+وَمَنْ يُشَاقِقِ الرَّسُولَ مِنْ بَعْدِ مَا تَبَيَّنَ لَهُ الْهُدَىٰ وَيَتَّبِعْ غَيْرَ سَبِيلِ الْمُؤْمِنِينَ نُوَلِّهِ مَا تَوَلَّىٰ وَنُصْلِهِ جَهَنَّمَ ۖ وَسَاءَتْ مَصِيرَا
+
+[en]
+And whoever opposes the Messenger after guidance has become clear to him and follows other than the way of the believers - We will give him what he has taken and drive him into Hell, and evil it is as a destination.
+
+[ref]
+النسآء 115:4.
+
+[en]
+Second: It is this creed that will acquaint the Muslims with mutual unity and agreement. Through it they will agree on the truth, because adopting this creed is obedience to this exalted command of Allah the Exalted:

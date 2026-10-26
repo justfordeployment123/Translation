@@ -1,0 +1,48 @@
+# title: Page 399
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 399 (PDF page 400), اکسٹھواں باب: جاندار چیزوں کی تصویروں کی خرید و فروخت
+# The first line of the page ("لٹکائی جاتی ہیں نہ کہ ان کی عبادت مقصود ہوتی ہے۔") ends the manager's sentence that starts on page 398, where it is kept whole.
+# The last turn continues on page 400 ("مجسمے کی صورت میں سب حرام ہیں، ... جیسے شناختی کارڈ وغیرہ کے لیے۔"); it is kept whole here.
+# Hadith (Ali to Abu al-Hayyaj): the book cites صحيح مسلم [969]; it is Muslim 2243 in the sunnah.com numbering. The source's main wording has
+# «أَنْ لاَ تَدَعَ تِمْثَالاً إِلاَّ طَمَسْتَهُ»; the book's «صُورَةً إِلَّا طَمَسْتَهَا» is the variant Muslim gives in the same hadith («وَلاَ صُورَةً إِلاَّ طَمَسْتَهَا»),
+# so the text is joined from three excerpts of Muslim 2243, with " cont" so it runs on without a pause (the print has none).
+# The print vowels «تَدَعْ» and «صُوْرَةً»; the source has «تَدَعَ» and «صُورَةً».
+# Ibn Abbas's own words «إِنْ كُنْتَ لَا بُدَّ فَاعِلًا، فَاصْنَعِ الشَّجَرَ وَمَا لَا رُوْحَ فِيْهِ» (not the Prophet's words) are typed from the print, printed
+# harakat kept (the sukun on the long vowels of «رُوْحَ» and «فِيْهِ»), with the stopping form before the comma and at the end. The book cites
+# Bukhari [2225], whose wording differs («فَعَلَيْكَ بِهَذَا الشَّجَرِ، كُلِّ شَيْءٍ لَيْسَ فِيهِ رُوحٌ»); Muslim 5539 has «... فَاصْنَعِ الشَّجَرَ وَمَا لاَ نَفْسَ لَهُ».
+# The sukun on «رُوْحَ» and «فِيْهِ» was checked on the PDF's own page image (thin open curls, unlike the round-headed damma on «رُ»).
+# The saying is typed from the print rather than filled with Muslim 5539's different wording, as the "Other Arabic" rule requires
+# for a Companion's own words (only the Prophet's words are filled).
+
+[ur]
+استاد: یاد رکھنے کے لیے تصویریں لٹکانا ضروری نہیں ہوتا، بلکہ یاد وہ ہوتی ہے کہ دل سے ان کی بخشش اور مغفرت کے لیے دعائیں نکلیں۔ گھروں سے تصویریں نکالنا اور مسخ کرنا اس لیے بھی ضروری ہے کہ حضرت علی رضی اللہ عنہ نے ابو الہیاج سے کہا تھا: کیا میں تمھیں اس مشن پر نہ بھیجوں جس پر مجھے رسول اللہ ﷺ نے بھیجا تھا۔ اس نے کہا کیوں نہیں (ضرور بھیجیں) حضرت علی نے کہا:
+
+[ar]
+# hadith {{H muslim:2243 from أَنْ لاَ تَدَعَ to تَدَعَ cont}} {{H muslim:2243 from صُورَةً to طَمَسْتَهَا cont}} {{H muslim:2243 from وَلاَ قَبْرًا to سَوَّيْتَهُ}}
+أَنْ لاَ تَدَعَ صُورَةً إِلاَّ طَمَسْتَهَا وَلاَ قَبْرًا مُشْرِفًا إِلاَّ سَوَّيْتَهْ
+
+[ref]
+صحيح مسلم، رقم الحديث [969]
+
+[ur]
+“(جاؤ) کوئی تصویر نہ چھوڑنا، مگر اسے مسخ کر دینا اور کوئی اونچی قبر نہ چھوڑنا، مگر اسے برابر کر دینا۔”
+
+[ur]
+مدیر: استاد صاحب! یہ کاروبار ہے اور رزق کا ایک ذریعہ ہے۔
+
+[ur]
+استاد: اگر کاروبار اور رزق کی خاطر یہ کام نہیں چھوڑ سکتے تو ایسی تصویریں رکھ لو جو جاندار چیزوں کی نہ ہوں، جیسے قدرتی مناظر اور درخت وغیرہ ہیں، کیونکہ حضرت عبداللہ بن عباس رضی اللہ عنہما نے تصویریں بنانے والوں سے کہا تھا:
+
+[ar]
+إِنْ كُنْتَ لَا بُدَّ فَاعِلَا، فَاصْنَعِ الشَّجَرَ وَمَا لَا رُوْحَ فِيْهْ
+
+[ref]
+صحيح البخاري، رقم الحديث [2225]
+
+[ur]
+“کہ اگر تم لازمی تصویریں بنانا چاہتے ہو تو درختوں اور ایسی اشیا کی بنا لو، جن میں روح نہ ہو۔”
+
+[ur]
+مدیر: یعنی تصویر خواہ کسی بھی صورت میں ہو، وہ حرام ہے؟
+
+[ur]
+استاد: ہاں، ہر طرح کی ذی روح تصویریں خواہ وہ مجسمے کی صورت میں ہوں یا غیر مجسمے کی صورت میں سب حرام ہیں، البتہ بعض اہلِ علم نے انتہائی ضرورت کے وقت تصویر بنوانے کی اجازت دی ہے، جیسے شناختی کارڈ وغیرہ کے لیے۔

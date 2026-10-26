@@ -1,0 +1,11 @@
+# title: Page 326
+# English edition of book page 326, built by build_english.py from en_src/ and page_326.txt
+
+[en]
+Young man: May Allah the Exalted forgive us. We did not even know that the beard has so much importance in the Shariah, and that so many texts show that it is obligatory.
+
+[en]
+Barber: From today on, I too will not shave anyone's beard.
+
+[en]
+Teacher: May Allah the Exalted grant us all guidance and enable us to walk on the straight path.

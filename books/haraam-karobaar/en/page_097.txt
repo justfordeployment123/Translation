@@ -1,0 +1,32 @@
+# title: Page 97
+# English edition of book page 97, built by build_english.py from en_src/ and page_097.txt
+
+[en]
+“A Muslim is the brother of a Muslim. It is not permissible for a Muslim to sell his brother something that has a defect unless he makes that defect clear.”
+
+[en]
+It is a very great defect when a man comes to buy new gold and, deceiving him under cover of the polish, you give him old gold.
+
+[en]
+Shopkeeper: As I have told you, I do this work with great skill; no one even suspects anything.
+
+[en]
+Teacher: Just tell me this: if a man comes to buy new gold for a bride and you tell him that it is not new but old, and that it has been polished to make it look new, will he buy it at the price of new gold?
+
+[en]
+Shopkeeper: No! He will not buy it at all.
+
+[en]
+Teacher: Then fear Allah. You have made this vile practice permissible on your own authority, when the Prophet, peace be upon him, said:
+
+[ar]
+لِكُلِّ غَادِرٍ لِوَاءٌ عِنْدَ اسْتِهِ يَوْمَ الْقِيَامَةْ
+
+[ref]
+صحيح مسلم، رقم الحديث [1738]
+
+[en]
+“Every deceiver will have a banner at his backside on the Day of Resurrection.”
+
+[en]
+How many people must you have deceived in thirty years? On the Day of Resurrection a banner of treachery will be planted on your back, and on it will be written the names of the people you deceived.

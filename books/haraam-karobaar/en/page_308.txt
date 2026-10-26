@@ -1,0 +1,44 @@
+# title: Page 308
+# English edition of book page 308, built by build_english.py from en_src/ and page_308.txt
+
+[en]
+And whatever the Messenger has given you - take; and what he has forbidden you - refrain from.
+
+[ar]
+وَإِنْ تُطِيعُوهُ تَهْتَدُوا
+
+[ref]
+[النور: 54]
+
+[en]
+And if you obey him, you will be (rightly) guided.
+
+[ar]
+قُلْ إِنْ كُنْتُمْ تُحِبُّونَ اللَّهَ فَاتَّبِعُونِي يُحْبِبْكُمُ اللَّهْ
+
+[ref]
+[آل عمران: 31]
+
+[en]
+Say, (O Muhammad), “If you should love Allah, then follow me, (so) Allah will love you.”
+
+[en]
+It is narrated from Abdullah ibn Mas'ud, may Allah be pleased with him, that the Messenger of Allah, peace be upon him, said:
+
+[ar]
+لَعَنَ اللَّهُ الْوَاشِمَاتِ وَالْمُسْتَوْشِمَاتِ وَالنَّامِصَاتِ وَالْمُتَنَمِّصَاتِ وَالْمُتَفَلِّجَاتِ لِلْحُسْنِ الْمُغَيِّرَاتِ خَلْقَ اللَّهْ
+
+[ref]
+صحيح البخاري، رقم الحديث [5931] صحيح مسلم، رقم الحديث [2125]
+
+[en]
+“Allah the Exalted has cursed the women who, for the sake of beauty, tattoo and have themselves tattooed, the women who pluck out hair, the women who make gaps between their teeth for beauty, and the women who change the creation of Allah.”
+
+[en]
+That is, the women who pluck hair from their eyebrows are cursed and have been put far from the mercy of Allah.
+
+[en]
+Young man: In this hadith the prohibition is for women, not for men, isn't it?
+
+[en]
+Teacher: (in a sorrowful tone) What a pity! From a young man like you, who has drifted far from his religion and his creed, nothing else could have been expected. Do you know why the Messenger of Allah, peace be upon him, did not mention men in this hadith?

@@ -1,0 +1,26 @@
+# title: Page 157
+# English edition of book page 157, built by build_english.py from en_src/ and page_157.txt
+
+[en]
+“One day a man was walking along; as he went on his way, he saw a thorny branch on the road and removed it from the road, so Allah the Exalted was pleased with him and forgave him.”
+
+[ref]
+صحيح البخاري، الأذان، حديث: 652، وصحيح مسلم، الإمارة، حديث: 1914.
+
+[en]
+Ahl as-Sunnah wal-Jama'ah believe that every created being has an appointed time. Every living being will die, under the command of Allah, according to its written, appointed time. When its term comes, it will be neither delayed nor brought forward by a single moment. If any living soul dies or is killed, this happens only because its time has been completed. Allah says:
+
+[ar]
+وَمَا كَانَ لِنَفْسٍ أَنْ تَمُوتَ إِلَّا بِإِذْنِ اللَّهِ كِتَابًا مُؤَجَّلَا
+
+[en]
+And it is not (possible) for one to die except by permission of Allah at a decree determined.
+
+[ref]
+آل عمران 145:3.
+
+[en]
+Ahl as-Sunnah wal-Jama'ah believe that the promise of Paradise that Allah the Exalted has made to the people of faith, and the warnings He has given of punishing the sinners among the people of Tawhid and of casting the disbelievers and the hypocrites into Hell, are true and real. He says:
+
+[ar]
+وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَنُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ۖ وَعْدَ اللَّهِ حَقًّا ۚ وَمَنْ أَصْدَقُ مِنَ اللَّهِ قِيلَا

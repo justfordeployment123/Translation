@@ -1,0 +1,17 @@
+# title: Page 12
+# Salaf-e-Saliheen ke Aqaid o Nazariyat, book page 12 (PDF page 9), عرضِ ناشر (end)
+# The first sentence of the page ("فہم کی روشنی میں واضح کیا گیا ہے۔") is on page 11, where it starts.
+# The honorific ligatures are typed in full words: حفظہم اللہ after the three names (آصف اقبال، محمد عثمان منیب، مختار احمد ضیاء),
+# حفظہ اللہ after «حافظ عبدالعظیم اسد».
+# «آمین» is printed without a full stop; typed as printed.
+# The signature (name, title and date) is shown but not spoken, as on 100 Haraam Karobaar page 18; it is a [fn] block (as the
+# author's signature on page 30), so its Urdu title is translated in the English edition.
+
+[ur]
+کتاب کا اسلوب سادہ اور عام فہم ہے جو علماء، طلبہ اور عوام الناس کے لیے یکساں مفید ہے۔
+
+[ur]
+کتاب کا اردو ترجمہ حافظ قمر حسن صاحب نے کیا ہے جو نہایت شستہ اور سلیس ہے۔ نظر ثانی، تحقیق و تخریج، ایڈیٹنگ اور پروف ریڈنگ کی ذمہ داری حافظ آصف اقبال، مولانا محمد عثمان منیب اور مولانا مختار احمد ضیاء حفظہم اللہ نے خوب نبھائی ہے۔ کتاب کی ترتیب و تہذیب میں دارالسلام لاہور کے مدیر حافظ عبدالعظیم اسد حفظہ اللہ کی رہنمائی بھی قابل تحسین ہے۔ اسے خوب سے خوب تر بنانے میں شعبہ ڈیزائننگ کے انچارج ہارون الرشید، محمد رمضان شاد اور خرم شہزاد نے بہت محنت کی ہے۔ اللہ تعالیٰ اس کتاب کے مصنف، مترجم، ناشر اور جملہ معاونین کو اجر جزیل عطا فرمائے اور اس کتاب کو امت مسلمہ کے عقائد کی پختگی اور درستی کا باعث بنائے۔ آمین
+
+[fn]
+خادم کتاب و سنت، عبدالمالک مجاہد، مینجنگ ڈائریکٹر دارالسلام انٹرنیشنل، مئی 2016ء

@@ -1,0 +1,17 @@
+# title: Page 75
+# English edition of book page 75, built by build_english.py from en_src/ and page_075.txt
+
+[en]
+How vast the Throne is, no one knows but Allah. Compared with the Throne, the Footstool is like a ring lying in an open plain that stretches across the earth and the heavens. Allah the Exalted has no need of the Throne or the Footstool. He has not risen over the Throne because He needs the Throne; rather, He has risen over the Throne for a wisdom that He alone knows. He is far above needing the Throne or anything else. The majesty of Allah the Exalted is too high for Him to need anything; rather, the Throne and the Footstool themselves stand only by the power and might of Allah.
+
+[en]
+Ahl as-Sunnah wal-Jama'ah also believe that Allah the Exalted created Adam, peace be upon him, with His two hands, and that both His hands are right hands and outstretched. He spends as He wills, as He Himself has said about Himself:
+
+[ar]
+وَقَالَتِ الْيَهُودُ يَدُ اللَّهِ مَغْلُولَةٌ ۚ غُلَّتْ أَيْدِيهِمْ وَلُعِنُوا بِمَا قَالُوا ۘ بَلْ يَدَاهُ مَبْسُوطَتَانِ يُنْفِقُ كَيْفَ يَشَاءْ
+
+[en]
+And the Jews say, “The hand of Allah is chained.” Chained are their hands, and cursed are they for what they say. Rather, both His hands are extended; He spends however He wills.
+
+[ref]
+المآئدة 64:5.

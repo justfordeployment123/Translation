@@ -1,0 +1,44 @@
+# title: Page 367
+# English edition of book page 367, built by build_english.py from en_src/ and page_367.txt
+
+[en]
+Second: Whether this deal takes place or not depends on the future, so ownership does not stay settled.
+
+[en]
+Faisal: What is the proof for this?
+
+[en]
+Teacher: The Messenger of Allah, peace be upon him, said:
+
+[ar]
+مَنْ بَاعَ بَيْعَتَيْنِ فِي بَيْعَةٍ فَلَهُ أَوْكَسُهُمَا أَوِ الرِّبَا
+
+[ref]
+سنن أبي داود، رقم الحديث [3461] صحيح الجامع، رقم الحديث [6116]
+
+[en]
+“Whoever makes two deals in one deal, then for him there is either the lower of the two prices or interest (riba).”
+
+[en]
+That is, dealing in this way cannot escape one of two cases:
+
+[en]
+First: Either he will take the lower price and suffer a loss.
+
+[en]
+Second: He will take the higher price and so receive interest.
+
+[en]
+Any deal in which either of the two cases is found will be invalid.
+
+[en]
+Muhammad: What is the solution, and the way the Shariah lays down?
+
+[en]
+Teacher: The solution is very easy: the two of you settle in this same sitting whether its price will be paid in cash or in instalments.
+
+[en]
+Muhammad: Praise be to Allah! Today we have benefited a great deal from the rulings of the Shariah, and we have learned that these forms of buying and selling are forbidden. Faisal! I want to buy this AC in instalments. What do you say?
+
+[en]
+Faisal: All right, I agree.

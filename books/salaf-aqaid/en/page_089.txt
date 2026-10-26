@@ -1,0 +1,20 @@
+# title: Page 89
+# English edition of book page 89, built by build_english.py from en_src/ and page_089.txt
+
+[en]
+The Noble Quran: The Noble Quran is the Speech of Allah. It is His clear Book and His Habl al-Matin (firm rope), which He sent down to His Messenger Muhammad, peace be upon him. This Book is a constitution for the Ummah. It brings people out of the darknesses into the light. This Book acquaints people with guidance and makes them walk on the Straight Path.
+
+[en]
+In the Noble Quran, Allah the Exalted has described the conditions of the earlier and later peoples and told how the earth and the heavens were created. In it He has set out in detail what is lawful and what is unlawful, given the principles of manners and morals and the rulings on acts of worship and dealings, described the lives of the prophets and the righteous, made known the nature of the reward of the believers and the punishment of the disbelievers, and described the features of Paradise and Hell.
+
+[en]
+Allah the Exalted has made the Noble Quran a cure for all the diseases of the heart and has explained everything in it clearly. This Book is mercy and guidance for the believers. Allah the Exalted says:
+
+[ar]
+وَنَزَّلْنَا عَلَيْكَ الْكِتَابَ تِبْيَانًا لِكُلِّ شَيْءٍ وَهُدًى وَرَحْمَةً وَبُشْرَىٰ لِلْمُسْلِمِينْ
+
+[en]
+And We have sent down to you the Book as clarification for all things and as guidance and mercy and good tidings for the Muslims.
+
+[ref]
+النحل 89:16.

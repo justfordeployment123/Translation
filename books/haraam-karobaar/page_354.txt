@@ -1,0 +1,44 @@
+# title: Page 354
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 354 (PDF page 355), باونواں باب: اصلی اور نئے پرزے نکال کر ان کی جگہ پرانے اور استعمال شدہ پرزے لگا دینا
+# Print spelling normalized: «بانواں باب» -> «باونواں باب» (the print's «بانواں» is also its spelling for 92nd (page 543), so it would be read as ninety-second); the contents page has the same spelling.
+# The page starts with the new chapter (title printed on two lines; one heading); page 353 ends chapter fifty-one with a full turn.
+# The bracketed narration stands on its own lines before the first turn; it is its own block.
+# «السلام علیکم ورحمۃ اللہ», «وعلیکم السلام ورحمۃ اللہ» and «الحمد للہ» are kept in the Urdu blocks as set phrases.
+# Salah's last turn continues on page 355 ("رکھے ہوئے ہیں، کیونکہ یہ تین مہینے سے زیادہ نہیں چلتے۔"); the sentence is kept whole here.
+# The next sentence of his turn («عام طور پر جب ...») starts on page 355 and is there.
+
+[h]
+باونواں باب: اصلی اور نئے پرزے نکال کر ان کی جگہ پرانے اور استعمال شدہ پرزے لگا دینا
+
+[ur]
+(اسی دکان پر حسام صاحب نے دس دن سے اپنا ٹیپ ریکارڈر ٹھیک کروانے کے لیے دیا ہوا تھا)
+
+[ur]
+حسام: السلام علیکم ورحمۃ اللہ۔
+
+[ur]
+سب لوگ: وعلیکم السلام ورحمۃ اللہ۔
+
+[ur]
+حسام: کیا حال ہے؟ امید ہے آپ سب خیریت سے ہوں گے۔
+
+[ur]
+فیصل: الحمد للہ، ہم سب ٹھیک ہیں، اللہ کا شکر ہے۔
+
+[ur]
+حسام: کیا میرا ٹیپ ریکارڈر ٹھیک ہو گیا ہے؟
+
+[ur]
+صلاح: نہیں، ابھی نہیں ٹھیک ہوا، اس کے کچھ پرزے خراب ہو چکے ہیں اور کام کرنا چھوڑ گئے ہیں۔
+
+[ur]
+حسام: تو آپ نے اپنے پاس سے نئے پرزے ڈال دینے تھے۔
+
+[ur]
+صلاح: نئے پرزے ہمارے پاس ہیں، لیکن وہ تجارت کے لیے ہیں۔
+
+[ur]
+حسام: کیا مطلب میں آپ کی بات سمجھا نہیں؟
+
+[ur]
+صلاح: یعنی یہ پرزے اصلی نہیں ہیں اور ہم نے صرف فروخت کرنے کے لیے رکھے ہوئے ہیں، کیونکہ یہ تین مہینے سے زیادہ نہیں چلتے۔

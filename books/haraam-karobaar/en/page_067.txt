@@ -1,0 +1,35 @@
+# title: Page 67
+# English edition of book page 67, built by build_english.py from en_src/ and page_067.txt
+
+[en]
+Teacher: All right, here, take it and weigh it!
+
+[en]
+Ammar took the sack and put it on the scales, and it was forty-nine kilos instead of fifty. Ammar laughed and said: Shaykh, this is just like the packet of sugar that has “one kilo” written on it, but is really nine hundred and fifty grams.
+
+[en]
+Once I went to a shop and asked for a kilo of sugar. He gave me a packet without weighing it, and on it was written nine hundred and fifty grams, while the shopkeeper was selling it as a kilo.
+
+[en]
+Teacher: How very surprising, when the sack has “fifty kilos” written on it!
+
+[en]
+Ammar: Yes, Shaykh, this is how these people do things.
+
+[en]
+The Shaykh said to the rice seller: This is fraud and deception. You say fifty kilos, but in reality it is forty-nine kilos. You are telling an outright lie. This is impermissible in the Shariah. The blessed Prophet, peace be upon him, said:
+
+[ar]
+مَنْ غَشَّنَا فَلَيْسَ مِنَّا
+
+[ref]
+صحيح مسلم، رقم الحديث [102] سنن ابن ماجه، رقم الحديث [2224]
+
+[en]
+“Whoever deceives us is not following our way.”
+
+[en]
+Trader: Shaykh! What fault is it of mine? These sacks come from the factory like this. When we shopkeepers go to the factory owner and ask him about it, his answer is: The agents around the factory ask us for them like this, that is, forty-nine kilos instead of fifty, and it is the same with sugar and so on.
+
+[en]
+I am not the only one selling like this. In fact, go to any shopkeeper you like; everyone does it this way.

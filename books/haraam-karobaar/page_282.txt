@@ -1,0 +1,35 @@
+# title: Page 282
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 282 (PDF page 283), چالیسواں باب: شراب تیار کرنے والی فیکٹریوں کو انگور فروخت کرنا
+# The first lines of the page ("وہ ذلیل کیے جائیں گے ... پہلے تھے۔") end the translation of Al-Mujadila 58:5, which is on page 281, where it starts.
+# Al-Mujadila 58:20 is filled from the official text (fill_quran.py). The teacher's turn goes on after its translation, so the next
+# paragraph («عبدالخالق صاحب! ...») opens without his name.
+# Proofreader please check: "آپ فیکٹریوں کو انگور میں فروخت کر کے" is typed as printed (the wording reads oddly).
+# The page ends the chapter; page 283 starts the next one.
+
+[ur]
+نیز اللہ تعالیٰ فرماتا ہے:
+
+[ar]
+# quran 58:20 from إِنَّ الَّذِينَ يُحَادُّونَ to فِي الْأَذَلِّينَ
+إِنَّ الَّذِينَ يُحَادُّونَ اللَّهَ وَرَسُولَهُ أُولَٰئِكَ فِي الْأَذَلِّينْ
+
+[ref]
+[المجادلة: 20]
+
+[ur]
+“بے شک وہ لوگ جو اللہ اور اس کے رسول کی مخالفت کرتے ہیں، وہی سب سے زیادہ ذلیل ہونے والوں میں سے ہیں۔”
+
+[ur]
+عبدالخالق صاحب! آپ فیکٹریوں کو انگور میں فروخت کر کے شراب بنانے کے عمل میں برابر کے شریک ہیں، یہ بہت بڑا جرم ہے، لہٰذا فوراً اللہ سے توبہ کریں اور اس فعل سے رک جائیں۔
+
+[ur]
+عبدالخالق: استاد صاحب! یعنی یہ حرام ہے؟
+
+[ur]
+استاد: کیا اتنی سی بات کافی نہیں کہ شراب بیچنے والے پر اللہ کی لعنت ہے اور تم اس میں حصے دار ہو؟
+
+[ur]
+عبدالخالق: پھر تو ہم آیندہ سے منڈی ہی میں فروخت کریں گے۔
+
+[ur]
+استاد: اللہ تمھارے مال میں برکت پیدا فرمائے۔

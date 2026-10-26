@@ -1,0 +1,26 @@
+# title: Page 336
+# English edition of book page 336, built by build_english.py from en_src/ and page_336.txt
+
+[en]
+It is narrated from Abdullah ibn Mas'ud, may Allah be pleased with him, that the Messenger of Allah, peace be upon him, said:
+
+[ar]
+لَعَنَ اللَّهُ الْوَاشِمَاتِ وَالْمُسْتَوْشِمَاتِ وَالنَّامِصَاتِ وَالْمُتَنَمِّصَاتِ وَالْمُتَفَلِّجَاتِ لِلْحُسْنِ الْمُغَيِّرَاتِ خَلْقَ اللَّهْ
+
+[ref]
+صحيح البخاري، رقم الحديث [5931] صحيح مسلم، رقم الحديث [2125]
+
+[en]
+“Allah the Exalted has cursed the women who, for the sake of beauty, tattoo and have themselves tattooed, the women who pluck out hair, the women who make gaps between their teeth for beauty, and the women who change the creation of Allah.”
+
+[en]
+This news reached a woman of Banu Asad whose name was Umm Ya'qub. She used to read the Quran. She came to Abdullah ibn Mas'ud, may Allah be pleased with him, and said: I have heard that you have cursed the women who tattoo and who have themselves tattooed, who pluck out the hair of the face and who have it plucked out, who widen the gaps between their teeth, and who change the creation of Allah. Abdullah, may Allah be pleased with him, said: Why should I not curse those whom the Messenger of Allah, peace be upon him, has cursed? Moreover, this is in the Book of Allah. The woman said: I have read all of the Quran that lies between the two covers, and I did not find it. Abdullah, may Allah be pleased with him, said: If you had read it carefully, you would have found it. Allah the Exalted says:
+
+[ar]
+وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانْتَهُوا
+
+[ref]
+[الحشر: 7]
+
+[en]
+And whatever the Messenger has given you - take; and what he has forbidden you - refrain from.

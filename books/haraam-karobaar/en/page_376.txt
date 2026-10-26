@@ -1,0 +1,11 @@
+# title: Page 376
+# English edition of book page 376, built by build_english.py from en_src/ and page_376.txt
+
+[en]
+The same view is also reported from the following people of knowledge: Abdullah ibn Abbas, Aishah, Hasan, Imam Ibn Sirin, Imam ash-Sha'bi, Imam an-Nakha'i, Imam Sufyan ath-Thawri, Imam al-Awza'i, Imam Malik, Imam Ishaq, Imam Ahmad, Imam Ibn Qudamah and Ibn Uthaymeen, may Allah have mercy on them.
+
+[en]
+Buyer: If this is forbidden, we must stop it at once.
+
+[en]
+Teacher: May Allah the Exalted bless you and grant us every kind of blessing.

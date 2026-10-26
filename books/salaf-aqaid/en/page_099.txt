@@ -1,0 +1,38 @@
+# title: Page 99
+# English edition of book page 99, built by build_english.py from en_src/ and page_099.txt
+
+[en]
+Adnan is a descendant of the Prophet of Allah Isma'il, peace be upon him, son of Ibrahim, peace be upon him.
+
+[en]
+Muhammad, peace be upon him, is the Seal of the Prophets and Messengers. He, peace be upon him, was sent as a Messenger to all mankind until the Day of Resurrection. Of all the creation of Allah the Exalted, he is the best, the most exalted, the most honoured, the most noble and the closest to Him. Allah the Exalted showed mercy to the worlds and sent him as a Messenger. Allah the Exalted says:
+
+[ar]
+وَمَا أَرْسَلْنَاكَ إِلَّا رَحْمَةً لِلْعَالَمِينْ
+
+[en]
+And We have not sent you, (O Muhammad), except as a mercy to the worlds.
+
+[ref]
+الأنبيآء 107:21.
+
+[en]
+He sent down to him His mighty Book, entrusted him with the trust of His religion, placed on him the responsibility of conveying the message, and protected him in this from every kind of slip. He says:
+
+[ar]
+وَمَا يَنْطِقُ عَنِ الْهَوَىٰ
+
+[ar]
+إِنْ هُوَ إِلَّا وَحْيٌ يُوحَىٰ
+
+[en]
+Nor does he speak from (his own) inclination. It is not but a revelation revealed.
+
+[ref]
+النجم 4،3:53.
+
+[en]
+Faith is not complete without believing in his messengership and prophethood. Whoever obeys him, peace be upon him, will enter Paradise, and whoever disobeys him will go to Hell. Allah the Exalted says:
+
+[ar]
+فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ ثُمَّ لَا يَجِدُوا فِي أَنْفُسِهِمْ حَرَجًا مِمَّا قَضَيْتَ وَيُسَلِّمُوا تَسْلِيمَا

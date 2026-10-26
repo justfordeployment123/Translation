@@ -1,0 +1,21 @@
+# title: Page 260
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 260 (PDF page 261), دفاتر کے ملازمین میں پائی جانے والی حرام چیزوں پر دورے کا خلاصہ (end of the round)
+# The list of seven things started on page 259 (①–③); its items ④–⑦ are here, read as words: چوتھی ... ساتویں (the items are چیزیں).
+# «الحمد لله على ذلك.» is set in Arabic type inside the teacher's Urdu turn; it is kept in the Urdu block as a set phrase,
+# in Urdu letters (الحمد للہ علیٰ ذلک), as «الحمد للہ» on page 130.
+# The rest of the page is blank after the teacher's turn; page 261 is the title page of the next smaller round.
+
+[ur]
+چوتھی: بلاوجہ درخواست لکھ کر رخصت لینا۔
+
+[ur]
+پانچویں: طالب علموں کو سکول اوقات کے علاوہ ٹیوشن پڑھنے پر مجبور کرنا۔
+
+[ur]
+چھٹی: مردوں کا لڑکیوں کے سکولوں میں تعلیم دینا۔
+
+[ur]
+ساتویں: موسیقی کی تعلیم دینا۔
+
+[ur]
+استاد: الحمد للہ علیٰ ذلک۔

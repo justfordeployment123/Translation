@@ -1,0 +1,26 @@
+# title: Page 28
+# English edition of book page 28, built by build_english.py from en_src/ and page_028.txt
+
+[en]
+“A group of my Ummah will remain upon the truth. Those who forsake this group will not harm it in any way. The people of this group will remain so (standing upon the truth) until the command of Allah comes.”
+
+[ref]
+صحيح مسلم، الإمارة، حديث: 1920.
+
+[en]
+On another occasion he, peace be upon him, said:
+
+[ar]
+مَثَلُ أُمَّتِي مَثَلُ الْمَطَرْ، لاَ يُدْرَى أَوَّلُهُ خَيْرْ، أَمْ آخِرُهْ
+
+[en]
+“The example of my Ummah is like the rain. It is not known whether the good is in its beginning or in its end.”
+
+[ref]
+جامع الترمذي، الأدب، حديث: 2869.
+
+[en]
+It is obligatory on us to gain knowledge of this blessed group that follows the true Islam which the Messenger of Allah, peace be upon him, brought and which the noble Companions and the Successors acted upon. This group is al-Firqah an-Najiyah (the saved sect) and at-Ta'ifah al-Mansurah, that is, the victorious group. This same group is called by various names: Ahl as-Sunnah wal-Jama'ah, the people of hadith, and the people of athar (narrations) and ittiba' (following). These are the very people who follow in the footsteps of the noble Prophet, peace be upon him, and the noble Companions. With this in view, I quickly prepared this summary of my book “al-Muyassar fi Aqidat as-Salaf as-Salih”. I took the material of this book from the writings of those imams of the Salaf whose trustworthiness, learning, following of the Sunnah and leadership in this field are known and acknowledged, and who, generation after generation, benefited from the bounty of the Prophet.
+
+[en]
+I have tried to make the style of this summary easy and clear. Along with brevity, I have also taken care that the terms of the Shariah that the Salaf used in their books are recorded exactly, word for word, as far as possible, so that every reader, especially members of the new generation, may benefit fully, and the beliefs of the Salaf may come before their eyes in brief, because the science of creed is like a chain whose links are joined to one another.

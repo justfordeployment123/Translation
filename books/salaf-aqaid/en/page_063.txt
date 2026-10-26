@@ -1,0 +1,62 @@
+# title: Page 63
+# English edition of book page 63, built by build_english.py from en_src/ and page_063.txt
+
+[en]
+He says:
+
+[ar]
+هُوَ الَّذِي خَلَقَ لَكُمْ مَا فِي الْأَرْضِ جَمِيعَا
+
+[en]
+It is He who created for you all of that which is on the earth.
+
+[ref]
+البقرة 29:2.
+
+[en]
+He also said:
+
+[ar]
+إِنَّ اللَّهَ هُوَ الرَّزَّاقُ ذُو الْقُوَّةِ الْمَتِينْ
+
+[en]
+Indeed, it is Allah who is the (continual) Provider, the firm possessor of strength.
+
+[ref]
+الذاريات 58:51.
+
+[en]
+The disbelievers of Quraysh did not dispute this kind of Tawhid. Most followers of other religions also have no objection to it. They all accept that the Creator of this universe is Allah the Exalted. Allah says:
+
+[ar]
+وَلَئِنْ سَأَلْتَهُمْ مَنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ لَيَقُولُنَّ اللَّهْ
+
+[en]
+If you asked them, “Who created the heavens and earth and subjected the sun and the moon?” they would surely say, “Allah.”
+
+[ref]
+العنكبوت 61:29.
+
+[en]
+And He says:
+
+[ar]
+قُلْ لِمَنِ الْأَرْضُ وَمَنْ فِيهَا إِنْ كُنْتُمْ تَعْلَمُونْ
+
+[ar]
+سَيَقُولُونَ لِلَّهِ ۚ قُلْ أَفَلَا تَذَكَّرُونْ
+
+[ar]
+قُلْ مَنْ رَبُّ السَّمَاوَاتِ السَّبْعِ وَرَبُّ الْعَرْشِ الْعَظِيمْ
+
+[ar]
+سَيَقُولُونَ لِلَّهِ ۚ قُلْ أَفَلَا تَتَّقُونْ
+
+[ar]
+قُلْ مَنْ بِيَدِهِ مَلَكُوتُ كُلِّ شَيْءٍ وَهُوَ يُجِيرُ وَلَا يُجَارُ عَلَيْهِ إِنْ كُنْتُمْ تَعْلَمُونْ
+
+[ar]
+سَيَقُولُونَ لِلَّهِ ۚ قُلْ فَأَنَّىٰ تُسْحَرُونْ
+
+[ar]
+بَلْ أَتَيْنَاهُمْ بِالْحَقِّ وَإِنَّهُمْ لَكَاذِبُونْ

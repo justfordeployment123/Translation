@@ -1,0 +1,41 @@
+# title: Page 351
+# English edition of book page 351, built by build_english.py from en_src/ and page_351.txt
+
+[en]
+He says:
+
+[en]
+For the following reasons, watching sports on television is also impermissible:
+
+[en]
+First: The players' thighs are usually bare, and in the hadith the thigh is declared part of what must be covered, so looking at the players' thighs is impermissible.
+
+[en]
+Second: It is a mere waste of time; there is no benefit in it for either religion or this world.
+
+[en]
+Third: It weakens the Muslims' principle of friendship and enmity towards the disbelievers.
+
+[en]
+Fourth: It paves the way for hatred and disagreement among friends, because everyone is passionate about the player and the team he likes.
+
+[en]
+Salah: Teacher! But there are countless useful things on it too.
+
+[en]
+Teacher: I will answer this objection of yours as well, with what the people of knowledge say about it.
+
+[en]
+Salah: Yes, please tell me.
+
+[en]
+Teacher: Some people think: We only use television for useful things; we watch nothing on it that is objectionable or against the Shariah. But this is a mere verbal claim; the reality is the opposite, for the following reasons:
+
+[en]
+First: On it, useful things are very few compared with wrong things.
+
+[en]
+Second: At the start of a programme it is not possible to judge whether it is useful or not.
+
+[en]
+Third: Even if we accept that you use it only for useful things, what guarantee is there that your children also use it properly when you are not there?

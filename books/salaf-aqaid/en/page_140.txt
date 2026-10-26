@@ -1,0 +1,29 @@
+# title: Page 140
+# English edition of book page 140, built by build_english.py from en_src/ and page_140.txt
+
+[en]
+They call him a transgressor and deficient in faith, as long as he does not consider the sin lawful. Allah says:
+
+[ar]
+إِنَّ اللَّهَ لَا يَغْفِرُ أَنْ يُشْرَكَ بِهِ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَنْ يَشَاءُ ۚ وَمَنْ يُشْرِكْ بِاللَّهِ فَقَدِ افْتَرَىٰ إِثْمًا عَظِيمَا
+
+[en]
+Indeed, Allah does not forgive association with Him, but He forgives what is less than that for whom He wills. And he who associates others with Allah has certainly fabricated a tremendous sin.
+
+[ref]
+النسآء 48:4.
+
+[en]
+And He says:
+
+[ar]
+قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنْفُسِهِمْ لَا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ ۚ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ جَمِيعًا ۚ إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمْ
+
+[en]
+Say, “O My servants who have transgressed against themselves (by sinning), do not despair of the mercy of Allah. Indeed, Allah forgives all sins. Indeed, it is He who is the Forgiving, the Merciful.”
+
+[ref]
+الزمر 53:39.
+
+[en]
+If a person dies upon some sin other than shirk, and he did not consider that sin lawful, his affair rests with Allah: if He wills He punishes him, or if He wills He forgives him. This belief is opposed by the misguided sects that declare the one who commits a major sin a disbeliever, or say that he is in a position between two positions (for this they use the term manzilah bayn al-manzilatayn, “a position between the two positions”).

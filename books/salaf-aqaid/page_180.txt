@@ -1,0 +1,37 @@
+# title: Page 180
+# Salaf-e-Saliheen ke Aqaid o Nazariyat, book page 180 (PDF page 177), ساتواں اصول: احکام و مسائل اخذ کرنے کے ذرائع اور طریق استدلال
+# The first line of the page ("وَسُنَّةَ رَسُولِهِ") ends the hadith that starts on page 179, so it is on page 179. The hadith's translation
+# starts here, so it stays here, followed by its footnote ① ("الموطأ للإمام مالك، حديث: 1395."), whose marker is after the translation.
+# The Urdu translation of the last hadith continues on page 181 ("تھام لینا ... ہر بدعت گمراہی ہے۔”"); it is kept whole here,
+# with its footnote ① ("سنن أبي داود، السنة، حديث: 4607."), printed at the foot of page 181.
+# The last hadith (al-'Irbad ibn Sariyah): the book's wording is Abu Dawud 4607 (which it cites), except that it has
+# "الْخُلَفَاءِ الرَّاشِدِينَ الْمَهْدِيِّينَ" where Abu Dawud has "الْمَهْدِيِّينَ الرَّاشِدِينَ"; that phrase is taken from Ibn Majah 42
+# (the same hadith, same Companion), which has the book's order. Abu Dawud's "فَعَلَيْكُمْ" is matched with "~" (the book has
+# "عَلَيْكُمْ"). The excerpts pause at the book's commas.
+# Proofreader please check: the join of Abu Dawud 4607 and Ibn Majah 42 (both al-'Irbad ibn Sariyah) for the order
+# "الرَّاشِدِينَ الْمَهْدِيِّينَ"; with Abu Dawud alone the voice would read "الْمَهْدِيِّينَ الرَّاشِدِينَ".
+
+[ur]
+“میں نے تم میں دو باتیں چھوڑی ہیں۔ جب تک تم ان دونوں کو تھامے رکھو گے کبھی گمراہ نہیں ہو گے، کتاب اللہ اور سنتِ رسول ﷺ۔”
+
+[ref]
+الموطأ للإمام مالك، حديث: 1395.
+
+[ur]
+اہل سنت والجماعت یہ نہیں کہتے: کتاب اللہ، پھر سنت رسول ﷺ بلکہ وہ کہتے ہیں: کتاب اللہ اور سنت رسول ﷺ۔ وہ ان دونوں کا ذکر ایک ساتھ کرتے ہیں کیونکہ سنت رسول ﷺ، کتاب اللہ سے مربوط ہے، اس لیے بھی کہ اللہ تعالیٰ نے اطاعت اللہ و رسول ﷺ فرض قرار دی ہے۔ سنت یہ بتاتی ہے کہ اس فرض کی تعمیل کیسے کی جائے۔ وہ اس فرض کی تفصیلات بیان کرتی ہے۔
+
+[ur]
+کتاب اللہ اور سنت رسول ﷺ کے بعد اہل سنت والجماعت بالعموم مہاجرین و انصار کے منہاج پر اور بالخصوص خلفائے راشدین رضی اللہ عنہم کے منہاج پر چلتے ہیں۔ نبیٔ کریم ﷺ نے خاص طور پر خلفائے راشدین رضی اللہ عنہم کے اتباع کی وصیت فرمائی تھی۔
+
+[ur]
+صحابۂ کرام رضی اللہ عنہم کے بعد اہل سنت والجماعت فضیلت یافتہ اولین اَدوار سے تعلق رکھنے والے لوگوں کی پیروی کرتے ہیں۔ نبیٔ اکرم ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H abudawud:4607 from ~عَلَيْكُمْ to بِسُنَّتِي}}، {{H ibnmajah:42 from وَسُنَّةِ الْخُلَفَاءِ to الْمَهْدِيِّينَ}}، {{H abudawud:4607 from تَمَسَّكُوا to بِهَا}}، {{H abudawud:4607 from وَعَضُّوا to بِالنَّوَاجِذِ}}، {{H abudawud:4607 from وَإِيَّاكُمْ to الأُمُورِ}}، {{H abudawud:4607 from فَإِنَّ كُلَّ to بِدْعَةٌ}}، {{H abudawud:4607 from وَكُلَّ بِدْعَةٍ to ضَلاَلَةٌ}}
+عَلَيْكُمْ بِسُنَّتِي، وَسُنَّةِ الْخُلَفَاءِ الرَّاشِدِينَ الْمَهْدِيِّينْ، تَمَسَّكُوا بِهَا، وَعَضُّوا عَلَيْهَا بِالنَّوَاجِذْ، وَإِيَّاكُمْ وَمُحْدَثَاتِ الأُمُورْ، فَإِنَّ كُلَّ مُحْدَثَةٍ بِدْعَةْ، وَكُلَّ بِدْعَةٍ ضَلاَلَةْ
+
+[ur]
+“میری سنت اور ہدایت یافتہ خلفائے راشدین کی سنت پر قائم رہنا۔ اسے تھام لینا اور ڈاڑھوں کے ساتھ مضبوطی سے پکڑ لینا۔ دین میں نئی باتوں سے بچ کر رہنا کیونکہ ہر نئی بات بدعت اور ہر بدعت گمراہی ہے۔”
+
+[ref]
+سنن أبي داود، السنة، حديث: 4607.

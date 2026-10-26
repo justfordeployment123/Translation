@@ -1,0 +1,49 @@
+# title: Page 136
+# Salaf-e-Saliheen ke Aqaid o Nazariyat, book page 136 (PDF page 133), دوسرا اصول: حقیقتِ ایمان
+# Page 135 ends with a full paragraph; this page starts with a new one.
+# The Arabic term «ناقِصُ الإيمان» is part of the Urdu sentence («وہ دنیا میں ... مومن ہے»), so it stays in the [ur] block, typed as
+# printed with its two harakat, stopping form on the last word.
+# Hadith 1: the book cites Muslim 91 and Musnad Ahmad. Muslim 91 (266 in the hadith-api numbering) reads "لاَ يَدْخُلُ النَّارَ أَحَدٌ فِي
+# قَلْبِهِ مِثْقَالُ حَبَّةِ خَرْدَلٍ"; the book's wording («مَنْ كَانَ فِي قَلْبِهِ مِثْقَالُ حَبَّةٍ مِنْ خَرْدَلٍ») is the same hadith of Ibn Mas'ud
+# in Ibn Majah 59, filled from there (its second half, without the joined «وَ»).
+# An-Nisa 4:48 (part) is filled from the official text.
+# Hadith 2 (Abu Dharr) starts at the foot of the page and runs on to page 137 ("يُشْرِكُ بِاللَّهِ شَيْئًا ... وَإِنْ سَرَقَ"); it is kept whole
+# here, filled from Muslim 272 (the book's Muslim 94). Its translation, which carries footnote ① (صحيح مسلم، الإيمان، حديث: 94), starts
+# page 137, so that footnote stays there with it.
+# References: the digit groups are typed as they appear on the page, left to right («399/1», «48:4»).
+
+[ur]
+کبیرہ گناہ کا مرتکب ایمان سے خارج نہیں ہوتا۔ وہ دنیا میں ناقِصُ الإيمانْ مومن ہے۔ وہ اپنے ایمان کے باعث مومن اور کبیرہ گناہ کی وجہ سے فاسق ہے۔ آخرت میں وہ اللہ کی مشیت کے تحت ہوگا، اللہ تعالیٰ چاہے تو اسے معاف کر دے، چاہے تو عذاب دے۔ ایمان کے حصے اور اجزا ہو سکتے ہیں۔ اللہ تعالیٰ بعض اہل ایمان کو جو جہنم میں جا چکے ہوں گے، ان کے قلیل ایمان کی وجہ سے جہنم سے نکال لے گا۔
+
+[ur]
+نبی کریم ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H ibnmajah:59 from ~لاَ يَدْخُلُ النَّارَ to إِيمَانٍ}}
+لاَ يَدْخُلُ النَّارَ مَنْ كَانَ فِي قَلْبِهِ مِثْقَالُ حَبَّةٍ مِنْ خَرْدَلٍ مِنْ إِيمَانْ
+
+[ur]
+“وہ شخص جہنم میں نہیں جائے گا جس کے دل میں رائی کے دانے کے برابر بھی ایمان ہوگا۔”
+
+[ref]
+صحيح مسلم، الإيمان، حديث: 91، ومسند أحمد: 399/1.
+
+[ur]
+یوں اہل سنت والجماعت، اہل قبلہ میں سے کسی گناہ کی وجہ سے کافر نہیں کہتے اِلّا یہ کہ وہ ایسے گناہ کا ارتکاب کرے جو ایمان کی جڑ اکھاڑ ڈالے۔ ارشادِ باری تعالیٰ ہے:
+
+[ar]
+# quran 4:48 from إِنَّ اللَّهَ لَا يَغْفِرُ to لِمَنْ يَشَاءُ
+إِنَّ اللَّهَ لَا يَغْفِرُ أَنْ يُشْرَكَ بِهِ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَنْ يَشَاءْ
+
+[ur]
+“بے شک اللہ (یہ گناہ) نہیں بخشے گا کہ اس کے ساتھ شرک کیا جائے اور وہ اس کے علاوہ جسے چاہے بخش دے گا۔”
+
+[ref]
+النسآء 48:4.
+
+[ur]
+نبیِ مکرم ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H muslim:272 from أَتَانِي to سَرَقَ#2}}
+أَتَانِي جِبْرِيلُ عَلَيْهِ السَّلاَمُ فَبَشَّرَنِي أَنَّهُ مَنْ مَاتَ مِنْ أُمَّتِكَ لاَ يُشْرِكُ بِاللَّهِ شَيْئًا دَخَلَ الْجَنَّةْ، قُلْتُ وَإِنْ زَنَى وَإِنْ سَرَقْ، قَالَ وَإِنْ زَنَى وَإِنْ سَرَقْ

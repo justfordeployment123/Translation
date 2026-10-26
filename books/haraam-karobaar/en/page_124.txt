@@ -1,0 +1,14 @@
+# title: Page 124
+# English edition of book page 124, built by build_english.py from en_src/ and page_124.txt
+
+[en]
+Man: May Allah reward you! That is just what we will do.
+
+[en]
+Teacher: May Allah bless you!
+
+[en]
+Man: As-salamu alaikum wa rahmatullahi wa barakatuh.
+
+[en]
+Teacher: Wa alaikum as-salam wa rahmatullahi wa barakatuh.

@@ -1,0 +1,35 @@
+# title: Page 338
+# English edition of book page 338, built by build_english.py from en_src/ and page_338.txt
+
+[hen]
+Chapter Forty-Nine: Making the Hair Black (Applying Dye)
+
+[en]
+Young man: Teacher! There is another question.
+
+[en]
+Teacher: Yes, go ahead.
+
+[en]
+Young man: I used to dye my hair black. What is the ruling on that?
+
+[en]
+Teacher: Dyeing the hair black is forbidden because of the following hadith. The Messenger of Allah, peace be upon him, said:
+
+[ar]
+يَكُونُ قَوْمٌ يَخْضِبُونَ فِي آخِرِ الزَّمَانِ بِالسَّوَادِ كَحَوَاصِلِ الْحَمَامِ لاَ يَرِيحُونَ رَائِحَةَ الْجَنَّةْ
+
+[ref]
+صحيح. سنن أبي داود، رقم الحديث [4212]
+
+[en]
+“At the end of time there will be people who dye their hair with black, like the breasts of pigeons. These people will not find the fragrance of Paradise.”
+
+[en]
+Young man: I seek Allah's forgiveness! Such a severe punishment that they will not even be granted the fragrance of Paradise!
+
+[en]
+Teacher: Countless old people among us dye their hair black, and this has the following harms:
+
+[en]
+First: It falsifies the creation of Allah the Exalted.

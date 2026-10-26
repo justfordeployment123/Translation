@@ -1,0 +1,18 @@
+# title: Page 476
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 476 (PDF page 477), چھہترواں باب: مرد کا عورتوں کو ٹریننگ دینا
+# The page starts with a new paragraph of the teacher's turn (page 475 ends with the last list item); it goes on without his name.
+# «إنا لله و إنا إليه راجعون» is printed in Arabic type at the start of Husain's turn, said as the usual phrase on hearing bad news,
+# not quoted for recitation; it stays in the Urdu block in Urdu spelling (as on pages 409 and 442).
+# The chapter ends on this page with a full dialogue turn; the rest of the page is blank. Page 477 starts «ستترواں باب».
+
+[ur]
+مندرجہ بالا تمام امور ایسے ہیں جو ہلاکت اور تباہی کا سبب بن سکتے ہیں۔
+
+[ur]
+حسین: اس کا حل کیا ہے؟
+
+[ur]
+استاد: فوراً اس کام کو چھوڑ دو اور کوئی نیا کام تلاش کرو۔
+
+[ur]
+حسین: انا للہ و انا الیہ راجعون، میں ان شاء اللہ جلد اس کو چھوڑ دوں گا۔

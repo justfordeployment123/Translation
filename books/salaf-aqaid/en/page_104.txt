@@ -1,0 +1,32 @@
+# title: Page 104
+# English edition of book page 104, built by build_english.py from en_src/ and page_104.txt
+
+[en]
+He was asked, “What happened to you?” He said, “Between me and him there was a trench of fire, terror and wings.” The noble Messenger, peace be upon him, said: “Had he come near, the angels would have torn him to pieces.”
+
+[ref]
+صحيح مسلم، صفات المنافقين، حديث: 2797.
+
+[en]
+Faith in the Last Day (believing in the Day of the Hereafter): Ahl as-Sunnah wal-Jama'ah believe in the Last Day, which means firmly believing in the Day of Resurrection and fully believing in what the Quran and the Sunnah state explicitly about all that will happen after death. In many places in the Noble Quran, Allah the Exalted has mentioned the Last Day with great emphasis, and has mentioned faith in the Last Day together with faith in Allah. Allah the Exalted says:
+
+[ar]
+وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنْزِلَ إِلَيْكَ وَمَا أُنْزِلَ مِنْ قَبْلِكَ وَبِالْآخِرَةِ هُمْ يُوقِنُونْ
+
+[en]
+And who believe in what has been revealed to you, (O Muhammad), and what was revealed before you, and of the Hereafter they are certain (in faith).
+
+[ref]
+البقرة 4:2.
+
+[en]
+Ahl as-Sunnah wal-Jama'ah also believe that no one except Allah knows when the Hour will come. Allah the Exalted says:
+
+[ar]
+إِنَّ اللَّهَ عِنْدَهُ عِلْمُ السَّاعَةْ
+
+[en]
+Indeed, Allah (alone) has knowledge of the Hour.
+
+[ref]
+لقمان 34:31.

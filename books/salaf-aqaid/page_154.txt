@@ -1,0 +1,31 @@
+# title: Page 154
+# Salaf-e-Saliheen ke Aqaid o Nazariyat, book page 154 (PDF page 151), چوتھا اصول: وعدہ وعید کی نصوص (صریح عبارتوں) پر ایمان
+# The first words of the page ("کریم ﷺ نے ان کے متعلق یہ شہادت دی تھی۔") end a sentence that is on page 153, where it starts;
+# the paragraph goes on here with «آپ ﷺ نے جس کے متعلق ...».
+# Hadith: Tirmidhi 3747 (Abdur-Rahman ibn Awf), as the book cites; filled in excerpts at the book's commas.
+# Proofreader please check: the book prints «وَسَعْدُ بْنُ أَبِي وَقَّاصٍ فِي الْجَنَّةِ، وَسَعِيدُ بْنُ زَيْدٍ فِي الْجَنَّةِ»; Tirmidhi 3747 has
+# "وَسَعْدٌ فِي الْجَنَّةِ وَسَعِيدٌ فِي الْجَنَّةِ", and no report in the collections has the full names in the Prophet's words, so the official
+# wording of Tirmidhi 3747 is used. The book also prints «الرَّحْمٰنِ ابْنُ عَوْفٍ» (with alif at the start of the line); the source has "بْنُ".
+# The printed ligature «رضوان اللہ علیہم اجمعین» (twice) is typed in full words.
+# Print typo corrected: "زید بن خارثہ" -> "زید بن حارثہ" (Zayd ibn Haritha, named with Ja'far and Abdullah ibn Rawaha, the martyrs of Mu'tah).
+# Proofreader please check: the print has «خارثہ» (خ with a dot, and ث).
+# The last sentence continues on page 155 ("متعلق نصوص میں آتا ہے کہ یہ دونوں جہنمی ہیں۔"); it is kept whole here.
+
+[ur]
+آپ ﷺ نے جس کے متعلق یہ شہادت دی کہ وہ جنتی ہے، اہل سنت والجماعت بھی اس کے متعلق یہی شہادت دیتے ہیں۔ آپ نے فرمایا:
+
+[ar]
+# hadith {{H tirmidhi:3747 from أَبُو بَكْرٍ to الْجَنَّةِ}}، {{H tirmidhi:3747 from وَعُمَرُ to الْجَنَّةِ}}، {{H tirmidhi:3747 from وَعُثْمَانُ to الْجَنَّةِ}}، {{H tirmidhi:3747 from وَعَلِيٌّ to الْجَنَّةِ}}، {{H tirmidhi:3747 from وَطَلْحَةُ to الْجَنَّةِ}}، {{H tirmidhi:3747 from وَالزُّبَيْرُ to الْجَنَّةِ}}، {{H tirmidhi:3747 from وَعَبْدُ الرَّحْمَنِ to الْجَنَّةِ}}، {{H tirmidhi:3747 from وَسَعْدٌ to الْجَنَّةِ}}، {{H tirmidhi:3747 from وَسَعِيدٌ to الْجَنَّةِ}}، {{H tirmidhi:3747 from وَأَبُو عُبَيْدَةَ to الْجَنَّةِ}}
+أَبُو بَكْرٍ فِي الْجَنَّةْ، وَعُمَرُ فِي الْجَنَّةْ، وَعُثْمَانُ فِي الْجَنَّةْ، وَعَلِيٌّ فِي الْجَنَّةْ، وَطَلْحَةُ فِي الْجَنَّةْ، وَالزُّبَيْرُ فِي الْجَنَّةْ، وَعَبْدُ الرَّحْمَنِ بْنُ عَوْفٍ فِي الْجَنَّةْ، وَسَعْدٌ فِي الْجَنَّةْ، وَسَعِيدٌ فِي الْجَنَّةْ، وَأَبُو عُبَيْدَةَ بْنُ الْجَرَّاحِ فِي الْجَنَّةْ
+
+[ur]
+“ابوبکر جنتی ہیں، عمر جنتی ہیں، عثمان جنتی ہیں، علی جنتی ہیں، طلحہ جنتی ہیں، زبیر جنتی ہیں، عبدالرحمان بن عوف جنتی ہیں، سعد بن ابی وقاص جنتی ہیں، سعید بن زید جنتی ہیں اور ابوعبیدہ بن جراح جنتی ہیں۔” رضوان اللہ علیہم اجمعین
+
+[ref]
+جامع الترمذي، المناقب، حديث: 3747.
+
+[ur]
+صحابہ کرام کی بڑی تعداد کے لیے روایات میں جنت کی بشارت آئی ہے۔ ان میں عکاشہ بن محصن، عبداللہ بن سلام، آلِ یاسر، بلال بن رباح، جعفر بن ابی طالب، عمرو بن ثابت، زید بن حارثہ، عبداللہ بن رواحہ، سیدہ فاطمہ بنت رسول ﷺ، سیدہ خدیجہ بنت خویلد، سیدہ عائشہ، سیدہ صفیہ، سیدہ حفصہ اور دیگر تمام ازواج مطہرات شامل ہیں۔ رضوان اللہ علیہم اجمعین۔
+
+[ur]
+جن افراد کے بارے میں روایات میں یہ آیا ہے کہ وہ جہنمی ہیں، ہم بھی ان کے متعلق یہی شہادت دیتے ہیں کہ وہ جہنمی ہیں۔ ابولہب اور اس کی بیوی ام جمیل کے متعلق نصوص میں آتا ہے کہ یہ دونوں جہنمی ہیں۔

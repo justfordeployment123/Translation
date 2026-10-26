@@ -1,0 +1,29 @@
+# title: Page 152
+# English edition of book page 152, built by build_english.py from en_src/ and page_152.txt
+
+[en]
+But whoever among the believers and the God-fearing dies upon Islam, Ahl as-Sunnah wal-Jama'ah, looking at his outward Islam, bear a general witness that such people are, in sha Allah, among the people of Paradise. Allah the Exalted says:
+
+[ar]
+وَبَشِّرِ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أَنَّ لَهُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارْ
+
+[en]
+And give good tidings to those who believe and do righteous deeds that they will have gardens (in Paradise) beneath which rivers flow.
+
+[ref]
+البقرة 25:2.
+
+[en]
+And He says:
+
+[ar]
+إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَنَهَرْ
+
+[ar]
+فِي مَقْعَدِ صِدْقٍ عِنْدَ مَلِيكٍ مُقْتَدِرْ
+
+[en]
+Indeed, the righteous will be among gardens and rivers, In a seat of honor near a Sovereign, Perfect in Ability.
+
+[ref]
+القمر 55,54:54.

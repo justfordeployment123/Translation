@@ -1,0 +1,20 @@
+# title: Page 57
+# English edition of book page 57, built by build_english.py from en_src/ and page_057.txt
+
+[ar]
+وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا وَلَا تَفَرَّقُوا
+
+[en]
+And hold firmly to the rope of Allah all together and do not become divided.
+
+[ref]
+آل عمران 103:3.
+
+[en]
+The greatest cause of the Muslims' differences is that their methods, and the sources and means of their rulings, differ from one another. If, in matters of creed, their means and source became one, as it was in the time of the noble Companions, may Allah be pleased with them, their differences would end completely.
+
+[en]
+Third: By adopting this creed, a person's bond is established directly with Allah the Exalted and His Messenger, peace be upon him, and with their greatness and love. He does not overstep the limits set by Allah the Exalted and His Messenger, peace be upon him, because the source of the creed of the Righteous Predecessors is qal Allah wa qal ar-Rasul (Allah said and the Messenger said), and this creed is entirely free of the influence of every kind of misguidance, all doubts and suspicions, and outside factors and elements such as philosophy, logic and rationalism. The source of this creed is the Quran and the Sunnah, and nothing else.
+
+[en]
+Fourth: This creed is very simple, easy and very clear. It has no twists and turns and no complications. It has no ambiguity; it can be understood fully and easily. It is free of every kind of distortion and alteration. A person who believes in this creed feels very much at peace and unburdened. He does not fall prey to doubts, suspicions and superstitions, or to the tricks and whisperings of Satan. His eyes are cooled with joy in knowing that, by adopting the methodology of the noble Companions, may Allah be pleased with them, he is following the life and way of the Prophet.

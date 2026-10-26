@@ -1,0 +1,57 @@
+# title: Page 392
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 392 (PDF page 393), ساٹھواں باب: آلاتِ موسیقی کی خرید و فروخت
+# The page starts with a new dialogue turn (page 391 ends with the translation of Luqman 31:6).
+# «لَهْوَ الْحَدِيْثِ» (from 31:6, in ornamental brackets) is a term inside Urdu sentences ("... سے کیا مراد ہے؟", "... سے مراد"),
+# so it stays in its sentences' [ur] blocks (read in the Urdu flow), typed as printed with its harakat, brackets dropped, stopping
+# form on the last word (as on page 256). The quote marks around Ibn Mas'ud's words are kept.
+# Al-Isra 17:64 (part) is filled from the official text (fill_quran.py).
+# Hadith: Bukhari 5590 (the book cites "صحيح البخاري، رقم الحديث [5590]"), filled from "لَيَكُونَنَّ" to "وَالْمَعَازِفَ", as on page 256.
+# The answer to the manager's question ("یعنی عنقریب ...") is printed as a paragraph without a speaker's name; it is typed so.
+# The last sentence continues on page 393 ("چیزیں حرام ہیں۔"); it is kept whole here.
+
+[ur]
+مدیر: لَهْوَ الْحَدِيْثْ سے کیا مراد ہے؟
+
+[ur]
+استاد: حضرت عبداللہ بن مسعود رضی اللہ عنہ فرماتے ہیں:
+
+[ur]
+“لَهْوَ الْحَدِيْثْ سے مراد گانا بجانا ہے۔”
+
+[ur]
+حضرت حسن بصری رحمہ اللہ فرماتے ہیں کہ اکثر مفسرین کے نزدیک اس سے مراد گانا بجانا ہے۔
+
+[ur]
+دوسری جگہ پر اللہ تعالیٰ فرماتے ہیں:
+
+[ar]
+# quran 17:64 from وَاسْتَفْزِزْ مَنِ to وَرَجِلِكَ
+وَاسْتَفْزِزْ مَنِ اسْتَطَعْتَ مِنْهُمْ بِصَوْتِكَ وَأَجْلِبْ عَلَيْهِمْ بِخَيْلِكَ وَرَجِلِكْ
+
+[ref]
+[الإسراء: 64]
+
+[ur]
+“اور ان میں سے جس کو تو اپنی آواز کے ساتھ بہکا سکے بہکا لے اور اپنے سوار اور اپنے پیادے ان پر چڑھا کر لے آ۔”
+
+[ur]
+علما فرماتے ہیں اس سے مراد گانا بجانا اور آلاتِ موسیقی ہیں۔
+
+[ur]
+رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H bukhari:5590 from لَيَكُونَنَّ to وَالْمَعَازِفَ}}
+لَيَكُونَنَّ مِنْ أُمَّتِي أَقْوَامٌ يَسْتَحِلُّونَ الْحِرَ وَالْحَرِيرَ وَالْخَمْرَ وَالْمَعَازِفْ
+
+[ref]
+صحيح البخاري، رقم الحديث [5590]
+
+[ur]
+“ایک وقت ایسا آئے گا کہ میری امت کے کچھ لوگ زنا، ریشم، شراب اور موسیقی کو حلال کر لیں گے۔”
+
+[ur]
+مدیر: اس حدیث کا کیا معنی ہے؟
+
+[ur]
+یعنی عنقریب مسلمانوں میں ایسی قومیں آ جائیں گی، جن کا خیال ہوگا کہ زنا، ریشم کا لباس پہننا، شراب پینا اور موسیقی حلال ہے، حالانکہ حقیقت میں یہ چیزیں حرام ہیں۔

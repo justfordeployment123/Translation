@@ -1,0 +1,70 @@
+# title: Page 492
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 492 (PDF page 493), اکیاسیواں باب: عورتوں اور مردوں کا اکٹھے کام کرنا
+# Page 491 ends with a full sentence; the page opens with item ② of the teacher's list of proofs («دلیلیں»), which starts straight
+# with Al-Ahzab 33:33 («وَلَا تَبَرَّجْنَ ...»). As only some items open with Arabic, all keep their ordinals (mixed-list rule):
+# «دوسری:» stands alone in an [ur] block before the verse (as «پہلی:» on page 491), and items ③–⑥ are read تیسری، چوتھی، پانچویں، چھٹی.
+# The teacher's turn goes on without his name.
+# Al-Ahzab 33:33 (from «وَلَا تَبَرَّجْنَ») is filled from the official text (fill_quran.py).
+# Item ④ quotes the hadith «الْمَرْأَةُ عَوْرَةٌ» inside its sentence, followed by its translation; the sentence is split around it, and the
+# Arabic is filled from Tirmidhi 1173 (the book cites it, with صحيح الجامع 6690).
+# The paragraph «خصوصاً جب ...» is printed as its own paragraph and is its own block.
+# Hadith 2: «كُلُّكُمْ رَاعٍ ...» (Ibn Umar). Its first part is Muslim 4724 (hadith-api numbering; the book cites Muslim [1829]),
+# which has no pause after «رَاعٍ», as the book prints it; the part after the printed dots is Bukhari 2751, the closest wording
+# («وَالرَّجُلُ رَاعٍ فِي أَهْلِهِ وَمَسْئُولٌ عَنْ رَعِيَّتِهِ»; Bukhari 893, which the book cites, has «وَهْوَ مَسْئُولٌ»). The printed dots are not typed;
+# the voice pauses at the first ones. The print resumes after them with «الرَّجُلُ» without the source's joined «وَ»; the placeholder's
+# "~" leaves it out, so the fill reads as printed.
+# The Urdu translation of hadith 2 continues on page 493 ("کیا جائے گا....”"); it is kept whole here.
+
+[ur]
+دوسری:
+
+[ar]
+# quran 33:33 from وَلَا تَبَرَّجْنَ to الْجَاهِلِيَّةِ الْأُولَىٰ
+وَلَا تَبَرَّجْنَ تَبَرُّجَ الْجَاهِلِيَّةِ الْأُولَىٰ
+
+[ref]
+[الأحزاب: 33]
+
+[ur]
+“اور پہلی جاہلیت کے زینت ظاہر کرنے کی طرح زینت ظاہر نہ کرو۔”
+
+[ur]
+یہ بات معروف ہے کہ اکثر عورتیں گھر سے باہر جاتے وقت زیب و زینت کا اہتمام کرتی ہیں۔
+
+[ur]
+تیسری: احادیث میں مرد و زن کے اختلاط سے منع کیا گیا ہے۔
+
+[ur]
+چوتھی: حدیث نبوی ہے کہ
+
+[ar]
+# hadith {{H tirmidhi:1173 from الْمَرْأَةُ to عَوْرَةٌ}}
+الْمَرْأَةُ عَوْرَةْ
+
+[ref]
+سنن الترمذي، رقم الحديث [1173] صحيح الجامع، رقم الحديث [6690]
+
+[ur]
+(عورت پردہ ہے) یعنی عورت پر لازم ہے کہ وہ اپنے آپ کو چھپا کر رکھے۔
+
+[ur]
+پانچویں: عورتوں کی ذمے داریوں میں اولاد کی تربیت، گھر اور خاندان کی عزت کی حفاظت وغیرہ شامل ہے۔
+
+[ur]
+چھٹی: عورت جب گھر سے باہر نکلتی ہے تو یہ مردوں کے لیے فتنہ بنتی ہے۔
+
+[ur]
+خصوصاً جب عورت کا خاوند، والد یا اس کا ولی موجود ہو اور وہ اس کی روزی روٹی کا کام کر رہا ہو، تو عورت کے لیے گھر سے باہر جا کر ملازمت کرنے اور کام کرنے کا کوئی عذر باقی نہیں رہتا۔
+
+[ur]
+رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H muslim:4724 from كُلُّكُمْ to رَعِيَّتِهِ}}، {{H bukhari:2751 from ~الرَّجُلُ رَاعٍ فِي أَهْلِهِ to رَعِيَّتِهِ}}
+كُلُّكُمْ رَاعٍ وَكُلُّكُمْ مَسْئُولٌ عَنْ رَعِيَّتِهْ، الرَّجُلُ رَاعٍ فِي أَهْلِهِ وَمَسْئُولٌ عَنْ رَعِيَّتِهْ
+
+[ref]
+صحيح البخاري، رقم الحديث [893] صحيح مسلم، رقم الحديث [1829]
+
+[ur]
+“تم میں سے ہر شخص ذمے دار ہے اور ہر ایک سے اس کی ذمے داری کے بارے میں سوال کیا جائے گا... آدمی اپنے اہل و عیال کا ذمے دار ہے اور اس سے اس کی ذمے داری کے بارے میں سوال کیا جائے گا....”

@@ -1,0 +1,44 @@
+# title: Page 189
+# Salaf-e-Saliheen ke Aqaid o Nazariyat, book page 189 (PDF page 186), آٹھواں اصول: جائز اُمور میں مسلمان حکمرانوں کی اطاعت واجب ہے
+# The first lines of the page ("آخرت کے دن پر ایمان رکھتے ہو۔ ... بہت اچھا ہے۔”") and their footnote ① ("النسآء 59:4.") end the
+# translation of An-Nisa 4:59 that starts on page 188; they are typed there.
+# The last hadith continues on page 190 ("وَأَطِعْ"); the Arabic is kept whole here. Its Urdu translation starts on page 190 and stays
+# there, followed by its footnote ① ("صحيح مسلم، الإمارة، حديث: 1847."), printed there, whose marker is after the translation.
+# Hadith 1: Sahih al-Bukhari 2957 (the book cites Bukhari 2957 and Muslim 1835), filled from there.
+# Hadith 2: Sahih al-Bukhari 7142 (cited), filled in two excerpts so it pauses at the book's comma.
+# Hadith 3: Muslim 4785 in the hadith-api numbering (the book's Muslim 1847, Hudhayfah's hadith), filled in excerpts at the book's commas.
+# Proofreader please check: the translation of hadith 2 prints a full stop inside the sentence ("امیر بنا دیا جائے۔ جس کا سر منقّے
+# جیسا ہو۔”"); typed as printed.
+
+[ur]
+اور ارشادِ نبوی ہے:
+
+[ar]
+# hadith {{H bukhari:2957 from مَنْ أَطَاعَنِي to فَقَدْ عَصَانِي}}
+مَنْ أَطَاعَنِي فَقَدْ أَطَاعَ اللَّهْ، وَمَنْ عَصَانِي فَقَدْ عَصَى اللَّهْ، وَمَنْ يُطِعِ الأَمِيرَ فَقَدْ أَطَاعَنِي، وَمَنْ يَعْصِ الأَمِيرَ فَقَدْ عَصَانِي
+
+[ur]
+“جس نے میری اطاعت کی، اس نے اللہ کی اطاعت کی۔ جس نے میری نافرمانی کی، اس نے اللہ کی نافرمانی کی اور جو شخص امیر کی اطاعت کرے، اس نے میری اطاعت کی اور جو شخص امیر کی نافرمانی کرے، اس نے میری نافرمانی کی۔”
+
+[ref]
+صحيح البخاري، الجهاد والسير، حديث: 2957، وصحيح مسلم، الإمارة، حديث: 1835.
+
+[ur]
+آپ ﷺ نے ایک اور موقع پر فرمایا:
+
+[ar]
+# hadith {{H bukhari:7142 from اسْمَعُوا to وَأَطِيعُوا}}، {{H bukhari:7142 from وَإِنِ to زَبِيبَةٌ}}
+اسْمَعُوا وَأَطِيعُوا، وَإِنِ اسْتُعْمِلَ عَلَيْكُمْ عَبْدٌ حَبَشِيٌّ كَأَنَّ رَأْسَهُ زَبِيبَةْ
+
+[ur]
+“(امیر کی) بات سنو اور مانو، چاہے ایسے حبشی غلام کو تمھارا امیر بنا دیا جائے۔ جس کا سر منقّے جیسا ہو۔”
+
+[ref]
+صحيح البخاري، الأحكام، حديث: 7142.
+
+[ur]
+اور فرمایا:
+
+[ar]
+# hadith {{H muslim:4785 from تَسْمَعُ to لِلأَمِيرِ}}، {{H muslim:4785 from وَإِنْ ضُرِبَ to مَالُكَ}}، {{H muslim:4785 from فَاسْمَعْ to وَأَطِعْ}}
+تَسْمَعُ وَتُطِيعُ لِلأَمِيرْ، وَإِنْ ضُرِبَ ظَهْرُكَ وَأُخِذَ مَالُكْ، فَاسْمَعْ وَأَطِعْ

@@ -1,0 +1,29 @@
+# title: Page 281
+# English edition of book page 281, built by build_english.py from en_src/ and page_281.txt
+
+[en]
+“Allah the Exalted has cursed alcohol, the one who drinks it, the one who serves it, the one who sells it, the one who buys it, the one who presses it, the one who has it pressed, the one who carries it, the one to whom it is carried, and the one who consumes its price.”
+
+[en]
+Because it is forbidden, this sale is void. No blessing remains in such wealth, and such a man is opposing Allah and His Messenger, peace be upon him. In the Noble Quran, Allah the Exalted says:
+
+[ar]
+وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَىٰ ۖ وَلَا تَعَاوَنُوا عَلَى الْإِثْمِ وَالْعُدْوَانْ
+
+[ref]
+[المائدة: 2]
+
+[en]
+And cooperate in righteousness and piety, but do not cooperate in sin and aggression.
+
+[en]
+This blessed verse proves that not cooperating in deeds of righteousness and piety, and cooperating in deeds of evil and sin, is like waging war against Allah the Exalted. In the Noble Quran, Allah the Exalted says:
+
+[ar]
+إِنَّ الَّذِينَ يُحَادُّونَ اللَّهَ وَرَسُولَهُ كُبِتُوا كَمَا كُبِتَ الَّذِينَ مِنْ قَبْلِهِمْ
+
+[ref]
+[المجادلة: 5]
+
+[en]
+Indeed, those who oppose Allah and His Messenger are abased as those before them were abased.

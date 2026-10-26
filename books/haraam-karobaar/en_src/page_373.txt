@@ -1,0 +1,40 @@
+# English source for book page 373
+
+[en]
+Buyer: But I do not have that much money.
+
+[en]
+Faisal: All right, then pay the remaining amount in twelve instalments instead of fifteen, that is, three hundred pounds a month.
+
+[en]
+Buyer: Faisal! It is because of financial hardship that one has to buy things on instalments.
+
+[en]
+Teacher: How strange: on the one hand there is financial hardship, and on the other you are buying an AC.
+
+[en]
+Faisal: (Teacher, the whole truth will soon become clear to you.) Yes, Brother! Which AC have you chosen?
+
+[en]
+Buyer: This one on the right.
+
+[en]
+Faisal: (Turning to Salah) Write down the terms agreed with this customer.
+
+[en]
+(Salah wrote all the terms down in a notebook, and the customer, handing Faisal four hundred pounds, said:)
+
+[en]
+Buyer: If I wanted to sell this same AC to you for cash, how much would you take it for?
+
+[en]
+Faisal: For three thousand pounds.
+
+[en]
+Buyer: All right, I agree.
+
+[en]
+Teacher: What are the two of you doing?
+
+[en]
+Faisal: Teacher! This man is suffering financial hardship. He buys various things on instalments from various shops, and then sells those things for cash to the same shop and takes the money. For example, if he needs ten thousand, he goes to some shop and buys something worth twelve thousand on instalments, and after the deal is made he sells that same thing to the same shop for ten thousand. He meets his need with the ten thousand and pays the shopkeeper the twelve thousand in instalments.

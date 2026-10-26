@@ -1,0 +1,47 @@
+# title: Page 329
+# English edition of book page 329, built by build_english.py from en_src/ and page_329.txt
+
+[ar]
+نَهَى رَسُولُ اللَّهِ ﷺ عَنِ الْقَزَعْ
+
+[ref]
+صحيح البخاري، رقم الحديث [5920] صحيح مسلم، رقم الحديث [2120]
+
+[en]
+“The Messenger of Allah, peace be upon him, forbade qaza'.”
+
+[en]
+Young man: What does qaza' mean?
+
+[en]
+Teacher: Imam an-Nawawi, may Allah have mercy on him, says:
+
+[en]
+“Qaza' means shaving the hair of part of the head and leaving part unshaved.”
+
+[ref]
+شرح مسلم [107/14]
+
+[en]
+It is narrated from Abdullah ibn Umar, may Allah be pleased with them both, that the Messenger of Allah, peace be upon him, saw a child, part of whose head had been shaved and part left. He, peace be upon him, forbade doing this and said:
+
+[ar]
+احْلِقُوهُ كُلَّهُ أَوِ اتْرُكُوهُ كُلَّهْ
+
+[ref]
+صحيح. سنن أبي داود، رقم الحديث [4195]
+
+[en]
+“Shave all the hair of the head, or leave all of it.”
+
+[en]
+Some scholars hold that such a style and haircut is satanic, or is the way of the Jews.
+
+[ref]
+شرح صحيح مسلم [107/14]
+
+[en]
+Think about yourself: you are imitating your enemies, and you do not even realise it.
+
+[en]
+Young man: Teacher! Do not be so harsh; this is the age of enlightenment.

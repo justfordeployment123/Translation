@@ -1,0 +1,19 @@
+# title: Page 125
+# Salaf-e-Saliheen ke Aqaid o Nazariyat, book page 125 (PDF page 122), پہلا اصول: ایمان اور ارکانِ ایمان
+# The first words ("بطورِ دلیل سناتے ہیں:") end a sentence that is on page 124, where it starts. The verse that follows starts here and stays here.
+# An-Nisa 4:78 is filled from the official text (fill_quran.py), from «قُلْ كُلٌّ», where the book's quote starts.
+# The printed ligature «رضوان اللہ علیہم اجمعین» after the last sentence is typed in full words (as on page 154).
+# This is the end of the first principle; the rest of the page is blank (a decorative ornament, and print showing through from the other side).
+
+[ar]
+# quran 4:78 from قُلْ كُلٌّ to حَدِيثًا
+قُلْ كُلٌّ مِنْ عِنْدِ اللَّهِ ۖ فَمَالِ هَٰؤُلَاءِ الْقَوْمِ لَا يَكَادُونَ يَفْقَهُونَ حَدِيثَا
+
+[ur]
+“کہہ دیجیے: یہ سب کچھ اللہ کی طرف سے ہے، پھر کیا حال ہے ان لوگوں کا جو بات سمجھنے کے قریب نہیں پھٹکتے!”
+
+[ref]
+النسآء 78:4.
+
+[ur]
+اسی بات پر سلف صالحین، صحابہ و تابعین ایمان لائے تھے۔ رضوان اللہ علیہم اجمعین۔

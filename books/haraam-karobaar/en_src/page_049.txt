@@ -1,0 +1,13 @@
+# English source for book page 49
+
+[en]
+It is narrated from Anas ibn Malik, may Allah be pleased with him:
+
+[en]
+“The Messenger of Allah, peace be upon him, forbade the sale of fruit until it becomes bright. He, peace be upon him, was asked: What does becoming bright mean? He, peace be upon him, said: Until it turns red. Then he said: What do you think, if (a blight comes and) Allah the Exalted withholds the fruit, in return for what would you take your brother's wealth?”
+
+[en]
+“He, peace be upon him, forbade selling fruit until its soundness becomes clear. He, peace be upon him, forbade both the seller and the buyer from it.”
+
+[en]
+“He, peace be upon him, forbade buying and selling dates until they become bright, and he forbade the sale of ears of grain until they turn white and are safe from blight.”

@@ -1,0 +1,11 @@
+# title: Page 534
+# English edition of book page 534, built by build_english.py from en_src/ and page_534.txt
+
+[ar]
+أَقِمْ حَتَّى تَأْتِيَنَا الصَّدَقَةُ فَنَأْمُرَ لَكَ بِهَا ثُمَّ قَالَ يَا قَبِيصَةُ إِنَّ الْمَسْأَلَةَ لاَ تَحِلُّ إِلاَّ لأَحَدِ ثَلاَثَةْ، رَجُلٌ تَحَمَّلَ حَمَالَةً فَحَلَّتْ لَهُ الْمَسْأَلَةُ حَتَّى يُصِيبَهَا، ثُمَّ يُمْسِكْ، وَرَجُلٌ أَصَابَتْهُ جَائِحَةٌ اجْتَاحَتْ مَالَهُ فَحَلَّتْ لَهُ الْمَسْأَلَةُ حَتَّى يُصِيبَ قِوَامًا مِنْ عَيْشْ، أَوْ قَالَ سِدَادًا مِنْ عَيْشْ، وَرَجُلٌ أَصَابَتْهُ فَاقَةٌ حَتَّى يَقُولَ ثَلاَثَةٌ مِنْ ذَوِي الْحِجَا مِنْ قَوْمِهِ لَقَدْ أَصَابَتْ فُلاَنًا فَاقَةْ، فَحَلَّتْ لَهُ الْمَسْأَلَةُ حَتَّى يُصِيبَ قِوَامًا مِنْ عَيْشٍ أَوْ قَالَ سِدَادًا مِنْ عَيْشْ، فَمَا سِوَاهُنَّ مِنَ الْمَسْأَلَةِ يَا قَبِيصَةُ سُحْتْ، يَأْكُلُهَا صَاحِبُهَا سُحْتَا
+
+[ref]
+صحيح مسلم، رقم الحديث [1044] سنن أبي داود، رقم الحديث [1640]
+
+[en]
+“Stay until the charity comes to us, and then we will give an order about it in your favour. He says: He, peace be upon him, said: O Qabisah! Asking is permitted only to one of three: a man who takes on a financial responsibility (an indemnity); asking is permissible for him until he obtains it, and then he should refrain (from asking). A man who is struck by a calamity that destroys his wealth; asking is permissible for him until he finds support for his living, or the gap in his living is filled. And a man who faces destitution, until three people of understanding from his people testify that so-and-so has been overtaken by destitution; asking is permissible for him until he finds support for his living, or the gap in his living is filled. O Qabisah! Asking apart from these is forbidden, and the one who does it consumes what is forbidden.”

@@ -1,0 +1,29 @@
+# title: Page 36
+# English edition of book page 36, built by build_english.py from en_src/ and page_036.txt
+
+[en]
+And He says:
+
+[ar]
+وَالسَّابِقُونَ الْأَوَّلُونَ مِنَ الْمُهَاجِرِينَ وَالْأَنْصَارِ وَالَّذِينَ اتَّبَعُوهُمْ بِإِحْسَانٍ رَضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ وَأَعَدَّ لَهُمْ جَنَّاتٍ تَجْرِي تَحْتَهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ۚ ذَٰلِكَ الْفَوْزُ الْعَظِيمْ
+
+[en]
+And the first forerunners (in the faith) among the Muhajireen and the Ansar and those who followed them with good conduct - Allah is pleased with them and they are pleased with Him, and He has prepared for them gardens beneath which rivers flow, wherein they will abide forever. That is the great attainment.
+
+[ref]
+التوبة 100:9.
+
+[en]
+The noble Prophet, peace be upon him, said:
+
+[ar]
+خَيْرُ النَّاسِ قَرْنِي، ثُمَّ الَّذِينَ يَلُونَهُمْ، ثُمَّ الَّذِينَ يَلُونَهُمْ
+
+[en]
+“The best of people are the people of my generation, then those who come after them, then those who come after them.”
+
+[ref]
+صحيح البخاري، الشهادات، حديث: 2652، وصحيح مسلم، فضائل الصحابة، حديث: 2533.
+
+[en]
+The Messenger of Allah, peace be upon him, his Companions and their Successors: these are the Salaf of this Ummah. And whoever calls to what the Messenger of Allah, peace be upon him, his Companions and their Successors called to is upon the methodology of the Salaf.

@@ -1,0 +1,29 @@
+# title: Page 428
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 428 (PDF page 429), چھیاسٹھواں باب: لیڈی ڈاکٹر کی موجودگی میں خواتین کا مرد ڈاکٹر کو چیک اپ کروانا
+# The page starts with the new chapter (page 427 ends the previous one).
+# Print typo corrected: "چھیاسٹھوں باب" -> "چھیاسٹھواں باب" (the alif of the ordinal ending is missing; the contents, book page 12, has
+# the same slip).
+# The teacher's conditions (boxed 1–3) are read as words: پہلی، دوسری، تیسری (the items are «شرائط»). Condition ② is printed as its
+# own paragraph, so it is its own nameless block; condition ③ is on page 429.
+# The page ends with a full sentence (condition ②).
+
+[h]
+چھیاسٹھواں باب: لیڈی ڈاکٹر کی موجودگی میں خواتین کا مرد ڈاکٹر کو چیک اپ کروانا
+
+[ur]
+استاد: سعد صاحب! میں نے دیکھا ہے کہ تم لیڈی ڈاکٹر کی موجودگی کے باوجود اپنی بیوی کو مرد ڈاکٹر کے پاس چیک کروانے لائے ہو، تم نے ایسا کیوں کیا؟
+
+[ur]
+سعد: کیا یہ بھی حرام ہے؟
+
+[ur]
+استاد: سعد صاحب! چند شرائط کے ساتھ عورتوں کا مرد ڈاکٹروں کو چیک اپ کروانا جائز ہے۔
+
+[ur]
+سعد: کون کون سی شرائط ہیں؟
+
+[ur]
+استاد: پہلی: تمھارے ارد گرد اور قریب کوئی لیڈی ڈاکٹر موجود نہ ہو، البتہ اگر دور کوئی لیڈی ڈاکٹر موجود ہو اور تم اس تک پہنچنے کے اخراجات برداشت کر سکتے ہو تو تمھیں اسی سے علاج کروانا چاہیے۔
+
+[ur]
+دوسری: اگر بیماری واقعتاً خطرناک ہو اور علاج کروانا بہت ضروری ہو تو مرد ڈاکٹر کی طرف رجوع کرے۔ محض سر درد اور معمولی بخار کی وجہ سے مرد ڈاکٹر کے پاس جانا درست نہیں۔

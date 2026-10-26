@@ -1,0 +1,38 @@
+# title: Page 298
+# English edition of book page 298, built by build_english.py from en_src/ and page_298.txt
+
+[en]
+Abu Jum'a: Teacher, in this matter there is also another way, similar to the two ways above.
+
+[en]
+Teacher: What way is that?
+
+[en]
+Abu Jum'a: It is that I give Bahnasi one hundred kilos of Super rice and take exactly one hundred kilos of Kernel rice in return, but along with it I give him two thousand rupees in cash, because Kernel rice is more expensive?
+
+[en]
+Teacher: This form is also impermissible, because it involves tafadul; that is, the goods of the one kind being traded are equal for equal, but two thousand rupees are being given in addition, and that is interest.
+
+[en]
+Abu Jum'a: Bahnasi! We should follow the Book and the Sunnah and accept the truth, so let us act on the way of two separate deals, so that we do not go against the Shariah.
+
+[en]
+Teacher: May Allah the Exalted bless you.
+
+[en]
+(The teacher, Atiyyah, Bahnasi, Abdul-Khaliq and the others were busy talking when Atiyyah's son let them know from over there that the food was ready.)
+
+[en]
+Atiyyah: Come, please have some food.
+
+[en]
+Bahnasi: Atiyyah! Allow me, Abdul-Khaliq and Farid to leave; we will be going.
+
+[en]
+Atiyyah: Is there something urgent you have to do?
+
+[en]
+Farid: No, you go ahead and eat; we are leaving.
+
+[en]
+Atiyyah: Oh no! You will be allowed to go only after you have eaten.

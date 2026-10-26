@@ -1,0 +1,17 @@
+# title: Page 359
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 359 (PDF page 360), باونواں باب: اصلی اور نئے پرزے نکال کر ان کی جگہ پرانے اور استعمال شدہ پرزے لگا دینا
+# Page 358 ends with a full dialogue turn (Muntasir's "... یہ کام نہیں کروں گا۔"); this page starts with a new one.
+# «جزاك الله» is set in Arabic type inside the teacher's Urdu turn; it is kept in the Urdu block, in Urdu letters (جزاک اللہ), as on page 45.
+# The chapter ends on this page with a full dialogue turn; the rest of the page is blank. Chapter fifty-three starts on page 360.
+
+[ur]
+استاد: جزاک اللہ! اللہ ہم سب کو سیدھے راستے پر چلنے کی توفیق عطا فرمائے۔
+
+[ur]
+فیصل: استاد صاحب! آج آپ ہمارے لیے بابرکت ثابت ہوئے ہیں، ورنہ ہم منتصر کو سمجھا سمجھا کر تھک چکے تھے۔
+
+[ur]
+استاد: فیصل صاحب! لوگوں میں خیر و بھلائی کا عنصر موجود ہے۔ جب ان کو نصیحت کی جائے، وہ اسے قبول کرتے ہیں، لیکن ان کو کسی ایسے شخص کی ضرورت ہے، جو نہایت احسن انداز میں ان کے سامنے امورِ دین پیش کرے۔
+
+[ur]
+فیصل: واقعی آپ سچ کہہ رہے ہیں۔

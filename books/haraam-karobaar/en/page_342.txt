@@ -1,0 +1,38 @@
+# title: Page 342
+# English edition of book page 342, built by build_english.py from en_src/ and page_342.txt
+
+[ar]
+زَجَرَ النَّبِيُّ ﷺ أَنْ تَصِلَ الْمَرْأَةُ بِرَأْسِهَا شَيْئَا
+
+[ref]
+صحيح مسلم، رقم الحديث [2126]
+
+[en]
+“The Prophet, peace be upon him, sternly forbade a woman to attach anything (artificial) to her head.”
+
+[en]
+Today, in our time, all such things found for men and women under the name of hairstyles are forbidden; for example, an actor in dramas, films and the like putting on false hair to disguise himself or to take on the appearance of some other person.
+
+[en]
+On this, read a fatwa of the great scholar Ibn Uthaymeen.
+
+[en]
+Question: May a woman have false hair attached to her own hair for the sake of her husband?
+
+[en]
+Answer: Attaching artificial hair and having it attached are forbidden, and the noble Prophet, peace be upon him, cursed both such women. Using a barukah (wig) is forbidden and impermissible, even if it is with the husband's consent and permission, because no one's consent or permission can make disobedience to Allah permissible.
+
+[ref]
+فتاوىٰ المرأة [ص: 179]
+
+[en]
+The World Fatwa Council has given a fatwa that a wig, in whatever form it may be, is forbidden, because it involves imitating disbelieving women, and a Muslim woman may not, under the cover of adornment, do anything that involves imitating non-Muslim women. The noble Prophet, peace be upon him, said:
+
+[ar]
+مَنْ تَشَبَّهَ بِقَوْمٍ فَهُوَ مِنْهُمْ
+
+[ref]
+سنن أبي داود، صحيح الجامع، رقم الحديث [6149]
+
+[en]
+“Whoever imitates a people is one of them.”

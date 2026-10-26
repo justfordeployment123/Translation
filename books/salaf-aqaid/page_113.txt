@@ -1,0 +1,34 @@
+# title: Page 113
+# Salaf-e-Saliheen ke Aqaid o Nazariyat, book page 113 (PDF page 110), پہلا اصول: ایمان اور ارکانِ ایمان
+# The first lines ("میں ہوں گے، جیسے آسمان کے تارے۔ جو اس حوض میں سے پانی پیے گا اسے پھر کبھی پیاس نہیں لگے گی۔”") end the translation of the hadith on page 112, where it starts; its footnote ① (Bukhari 6579), printed here, moves with it.
+# The Urdu translation of the last hadith continues on page 114 ("پیدا کیا۔”"); it is kept whole here, with its footnote, printed on page 114.
+# The first hadith: Bukhari 6583 (the book cites Bukhari 6583 and Muslim 2290).
+# Proofreader please check: the book prints "وَيَعْرِفُونَنِي"; Bukhari 6583 (and Muslim's reports) have "وَيَعْرِفُونِي", and no report has the
+# book's form, so the official text of Bukhari 6583 is used.
+# The second hadith: Bukhari 6584 (Abu Sa'id's addition; the book cites Bukhari 6584 and Muslim 2291), matching the print.
+
+[ur]
+ایک اور موقع پر فرمایا:
+
+[ar]
+# hadith {{H bukhari:6583 from إِنِّي فَرَطُكُمْ to وَبَيْنَهُمْ}}
+إِنِّي فَرَطُكُمْ عَلَى الْحَوْضْ، مَنْ مَرَّ عَلَيَّ شَرِبْ، وَمَنْ شَرِبَ لَمْ يَظْمَأْ أَبَدَا، لَيَرِدَنَّ عَلَيَّ أَقْوَامٌ أَعْرِفُهُمْ وَيَعْرِفُونِي، ثُمَّ يُحَالُ بَيْنِي وَبَيْنَهُمْ
+
+[ur]
+“میں حوض پر تمھارا پیش رو ہوں۔ جو میرے پاس سے گزرے گا وہ پانی پیے گا اور جو پانی پی لے گا اسے پھر کبھی پیاس نہیں لگے گی۔ کچھ لوگ میرے پاس حوض پر آئیں گے، انھیں میں پہچانوں گا اور وہ مجھے پہچانیں گے لیکن میرے اور ان کے مابین رکاوٹ حائل کر دی جائے گی۔”
+
+[ref]
+صحيح البخاري، الرقاق، حديث: 6583، وصحيح مسلم، الفضائل، حديث: 2290.
+
+[ur]
+ایک اور روایت میں ہے:
+
+[ar]
+# hadith {{H bukhari:6584 from فَأَقُولُ to بَعْدِي}}
+فَأَقُولُ إِنَّهُمْ مِنِّي، فَيُقَالُ إِنَّكَ لاَ تَدْرِي مَا أَحْدَثُوا بَعْدَكْ، فَأَقُولُ سُحْقًا سُحْقًا لِمَنْ غَيَّرَ بَعْدِي
+
+[ur]
+“میں کہوں گا: یہ میرے ہیں۔” لیکن کہا جائے گا: آپ ﷺ نہیں جانتے، انھوں نے آپ کے بعد کیسی کیسی نئی باتیں نکالیں۔ تب میں کہوں گا: “دور دفع ہوں (اور) برباد ہو جائیں وہ لوگ جنھوں نے میرے بعد (دین میں) تغیر پیدا کیا۔”
+
+[ref]
+صحيح البخاري، الرقاق، حديث: 6584، وصحيح مسلم، الفضائل، حديث: 2291.

@@ -1,0 +1,14 @@
+# title: Page 299
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 299 (PDF page 300), تینتالیسواں باب: کسانوں میں پائی جانے والی سود کی ایک قسم
+# The last page of the chapter. Page 298 ends with a full dialogue turn («عطیہ: ارے، تمھیں کھانا کھانے کے بعد اجازت ملے گی۔»), so nothing runs onto this page.
+# The bracketed narration at the top stands on its own line between turns; it is its own block (as on page 119).
+# The rest of the page is blank; page 300 starts the summary («خلاصہ»).
+
+[ur]
+(سب لوگوں نے مل کر کھانا کھایا اور عطیہ کے لیے دعاؤں کا ہدیہ پیش کیا)
+
+[ur]
+عطیہ: استاد صاحب! آج کا دن میرے لیے بہت خوشی کا دن ہے، ہمیں آپ سے بہت کچھ سیکھنے کو ملا ہے اور مزید یہ کہ آپ کے ساتھ بیٹھ کر کھانا کھانے کا شرف بھی ملا ہے۔
+
+[ur]
+عطیہ نے اپنے بیٹے کو حکم دیا کہ کار گیراج سے باہر نکالو، استاد صاحب نے عطیہ کا شکریہ ادا کیا، بعد ازاں عطیہ کار پر استاد صاحب اور عمار کو گھر کی طرف چھوڑنے روانہ ہوا، دیگر لوگ وہاں سے اپنے اپنے گھروں کو روانہ ہو گئے۔

@@ -1,0 +1,24 @@
+# title: Page 530
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 530 (PDF page 531), اٹھاسیواں باب: بھیک مانگنا
+# The first lines of the page ("وَكَانَ كَالَّذِي ... حَتَّى أُفَارِقَ الدُّنْيَا......") end the hadith that is on page 529, where it starts; its footnote ①,
+# printed at the foot of this page, is typed there too. The hadith's Urdu translation starts here, so it stays here.
+# Hadith: Muslim 2390 (sunnah.com numbering of the book's "صحيح مسلم [1038]"; Mu'awiyah's report) up to «وَأَنَا لَهُ كَارِهٌ», joined (" cont")
+# with the ending «فَيُبَارَكُ لَهُ فِيمَا أَعْطَيْتُهُ» from Nasa'i 2593 (the same hadith of Mu'awiyah, same chain: Sufyan, Amr, Wahb bin
+# Munabbih, his brother), which has the book's «فَيُبَارَكُ» (Muslim: «فَيُبَارَكَ»).
+# Proofreader please check: the book vowels «فَتُخْرِجُ»; Muslim 2390 has «فَتُخْرِجَ» (Nasa'i 2593 lacks the clause), which is read.
+
+[ur]
+“اے حکیم! یہ مال خوشگوار اور میٹھا ہے اور جو شخص اسے دلی سخاوت کے ساتھ لیتا ہے، اس کے لیے اس میں برکت ڈال دی جاتی ہے اور جو شخص اسے حرص و طمع کے ساتھ لیتا ہے، اس کے لیے اس میں برکت نہیں رکھی جاتی اور وہ اس شخص کی طرح بن جاتا ہے جو کھاتا ہے، لیکن سیر نہیں ہوتا اور اوپر والا ہاتھ نیچے والے ہاتھ سے بہتر ہوتا ہے۔ حضرت حکیم فرماتے ہیں کہ میں نے عرض کی: اے اللہ کے رسول ﷺ! اس ذات کی قسم جس نے آپ کو حق کے ساتھ مبعوث کیا ہے! میں آپ کے بعد کسی سے یہ تمنا نہیں کروں گا، یہاں تک کہ دنیا چھوڑ جاؤں۔”
+
+[ur]
+رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H muslim:2390 from لاَ تُلْحِفُوا to كَارِهٌ cont}} {{H nasai:2593 from فَيُبَارَكُ to أَعْطَيْتُهُ}}
+لاَ تُلْحِفُوا فِي الْمَسْأَلَةِ فَوَاللَّهِ لاَ يَسْأَلُنِي أَحَدٌ مِنْكُمْ شَيْئًا فَتُخْرِجَ لَهُ مَسْأَلَتُهُ مِنِّي شَيْئًا وَأَنَا لَهُ كَارِهٌ فَيُبَارَكُ لَهُ فِيمَا أَعْطَيْتُهْ
+
+[ref]
+صحيح مسلم، رقم الحديث [1038]
+
+[ur]
+“پیچھے پڑ کر سوال نہ کیا کرو، اللہ کی قسم تم میں سے کوئی شخص مجھ سے کوئی چیز نہیں مانگتا کہ اس کا سوال مجھ سے کوئی چیز نکلوا دے، جب کہ میں اسے نا پسند کرتا ہوں اور پھر میں اسے دوں اور اس میں برکت بھی ڈال دی جائے۔”

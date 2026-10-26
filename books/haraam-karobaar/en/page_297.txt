@@ -1,0 +1,35 @@
+# title: Page 297
+# English edition of book page 297, built by build_english.py from en_src/ and page_297.txt
+
+[en]
+Teacher: According to the Shariah, there are two ways of doing this:
+
+[en]
+Give one hundred and thirty kilos of Super rice and receive exactly one hundred and thirty kilos of Kernel rice in return; there should be nothing more and nothing less.
+
+[en]
+Bahnasi: Teacher! Kernel rice is more valuable and more expensive than Super, so this way I will lose out, won't I?
+
+[en]
+Teacher: If you fear a loss with this way, then take the second way.
+
+[en]
+Abu Jum'a: Which way is that?
+
+[en]
+Teacher: Make two separate deals.
+
+[en]
+Bahnasi: How?
+
+[en]
+Teacher: First, Abu Jum'a should sell you one hundred and thirty kilos of Kernel rice at the current market price and receive its full price from you. After that, he should buy Kernel rice with that money, whether he buys it from you or from someone else. In this way there will be two separate deals, and no interest will come into it.
+
+[en]
+Bahnasi: Teacher! Whether you take hold of your ear from this side or from that side, it is the same thing, isn't it?
+
+[en]
+Abu Jum'a: Teacher! It really is the same thing, whether we make two separate deals or buy one hundred kilos for one hundred and thirty kilos. The result comes out the same either way, doesn't it?
+
+[en]
+Teacher: Understand one thing well: in the rulings of the Shariah one should never argue from reason in any way. In the matter above, what I have explained is the very ruling of the noble Prophet, peace be upon him, and of all the people of knowledge.

@@ -1,0 +1,14 @@
+# title: Page 169
+# English edition of book page 169, built by build_english.py from en_src/ and page_169.txt
+
+[en]
+Teacher: We should take a path free of deception and adulteration, so that we are saved from this warning of the Messenger of Allah. He, peace be upon him, said:
+
+[ar]
+مَنْ غَشَّنَا فَلَيْسَ مِنَّا
+
+[ref]
+صحيح مسلم، رقم الحديث [102] سنن ابن ماجه، رقم الحديث [2224]
+
+[en]
+“Whoever deceives is not following our way.”

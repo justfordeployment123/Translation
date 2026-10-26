@@ -1,0 +1,38 @@
+# title: Page 408
+# English edition of book page 408, built by build_english.py from en_src/ and page_408.txt
+
+[en]
+Teacher: If they do the work of Satan and are bad people, why do you take them along?
+
+[en]
+Driver: Teacher! I have come out in search of a living. Whoever pays me the taxi fare can take me wherever he likes.
+
+[en]
+Teacher: Is there no other way to earn a living besides this?
+
+[en]
+Driver: I make a good profit going with them. They pay me a fare of a hundred pounds for five hours, whereas otherwise, even if I drive the car around all day, I do not have fifty pounds left over.
+
+[en]
+Teacher: Glory be to Allah! A hundred pounds for just five hours!
+
+[en]
+Driver: Yes, by Allah, I am telling the truth.
+
+[en]
+Teacher: Where do they go?
+
+[en]
+Driver: It is better that you do not find that out.
+
+[en]
+Teacher: Keeping busy with conversation makes a journey pass easily, and besides, the matter of these boys has made me very curious. I really do want to know about them.
+
+[en]
+Driver: Teacher! These young boys and girls are from the university. These people have stained Muslim society.
+
+[en]
+Teacher: Yes, that is true, but is there no one to warn them to fear Allah?
+
+[en]
+Driver: They hire the taxi for twenty pounds an hour and take these girls along to deserted places outside the city, or to gardens and parks.

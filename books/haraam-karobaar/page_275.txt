@@ -1,0 +1,16 @@
+# title: Page 275
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 275 (PDF page 276), اڑتیسواں باب: بیٹیوں کے حقوق پر ڈاکا ڈالنا
+# The first words of the page ("اگر تم ٹھیکے پر دینا چاہتی ہو تو بھی میں حاضر ہوں۔") end a sentence that is on page 274, where it starts;
+# Atiyah's turn continues here without his name.
+# «جزاك الله خيراً.» is set in Arabic type inside the teacher's turn; it is kept in the Urdu block as a set phrase, in Urdu letters
+# (جزاک اللہ خیراً), as on page 150. «آیندہ» is spelled as printed.
+# The rest of the page is blank after the teacher's turn; the chapter ends here.
+
+[ur]
+آیندہ میں ہمیشہ تم سے صلہ رحمی سے پیش آؤں گا اور کبھی مجھ سے قطع رحمی کی امید نہ رکھنا۔
+
+[ur]
+خدیجہ: میں نے تمھیں معاف کر دیا ہے، اللہ تعالیٰ بھی تمھیں معاف فرمائے، میری زمین ٹھیکے پر تمھارے پاس ہی رہے گی، البتہ میں گھر والا اپنا حصہ بطور ہدیہ تمھیں پیش کرتی ہوں۔
+
+[ur]
+استاد: جزاک اللہ خیراً۔

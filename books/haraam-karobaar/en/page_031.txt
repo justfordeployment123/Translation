@@ -1,0 +1,14 @@
+# title: Page 31
+# English edition of book page 31, built by build_english.py from en_src/ and page_031.txt
+
+[hen]
+The First Tour
+
+[en]
+First: The Grain Market Tour.
+
+[en]
+Second: The Gold Market Tour.
+
+[en]
+Third: The Currency Exchange Tour.

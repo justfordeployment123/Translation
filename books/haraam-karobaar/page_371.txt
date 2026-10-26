@@ -1,0 +1,11 @@
+# title: Page 371
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 371 (PDF page 372), پچپنواں باب: قسط لیٹ ہونے کی صورت میں جرمانہ وصول کرنا
+# The first lines of the page ("رقم 1000 کے علاوہ ... چارج ہوں گے۔") end Salah's sentence, which is on page 370, where it starts.
+# «جزاك الله خيراً» is set in Arabic type inside Faisal's Urdu turn; it is kept in the Urdu block, in Urdu letters (جزاک اللہ خیراً), as on page 361.
+# The chapter ends on this page with a full dialogue turn; the rest of the page is blank.
+
+[ur]
+استاد: ایسی صورت میں یہ سود ہے، سودا صحیح اس وقت ہوگا جب اسی مجلس میں ہر چیز طے کر لی جائے کہ قسطوں پر ہے یا نقد، اگر قسطوں پر ہے تو ماہانہ کتنی قسط ہے اور کل کتنی قسطیں ہیں اور کل رقم کیا ہے وغیرہ۔
+
+[ur]
+فیصل: جزاک اللہ خیراً۔

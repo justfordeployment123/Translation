@@ -1,0 +1,22 @@
+# title: Page 196
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 196 (PDF page 197), پچیسواں باب: غلیل کی خرید و فروخت
+# The page opens with the hadith introduced at the end of page 195 (a unit of its own, so it stays here).
+# Hadith typed from the print (not in the hadith-api collections in this wording): «إِنَّ اللَّهَ إِذَا حَرَّمَ شَيْئًا حَرَّمَ ثَمَنَهُ», the book cites
+# مسند أحمد، سنن أبي داود، صحيح الجامع [5107]; Abu Dawud 3488 has only a longer wording («إِنَّ اللَّهَ إِذَا حَرَّمَ عَلَى قَوْمٍ أَكْلَ شَيْءٍ حَرَّمَ عَلَيْهِمْ ثَمَنَهُ»),
+# so the print is typed, as on page 19. Waqf on the last word.
+# The chapter ends on this page with a full dialogue turn; the rest of the page is blank. The next chapter starts on page 197.
+
+[ar]
+إِنَّ اللَّهَ إِذَا حَرَّمَ شَيْئًا حَرَّمَ ثَمَنَهْ
+
+[ref]
+مسند أحمد، سنن أبي داود، صحيح الجامع، رقم الحديث [5107]
+
+[ur]
+“اللہ تعالیٰ جب کسی چیز کو حرام کر دیتے ہیں تو اس کی قیمت کو بھی حرام کر دیتے ہیں۔”
+
+[ur]
+دکاندار: استاد صاحب! میں اللہ اور اس کے رسول ﷺ پر ایمان لاتا ہوں اور میں وعدہ کرتا ہوں کہ آیندہ ایسی تمام چیزوں کی خرید و فروخت سے رک جاؤں گا، جو حرام ہیں۔
+
+[ur]
+استاد: اللہ آپ کو جزا دے۔

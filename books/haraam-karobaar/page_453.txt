@@ -1,0 +1,28 @@
+# title: Page 453
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 453 (PDF page 454), اکہترواں باب: اولاد کو عطیہ دیتے ہوئے عدل نہ کرنے کا بیان
+# The page opens with the translation of the hadith introduced at the foot of page 452 ("... رسول اللہ ﷺ نے ارشاد فرمایا:"). The book
+# prints no Arabic for this hadith, only the Urdu translation, so there is no [ar] block or reference here.
+# Print typo corrected: the word «کہیں» ("... ڈرنا چاہیے کہ کہیں کسی ایک طرف میلان ...") is printed with a broken glyph that looks like
+# «کہبں»; typed «کہیں».
+# The teacher's answer «① بیماری ② دیگر ورثا کی اجازت سے۔» is a numbered list printed on one line, so it stays one block (as on page 438);
+# the two items (the «صورتیں» Husain asks about) are read as words, پہلی، دوسری. The print separates them only by the circled «②»,
+# so a comma is put after «بیماری» for the pause. Proofreader please check that comma (not printed).
+# The chapter ends on this page with the teacher's full turn; the rest of the page is blank. Chapter seventy-two starts on page 454.
+
+[ur]
+“کیا تم پسند نہیں کرتے کہ وہ بھلائی میں برابر ہوں؟”
+
+[ur]
+میرے بھائی! تمھیں اپنی اولاد کے درمیان عطیے اور ہبے وغیرہ میں عدل و انصاف کرنا چاہیے، وراثت میں سے کسی کو اس کے حق سے محروم نہیں کرنا چاہیے اور اسی کے مطابق اولاد کے درمیان تقسیم کرنی چاہیے۔ تمھیں اس چیز سے ڈرنا چاہیے کہ کہیں کسی ایک طرف میلان تمھیں جہنم میں نہ لے جائے۔ اکثر ایسا بھی ہوتا ہے کہ اس ناانصافی کی وجہ سے ورثا آپس میں ایک دوسرے کے دشمن بن جاتے ہیں اور اپنے حق کی خاطر وہ عدالت میں چلے جاتے ہیں، جس کی وجہ سے دونوں مسلسل اپنا پیسا ضائع کرتے ہیں۔ لہٰذا والد کو زیب نہیں دیتا کہ دو صورتوں کے علاوہ اپنی اولاد میں کسی طرح کی تخصیص یا تمیز کرے۔
+
+[ur]
+حسین: وہ دو صورتیں کون کون سی ہیں؟
+
+[ur]
+استاد: پہلی: بیماری، دوسری: دیگر ورثا کی اجازت سے۔
+
+[ur]
+حسین: اب اس کا حل کیا ہے؟
+
+[ur]
+استاد: تم فوراً اللہ سے توبہ کر لو اور اس فعل سے باز آ جاؤ۔

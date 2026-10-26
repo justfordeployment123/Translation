@@ -1,0 +1,17 @@
+# title: Page 530
+# English edition of book page 530, built by build_english.py from en_src/ and page_530.txt
+
+[en]
+“O Hakim! This wealth is pleasant and sweet. Whoever takes it with generosity of heart, blessing is put into it for him; and whoever takes it with greed and covetousness, no blessing is put into it for him, and he becomes like one who eats but is never full. And the upper hand is better than the lower hand. Hakim says: I said: O Messenger of Allah, peace be upon him! By the One who sent you with the truth, after you I will not seek this from anyone until I leave this world.”
+
+[en]
+The Messenger of Allah, peace be upon him, said:
+
+[ar]
+لاَ تُلْحِفُوا فِي الْمَسْأَلَةِ فَوَاللَّهِ لاَ يَسْأَلُنِي أَحَدٌ مِنْكُمْ شَيْئًا فَتُخْرِجَ لَهُ مَسْأَلَتُهُ مِنِّي شَيْئًا وَأَنَا لَهُ كَارِهٌ فَيُبَارَكُ لَهُ فِيمَا أَعْطَيْتُهْ
+
+[ref]
+صحيح مسلم، رقم الحديث [1038]
+
+[en]
+“Do not ask with persistence. By Allah, it never happens that one of you asks me for something and his asking draws something out of me while I dislike it, and then I give it to him and blessing is put into it as well.”

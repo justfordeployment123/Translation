@@ -1,0 +1,42 @@
+# title: Page 450
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 450 (PDF page 451), اکہترواں باب: اولاد کو عطیہ دیتے ہوئے عدل نہ کرنے کا بیان
+# The page starts with the new chapter; page 449 ends with a full dialogue turn.
+# «حضرت جابر» carries the symbol ؓ in the print; typed in full words, رضی اللہ عنہ.
+# Hadith (Jabir): the book cites Sahih al-Bukhari [6250]. Its wording «مَنْ؟ قُلْتُ: أَنَا، فَقَالَ: أَنَا أَنَا كَأَنَّهُ كَرِهَهَا» is in no single report,
+# so it is joined from two reports of Jabir's hadith: «مَنْ» (the first word of Bukhari 6250's «مَنْ ذَا»; the book leaves out «ذَا»),
+# «قُلْتُ أَنَا» (Abu Dawud 5187; Bukhari has «فَقُلْتُ») and «فَقَالَ أَنَا أَنَا كَأَنَّهُ كَرِهَهَا» (Bukhari 6250, " flat", since the book
+# has no pause after «أَنَا أَنَا»; Abu Dawud ends «كَرِهَهُ»). The pauses follow the book's «؟» and comma.
+# The translation is printed with an opening and closing mark around «کون ہے؟» and a second closing mark at its end, without
+# an opening one; the marks are typed as printed.
+# The page ends with the hadith's translation; page 451 starts with a new narration paragraph.
+
+[h]
+اکہترواں باب: اولاد کو عطیہ دیتے ہوئے عدل نہ کرنے کا بیان
+
+[ur]
+دروازے پر دستک ہوئی۔
+
+[ur]
+استاد: کون ہے؟
+
+[ur]
+آنے والا: میں ہوں۔
+
+[ur]
+استاد: کون میں؟ کیا یہ بھی کسی کا نام ہو سکتا ہے؟
+
+[ur]
+(اس کے بعد استاد صاحب جلدی سے اٹھے اور دروازہ کھولا، باہر استاد صاحب کے پڑوسی عبدالرحیم صاحب کھڑے تھے۔ استاد صاحب نے ان کو خوش آمدید کہنے کے بعد نصیحت فرمائی کہ جب گھر والا نام پوچھے تو یہ نہیں کہتے کہ میں ہوں، بلکہ واضح الفاظ میں اپنا نام بتانا چاہیے)
+
+[ur]
+حضرت جابر رضی اللہ عنہ فرماتے ہیں کہ میں اپنے باپ کے قرض کے معاملے میں نبی مکرم ﷺ کے پاس آیا۔ میں نے نبی مکرم ﷺ کے دروازے پر دستک دی تو آپ ﷺ نے پوچھا:
+
+[ar]
+# hadith {{H bukhari:6250 from مَنْ ذَا to مَنْ}}؟ {{H abudawud:5187 from قُلْتُ to أَنَا}}، {{H bukhari:6250 from فَقَالَ أَنَا to كَرِهَهَا flat}}
+مَنْ؟ قُلْتُ أَنَا، فَقَالَ أَنَا أَنَا كَأَنَّهُ كَرِهَهَا
+
+[ref]
+صحيح البخاري، رقم الحديث [6250]
+
+[ur]
+“کون ہے؟” میں نے جواب دیا: میں ہوں، آپ ﷺ نے کہا: میں، میں، گویا آپ ﷺ نے اسے ناپسند سمجھا۔”

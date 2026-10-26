@@ -1,0 +1,35 @@
+# title: Page 140
+# English edition of book page 140, built by build_english.py from en_src/ and page_140.txt
+
+[en]
+Man: Brother! This cow's udders are not in their natural state. In fact, I have held the milk back in them since yesterday, and that is why they look swollen.
+
+[en]
+Buyer: Ma sha Allah! What an honest trader you are! To this day I have never seen such an honest trader. Now I will certainly buy this very cow and take her with me.
+
+[en]
+Man: May Allah reward you.
+
+[en]
+Teacher: Thanks be to Allah, who has saved you from what is forbidden.
+
+[en]
+Man: Teacher! May Allah reward you. Please forgive me; I will not do this again.
+
+[en]
+Teacher: I am only a human being like you. Ask Allah for forgiveness.
+
+[en]
+Man: I repent to Allah and seek His forgiveness.
+
+[en]
+Teacher: May Allah put blessing in your sale. You have followed the hadith of the Prophet, peace be upon him, in which he, peace be upon him, said:
+
+[ar]
+الْبَيِّعَانِ بِالْخِيَارِ مَا لَمْ يَتَفَرَّقَا، فَإِنْ صَدَقَا وَبَيَّنَا بُورِكَ لَهُمَا فِي بَيْعِهِمَا، وَإِنْ كَتَمَا وَكَذَبَا مُحِقَتْ بَرَكَةُ بَيْعِهِمَا
+
+[ref]
+صحيح البخاري، رقم الحديث [2082] صحيح مسلم، رقم الحديث [1532]
+
+[en]
+“The two parties to a sale have the option (to cancel or change it) as long as they have not parted. If they both tell the truth and make (the defects and so on) clear, blessing is put into this sale of theirs; and if they hide (the defects and so on) and lie, the blessing is taken out of this sale of theirs.”

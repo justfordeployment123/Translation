@@ -1,0 +1,36 @@
+# title: Page 159
+# Salaf-e-Saliheen ke Aqaid o Nazariyat, book page 159 (PDF page 156), پانچواں اصول: دوستی اور دشمنی
+# The running tab «پانچواں اصول» and the title «دوستی اور دشمنی» are one heading. The photo shows fingers above the page; not part of its text.
+# Page 158 ends the fourth principle with a full paragraph; this page starts the fifth.
+# The Arabic term «اَلْحُبُّ فِي اللّٰهِ وَالْبُغْضُ فِي اللّٰه», printed in brackets inside the first sentence and followed by its Urdu meaning,
+# stays in the [ur] block, typed as printed with its harakat («اللّٰهِ» in the standard form «اللَّهِ»), stopping form on the last word.
+# At-Tawbah 9:71 (up to «عَنِ الْمُنْكَرِ») is filled from the official text (fill_quran.py); its footnote follows the translation.
+# Aal Imran 3:28 (up to «فِي شَيْءٍ») starts at the foot of the page and runs on to page 160 («ذَٰلِكَ فَلَيْسَ مِنَ اللَّهِ فِي شَيْءٍ»);
+# it is kept whole here. Its Urdu translation and footnote («آل عمران 28:3.») start on page 160 and are there.
+# References: the digit groups are typed as they appear on the page, left to right («71:9»).
+
+[h]
+پانچواں اصول: دوستی اور دشمنی
+
+[ur]
+عقیدۂ سلف صالحین، اہل سنت والجماعت کا ایک ضروری اصول ہے (اَلْحُبُّ فِي اللَّهِ وَالْبُغْضُ فِي اللَّهْ) اللہ کے لیے محبت اور اللہ کے لیے نفرت۔ محبت سے مراد ہے، اہل ایمان سے محبت اور ان سے دوستی جبکہ نفرت سے مراد ہے، کفار اور مشرکین سے نفرت، ان سے اظہارِ براءت اور اعلانِ لاتعلقی۔
+
+[ur]
+ارشادِ باری تعالیٰ ہے:
+
+[ar]
+# quran 9:71 from وَالْمُؤْمِنُونَ وَالْمُؤْمِنَاتُ to عَنِ الْمُنْكَرِ
+وَالْمُؤْمِنُونَ وَالْمُؤْمِنَاتُ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ ۚ يَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنْكَرْ
+
+[ur]
+“مومن مرد اور مومن عورتیں آپس میں ایک دوسرے کے دوست ہیں۔ وہ نیکی کا حکم دیتے ہیں اور برائی سے روکتے ہیں۔”
+
+[ref]
+التوبة 71:9.
+
+[ur]
+اور فرمایا:
+
+[ar]
+# quran 3:28 from لَا يَتَّخِذِ to فِي شَيْءٍ
+لَا يَتَّخِذِ الْمُؤْمِنُونَ الْكَافِرِينَ أَوْلِيَاءَ مِنْ دُونِ الْمُؤْمِنِينَ ۖ وَمَنْ يَفْعَلْ ذَٰلِكَ فَلَيْسَ مِنَ اللَّهِ فِي شَيْءْ

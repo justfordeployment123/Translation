@@ -1,0 +1,68 @@
+# title: Page 122
+# English edition of book page 122, built by build_english.py from en_src/ and page_122.txt
+
+[en]
+In another place He says:
+
+[ar]
+لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا
+
+[en]
+Allah does not charge a soul except (with that within) its capacity.
+
+[ref]
+البقرة 286:2.
+
+[en]
+However, because of the perfect mercy of Allah the Exalted, evil is not to be attributed to Him, since He has commanded good and forbidden evil. Evil is simply one of the things His wisdom requires. Allah the Exalted says:
+
+[ar]
+مَا أَصَابَكَ مِنْ حَسَنَةٍ فَمِنَ اللَّهِ ۖ وَمَا أَصَابَكَ مِنْ سَيِّئَةٍ فَمِنْ نَفْسِكْ
+
+[en]
+What comes to you of good is from Allah, but what comes to you of evil, (O man), is from yourself.
+
+[ref]
+النسآء 79:4.
+
+[en]
+Allah the Exalted is free from injustice. Justice is His attribute. He does not wrong anyone by even an atom's weight. All His actions are wholly justice and mercy. Allah the Exalted says:
+
+[ar]
+وَمَا أَنَا بِظَلَّامٍ لِلْعَبِيدْ
+
+[en]
+And never will I be unjust to the servants.
+
+[ref]
+قٓ 29:50.
+
+[en]
+And He says:
+
+[ar]
+وَلَا يَظْلِمُ رَبُّكَ أَحَدَا
+
+[en]
+And your Lord does injustice to no one.
+
+[ref]
+الكهف 49:18.
+
+[en]
+He also says:
+
+[ar]
+إِنَّ اللَّهَ لَا يَظْلِمُ مِثْقَالَ ذَرَّةْ
+
+[en]
+Indeed, Allah does not do injustice, (even) as much as an atom's weight.
+
+[ref]
+النسآء 40:4.
+
+[en]
+No one can question Allah the Exalted about whatever He wills and whatever He does. He says:
+
+[ar]
+لَا يُسْأَلُ عَمَّا يَفْعَلُ وَهُمْ يُسْأَلُونْ

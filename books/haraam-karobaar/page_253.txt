@@ -1,0 +1,21 @@
+# title: Page 253
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 253 (PDF page 254), پینتیسواں باب: گرلز سکولوں میں مرد اساتذہ کا بالغ لڑکیوں کو پڑھانا
+# The page opens with the second item (②, read «دوسری») of the teacher's list of reasons on page 252; the teacher's turn continues.
+# «جزاك الله خيرا» (printed in Arabic type) is kept in Hasan's Urdu turn, in Urdu letters, as on pages 89 and 150; «ان شاء اللہ» is printed in Urdu type.
+# "پرموشن" is typed as printed here (page 245 prints "پروموشن").
+# The rest of the page is blank; the next chapter starts on page 254.
+
+[ur]
+دوسری: نظر کا فتنہ، کیونکہ مدرس غیر محرم ہونے کی وجہ سے پابند ہے کہ وہ لڑکیوں کی طرف نہ دیکھے، بلکہ اپنی نگاہیں نیچی رکھے۔
+
+[ur]
+حسن: قرآن و حدیث سن لینے کے بعد ہمیں کوئی اختیار نہیں رہتا کہ ہم اپنی مرضی کریں، ان شاء اللہ میں جلد اس سے چھٹکارا حاصل کروں گا۔
+
+[ur]
+عاطف: استاد صاحب! حسن کا معاملہ تو بڑا آسان ہے، کیونکہ عنقریب اس کی پرموشن ہونے والی ہے اور یہ کسی اور جگہ شفٹ ہو جائے گا۔
+
+[ur]
+استاد: اللہ تعالیٰ ہم سب کے معاملات آسان فرمائے اور ہمیں اپنی اطاعت کی توفیق دے۔
+
+[ur]
+حسن: آمین، جزاک اللہ خیرا۔

@@ -1,0 +1,44 @@
+# title: Page 255
+# English edition of book page 255, built by build_english.py from en_src/ and page_255.txt
+
+[en]
+Haitham: Sorry! We are getting the children ready for the annual ceremony.
+
+[en]
+Teacher: How strange! Preparing music for the annual ceremony? Will the children sing satanic songs at the ceremony?
+
+[en]
+Haitham: So is there anything wrong in that?
+
+[en]
+Teacher: Yes, music is forbidden in the religion.
+
+[en]
+Haitham: You have no right to say things of your own in the religion of Allah.
+
+[en]
+Teacher: Pay no attention to what I say, but at least listen carefully to the views of other people of knowledge about music.
+
+[en]
+Haitham: It is my period now, but the next period is free, so I will come back in five minutes. (A little later, Haitham came back.)
+
+[en]
+Haitham: As-salamu alaikum wa rahmatullahi wa barakatuh.
+
+[en]
+Teacher: Wa alaikum as-salam wa rahmatullahi wa barakatuh. Welcome.
+
+[en]
+Haitham: I have come back so that I can learn the views of the people of knowledge about music.
+
+[en]
+Teacher: Allah the Exalted says:
+
+[ar]
+وَمِنَ النَّاسِ مَنْ يَشْتَرِي لَهْوَ الْحَدِيثِ لِيُضِلَّ عَنْ سَبِيلِ اللَّهِ بِغَيْرِ عِلْمٍ وَيَتَّخِذَهَا هُزُوًا ۚ أُولَٰئِكَ لَهُمْ عَذَابٌ مُهِينْ
+
+[ref]
+[لقمان: 6]
+
+[en]
+And of the people is he who buys the amusement of speech to mislead (others) from the way of Allah without knowledge and who takes it in ridicule. Those will have a humiliating punishment.

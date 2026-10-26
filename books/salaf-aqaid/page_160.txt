@@ -1,0 +1,48 @@
+# title: Page 160
+# Salaf-e-Saliheen ke Aqaid o Nazariyat, book page 160 (PDF page 157), پانچواں اصول: دوستی اور دشمنی
+# The first line of the page («ذَٰلِكَ فَلَيْسَ مِنَ اللَّهِ فِي شَيْءٍ») ends Aal Imran 3:28, which starts on page 159, where it is kept whole.
+# The page starts here with its Urdu translation, followed by its footnote ①, which the translation carries.
+# The numbered list of «وجوہ» (①–⑥, items ④–⑥ on pages 161–162) is read as words: پہلی، دوسری، تیسری (feminine, agreeing with «وجہ»).
+# An-Nahl 16:36 («أَنِ اعْبُدُوا اللَّهَ وَاجْتَنِبُوا الطَّاغُوتَ») is filled from the official text (fill_quran.py); its footnote follows the translation.
+# Hadith typed from the print (not in the hadith-api collections): المعجم الكبير للطبراني and سلسلة الأحاديث الصحيحة 1728,
+# «أَوْثَقُ عُرَى الْإِيمَانِ ...». Printed harakat kept («اَلْمُوَالَاةُ» with the fatha printed on its first alif), «اللّٰهِ» in the standard form
+# «اللَّهِ», stopping form at the colon, at each comma and at the end.
+# References: the digit groups are typed as they appear on the page, left to right («28:3», «36:16», «172/11»).
+# The page ends with «نبی مکرم ﷺ نے فرمایا:»; the hadith it introduces is at the top of page 161 and stays there.
+
+[ur]
+“اہل ایمان، مومنوں کو چھوڑ کر کافروں کو ہرگز دوست نہ بنائیں اور جو کوئی ایسا کرے گا تو اس کا اللہ سے کوئی تعلق نہیں۔”
+
+[ref]
+آل عمران 28:3.
+
+[ur]
+اہل سنت والجماعت یہ اعتقاد رکھتے ہیں کہ دوستی اور دشمنی شریعت کا ایک اہم اصول ہے۔ درج ذیل وجوہ اس اصول کی اہمیت اجاگر کرتی ہیں:
+
+[ur]
+پہلی: یہ اصول شہادتِ لا الٰہ الا اللہ کا ایک جز ہے۔ لا الٰہ الا اللہ کے معنی ہیں، ہر اس شے سے بے زاری کرنا جس کی پوجا اللہ کے سوا کی جاتی ہے۔ اللہ تعالیٰ نے فرمایا:
+
+[ar]
+# quran 16:36 from أَنِ اعْبُدُوا to الطَّاغُوتَ
+أَنِ اعْبُدُوا اللَّهَ وَاجْتَنِبُوا الطَّاغُوتْ
+
+[ur]
+“اللہ کی عبادت کرو اور طاغوت سے بچو۔”
+
+[ref]
+النحل 36:16.
+
+[ur]
+دوسری: یہ سلسلۂ ایمان کی مضبوط ترین کڑی ہے۔ نبی کریم ﷺ نے فرمایا:
+
+[ar]
+أَوْثَقُ عُرَى الْإِيمَانْ: اَلْمُوَالَاةُ فِي اللَّهِ وَالْمُعَادَاةُ فِي اللَّهْ، وَالْحُبُّ فِي اللَّهْ، وَالْبُغْضُ فِي اللَّهْ
+
+[ur]
+“ایمان کی مضبوط ترین کڑی ہے، اللہ کے لیے دوستی اور اللہ کے لیے دشمنی، اللہ ہی کے لیے محبت اور اللہ ہی کے لیے نفرت۔”
+
+[ref]
+المعجم الكبير للطبراني: 172/11، رقم الحديث: 11537، وسلسلة الأحاديث الصحيحة للألباني، حديث: 1728.
+
+[ur]
+تیسری: اسی لیے دل، ایمان کی حلاوت اور یقین کی لذت سے آشنا ہوتا ہے۔ نبی مکرم ﷺ نے فرمایا:

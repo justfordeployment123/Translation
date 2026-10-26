@@ -1,0 +1,26 @@
+# title: Page 34
+# English edition of book page 34, built by build_english.py from en_src/ and page_034.txt
+
+[hen]
+Definition of the Salaf
+
+[en]
+The linguistic definition of Salaf: Linguistically, salaf is a thing that has passed, that has gone ahead. In Arabic one says: salafa ash-shay'u salafan, that is, it passed (to pass, to go ahead).
+
+[en]
+As-salaf are those who have passed, who have gone ahead. Those who go ahead while travelling in a caravan and reach a place first are also called as-salaf. In the Noble Quran it is said:
+
+[ar]
+فَلَمَّا آسَفُونَا انْتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَاهُمْ أَجْمَعِينْ
+
+[ar]
+فَجَعَلْنَاهُمْ سَلَفًا وَمَثَلًا لِلْآخِرِينْ
+
+[en]
+And when they angered Us, We took retribution from them and drowned them all. And We made them a precedent and an example for the later peoples.
+
+[ref]
+الزخرف 56,55:43.
+
+[en]
+That is, We made them salaf (a precedent) for those who follow in their footsteps and adopt conduct like theirs, so that later people would take a lesson from their end and remember that if they too did the same, their end would be no different from theirs.

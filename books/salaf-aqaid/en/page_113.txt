@@ -1,0 +1,26 @@
+# title: Page 113
+# English edition of book page 113, built by build_english.py from en_src/ and page_113.txt
+
+[en]
+On another occasion he said:
+
+[ar]
+إِنِّي فَرَطُكُمْ عَلَى الْحَوْضْ، مَنْ مَرَّ عَلَيَّ شَرِبْ، وَمَنْ شَرِبَ لَمْ يَظْمَأْ أَبَدَا، لَيَرِدَنَّ عَلَيَّ أَقْوَامٌ أَعْرِفُهُمْ وَيَعْرِفُونِي، ثُمَّ يُحَالُ بَيْنِي وَبَيْنَهُمْ
+
+[en]
+“I am your forerunner at the Pond. Whoever passes by me will drink, and whoever drinks will never feel thirst again. Some people will come to me at the Pond whom I will recognise and who will recognise me, but then a barrier will be placed between me and them.”
+
+[ref]
+صحيح البخاري، الرقاق، حديث: 6583، وصحيح مسلم، الفضائل، حديث: 2290.
+
+[en]
+In another narration it says:
+
+[ar]
+فَأَقُولُ إِنَّهُمْ مِنِّي، فَيُقَالُ إِنَّكَ لاَ تَدْرِي مَا أَحْدَثُوا بَعْدَكْ، فَأَقُولُ سُحْقًا سُحْقًا لِمَنْ غَيَّرَ بَعْدِي
+
+[en]
+“I will say: They are mine.” But it will be said: You, peace be upon him, do not know what new things they introduced after you. Then I will say: “Away, away (and) ruined be those who made changes (in the religion) after me.”
+
+[ref]
+صحيح البخاري، الرقاق، حديث: 6584، وصحيح مسلم، الفضائل، حديث: 2291.

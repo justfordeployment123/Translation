@@ -1,0 +1,44 @@
+# title: Page 75
+# English edition of book page 75, built by build_english.py from en_src/ and page_075.txt
+
+[en]
+The Messenger of Allah, peace be upon him, said:
+
+[ar]
+مَنْ غَشَّنَا فَلَيْسَ مِنَّا
+
+[ref]
+صحيح مسلم، رقم الحديث [102] سنن ابن ماجه، رقم الحديث [2224]
+
+[en]
+“Whoever deceives us is not following our way.”
+
+[en]
+This is outright deception. Fawzi trusted you, but you deceived him and took advantage of his lack of knowledge.
+
+[en]
+The Messenger of Allah, peace be upon him, said:
+
+[ar]
+لِكُلِّ غَادِرٍ لِوَاءٌ يَوْمَ الْقِيَامَةْ، يُقَالُ هَذِهِ غَدْرَةُ فُلاَنْ
+
+[ref]
+صحيح البخاري، رقم الحديث [3186] صحيح مسلم، رقم الحديث [1735]
+
+[en]
+“On the Day of Resurrection, every deceiver will have a banner, and it will be said: This is the deceit of so-and-so.”
+
+[en]
+You have proved to be a deceiver in this matter. What greater deceit could there be than that a man thought you trustworthy and you dealt with him treacherously?
+
+[en]
+The Messenger of Allah, peace be upon him, said:
+
+[ar]
+الْبَيِّعَانِ بِالْخِيَارِ مَا لَمْ يَتَفَرَّقَا، فَإِنْ صَدَقَا وَبَيَّنَا بُورِكَ لَهُمَا فِي بَيْعِهِمَا، وَإِنْ كَتَمَا وَكَذَبَا مُحِقَتْ بَرَكَةُ بَيْعِهِمَا
+
+[ref]
+صحيح البخاري، رقم الحديث [2082] صحيح مسلم، رقم الحديث [1532]
+
+[en]
+“The two parties to a sale have the option (to change or cancel it) as long as they have not separated. If they both tell the truth and make (any defects and so on) clear, blessing is placed in that deal of theirs; and if they both hide (the defects and so on) and lie, the blessing is taken away from that deal of theirs.”

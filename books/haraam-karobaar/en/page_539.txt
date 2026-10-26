@@ -1,0 +1,26 @@
+# title: Page 539
+# English edition of book page 539, built by build_english.py from en_src/ and page_539.txt
+
+[en]
+In the same way, some people take out loans to live a life of luxury and pleasure, and some take loans from people for pointless customs and blameworthy purposes. Surely there are also some people who take loans with the intention: It is not as if we have to pay it back! So taking a loan with this evil intention in particular, and taking a loan and not repaying it in general, causes quarrels, fights and strife. It becomes a means of swallowing up and destroying other people's wealth. The Messenger of Allah, peace be upon him, has warned of the outcome of this act. He, peace be upon him, said:
+
+[ar]
+مَنْ أَخَذَ أَمْوَالَ النَّاسِ يُرِيدُ أَدَاءَهَا أَدَّى اللَّهُ عَنْهْ، وَمَنْ أَخَذَ يُرِيدُ إِتْلاَفَهَا أَتْلَفَهُ اللَّهْ
+
+[ref]
+صحيح البخاري، رقم الحديث [2387]
+
+[en]
+“Whoever takes people's wealth (takes a loan) intending to repay it, Allah the Exalted will repay it on his behalf (will provide him with the means to repay it); and whoever takes wealth intending to waste it, Allah the Exalted will ruin and destroy him.”
+
+[en]
+People are lazy about countless matters of the religion and consider them completely trivial and insignificant, whereas they are not so trivial in the sight of Allah the Exalted. So much so that even a person who attains a rank and honour as great as martyrdom will be held back because of a debt.
+
+[en]
+The Messenger of Allah, peace be upon him, said:
+
+[ar]
+سُبْحَانَ اللَّهْ! مَاذَا أَنْزَلَ اللَّهُ مِنَ التَّشْدِيْدِ فِي الدَّيْنْ، وَالَّذِي نَفْسِي بِيَدِهِ لَوْ أَنَّ رَجُلاً قُتِلَ فِي سَبِيلِ اللَّهْ، ثُمَّ أُحْيِيَ ثُمَّ قُتِلْ، ثُمَّ أُحْيِيَ ثُمَّ قُتِلَ وَعَلَيْهِ دَيْنٌ مَا دَخَلَ الْجَنَّةَ حَتَّى يُقْضَى عَنْهُ دَيْنُهْ
+
+[ref]
+سنن النسائي، صحيح الجامع، رقم الحديث [3594]

@@ -1,0 +1,13 @@
+# English source for book page 562
+
+[en]
+Teacher: This form of holding competitions is also invalid and impermissible.
+
+[en]
+Ammar: Why?
+
+[en]
+Teacher: Because it resembles gambling. Everyone is equal in putting in money, but only the ten people who succeed benefit; indeed, they take away something more than their ten pounds, while those who fail have to bear the loss. In this respect, this falls into the category of gambling, because gambling is exactly this: two or more people compete and put in an equal amount of money, and after the game the winner takes all the money, which is forbidden. The proof of this is this hadith of the Messenger of Allah, peace be upon him, in which he, peace be upon him, said:
+
+[en]
+“Horses are of three kinds: a horse for the Most Merciful, a horse for man, and a horse for Satan. The horse of the Most Merciful is the horse made ready for the way of Allah: its fodder, its dung, its urine, and whatever else besides that Allah willed and he, peace be upon him, mentioned, is reward. The horse of Satan is the horse that is kept for gambling and for placing bets.”

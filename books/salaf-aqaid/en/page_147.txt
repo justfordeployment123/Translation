@@ -1,0 +1,32 @@
+# title: Page 147
+# English edition of book page 147, built by build_english.py from en_src/ and page_147.txt
+
+[en]
+Fifth: The disbelief of doubt: The one who commits the disbelief of doubt is not certain whether the Prophet is truthful or a liar. He is in doubt. He hesitates over whether to accept what the Prophet says or not. What is required of a person is that he be certain about the teachings the Messenger brought, that they are undoubtedly the truth; but whoever is hesitant about following the Prophet's teachings, or thinks that the reality could be contrary to the Prophet's teachings, such a person is caught in the disbelief of doubt. These kinds of disbelief make it necessary that if one who commits any of them dies holding that same belief, he remains in Hell forever and all his deeds are lost. Allah the Exalted says:
+
+[ar]
+إِنَّ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ فِي نَارِ جَهَنَّمَ خَالِدِينَ فِيهَا ۚ أُولَٰئِكَ هُمْ شَرُّ الْبَرِيَّةْ
+
+[en]
+Indeed, they who disbelieved among the People of the Scripture and the polytheists will be in the fire of Hell, abiding eternally therein. Those are the worst of creatures.
+
+[ref]
+البينة 6:98.
+
+[en]
+And He says:
+
+[ar]
+لَئِنْ أَشْرَكْتَ لَيَحْبَطَنَّ عَمَلُكَ وَلَتَكُونَنَّ مِنَ الْخَاسِرِينْ
+
+[en]
+If you should associate (anything) with Allah, your work would surely become worthless, and you would surely be among the losers.
+
+[ref]
+الزمر 65:39.
+
+[en]
+The second kind, minor disbelief: Minor disbelief does not take a person out of the fold of Islam. The Lawgiver has applied the word disbelief to some major sins by way of rebuke and reprimand, because such major sins are traits of disbelief.
+
+[fen]
+He uses abusive language in a quarrel and speaks foully. He breaks an agreement.

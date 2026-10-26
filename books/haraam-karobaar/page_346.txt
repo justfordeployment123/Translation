@@ -1,0 +1,31 @@
+# title: Page 346
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 346 (PDF page 347), الیکٹرونک مارکیٹ کا دورہ
+# The opening of the round «الیکٹرونک مارکیٹ کا دورہ» (title page 345), before its first chapter (page 347).
+# The bracketed narration stands on its own lines between turns; it is its own block (as on page 299).
+# «پُرجوش» is typed with its printed pesh. «ٹیپ ریکارڈ» in the teacher's second turn is typed as printed (elsewhere «ٹیپ ریکارڈر»).
+# «جزاک اللہ خیراً» is printed in Arabic type; it is kept in Urdu spelling, as a set phrase.
+# The page ends with a full dialogue turn; the rest of the page is blank.
+
+[ur]
+استاد اور عمار حمام سے نکلے اور الیکٹرونک مارکیٹ کی طرف چل پڑے، اس مارکیٹ میں استاد صاحب کے ایک دوست فیصل کی الیکٹرونک اشیا کی بہت بڑی دکان تھی۔
+
+[ur]
+استاد: عمار! میرا خیال ہے، اس مارکیٹ سے ایک ٹیپ ریکارڈر خریدتے جائیں۔
+
+[ur]
+عمار: جیسے آپ کی مرضی۔
+
+[ur]
+(دونوں دکان میں داخل ہوئے، فیصل صاحب نے دونوں کا پُرجوش استقبال کیا، ان کو بٹھایا اور ٹھنڈے مشروبات کے ساتھ ان کی مہمان نوازی کی)
+
+[ur]
+فیصل: استاد صاحب! میں آپ سے ملنے کا بہت خواہش مند تھا۔
+
+[ur]
+استاد: ہم ایک ٹیپ ریکارڈ خریدنے آئے ہیں۔
+
+[ur]
+فیصل: جی ضرور خریدیں، بلکہ دکان ہی آپ کی ہے۔
+
+[ur]
+استاد: جزاک اللہ خیراً۔

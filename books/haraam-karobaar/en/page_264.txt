@@ -1,0 +1,29 @@
+# title: Page 264
+# English edition of book page 264, built by build_english.py from en_src/ and page_264.txt
+
+[en]
+Teacher: May Allah the Exalted give you a long life! This road is not your property.
+
+[en]
+Abu Jum'a: No, Teacher! What I mean is that I have left enough of the road for people to pass. Since this road runs in front of my land, I am free to do as I like with it.
+
+[en]
+Teacher: Abu Jum'a! This way of thinking of yours is wrong, because this road belongs to the government, and it has set it aside for those who pass along it. You have no right to add even one inch of it to your land. If this road were not here, what would you have done then?
+
+[en]
+Let me tell you, according to the Shariah, that cutting into roads and wrongfully adding other people's land to your own is a major sin, and the earnings made from it are forbidden. On the Day of Resurrection, Allah the Exalted will put a bridle of fire on such a person.
+
+[en]
+Sa'id ibn Zaid, may Allah be pleased with him, said that he heard the Messenger of Allah, peace be upon him, say:
+
+[ar]
+مَنْ أَخَذَ شِبْرًا مِنَ الأَرْضِ ظُلْمًا فَإِنَّهُ يُطَوَّقُهُ يَوْمَ الْقِيَامَةِ مِنْ سَبْعِ أَرَضِينْ
+
+[ref]
+صحيح البخاري، رقم الحديث [3198]
+
+[en]
+“Whoever unjustly seizes a hand-span of anyone's land, it will be made into a collar of seven earths and put around his neck on the Day of Resurrection.”
+
+[en]
+It is narrated from Abdullah ibn Umar, may Allah be pleased with them both, that the Messenger of Allah, peace be upon him, said:

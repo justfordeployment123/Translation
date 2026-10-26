@@ -1,0 +1,53 @@
+# title: Page 316
+# English edition of book page 316, built by build_english.py from en_src/ and page_316.txt
+
+[en]
+Honour and dignity lie only in following and obeying him, peace be upon him.
+
+[en]
+Young man: I would like you to give some proofs that the beard is obligatory and that shaving it is forbidden.
+
+[en]
+Teacher: Listen to proofs from the Noble Quran:
+
+[en]
+First: Allah the Exalted said:
+
+[ar]
+وَلَآمُرَنَّهُمْ فَلَيُغَيِّرُنَّ خَلْقَ اللَّهْ
+
+[ref]
+[النساء: 119]
+
+[en]
+And I will command them so they will change the creation of Allah.
+
+[en]
+Cutting or shaving the beard amounts to changing the creation of Allah the Exalted.
+
+[en]
+Second: Allah the Most High says:
+
+[ar]
+أُولَٰئِكَ الَّذِينَ هَدَى اللَّهُ ۖ فَبِهُدَاهُمُ اقْتَدِهْ
+
+[ref]
+[الأنعام: 90]
+
+[en]
+Those are the ones whom Allah has guided, so from their guidance take an example.
+
+[en]
+All the prophets and messengers had beards. If you do not believe it, read the story of Musa and Harun:
+
+[ar]
+لَا تَأْخُذْ بِلِحْيَتِي وَلَا بِرَأْسِي
+
+[ref]
+[طه: 94]
+
+[en]
+Do not seize (me) by my beard or by my head.
+
+[en]
+Third: He says further:

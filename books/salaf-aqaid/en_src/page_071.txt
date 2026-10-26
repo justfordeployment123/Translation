@@ -1,0 +1,25 @@
+# English source for book page 71
+
+[en]
+Say, “Are you more knowing or is Allah?”
+
+[en]
+And He says:
+
+[en]
+{{QEN 16:74}}
+
+[en]
+After Allah the Exalted, no one knows more about Him than His Messenger, peace be upon him, about whom Allah the Exalted Himself said:
+
+[en]
+{{QEN 53:3 53:4}}
+
+[en]
+Ahl as-Sunnah wal-Jama'ah believe that Allah the Exalted alone is the First, before whom there is nothing. He is the Last, after whom there is nothing. He is the Ascendant, above whom there is nothing. He is the Intimate, from whom nothing is hidden, as Allah the Exalted says:
+
+[en]
+{{QEN 57:3}}
+
+[en]
+Just as the Essence of Allah the Exalted is not like any other essence, so His attributes are not like the attributes of anyone else.

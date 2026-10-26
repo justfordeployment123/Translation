@@ -1,0 +1,56 @@
+# title: Page 175
+# English edition of book page 175, built by build_english.py from en_src/ and page_175.txt
+
+[en]
+Allah the Exalted says:
+
+[ar]
+فَلَمَّا جَاءَ السَّحَرَةْ
+
+[en]
+So when the magicians came.
+
+[ref]
+يونس 80:10.
+
+[en]
+And He says:
+
+[ar]
+وَجَاءُوا بِسِحْرٍ عَظِيمْ
+
+[en]
+And they presented a great (feat of) magic.
+
+[ref]
+الأعراف 116:7.
+
+[en]
+And He says:
+
+[ar]
+وَلَٰكِنَّ الشَّيَاطِينَ كَفَرُوا يُعَلِّمُونَ النَّاسَ السِّحْرْ
+
+[en]
+But the devils disbelieved, teaching people magic.
+
+[ref]
+البقرة 102:2.
+
+[en]
+However, it is also a fact that a magician can harm anyone by magic only if Allah the Exalted wills it. If Allah the Exalted does not will it, he cannot harm a single hair of anyone. So it was said:
+
+[ar]
+وَمَا هُمْ بِضَارِّينَ بِهِ مِنْ أَحَدٍ إِلَّا بِإِذْنِ اللَّهِ ۚ وَيَتَعَلَّمُونَ مَا يَضُرُّهُمْ وَلَا يَنْفَعُهُمْ
+
+[en]
+But they do not harm anyone through it except by permission of Allah. And the people learn what harms them and does not benefit them.
+
+[ref]
+البقرة 102:2.
+
+[en]
+Accordingly, whoever believes that magic brings benefit or harm without the permission of Allah has committed disbelief.
+
+[fen]
+(al-Baqarah 2:102; see al-Mughni 8/150–151)

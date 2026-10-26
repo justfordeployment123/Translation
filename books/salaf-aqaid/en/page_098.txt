@@ -1,0 +1,23 @@
+# title: Page 98
+# English edition of book page 98, built by build_english.py from en_src/ and page_098.txt
+
+[en]
+Allah the Exalted has given some prophets and Messengers precedence over others. The Ummah is agreed that the Messengers are superior to the prophets, while among the Messengers some are superior to others. The most excellent of all the prophets and Messengers are those who are called the Messengers of firm resolve. They are five Messengers: Muhammad, peace be upon him, Nuh, peace and blessings be upon him, Ibrahim, peace and blessings be upon him, Musa, peace and blessings be upon him, and Isa, peace and blessings be upon him. The most excellent of the Messengers of firm resolve is the Seal of the Prophets and Messengers, Muhammad, peace be upon him. Allah the Exalted says:
+
+[ar]
+وَلَٰكِنْ رَسُولَ اللَّهِ وَخَاتَمَ النَّبِيِّينْ
+
+[en]
+But (he is) the Messenger of Allah and last of the prophets.
+
+[ref]
+الأحزاب 40:33.
+
+[en]
+Ahl as-Sunnah wal-Jama'ah believe in all the prophets and Messengers from Adam, peace and blessings be upon him, to Muhammad, peace be upon him: both in those Messengers whose names are mentioned in the Quran and the Sunnah, and in those whose names are not mentioned in the Quran and the Sunnah.
+
+[en]
+Believing in the Messengers is a general faith, whereas believing in the messengership of Muhammad, peace be upon him, is a detailed faith, which requires a person to understand his sayings in detail and to act upon them.
+
+[en]
+Muhammad, the Messenger of Allah, peace be upon him: He is Abu al-Qasim Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim ibn Abd Manaf ibn Qusayy ibn Kilab ibn Murrah ibn Ka'b ibn Lu'ayy ibn Ghalib ibn Fihr ibn Malik ibn an-Nadr ibn Kinanah ibn Khuzaymah ibn Mudrikah ibn Ilyas ibn Mudar ibn Nizar ibn Ma'add ibn Adnan.

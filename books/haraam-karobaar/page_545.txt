@@ -1,0 +1,33 @@
+# title: Page 545
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 545 (PDF page 546), چورانوےواں باب: شادیوں کے موقع پر گانے بجانے اور بینڈ باجے والوں کے ساتھ کام کرنا
+# Print spelling normalized: «چورانواں باب» -> «چورانوےواں باب» (chapter 94; the book's spelling of the 90s is also its spelling of the 50s or is irregular, so the standard number word + «واں» is used); the contents page has the same spelling.
+# The page starts with the new chapter (page 544 ends the previous one with a full sentence).
+# The paragraph «اللہ تمھیں سلامت رکھے ...» is printed as its own paragraph in the teacher's turn; it is a nameless block.
+# The page ends with the hadith and its footnote; its Urdu translation starts on page 546 and is there.
+# Hadith typed from the print (not in the hadith-api collections in this wording): the book cites سنن الترمذي [2212] and
+# الصحيحة للألباني [2203], as on pages 256 and 393; the printed wording («لَيَكُوْنَنَّ ... وَذَلِكَ إِذَا شَرِبُوْا الْخُمُوْرَ وَاتَّخَذُوْا الْقَيْنَاتِ
+# وَضَرَبُوْا الْمَعَازِفَ») is that of as-Sahihah (Tirmidhi 2212: «... إِذَا ظَهَرَتِ الْقَيْنَاتُ وَالْمَعَازِفُ وَشُرِبَتِ الْخُمُورُ»). Typed with the printed
+# harakat (read on the 300 dpi scan image), "ذٰلِكَ" in the standard form, the loose "وَ مَسْخٌ" joined, and the stopping form at the end.
+# Unlike pages 256 and 393, this print has no comma after «وَمَسْخٌ», so there is no pause (and no stopping form) there.
+# Proofreader please check: the book's first reference (Tirmidhi [2212]) is to a report whose wording differs from the printed one.
+
+[h]
+چورانوےواں باب: شادیوں کے موقع پر گانے بجانے اور بینڈ باجے والوں کے ساتھ کام کرنا
+
+[ur]
+عمار: استاد صاحب! کیا شادی کے موقع پر بینڈ باجے والوں کے ساتھ کام کرنے والے کا بھی یہی حکم ہے؟
+
+[ur]
+استاد: (مسکراتے ہوئے بولے) جب موسیقی بذات خود حرام ہے تو موسیقی کا کام کرنے والوں کے بارے میں تمھارا کیا خیال ہے؟
+
+[ur]
+اللہ تمھیں سلامت رکھے، شادی کے موقع پر رقص کرنا، باجے بجانا اور دیگر موسیقی کی محفلیں منعقد کرنا، یہ سب ناجائز اور حرام کام ہیں اور جو شخص ان کاموں میں کسی بھی طرح سے شامل ہوگا، گویا وہ حرام کام کا ارتکاب کر رہا ہے۔ اسی طرح اس کام کی اجرت لینا بھی حرام ہے، کیونکہ موسیقی زنا کا مقدمہ ہے اور یہ دل میں نفاق اور فتور پیدا کرتی ہے اور یہ شیطان کے ہتھیاروں میں سے ایک ہتھیار ہے، جس کے ساتھ وہ انسان کو گمراہ کرتا ہے۔
+
+[ur]
+رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+لَيَكُوْنَنَّ فِيْ هَذِهِ الأُمَّةِ خَسْفٌ وَقَذْفٌ وَمَسْخٌ وَذَلِكَ إِذَا شَرِبُوْا الْخُمُوْرَ وَاتَّخَذُوْا الْقَيْنَاتِ وَضَرَبُوْا الْمَعَازِفْ
+
+[ref]
+سنن الترمذي، رقم الحديث [2212] صححه الألباني فى الصحيحة [2203]

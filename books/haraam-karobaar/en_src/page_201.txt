@@ -1,0 +1,37 @@
+# English source for book page 201
+
+[en]
+Teacher: Servant of Allah! For a man on whom the Friday prayer is obligatory, buying and selling from the second adhan until the end of the Friday prayer is forbidden and invalid.
+
+[en]
+Ammar: Teacher! On whom is the Friday prayer obligatory?
+
+[en]
+Teacher: The Friday prayer is obligatory on a Muslim man who is sane, adult and resident; on anyone else, that is, the insane, the traveller, children and women, the Friday prayer is not obligatory.
+
+[en]
+Hassan: Is there even one proof that makes trading at the time of the Friday prayer forbidden?
+
+[en]
+Teacher: Yes, the proof for it is in the Noble Quran.
+
+[en]
+Hassan: Which one?
+
+[en]
+Teacher: Allah the Exalted says:
+
+[en]
+{{QEN 62:9}}
+
+[en]
+The commentators of the Quran say:
+
+[en]
+“This blessed verse makes trading impermissible and forbidden during the times of the Friday sermon and the Friday prayer.”
+
+[en]
+Hassan: Teacher! What is the solution to this?
+
+[en]
+Teacher: Hassan! The solution is very easy: the shop or store and so on should be closed at that time.

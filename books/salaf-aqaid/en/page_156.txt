@@ -1,0 +1,29 @@
+# title: Page 156
+# English edition of book page 156, built by build_english.py from en_src/ and page_156.txt
+
+[ar]
+مَا مِنْ أَحَدٍ يُدْخِلُهُ عَمَلُهُ الْجَنَّةْ. فَقِيلَ وَلاَ أَنْتْ؟ يَا رَسُولَ اللَّهْ! قَالَ وَلاَ أَنَا، إِلاَّ أَنْ يَتَغَمَّدَنِي رَبِّي بِرَحْمَةْ
+
+[en]
+“There is no one whose deeds will take him into Paradise.” It was said: Not even you, O Messenger of Allah? He said: “Not even I, unless Allah covers me with His mercy.”
+
+[ref]
+صحيح مسلم، صفات المنافقين، حديث: 2816.
+
+[en]
+Ahl as-Sunnah wal-Jama'ah do not consider punishment inevitable for anyone whose sin does not reach the level of disbelief. If such a person takes the path of goodness and does good deeds, or repents, or is afflicted with hardships and sufferings and with illnesses that wipe out his sins, then Allah the Exalted sometimes also forgives his sins. Allah the Exalted says:
+
+[ar]
+قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنْفُسِهِمْ لَا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ ۚ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ جَمِيعًا ۚ إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمْ
+
+[en]
+Say, “O My servants who have transgressed against themselves (by sinning), do not despair of the mercy of Allah. Indeed, Allah forgives all sins. Indeed, it is He who is the Forgiving, the Merciful.”
+
+[ref]
+الزمر 53:39.
+
+[en]
+And the noble Prophet, peace be upon him, said:
+
+[ar]
+بَيْنَمَا رَجُلٌ يَمْشِي بِطَرِيقْ، وَجَدَ غُصْنَ شَوْكٍ عَلَى الطَّرِيقِ فَأَخَّرَهْ، فَشَكَرَ اللَّهُ لَهْ، فَغَفَرَ لَهْ

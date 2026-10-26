@@ -1,0 +1,50 @@
+# title: Page 87
+# English edition of book page 87, built by build_english.py from en_src/ and page_087.txt
+
+[ar]
+وَمَا يَعْلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَ ۚ وَمَا هِيَ إِلَّا ذِكْرَىٰ لِلْبَشَرْ
+
+[en]
+And none knows the soldiers of your Lord except Him. And mention of the Fire is not but a reminder to humanity.
+
+[ref]
+المدثر 31:74.
+
+[en]
+Allah the Exalted has kept the angels hidden from our sight. We cannot see them in their true form. However, Allah the Exalted did make the angels visible to some of His servants; for example, our noble Prophet, peace be upon him, saw Jibril, peace be upon him, twice in his true form. He says:
+
+[ar]
+وَلَقَدْ رَآهُ نَزْلَةً أُخْرَىٰ
+
+[ar]
+عِنْدَ سِدْرَةِ الْمُنْتَهَىٰ
+
+[en]
+And he certainly saw him in another descent - At the Lote Tree of the Utmost Boundary.
+
+[ref]
+النجم 13:53، 14.
+
+[en]
+And He says:
+
+[ar]
+وَمَا صَاحِبُكُمْ بِمَجْنُونْ
+
+[ar]
+وَلَقَدْ رَآهُ بِالْأُفُقِ الْمُبِينْ
+
+[en]
+And your companion is not (at all) mad. And he has already seen Gabriel in the clear horizon.
+
+[ref]
+التكوير 22:81، 23.
+
+[en]
+Faith in the Books (belief in the Books): Ahl as-Sunnah wal-Jama'ah firmly believe that Allah the Exalted sent down Books to His Messengers, in which are set down His commands and prohibitions, His promises and warnings, and the things that Allah the Exalted wants from His servants.
+
+[en]
+In these revealed Books there is light and guidance. He says:
+
+[ar]
+آمَنَ الرَّسُولُ بِمَا أُنْزِلَ إِلَيْهِ مِنْ رَبِّهِ وَالْمُؤْمِنُونَ ۚ كُلٌّ آمَنَ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهْ

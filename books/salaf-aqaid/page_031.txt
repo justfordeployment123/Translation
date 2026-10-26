@@ -1,0 +1,32 @@
+# title: Page 31
+# Salaf-e-Saliheen ke Aqaid o Nazariyat, book page 31 (PDF page 28), ضروری تعریفیں
+# The bold lead-in «عقیدے کی لغوی تعریف:» runs on in the same line as its paragraph, so it stays in the [ur] block.
+# The Arabic words «حَلّ», «عَقَدَهُ يَعْقِدُهُ عَقْدًا», «عُقْدَةُ الْيَمِينِ» and «عُقْدَةُ النِّكَاحِ» are terms inside Urdu sentences:
+# typed as printed inside their [ur] blocks, stopping form on the last word, the quote marks around «حَلّ» dropped.
+# Al-Ma'idah 5:89 is filled from the official text (fill_quran.py); its footnote follows the translation, which carries the marker.
+# The last sentence continues on page 32 ("کوئی شک و شبہ نہیں ہوتا۔"); it is kept whole here.
+
+[h]
+ضروری تعریفیں
+
+[ur]
+عقیدے کی لغوی تعریف: عقیدے کا لفظ عقد سے ماخوذ ہے، اس کے معنی ہیں: ربط قائم کرنا۔ کوئی بات طے کرنا۔ مستحکم کرنا۔ وثوق پانا۔ مضبوطی سے باندھنا۔ مضبوط ہونا (مضبوط تعلق قائم ہونا)، چمٹنا، گتھنا، دیوار وغیرہ کو سیسہ پلانا۔ ثابت کرنا۔
+
+[ur]
+یقین اور جزم اسی سے ہیں۔ عربی زبان کا لفظ حَلّ اس کا متضاد ہے جس کے معنی کھولنے کے ہیں۔
+
+[ur]
+عَقَدَهُ يَعْقِدُهُ عَقْدَا، گرہ دینا، گانٹھ لگانا۔ عُقْدَةُ الْيَمِينْ (قسم کی گرہ) اور عُقْدَةُ النِّكَاحْ (شادی کی گرہ) اسی سے ماخوذ ہیں۔ ارشادِ باری تعالیٰ ہے:
+
+[ar]
+# quran 5:89 from لَا يُؤَاخِذُكُمُ اللَّهُ to عَقَّدْتُمُ الْأَيْمَانَ
+لَا يُؤَاخِذُكُمُ اللَّهُ بِاللَّغْوِ فِي أَيْمَانِكُمْ وَلَٰكِنْ يُؤَاخِذُكُمْ بِمَا عَقَّدْتُمُ الْأَيْمَانْ
+
+[ur]
+“اللہ تمھاری بلا ارادہ قسموں پر تمھیں نہیں پکڑتا لیکن ان قسموں پر پکڑتا ہے جو تم مضبوط باندھ لو۔”
+
+[ref]
+المآئدة 89:5.
+
+[ur]
+اس لحاظ سے عقیدہ وہ حکم اور فیصلہ ہے جس کے صحیح اور ثابت ہونے میں معتقد کو کوئی شک و شبہ نہیں ہوتا۔

@@ -1,0 +1,41 @@
+# title: Page 547
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 547 (PDF page 548), پچانوےواں باب: کتوں کی خرید و فروخت
+# Print spelling normalized: «پچانواں باب» -> «پچانوےواں باب» (chapter 95; the book's spelling of the 90s is also its spelling of the 50s or is irregular, so the standard number word + «واں» is used); the contents page has the same spelling.
+# The page starts with the new chapter (page 546 ends the previous one with a full sentence).
+# The teacher's turn opens straight with the hadith, so «استاد:» is a block of its own (as TRANSCRIBING.md asks).
+# Hadith 1 (Abu Mas'ud): Bukhari 2237 (the book cites "صحيح البخاري، رقم الحديث [2237]" and Muslim [1567]). «نَهَى النَّبِيُّ ﷺ» is typed
+# from the print ("نَهٰى" in the standard form; the source has «أَنَّ رَسُولَ اللَّهِ ﷺ نَهَى»); «عَنْ ثَمَنِ ... الْكَاهِنِ» is filled from Bukhari 2237.
+# Hadith 2 (Abu Hurairah): Muslim 4030 (sunnah.com numbering of Muslim 1575, which the book cites), filled from there.
+# The page ends with hadith 2 and its footnote; its Urdu translation is printed on page 548 and is there.
+
+[h]
+پچانوےواں باب: کتوں کی خرید و فروخت
+
+[ur]
+عمار: استاد صاحب! کتوں کی خرید و فروخت کا کیا حکم ہے، جب کہ وہ اچھی نسل کے ہوں؟
+
+[ur]
+استاد:
+
+[ar]
+# hadith نَهَى النَّبِيُّ ﷺ {{H bukhari:2237 from عَنْ ثَمَنِ to الْكَاهِنِ}}
+نَهَى النَّبِيُّ ﷺ عَنْ ثَمَنِ الْكَلْبِ وَمَهْرِ الْبَغِيِّ وَحُلْوَانِ الْكَاهِنْ
+
+[ref]
+صحيح البخاري، رقم الحديث [2237] صحيح مسلم، رقم الحديث [1567]
+
+[ur]
+“نبی اکرم ﷺ نے کتوں کی قیمت، بدکار عورت اور کاہن کی کمائی کھانے سے منع کیا ہے۔”
+
+[ur]
+اس حدیث میں حکم عام ہے کہ ہر قسم کے کتے کی قیمت کھانا یا اس کی خرید و فروخت کرنا حرام ہے، خواہ وہ سدھایا ہوا ہو یا نہ سدھایا ہوا ہو، اس کا پالنا جائز ہو یا ناجائز ہو، جو آدمی کتے کی خرید و فروخت کرتا ہے وہ حرام کھاتا ہے، لہٰذا اسے اللہ تعالیٰ سے ڈرنا چاہیے۔
+
+[ur]
+رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H muslim:4030 from مَنِ اقْتَنَى to كُلَّ يَوْمٍ}}
+مَنِ اقْتَنَى كَلْبًا لَيْسَ بِكَلْبِ صَيْدٍ وَلاَ مَاشِيَةٍ وَلاَ أَرْضٍ فَإِنَّهُ يَنْقُصُ مِنْ أَجْرِهِ قِيرَاطَانِ كُلَّ يَوْمْ
+
+[ref]
+صحيح مسلم، رقم الحديث [1575]

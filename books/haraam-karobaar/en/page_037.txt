@@ -1,0 +1,29 @@
+# title: Page 37
+# English edition of book page 37, built by build_english.py from en_src/ and page_037.txt
+
+[hen]
+Chapter One: Giving Short Measure and Weight
+
+[en]
+The teacher was walking with his student (Ammar) towards the grain market when, as they entered the market, the teacher suddenly stopped.
+
+[en]
+Ammar: Teacher! Is everything all right? Why have you stopped?
+
+[en]
+Teacher: Ammar! Do not forget the dua for entering the market.
+
+[en]
+Ammar: Shaykh! I do not remember that dua. Which dua is it?
+
+[en]
+Teacher: The dua is this. It is narrated from Abdullah ibn Umar, may Allah be pleased with them both, that the noble Prophet, peace be upon him, said:
+
+[ar]
+مَنْ دَخَلَ السُّوقَ فَقَالْ لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهْ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدْ، يُحْيِي وَيُمِيتْ، وَهُوَ حَيٌّ لاَ يَمُوتْ، بِيَدِهِ الْخَيْرْ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرْ، كَتَبَ اللَّهُ لَهُ أَلْفَ أَلْفِ حَسَنَةْ، وَمَحَا عَنْهُ أَلْفَ أَلْفِ سَيِّئَةْ، وَرَفَعَ لَهُ أَلْفَ أَلْفِ دَرَجَةْ، وَبَنَى لَهُ بَيْتًا فِي الْجَنَّةْ
+
+[ref]
+سنن الترمذي [491/5] المستدرك للحاكم [538/1]
+
+[en]
+“Whoever enters the market and says (this dua): There is no god but Allah alone; He has no partner; His is the dominion and His is the praise; He gives life and causes death; He is Ever-Living and will never die; in His hand is all good, and He has power over all things. (Whoever says this dua,) Allah writes for him a million good deeds, wipes away a million bad deeds from him, raises him a million degrees, and prepares a house for him in Paradise.”

@@ -1,0 +1,35 @@
+# title: Page 327
+# English edition of book page 327, built by build_english.py from en_src/ and page_327.txt
+
+[hen]
+Chapter Forty-Six: Leaving Some of the Hair on the Head and Shaving Some
+
+[en]
+The teacher was busy talking with the barber when a young man came into the barbershop to have his beard shaved.
+
+[en]
+Barber: From today we have stopped shaving beards.
+
+[en]
+Young man: Why? We have been coming to your salon for haircuts for so long. Is there something special about today?
+
+[en]
+Barber: Today, through the blessing of this Shaykh, we have learned the rank and standing of the beard, so we have stopped shaving beards.
+
+[en]
+(The teacher's eye fell on the young man's head. He had had the hair shaved from the sides of his head and had left long hair on the top and in the middle. This is called a bowl cut.)
+
+[en]
+Teacher: What have you done to your hair?
+
+[en]
+Young man: This is one of the haircut styles.
+
+[en]
+Teacher: Where has this style come from?
+
+[en]
+Young man: It has come from Europe, and countless of our young men like it.
+
+[en]
+Teacher: There is no might and no power except with Allah... The Messenger of Allah, peace be upon him, spoke the truth when he said:

@@ -1,0 +1,29 @@
+# title: Page 291
+# English edition of book page 291, built by build_english.py from en_src/ and page_291.txt
+
+[en]
+The noble Companions replied: The bankrupt is the one who has no dirhams and no worldly goods. The Messenger of Allah, peace be upon him, said:
+
+[ar]
+إِنَّ الْمُفْلِسَ مِنْ أُمَّتِي مَنْ يَأْتِي يَوْمَ الْقِيَامَةِ بِصَلاَةٍ وَصِيَامٍ وَزَكَاةْ، وَيَأْتِي قَدْ شَتَمَ هَذَا، وَقَذَفَ هَذَا وَأَكَلَ مَالَ هَذَا، وَسَفَكَ دَمَ هَذَا، وَضَرَبَ هَذَا، فَيُعْطَى هَذَا مِنْ حَسَنَاتِهْ، وَهَذَا مِنْ حَسَنَاتِهِ فَإِنْ فَنِيَتْ حَسَنَاتُهُ قَبْلَ أَنْ يُقْضَى مَا عَلَيْهِ أُخِذَ مِنْ خَطَايَاهُمْ، فَطُرِحَتْ عَلَيْهْ، ثُمَّ طُرِحَ فِي النَّارْ
+
+[ref]
+صحيح مسلم، رقم الحديث [2581]
+
+[en]
+“Indeed, the bankrupt of my Ummah is the person who will come on the Day of Resurrection with good deeds such as prayers, fasts and zakah, but along with that he will have insulted one person, slandered another, consumed (wrongfully) the wealth of another, shed the blood of another (without right) and struck another. So this one (the wronged) will be given that one's (the wrongdoer's) good deeds. If the wrongdoer's good deeds run out while the right of those he wronged still remains, their (the wronged ones') bad deeds will be put on him (the wrongdoer), and then he will be thrown into Hell.”
+
+[en]
+Second: Some people do not pay workers their full wage, but wrongfully cut some of it, as it says in the Noble Quran:
+
+[ar]
+وَيْلٌ لِلْمُطَفِّفِينْ
+
+[ar]
+الَّذِينَ إِذَا اكْتَالُوا عَلَى النَّاسِ يَسْتَوْفُونْ
+
+[ar]
+وَإِذَا كَالُوهُمْ أَوْ وَزَنُوهُمْ يُخْسِرُونْ
+
+[ref]
+[المطففين:3-1]

@@ -1,0 +1,11 @@
+# title: Page 149
+# English edition of book page 149, built by build_english.py from en_src/ and page_149.txt
+
+[ar]
+اثْنَتَانِ فِي النَّاسِ هُمَا بِهِمْ كُفْرْ، الطَّعْنُ فِي النَّسَبِ وَالنِّيَاحَةُ عَلَى الْمَيِّتْ
+
+[en]
+“There are two things among people that are disbelief on their part: taunting someone about his family (lineage) and wailing over the dead.”
+
+[ref]
+صحيح مسلم، الإيمان، حديث: 67.

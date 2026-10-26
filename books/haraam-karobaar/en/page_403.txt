@@ -1,0 +1,17 @@
+# title: Page 403
+# English edition of book page 403, built by build_english.py from en_src/ and page_403.txt
+
+[hen]
+The Fifth Tour
+
+[en]
+First: The taxi stand.
+
+[en]
+Second: Forbidden things done in hospitals.
+
+[en]
+Third: Forbidden things done in Muslim households.
+
+[en]
+Fourth: Forbidden things that women commonly commit at home.

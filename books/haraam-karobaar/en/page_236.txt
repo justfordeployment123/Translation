@@ -1,0 +1,17 @@
+# title: Page 236
+# English edition of book page 236, built by build_english.py from en_src/ and page_236.txt
+
+[en]
+Consider how severely this hadith warns against false testimony! That is because false testimony gives rise to countless kinds of evil among people: for example, feelings of envy, hatred and enmity grow; the rights of so many people are usurped; and so many people use it to seize what rightfully belongs to others. Therefore it is forbidden.
+
+[en]
+Jabir: Ubaid! Tal'at! Listen carefully: what a great crime this is!
+
+[en]
+Ubaid: Teacher, a difficulty arises here: if we do not cooperate with our friends in such matters, they say that we are very harsh, and they blame us and say all sorts of things?
+
+[en]
+Teacher: Fear Allah and carry on with your work. A Muslim should not care about the blame of any blamer in the matter of Allah the Exalted. Think about this: if a man is not ashamed of doing wrong, then why are you ashamed of doing right? Every Muslim should worry about himself, and should not listen to anyone's blame, taunts, talk and the like.
+
+[en]
+Ubaid: Friends! Take note: from tomorrow we will not mark anyone's attendance falsely, and we will not care about anyone's talk either.

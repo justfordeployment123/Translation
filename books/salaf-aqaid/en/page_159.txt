@@ -1,0 +1,26 @@
+# title: Page 159
+# English edition of book page 159, built by build_english.py from en_src/ and page_159.txt
+
+[hen]
+The Fifth Principle: Loyalty and Disavowal
+
+[en]
+An essential principle of the creed of the Righteous Predecessors, Ahl as-Sunnah wal-Jama'ah, is (al-hubb fillah wal-bughd fillah) love for the sake of Allah and hatred for the sake of Allah. Love means love for the people of faith and friendship with them, while hatred means hatred of the disbelievers and the polytheists, declaring one's disavowal of them and announcing one's dissociation from them.
+
+[en]
+Allah the Exalted says:
+
+[ar]
+وَالْمُؤْمِنُونَ وَالْمُؤْمِنَاتُ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ ۚ يَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنْكَرْ
+
+[en]
+The believing men and believing women are allies of one another. They enjoin what is right and forbid what is wrong.
+
+[ref]
+التوبة 71:9.
+
+[en]
+And He says:
+
+[ar]
+لَا يَتَّخِذِ الْمُؤْمِنُونَ الْكَافِرِينَ أَوْلِيَاءَ مِنْ دُونِ الْمُؤْمِنِينَ ۖ وَمَنْ يَفْعَلْ ذَٰلِكَ فَلَيْسَ مِنَ اللَّهِ فِي شَيْءْ

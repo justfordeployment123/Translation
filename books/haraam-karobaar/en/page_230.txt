@@ -1,0 +1,29 @@
+# title: Page 230
+# English edition of book page 230, built by build_english.py from en_src/ and page_230.txt
+
+[hen]
+Chapter Thirty-One: Shirking Work
+
+[en]
+The teacher came back with Atif to his office, and they began talking with each other, when a few people, Ubaid, Muhammad, Tal'at, Sayyid, Jabir, Abdul-Wahhab and others, came into Atif's office.
+
+[en]
+Atif: Teacher! This employee is our institution's registrar. Attendance, salaries and other office matters are in his charge, but he does not do his duty properly for even half an hour a day, and he wastes all his time here and there.
+
+[en]
+Teacher: Who are you talking about?
+
+[en]
+Atif: I am talking about Ubaid here.
+
+[en]
+Ubaid: Leave me alone; you worry about yourself.
+
+[en]
+Atif: I am not criticising you; I am speaking for your own improvement.
+
+[en]
+Teacher: May Allah bless you. Do your full duty. If someone's duty hours are from eight in the morning until two in the afternoon, he should not leave his work before two o'clock; otherwise his salary will not be fully lawful.
+
+[en]
+Ubaid: Teacher! The fact is that I have set up a shop, because the salary from my job does not cover my household expenses, and so I do not complete my duty hours.

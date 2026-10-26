@@ -1,0 +1,32 @@
+# title: Page 154
+# English edition of book page 154, built by build_english.py from en_src/ and page_154.txt
+
+[en]
+Buyer: Shaykh! What is the solution to this problem?
+
+[en]
+Teacher: You have a choice between two things; that is, there are two solutions to this problem:
+
+[en]
+Buyer: Which are they?
+
+[en]
+Teacher: First: Return the cow and take your money back; and if you want this same cow, then make the deal again from the beginning, since now you know about the defect.
+
+[en]
+Buyer: What is the second solution?
+
+[en]
+Teacher: Second: Take back part of the price in proportion to the defect.
+
+[en]
+Buyer: What does that mean?
+
+[en]
+Teacher: That is, estimate how much difference in price there is between a defective cow and a sound one; then take back your money according to that estimate and keep the cow yourself.
+
+[en]
+Buyer: Addressing the seller, he said: What do you want?
+
+[en]
+Seller: I will give back part of the price in proportion to the defect, and I ask Allah to forgive me for this mistake.

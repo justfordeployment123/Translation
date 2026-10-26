@@ -1,0 +1,32 @@
+# title: Page 438
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 438 (PDF page 439), اڑسٹھواں باب: مانع حمل ادویات کی خرید و فروخت
+# The end of the verse's Urdu translation at the top of the page ("ہیں اور تمھیں بھی۔ بے شک ... بہت بڑا گناہ ہے۔”") is on page 437.
+# The next line («رزق کا ذمے دار اللہ تعالیٰ ہے۔») is printed on its own in the teacher's turn; it is a nameless block.
+# The teacher names the two kinds of «رزق» twice: first on one line («① ایجابی۔ ② سلبی۔»), typed as one block, then as a list with
+# labels. Both are read as words: پہلی، دوسری (the items are «قسمیں»); the labelled items keep their labels («پہلی: ایجابی: ...»).
+# The chapter ends on this page with the bracketed narration (a full paragraph); the rest of the page is blank. Page 439 is the
+# round's «خلاصہ».
+
+[ur]
+رزق کا ذمے دار اللہ تعالیٰ ہے۔
+
+[ur]
+سالم: ہاں یہ بات درست ہے کہ رزق کی ذمے داری اللہ تعالیٰ کی ہے، لیکن عقل یہ بات تسلیم نہیں کرتی، لہٰذا دس بچوں کے اخراجات اتنی تھوڑی سی تنخواہ سے کیسے چل سکیں گے؟
+
+[ur]
+استاد: اللہ تعالیٰ اسی میں برکت ڈال دیتے ہیں اور یہی تھوڑی سی تنخواہ بھی کافی ہو جاتی ہے۔ رزق کی دو قسمیں ہیں:
+
+[ur]
+پہلی: ایجابی۔ دوسری: سلبی۔
+
+[ur]
+پہلی: ایجابی: جو مال و دولت کی شکل میں اللہ تعالیٰ اپنے بندوں کو دیتے ہیں۔
+
+[ur]
+دوسری: سلبی: یعنی اللہ تعالیٰ اپنے بندے سے آزمائشوں، مصیبتوں اور تکلیفوں کو دور کر دیتے ہیں۔ یہ ایسا رزق ہے جو ایجابی سے زیادہ سود مند ہوتا ہے۔
+
+[ur]
+سالم: استاد صاحب! شکریہ، آپ نے ہمیں یہ تمام باتیں سمجھائی ہیں۔
+
+[ur]
+(گفتگو کے بعد سعد اور سالم اٹھے اور چیک اپ کروائے بغیر واپس چلے گئے)

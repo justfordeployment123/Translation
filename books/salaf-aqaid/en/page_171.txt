@@ -1,0 +1,32 @@
+# title: Page 171
+# English edition of book page 171, built by build_english.py from en_src/ and page_171.txt
+
+[en]
+This is established by evidence from the Quran and the Sunnah. Allah the Exalted says:
+
+[ar]
+أَلَا إِنَّ أَوْلِيَاءَ اللَّهِ لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونْ
+
+[ar]
+الَّذِينَ آمَنُوا وَكَانُوا يَتَّقُونْ
+
+[ar]
+لَهُمُ الْبُشْرَىٰ فِي الْحَيَاةِ الدُّنْيَا وَفِي الْآخِرَةِ ۚ لَا تَبْدِيلَ لِكَلِمَاتِ اللَّهِ ۚ ذَٰلِكَ هُوَ الْفَوْزُ الْعَظِيمْ
+
+[en]
+Unquestionably, (for) the allies of Allah there will be no fear concerning them, nor will they grieve - Those who believed and were fearing Allah - For them are good tidings in the worldly life and in the Hereafter. No change is there in the words of Allah. That is what is the great attainment.
+
+[ref]
+يونس 64-62:10.
+
+[fen]
+We have often heard and read about such karamat.
+
+[fen]
+Among the karamat that our Salaf spelled out are: standing firm on the Quran and the Sunnah (being steadfast), submitting to the judgements of the Quran and the Sunnah, and being granted success in knowledge and action.
+
+[fen]
+If a karamah does not appear at the hands of a Muslim, this does not mean that his faith is weak, because a karamah appears for certain reasons. One of these reasons is to strengthen the faith of the person at whose hands the karamah appears. This is why many of the Companions never saw anything like a karamah: their faith was strong and their certainty complete. Another reason a karamah appears is to establish the proof against the enemy (the disbelievers).
+
+[fen]
+From the point of view of reason, the scope of karamah cannot be limited; but there are certain rules of the Shariah that define its scope. Some of the conditions of a karamah are these: the karamah must not contradict any ruling of the Shariah or any principle of the religion; it must have appeared at the hands of a living person; and it must have appeared according to need. If even one of these conditions is missing, then it is not a karamah: it is either imagination, or illusion, or a whispering of Satan.

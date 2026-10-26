@@ -1,0 +1,38 @@
+# title: Page 398
+# English edition of book page 398, built by build_english.py from en_src/ and page_398.txt
+
+[en]
+In fact, in these hadiths the reason why pictures are forbidden is making something that resembles the creation of Allah the Exalted.
+
+[en]
+Now think for a moment and tell me: can any sensible person conclude from the report of Aishah, may Allah be pleased with her, that only pictures with a body are forbidden? The truth is that the pictures had been printed on that curtain; they were not stone statues.
+
+[en]
+Manager: Teacher! But we do not worship them, do we?
+
+[en]
+Teacher: A Muslim does not argue, dispute and quarrel in matters of the Shariah; rather, he accepts the texts and tries to act on them. As for the point that we do not worship them: all right, we do not worship them, but there are several other wise reasons why pictures are forbidden. For example:
+
+[en]
+First: Pictures promote obscenity.
+
+[en]
+Second: Associating partners with Allah and the worship of others besides Allah first began in the world with the worship of pictures, as is clear from the story of Nuh, peace be upon him.
+
+[en]
+Third: The angels of mercy do not enter a house in which there are pictures. The Messenger of Allah, peace be upon him, said:
+
+[ar]
+لاَ تَدْخُلُ الْمَلاَئِكَةُ بَيْتًا فِيهِ كَلْبٌ وَلاَ صُورَةْ
+
+[ref]
+صحيح البخاري، رقم الحديث [3225] صحيح مسلم، رقم الحديث [2106]
+
+[en]
+“The angels do not enter a house in which there is a dog or any picture.”
+
+[en]
+Commonly, pictures of one's elders, spiritual guides and the like are hung up in homes, shops and so on; this too is forbidden.
+
+[en]
+Manager: Teacher! Pictures of parents and elders are hung up only to remember them, not with the aim of worshipping them.

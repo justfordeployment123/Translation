@@ -1,0 +1,44 @@
+# title: Page 218
+# English edition of book page 218, built by build_english.py from en_src/ and page_218.txt
+
+[hen]
+Summary of the Superstore and Shops Tour
+
+[en]
+The teacher set off with his student.
+
+[en]
+Ammar: Teacher! Where are we going now?
+
+[en]
+Teacher: Let us go home.
+
+[en]
+Ammar: Praise be to Allah! By Allah's help, today we have carried out the duty of enjoining good and forbidding evil in the following matters:
+
+[en]
+First: Selling tobacco, cigarettes and the like.
+
+[en]
+Second: Buying and selling games of chance.
+
+[en]
+Third: Buying and selling playing cards and the like.
+
+[en]
+Fourth: Buying and selling slingshots and the like.
+
+[en]
+Fifth: Buying and selling explosives.
+
+[en]
+Sixth: Buying and selling at the time of the Friday sermon and the Friday prayer.
+
+[en]
+Seventh: Buying and selling alcohol.
+
+[en]
+Eighth: Renting out premises for buying and selling forbidden things.
+
+[en]
+Praise be to Allah for that.

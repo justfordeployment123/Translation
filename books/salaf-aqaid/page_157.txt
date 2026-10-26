@@ -1,0 +1,36 @@
+# title: Page 157
+# Salaf-e-Saliheen ke Aqaid o Nazariyat, book page 157 (PDF page 154), چوتھا اصول: وعدہ وعید کی نصوص (صریح عبارتوں) پر ایمان
+# The first line of the page ("فَأَخَّرَهُ، فَشَكَرَ اللَّهُ لَهُ، فَغَفَرَ لَهُ") ends the hadith that starts on page 156, where it is kept whole.
+# The page starts here with that hadith's Urdu translation, followed by its footnote ①, which the translation carries.
+# Aal Imran 3:145 (up to «كِتَابًا مُؤَجَّلًا») is filled from the official text (fill_quran.py); its footnote follows the translation.
+# An-Nisa 4:122 starts at the foot of the page and runs on to page 158 («الْأَنْهَارُ خَالِدِينَ فِيهَا ... قِيلًا»); the ayah is kept whole here,
+# filled from the official text. Its Urdu translation and footnote («النسآء 122:4.») start on page 158 and are there.
+# References: the digit groups are typed as they appear on the page, left to right («145:3»).
+# Print typo corrected: "تو ایک لمحے کی تاخیر ہوگی، نہ تقدیم" -> "تو نہ ایک لمحے کی تاخیر ہوگی، نہ تقدیم" (the first «نہ» is missing,
+# which reverses the meaning). Proofreader please check.
+
+[ur]
+“ایک دن ایک آدمی جا رہا تھا، چلتے چلتے راستے میں اس نے ایک کانٹوں بھری ٹہنی دیکھی تو اسے راستے سے ہٹا دیا، چنانچہ اللہ تعالیٰ اس سے راضی ہوا اور اسے بخش دیا۔”
+
+[ref]
+صحيح البخاري، الأذان، حديث: 652، وصحيح مسلم، الإمارة، حديث: 1914.
+
+[ur]
+اہل سنت والجماعت یہ اعتقاد رکھتے ہیں کہ ہر مخلوق کے لیے ایک وقت مقرر ہے۔ ہر جاندار کو اللہ کے حکم کے تحت اس کے لکھے ہوئے مقررہ وقت کے مطابق موت آئے گی۔ جب اس کی اجل آئے گی تو نہ ایک لمحے کی تاخیر ہوگی، نہ تقدیم۔ اگر کوئی ذی روح مرتا ہے یا قتل ہوتا ہے تو یہ سانحہ صرف اس لیے رُونما ہوتا ہے کہ اس کا وقت پورا ہو گیا۔ ارشادِ ربانی ہے:
+
+[ar]
+# quran 3:145 from وَمَا كَانَ لِنَفْسٍ to كِتَابًا مُؤَجَّلًا
+وَمَا كَانَ لِنَفْسٍ أَنْ تَمُوتَ إِلَّا بِإِذْنِ اللَّهِ كِتَابًا مُؤَجَّلَا
+
+[ur]
+“اور کوئی جاندار اللہ کے حکم کے بغیر مر نہیں سکتا، اس نے موت کا مقررہ وقت لکھا ہوا ہے۔”
+
+[ref]
+آل عمران 145:3.
+
+[ur]
+اہل سنت والجماعت یہ اعتقاد رکھتے ہیں کہ اللہ تعالیٰ نے اہل ایمان سے جنت کا جو وعدہ کیا ہے اور اہل توحید میں سے گناہ گاروں کو عذاب دینے اور کفار و منافقین کو جہنم میں جھونکنے کی جو وعیدیں سنائی ہیں، وہ حق اور سچ ہیں۔ فرمایا:
+
+[ar]
+# quran 4:122 from وَالَّذِينَ آمَنُوا to اللَّهِ قِيلًا
+وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَنُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ۖ وَعْدَ اللَّهِ حَقًّا ۚ وَمَنْ أَصْدَقُ مِنَ اللَّهِ قِيلَا

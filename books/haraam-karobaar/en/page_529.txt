@@ -1,0 +1,32 @@
+# title: Page 529
+# English edition of book page 529, built by build_english.py from en_src/ and page_529.txt
+
+[ar]
+مَنْ سَأَلَ وَعِنْدَهُ مَا يُغْنِيْهِ جَاءَتْ يَوْمَ الْقِيَامَةِ خُدُوْشًا أَوْ كُدُوْشًا فِيْ وَجْهِهْ
+
+[ref]
+صحيح الجامع، رقم الحديث [6278]
+
+[en]
+“Whoever begs while he has as much (wealth) as he needs will come on the Day of Resurrection in such a state that there will be scratches and wounds on his face.”
+
+[en]
+Allah the Exalted says:
+
+[ar]
+لِلْفُقَرَاءِ الَّذِينَ أُحْصِرُوا فِي سَبِيلِ اللَّهِ لَا يَسْتَطِيعُونَ ضَرْبًا فِي الْأَرْضِ يَحْسَبُهُمُ الْجَاهِلُ أَغْنِيَاءَ مِنَ التَّعَفُّفِ تَعْرِفُهُمْ بِسِيمَاهُمْ لَا يَسْأَلُونَ النَّاسَ إِلْحَافَا
+
+[ref]
+[البقرة: 273]
+
+[en]
+(Charity is) for the poor who have been restricted for the cause of Allah, unable to move about in the land. An ignorant (person) would think them self-sufficient because of their restraint, but you will know them by their (characteristic) sign. They do not ask people persistently (or at all).
+
+[en]
+Hakim ibn Hizam, may Allah be pleased with him, says: I asked the Messenger of Allah, peace be upon him, and he gave to me. I asked again, and he, peace be upon him, gave to me again. I asked again (a third time), and he, peace be upon him, gave to me again. Then he, peace be upon him, said:
+
+[ar]
+يَا حَكِيمْ، إِنَّ هَذَا الْمَالَ خَضِرٌ حُلْوْ، فَمَنْ أَخَذَهُ بِسَخَاوَةِ نَفْسٍ بُورِكَ فِيهْ، وَمَنْ أَخَذَهُ بِإِشْرَافِ نَفْسٍ لَمْ يُبَارَكْ لَهُ فِيهْ، وَكَانَ كَالَّذِي يَأْكُلُ وَلاَ يَشْبَعْ، وَالْيَدُ الْعُلْيَا خَيْرٌ مِنَ الْيَدِ السُّفْلَى، قَالَ حَكِيمٌ فَقُلْتُ يَا رَسُولَ اللَّهِ وَالَّذِي بَعَثَكَ بِالْحَقِّ لاَ أَرْزَأُ أَحَدًا بَعْدَكَ شَيْئًا حَتَّى أُفَارِقَ الدُّنْيَا
+
+[ref]
+صحيح البخاري، رقم الحديث [1472] صحيح مسلم، رقم الحديث [1035]

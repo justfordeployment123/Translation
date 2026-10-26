@@ -1,0 +1,20 @@
+# title: Page 461
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 461 (PDF page 462), بہترواں باب: وارث کے لیے وصیت کرنے کی ممانعت
+# The page starts with a new dialogue turn (page 460 ends with a full turn) and ends the chapter with a full turn;
+# the rest of the page is blank. Page 462 starts «تہترواں باب».
+# Abdul Rahim's question and the teacher's last question end with «۔» in the print; typed as printed.
+
+[ur]
+استاد: میرے خیال میں تمھیں بیٹی کے معاملے میں وصیت کو ختم کر دینا چاہیے اور اس کے حق میں نصف وراثت پر مطمئن ہو جانا چاہیے۔
+
+[ur]
+عبدالرحیم: کیا میں کسی ایسے آدمی کے لیے وصیت کر سکتا ہوں جو میرا وارث نہیں ہے۔
+
+[ur]
+استاد: ہاں کر سکتے ہو۔
+
+[ur]
+عبدالرحیم: یعنی کسی مدرسے کے طالب علموں کے لیے۔
+
+[ur]
+استاد: ہاں، درست ہے، لیکن کتنے مال کی وصیت کرو گے۔

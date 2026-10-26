@@ -1,0 +1,28 @@
+# title: Page 467
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 467 (PDF page 468), پچھترواں باب: اگر خاوند بخیل ہو تو بیوی اس کی اجازت کے بغیر اس کی جیب سے بہ قدر ضرورت پیسے لے سکتی ہے؟
+# The page starts with the new chapter (page 466 ends the previous one with a full turn) and ends with the hadith's translation.
+# Proofreader please check: the hadith (the Farewell Hajj sermon) is filled from a different Companion's report than the one the book
+# cites. The book cites "صحيح مسلم، رقم الحديث [1218]" (Jabir, Muslim 2951 in the hadith-api numbering),
+# which has only «إِنَّ دِمَاءَكُمْ وَأَمْوَالَكُمْ حَرَامٌ عَلَيْكُمْ ...». The book's wording, with «وَأَعْرَاضَكُمْ عَلَيْكُمْ حَرَامٌ» and «أَلَا هَلْ بَلَّغْتُ»,
+# is Abu Bakra's report of the same sermon (Muslim 1679), joined from two of its versions: «إِنَّ دِمَاءَكُمْ ... فِي بَلَدِكُمْ هَذَا» (Muslim 4384,
+# which reads «فَإِنَّ»; the "~" leaves the joined «فَ» out, as the print starts the quote with «إِنَّ») and «أَلاَ هَلْ بَلَّغْتُ» (Muslim 4383).
+# The print ends the hadith with «؟», read here as the end of the hadith (stopping form).
+
+[h]
+پچھترواں باب: اگر خاوند بخیل ہو تو بیوی اس کی اجازت کے بغیر اس کی جیب سے بہ قدر ضرورت پیسے لے سکتی ہے؟
+
+[ur]
+عبدالرحیم: استاد صاحب! اگر بیوی گھر کے اخراجات وغیرہ کے لیے خاوند کی اجازت کے بغیر اس کی جیب سے ضرورت سے زائد پیسے نکال لے، جب کہ خاوند گھریلو اخراجات میں دلچسپی نہ لیتا ہو یا بخیل ہو تو کیا یہ درست ہے؟
+
+[ur]
+استاد: عام حالات میں کوئی بھی عورت اپنے خاوند کی اجازت کے بغیر اس کا مال نہیں لے سکتی، کیونکہ اللہ تعالیٰ نے اس طرح ایک دوسرے کے مال پر قبضہ کرنے کو حرام قرار دیا ہے۔ نبی مکرم ﷺ نے حجۃ الوداع کے موقع پر اس بات کا اعلان فرمایا تھا:
+
+[ar]
+# hadith {{H muslim:4384 from ~إِنَّ دِمَاءَكُمْ to هَذَا#3}}، {{H muslim:4383 from أَلاَ هَلْ to بَلَّغْتُ}}
+إِنَّ دِمَاءَكُمْ وَأَمْوَالَكُمْ وَأَعْرَاضَكُمْ عَلَيْكُمْ حَرَامٌ كَحُرْمَةِ يَوْمِكُمْ هَذَا فِي شَهْرِكُمْ هَذَا فِي بَلَدِكُمْ هَذَا، أَلاَ هَلْ بَلَّغْتْ
+
+[ref]
+صحيح مسلم، رقم الحديث [1218]
+
+[ur]
+“بے شک تمھارے خون، تمھارے اموال، تمھاری عزتیں تم پر اسی طرح حرمت والی ہیں جس طرح تمھارا یہ دن تمھارے اس مہینے اور اس شہر میں حرمت والا ہے۔ خبردار کیا میں نے (دین) پہنچا دیا؟”

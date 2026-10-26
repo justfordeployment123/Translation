@@ -1,0 +1,13 @@
+# English source for book page 368
+
+[en]
+Muhammad: How is the money to be paid?
+
+[en]
+Faisal: You will have to pay one thousand now and the rest over fifteen months; each month's instalment is two hundred pounds.
+
+[en]
+Muhammad: Thank you. Please make out the bill.
+
+[en]
+Teacher: May Allah bless you.

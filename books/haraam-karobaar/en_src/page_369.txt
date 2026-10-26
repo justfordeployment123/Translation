@@ -1,0 +1,31 @@
+# English source for book page 369
+
+[hen]
+Chapter Fifty-Five: Charging a Fine When an Instalment Is Late
+
+[en]
+Muhammad: Faisal! There is one condition for buying on instalments that I did not understand.
+
+[en]
+Faisal: Which condition?
+
+[en]
+Muhammad: Condition number five.
+
+[en]
+Faisal: Yes, it means that if the customer does not pay an instalment by the fixed date, he may be fined twenty pounds a day.
+
+[en]
+Muhammad: This is plain injustice to the customer. A person's instalment can be late because of hardship. What need is there for such strictness and for taking extra money?
+
+[en]
+Faisal: This is not injustice or strictness; it is a way of protecting our rights.
+
+[en]
+Muhammad: Teacher! What do you think?
+
+[en]
+Teacher: This is forbidden without any disagreement; in fact, it is outright interest (riba) of the kind practised in the Age of Ignorance, about which Allah the Exalted says:
+
+[en]
+{{QEN 3:130}}

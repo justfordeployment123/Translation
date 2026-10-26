@@ -1,0 +1,38 @@
+# title: Page 407
+# English edition of book page 407, built by build_english.py from en_src/ and page_407.txt
+
+[hen]
+Chapter Sixty-Two: Providing Taxi Services for Impermissible Purposes
+
+[en]
+The teacher and Ammar got into the taxi and set off towards the hospital. On the way, two reckless young men were standing at a stop, and with them were two girls. Their faces had gone pale, and they looked ashamed. When the taxi came near them, one of the young men signalled to the driver to stop, and the driver stopped the car.
+
+[en]
+Driver: Yes?
+
+[en]
+Young man: We want a taxi for five hours.
+
+[en]
+Driver: Wait right here for five minutes. I will drop these two people at the hospital and come back.
+
+[en]
+Young man: All right, we will wait for you.
+
+[en]
+Driver: Going to the same place as yesterday?
+
+[en]
+Young man: Yes.
+
+[en]
+(The driver set off again, and Ammar spoke to the driver.)
+
+[en]
+Ammar: Oh, Brother! What is your connection with these reckless young men?
+
+[en]
+Teacher: Where do they go every day?
+
+[en]
+Driver: Teacher! These are bad people, and they do the work of Satan. Why are you taking an interest in them?

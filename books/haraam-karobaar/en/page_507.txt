@@ -1,0 +1,29 @@
+# title: Page 507
+# English edition of book page 507, built by build_english.py from en_src/ and page_507.txt
+
+[hen]
+Chapter Eighty-Three: Sewing Indecent Clothes
+
+[en]
+While the teacher was speaking to Zaid, a buyer came into the shop and began listening to what the teacher was saying. Now he turned to the teacher.
+
+[en]
+Buyer: Teacher! If in your view fashion shows are forbidden, then what do you think of those who sew these indecent clothes?
+
+[en]
+Teacher: What is your name?
+
+[en]
+Buyer: My name is Ali.
+
+[en]
+Teacher: Ali! My name is Salih. The answer to the question you have asked is that sewing indecent clothes is forbidden for the very same causes and reasons that we have already explained; however, some even more dangerous things are found in it as well.
+
+[en]
+Ali: Such as what?
+
+[en]
+Teacher: First: In this work there is always occasion to talk with women and to have other dealings with them.
+
+[en]
+Second: Before sewing, women have to be measured, and while taking measurements there will inevitably be occasion to touch the woman. In this craft you cannot in any way avoid touching a woman, whereas the noble Prophet, peace be upon him, said:

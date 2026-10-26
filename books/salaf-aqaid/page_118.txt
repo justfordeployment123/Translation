@@ -1,0 +1,55 @@
+# title: Page 118
+# Salaf-e-Saliheen ke Aqaid o Nazariyat, book page 118 (PDF page 115), پہلا اصول: ایمان اور ارکانِ ایمان
+# The first word ("ہے۔") ends a sentence that is on page 117, where it starts.
+# The last sentence continues on page 119 ("ارادے اور اسی کی مشیت سے ہے جو رحمت اور حکمت کے درمیان گھومتی ہے۔"); it is kept whole here.
+# Print error corrected (Proofreader please check): the first verse is printed «إِنَّا كُلَّ شَيْءٍ خَلَقْنَاهُ بِقَدَرٍ» (Al-Qamar 54:49, repeated
+# from page 117), but its translation («بے شک اللہ ہر چیز کو خوب جانتا ہے۔»), its footnote («التوبة 115:9.») and the point it proves (the
+# first rank, Allah's knowledge) are all «إِنَّ اللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ», the end of At-Tawbah 9:115, which is filled instead, so the Arabic
+# that is read matches its translation. The translation and the reference are typed as printed.
+# Ya-Sin 36:12 is filled from the official text (fill_quran.py), from «وَكُلَّ شَيْءٍ», where the book's quote starts.
+# Hadith: Tirmidhi 2155 (the book cites "جامع الترمذي، القدر، حديث: 2155"), in excerpts at the book's commas and «؟» (the pause after «مَا أَكْتُبْ» is «؟», as printed). The book has «قَالَ: مَا أَكْتُبُ؟»
+# where the source has «فَقَالَ مَا أَكْتُبُ»; that excerpt starts with «~» so the joined «فَ» is left out, as the book prints it.
+# The bold lead-ins «دوسرا مرتبہ، لکھنا:» and «تیسرا مرتبہ، اِرادہ اور مشیت:» (sub-headings in the contents, page 118) run on in the same
+# line as their paragraphs, so they stay in their [ur] blocks.
+
+[ur]
+وہ مخلوقات کو پیدا کرنے سے پہلے ہی جانتا تھا کہ وہ کیا کریں گی۔ وہ ان کے رزق، ان کے وقت مقرر، ان کے اعمال اور ان کی تمام حرکات و سکنات کے بارے میں آگاہ تھا۔ وہ جانتا تھا کہ ان میں کون اچھا اور کون برا ہے۔ یہ اس کا قدیمی علم ہے جس کا وہ ازل سے مالک ہے۔ اس نے فرمایا:
+
+[ar]
+# quran 9:115 from إِنَّ اللَّهَ بِكُلِّ to عَلِيمٌ
+إِنَّ اللَّهَ بِكُلِّ شَيْءٍ عَلِيمْ
+
+[ur]
+“بے شک اللہ ہر چیز کو خوب جانتا ہے۔”
+
+[ref]
+التوبة 115:9.
+
+[ur]
+دوسرا مرتبہ، لکھنا: یہ ایمان رکھنا ضروری ہے کہ اللہ تعالیٰ نے پیشگی علم کی بنا پر تمام مخلوقات کی تقدیریں لوحِ محفوظ میں لکھ دی ہیں۔ لوحِ محفوظ وہ کتاب ہے جس میں کسی بات کی کمی نہیں چھوڑی گئی۔ جو کچھ ہوا اور قیامت تک جو کچھ ہوگا وہ اللہ کے ہاں اس کتاب میں لکھا ہوا ہے جسے ام الکتاب کے علاوہ ذکر، اِمام اور کتابِ مبین بھی کہتے ہیں۔ فرمایا:
+
+[ar]
+# quran 36:12 from وَكُلَّ شَيْءٍ to مُبِينٍ
+وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ فِي إِمَامٍ مُبِينْ
+
+[ur]
+“اور ہم نے ہر شے کو واضح کتاب میں محفوظ کر رکھا ہے۔”
+
+[ref]
+يٰسٓ 12:36.
+
+[ur]
+نبی مکرم ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H tirmidhi:2155 from إِنَّ أَوَّلَ to الْقَلَمَ}}، {{H tirmidhi:2155 from فَقَالَ اكْتُبْ to اكْتُبْ}}، {{H tirmidhi:2155 from ~قَالَ مَا أَكْتُبُ to أَكْتُبُ}}؟ {{H tirmidhi:2155 from قَالَ اكْتُبِ to الْقَدَرَ}}، {{H tirmidhi:2155 from مَا كَانَ وَمَا to الأَبَدِ}}
+إِنَّ أَوَّلَ مَا خَلَقَ اللَّهُ الْقَلَمْ، فَقَالَ اكْتُبْ، قَالَ مَا أَكْتُبْ؟ قَالَ اكْتُبِ الْقَدَرْ، مَا كَانَ وَمَا هُوَ كَائِنٌ إِلَى الأَبَدْ
+
+[ur]
+“سب سے پہلے اللہ نے قلم کو پیدا کیا اور فرمایا: لکھ۔ اس نے عرض کیا: کیا لکھوں؟ فرمایا: تقدیر لکھ، جو کچھ ہوا اور ابد تک جو کچھ ہوگا۔”
+
+[ref]
+جامع الترمذي، القدر، حديث: 2155.
+
+[ur]
+تیسرا مرتبہ، اِرادہ اور مشیت: اس کا مطلب یہ ہے کہ کائنات کی ہر شے اللہ کے ارادے اور اسی کی مشیت سے ہے جو رحمت اور حکمت کے درمیان گھومتی ہے۔

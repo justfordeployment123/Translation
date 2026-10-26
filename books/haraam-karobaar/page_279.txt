@@ -1,0 +1,41 @@
+# title: Page 279
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 279 (PDF page 279), انتالیسواں باب: بھنگ اور افیون وغیرہ نشہ آور چیزیں کاشت کرنا
+# The PDF has printed pages 278 and 279 swapped: printed page 279 is PDF page 279 (rendered as book page 278 with --offset 1),
+# and printed page 278 is PDF page 280. In reading order, page 278 ends with the complete translation of Al-Ma'idah 5:33
+# ("... بہت بڑا عذاب ہے۔"), so this page starts with a new sentence; it continues the teacher's turn, so it opens without his name.
+# «الحمد لله» at the end of Abu Jum'a's turn is set in Arabic type; it is kept in the Urdu block as a set phrase, in Urdu letters.
+# «مالدار» and «مال دار» are each typed as printed; «آیندہ» and the double question mark «؟؟» are as printed.
+# The page ends the chapter; page 280 starts the next one.
+
+[ur]
+بھنسی صاحب! تمھیں کیس سے بری ہونے پر اتنا خوش نہیں ہونا چاہیے، بلکہ یہ فکر کرنی چاہیے کہ اس جرم کی جو سزا اللہ تعالیٰ نے مقرر کی ہوئی ہے، وہ ابھی باقی ہے۔
+
+[ur]
+بھنسی: استاد صاحب! ایسی چیزوں سے انسان بہت جلد مالدار بن جاتا ہے۔
+
+[ur]
+استاد: حرام طریقے سے مال جمع کر کے تم کیا کرو گے؟؟
+
+[ur]
+عبدالخالق: اپنے آپ کو اور اپنے گھر والوں کو دنیا میں فائدہ پہنچا سکے گا۔
+
+[ur]
+استاد: یاد رکھو! اس عارضی فائدے کے بعد ہمیشہ کے لیے جہنم کی آگ بھی ہے۔ رسول اللہ ﷺ نے فرمایا:
+
+[ur]
+“ہر وہ جسم جو حرام سے پرورش پایا آگ ہی اس کی حق دار ہے۔”
+
+[ur]
+بھنسی: اتنی لمبی زندگی ہے، ابھی فائدہ اٹھا لیتے ہیں، بعد میں توبہ کر لیں گے۔
+
+[ur]
+استاد: تجھے کیسے یقین ہے کہ تیری زندگی بہت لمبی ہے اور توبہ سے پہلے موت نہیں آئے گی؟ ارے بھائی! یہ باتیں کمزور ایمان کی علامت ہیں۔
+
+[ur]
+ابو جمعہ: اللہ تیرا شکر ہے کہ تو نے ہمیں ایسی آزمائشوں سے بچا کر رکھا ہے۔ الحمد للہ۔
+
+[ur]
+بھنسی: یہ شیطان کا وسوسہ اور لوگوں کا جھانسہ تھا کہ اس ذریعے سے آدمی بہت جلد مال دار بن جاتا ہے، لیکن الحمد للہ اب مجھے مسئلے کی سمجھ آ چکی ہے، لہٰذا آیندہ میں ایسا نہیں کروں گا۔
+
+[ur]
+استاد: اللہ تعالیٰ ہمیں خیر و عافیت سے نوازے۔

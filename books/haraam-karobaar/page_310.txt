@@ -1,0 +1,34 @@
+# title: Page 310
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 310 (PDF page 311), چوالیسواں باب: چہرے کے بال صاف کرنا
+# The end of Ibn Baz's quoted fatwa at the top of the page ("نے چہرے کے بال اکھاڑنے ... لعنت فرمائی ہے۔”") and its footnote
+# (فتاوىٰ المرأة [171]) are on page 309, where the quote starts.
+# Print typo corrected: Ibn Uthaymeen's quote opens with “ but the print never closes it; ” added after "حلال ہو سکتا ہے؟".
+# The bracketed stage direction «(حجام سے مخاطب ہوا)» stays inside the young man's turn.
+# The chapter ends on this page with a full dialogue turn; the rest of the page is blank. The next chapter starts on page 311.
+
+[ur]
+تمام اہلِ علم کا اس بات پر اتفاق ہے کہ مرد اور عورتیں دونوں کے لیے چہرے کے بال اتروانا ناجائز ہے۔
+
+[ur]
+علامہ ابن عثیمین فرماتے ہیں:
+
+[ur]
+“بعض عورتیں خوبصورتی کی خاطر اپنے چہروں سے بال اُکھڑواتی ہیں، یہ حرام ہے، کیونکہ نبی مکرم ﷺ نے ایسی عورتوں پر لعنت فرمائی ہے اور جب یہ فعل عورتوں کے لیے حرام ہے تو مردوں کے لیے کیسے حلال ہو سکتا ہے؟”
+
+[ur]
+نوجوان: یعنی شریعت میں اس کی کوئی گنجایش نہیں؟
+
+[ur]
+استاد: اگر کسی جگہ کوئی گنجایش ہوتی تو میں ضرور اس کی وضاحت کرتا۔
+
+[ur]
+نوجوان: (حجام سے مخاطب ہوا) بھائی یہ چہرے کے بال رہنے دو۔
+
+[ur]
+حجام: اگر تم یہ بات نہ کہتے تو میں نے پھر بھی نہیں اتارنے تھے، لہٰذا میں اللہ تعالیٰ سے توبہ کرتا ہوں۔
+
+[ur]
+نوجوان: استاد! معاف کرنا، مجھے اس مسئلے کا علم نہیں تھا۔
+
+[ur]
+استاد: کوئی بات نہیں، اللہ تعالیٰ تمھیں معاف فرمائے۔

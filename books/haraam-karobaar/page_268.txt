@@ -1,0 +1,14 @@
+# title: Page 268
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 268 (PDF page 269), سینتیسواں باب: راستے کی جگہ اپنی زمین میں شامل کرنے کا بیان
+# The first lines of the page ("اللہ تعالیٰ کی نافرمانی ... سے توبہ کی۔”") end the teacher's quoted story, which is on page 267, where it starts.
+# Abu Juma's turn goes on in the same paragraph after "معاف فرما دے۔" ("استاد صاحب! اللہ آپ کو جزا دے ..." is set at the turn's indent, without a name).
+# The rest of the page is blank after the bracketed narration; the chapter ends here.
+
+[ur]
+ابو جمعہ: اے اللہ! میں توبہ کرتا ہوں اور تجھے گواہ بنا کر کہتا ہوں کہ میں اپنی زمین کو سڑک کی زمین سے الگ کر لوں گا، پس تو مجھے معاف فرما دے۔ استاد صاحب! اللہ آپ کو جزا دے، آپ نے وعظ و نصیحت کر کے مجھے اس ہلاکت سے بچا لیا۔
+
+[ur]
+استاد: اللہ تعالیٰ آپ کی زمین، مال اور اولاد میں برکت پیدا فرمائے، آؤ نمازِ ظہر کو چلیں۔
+
+[ur]
+(نماز ادا کرنے کے بعد دوبارہ سب لوگ وہیں آ کر بیٹھ گئے)

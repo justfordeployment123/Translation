@@ -1,0 +1,17 @@
+# title: Page 196
+# English edition of book page 196, built by build_english.py from en_src/ and page_196.txt
+
+[ar]
+إِنَّ اللَّهَ إِذَا حَرَّمَ شَيْئًا حَرَّمَ ثَمَنَهْ
+
+[ref]
+مسند أحمد، سنن أبي داود، صحيح الجامع، رقم الحديث [5107]
+
+[en]
+“When Allah the Exalted makes something forbidden, He also makes its price forbidden.”
+
+[en]
+Shopkeeper: Teacher! I believe in Allah and His Messenger, peace be upon him, and I promise that from now on I will stop buying and selling all such things as are forbidden.
+
+[en]
+Teacher: May Allah reward you.

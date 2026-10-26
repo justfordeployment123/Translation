@@ -1,0 +1,44 @@
+# title: Page 318
+# English edition of book page 318, built by build_english.py from en_src/ and page_318.txt
+
+[en]
+Fourth: It is narrated from Abdullah ibn Umar, may Allah be pleased with them both, that the Messenger of Allah, peace be upon him, said:
+
+[ar]
+إِنَّ النَّبِيَّ ﷺ أَمَرَ بِإِحْفَاءِ الشَّوَارِبْ، وَإِعْفَاءِ اللِّحَى
+
+[ref]
+صحيح مسلم، رقم الحديث [259] سنن أبي داود، رقم الحديث [4199]
+
+[en]
+“The noble Prophet, peace be upon him, commanded that the moustaches be trimmed and the beard be grown.”
+
+[en]
+Fifth: It is narrated from Abu Hurairah, may Allah be pleased with him, that the Messenger of Allah, peace be upon him, said:
+
+[ar]
+جُزُّوا الشَّوَارِبَ وَأَرْخُوا اللِّحَى خَالِفُوا الْمَجُوسْ
+
+[ref]
+صحيح مسلم، رقم الحديث [260]
+
+[en]
+“Unlike the Magians, have your moustaches cut and let your beards grow.”
+
+[en]
+Sixth: Some of the noble Ansari Companions, may Allah be pleased with them, said to the Messenger of Allah, peace be upon him, that the People of the Book cut the hair of their chins (the beard) and leave the hair above their lips (the moustache). He, peace be upon him, said:
+
+[ar]
+قُصُّوْا سِبَالَكُمْ وَوَفِّرُوْا عَثَانِيْنَكُمْ وَخَالِفُوْا أَهْلَ الْكِتَابْ
+
+[ref]
+شعب الإيمان للبيهقي [214/5] صحيح الجامع، رقم الحديث [7114]
+
+[en]
+“Cut the hair above your lips (your moustaches), let the hair of your chins (your beards) grow, and act contrary to the People of the Book.”
+
+[en]
+Seventh: When the Messenger of Allah, peace be upon him, saw two envoys of Kisra who had cut their beards and grown their moustaches, he, peace be upon him, disliked looking at them. He, peace be upon him, said:
+
+[ar]
+وَيْلَكُمَا مَنْ أَمَرَكُمَا بِهَذَا؟ قَالَا: أَمَرَنَا بِهَذَا رَبُّنَا يَعْنِيَانِ كِسْرَى، فَقَالَ ﷺ: وَلَكِنَّ رَبِّيْ أَمَرَنِيْ بِإِعْفَاءِ لِحْيَتِيْ وَقَصِّ شَارِبِيْ

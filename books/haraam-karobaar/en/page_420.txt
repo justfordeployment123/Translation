@@ -1,0 +1,35 @@
+# title: Page 420
+# English edition of book page 420, built by build_english.py from en_src/ and page_420.txt
+
+[en]
+If the owner does not object to this, it is right and lawful.
+
+[en]
+Driver: If the owner comes to know of this, he will not be willing to keep me as a driver for even one more day; in fact, he will ask me for the car back at once.
+
+[en]
+Teacher: You yourself are responsible for that.
+
+[en]
+Ammar: Teacher! Is he not really working for his owner day and night? Does he not earn money for him? If he sometimes puts the car to his own use when there is a need, what harm is there in that?
+
+[en]
+Teacher: Ammar, this objection is weaker than a spider's web.
+
+[en]
+Driver: How?
+
+[en]
+Teacher: Are you doing his work for a wage or for free?
+
+[en]
+Driver: For a wage.
+
+[en]
+Teacher: If you are working for a wage, then you are entitled only to the wage you have agreed with him. Anything more than that, without his knowledge, will not be lawful for you, even if the extra wage takes the form of nothing more than using the car for yourself. And it is merely a whisper of Satan that because you work for him, you may do whatever you like. That is not so; rather, you must keep to your agreement and its conditions. The Messenger of Allah, peace be upon him, said:
+
+[ar]
+الْمُسْلِمُونَ عَلَى شُرُوطِهِمْ
+
+[ref]
+سنن أبي داود، صحيح الجامع، رقم الحديث [6714]

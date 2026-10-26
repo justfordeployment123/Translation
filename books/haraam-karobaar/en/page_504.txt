@@ -1,0 +1,35 @@
+# title: Page 504
+# English edition of book page 504, built by build_english.py from en_src/ and page_504.txt
+
+[en]
+Zaid: What reasons are those?
+
+[en]
+Teacher: When women go out of the house or go to the markets wearing such clothes, young men are drawn into temptation and indecency spreads among the believers. In that case you too are held responsible for spreading sin and evil, because you are contributing to it through your buying and selling. Allah the Exalted says:
+
+[ar]
+وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَىٰ ۖ وَلَا تَعَاوَنُوا عَلَى الْإِثْمِ وَالْعُدْوَانْ
+
+[ref]
+[المائدة: 2]
+
+[en]
+And cooperate in righteousness and piety, but do not cooperate in sin and aggression.
+
+[en]
+Zaid: Teacher! What is the use of imposing this restriction? It is not as if these things are available only in my shop. They can be had from dozens of shops in the market; the customer will leave me and buy from someone else.
+
+[en]
+Teacher: This is merely a misconception. Remember, you are responsible for your own deeds. As for what others do, you are not responsible for that. Allah the Exalted says:
+
+[ar]
+وَإِنْ تُطِعْ أَكْثَرَ مَنْ فِي الْأَرْضِ يُضِلُّوكَ عَنْ سَبِيلِ اللَّهْ
+
+[ref]
+[الأنعام: 116]
+
+[en]
+And if you obey most of those upon the earth, they will mislead you from the way of Allah.
+
+[en]
+One should not be deceived by the fact that most people are doing this and only a few do not do it, because the majority of people are always in error.

@@ -1,0 +1,17 @@
+# title: Page 127
+# English edition of book page 127, built by build_english.py from en_src/ and page_127.txt
+
+[hen]
+Chapter Fourteen: Selling a Cheque for Less Than the Amount Written on It
+
+[en]
+The Shaykh and Ammar were coming out of the market when a man stopped them to ask about a ruling.
+
+[en]
+Man: Teacher! I have a problem; please be kind enough to tell me a solution to it.
+
+[en]
+Teacher: Go ahead and tell us; if we can, we will certainly tell you.
+
+[en]
+Man: A man owed me ten thousand rupees, so I took a cheque from him for that amount, and the date for paying it was written as “14 January 2012”, but it was not cashed on the set date. I kept asking him for the money again and again, but he always put me off. I have also found out that he is not in any financial difficulty; he is doing this deliberately. I have also tried to make him see sense through a friend of mine, but he is not willing to pay the money back. Now I was thinking of taking legal action against him, and when I consulted a friend of mine about it, he said: Sell me this cheque for nine thousand five hundred rupees. If I get the money, well and good, and if I cannot get it, I will bear the loss.

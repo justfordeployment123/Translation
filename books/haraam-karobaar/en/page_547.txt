@@ -1,0 +1,32 @@
+# title: Page 547
+# English edition of book page 547, built by build_english.py from en_src/ and page_547.txt
+
+[hen]
+Chapter Ninety-Five: Buying and Selling Dogs
+
+[en]
+Ammar: Teacher! What is the ruling on buying and selling dogs, when they are of a good breed?
+
+[en]
+Teacher:
+
+[ar]
+نَهَى النَّبِيُّ ﷺ عَنْ ثَمَنِ الْكَلْبِ وَمَهْرِ الْبَغِيِّ وَحُلْوَانِ الْكَاهِنْ
+
+[ref]
+صحيح البخاري، رقم الحديث [2237] صحيح مسلم، رقم الحديث [1567]
+
+[en]
+“The noble Prophet, peace be upon him, forbade consuming the price of dogs and the earnings of an immoral woman and of a soothsayer.”
+
+[en]
+In this hadith the ruling is general: consuming the price of any kind of dog, or buying and selling it, is forbidden, whether it is trained or untrained, and whether keeping it is permissible or impermissible. Whoever buys and sells dogs consumes what is forbidden, so he should fear Allah the Exalted.
+
+[en]
+The Messenger of Allah, peace be upon him, said:
+
+[ar]
+مَنِ اقْتَنَى كَلْبًا لَيْسَ بِكَلْبِ صَيْدٍ وَلاَ مَاشِيَةٍ وَلاَ أَرْضٍ فَإِنَّهُ يَنْقُصُ مِنْ أَجْرِهِ قِيرَاطَانِ كُلَّ يَوْمْ
+
+[ref]
+صحيح مسلم، رقم الحديث [1575]

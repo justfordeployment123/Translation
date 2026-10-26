@@ -1,0 +1,20 @@
+# title: Page 546
+# English edition of book page 546, built by build_english.py from en_src/ and page_546.txt
+
+[en]
+“A time will come when the people of my Ummah will be swallowed up (into the earth), stones will be rained down on them, and their forms will be disfigured. This will happen when they drink alcohol, keep singing women (female singers) and put musical instruments to use.”
+
+[en]
+The Messenger of Allah, peace be upon him, said:
+
+[ar]
+لَيَكُونَنَّ مِنْ أُمَّتِي أَقْوَامٌ يَسْتَحِلُّونَ الْحِرَ وَالْحَرِيرَ وَالْخَمْرَ وَالْمَعَازِفْ
+
+[ref]
+صحيح البخاري، رقم الحديث [5590]
+
+[en]
+“A time will come when some people of my Ummah will make fornication, silk, alcohol and music lawful.”
+
+[en]
+These hadiths are proof that music, singing and playing instruments are forbidden in principle, though people have taken them to be lawful, and that all kinds of music, and all its means and tools, are forbidden.

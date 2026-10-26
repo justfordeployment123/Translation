@@ -1,0 +1,38 @@
+# title: Page 61
+# English edition of book page 61, built by build_english.py from en_src/ and page_061.txt
+
+[en]
+Kamal: I do not want to take a loan.
+
+[en]
+Mahmud: Then what do you want?
+
+[en]
+Kamal: I want to sell a tonne of maize, and the buyer can collect it from me at harvest time.
+
+[en]
+Mahmud: I am willing to buy it, but what will the price of a tonne be?
+
+[en]
+Kamal: At harvest time the price of a tonne will be about five hundred pounds.
+
+[en]
+Mahmud: Kamal! That is a very high price. That is today's rate. When the harvest comes, the rate will be much lower than that.
+
+[en]
+Kamal: How much will you pay?
+
+[en]
+Mahmud: I think we should not fix the price. We will set the price according to whatever the rate is at harvest time. Tomorrow, in sha Allah, I will send you five hundred pounds.
+
+[en]
+Kamal: May Allah reward you. Now drink your tea quickly, so that we can leave the market before the crowds come.
+
+[en]
+Mahmud: Yes, that is quite right.
+
+[en]
+At that moment the Shaykh turned to them with a smile and said very courteously: As-salamu alaikum wa rahmatullahi wa barakatuh.
+
+[en]
+I heard the conversation between the two of you. If you allow me, may I discuss it with you a little? It will take only five minutes.

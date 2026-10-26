@@ -1,0 +1,53 @@
+# title: Page 232
+# English edition of book page 232, built by build_english.py from en_src/ and page_232.txt
+
+[en]
+“Muslims are bound by their conditions.”
+
+[en]
+Now tell me! What has become of your agreement, and what has become of your conditions?!
+
+[en]
+Tal'at: Teacher! I want to ask you a question.
+
+[en]
+Teacher: Yes, ask.
+
+[en]
+Tal'at: If the head or principal of an institution, not feeling any particular need for the work, gives an employee leave, or reduces his duty from six hours to four, what is the ruling of the Shariah on that?
+
+[en]
+Teacher: That will be permissible on the following conditions:
+
+[en]
+First: The head of the institution has been given that authority by the state or the government.
+
+[en]
+Second: Giving the employee leave does not harm the institution or the work.
+
+[en]
+Third: Giving the employee leave does not affect the interests of other people.
+
+[en]
+Fourth: His leave does not become an example for the other employees, so that anyone who feels like it can use it as a shield to take leave.
+
+[en]
+Fifth: Such an employee takes responsibility for his work.
+
+[en]
+Sixth: Rules and regulations are laid down for his leave.
+
+[en]
+Ubaid: Teacher! What is the solution to my problem?
+
+[en]
+Teacher: It has three solutions:
+
+[en]
+First: Do your work honestly.
+
+[en]
+Second: Leave this job and take up some other business or the like.
+
+[en]
+Third: Take unpaid leave from your government job for a time, and do some other work during that period.

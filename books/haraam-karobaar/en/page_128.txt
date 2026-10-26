@@ -1,0 +1,38 @@
+# title: Page 128
+# English edition of book page 128, built by build_english.py from en_src/ and page_128.txt
+
+[en]
+Teacher: My dear brother! This deal is impermissible for the following two reasons:
+
+[en]
+First: It is not certain whether he will get the money or not.
+
+[en]
+Second: If he does get the money, the thought will arise in your heart that he has made a profit of five hundred rupees without any effort, and if he does not get the money, the thought will come into his heart that you took nine thousand five hundred rupees from him for nothing.
+
+[en]
+In the terminology of the Shariah this is called a “sale of deception”, because it is not clear whether one of the two parties to the sale will get anything or not. If one of them makes a greater profit, envy may arise in the other's heart, and it may come to a quarrel.
+
+[en]
+Man: Sir! If he gets all the money, I have no objection to that.
+
+[en]
+Teacher: Mere consent can neither make something forbidden lawful nor make something lawful forbidden.
+
+[ar]
+نَهَى رَسُولُ اللَّهِ ﷺ عَنْ بَيْعِ الْغَرَرْ
+
+[ref]
+صحيح مسلم، رقم الحديث [1513]
+
+[en]
+“The Prophet, peace be upon him, forbade buying and selling that involves deception.”
+
+[en]
+Moreover, this deal lacks the following two conditions of a sale:
+
+[en]
+First: There must be no uncertainty in the thing sold, whereas here, in the matter of the cheque, there is clear uncertainty about whether he will get the money or not.
+
+[en]
+Second: The thing the seller is selling must be in his possession or within his control, whereas here it is the opposite, so this deal is invalid.

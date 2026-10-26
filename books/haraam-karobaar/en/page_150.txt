@@ -1,0 +1,50 @@
+# title: Page 150
+# English edition of book page 150, built by build_english.py from en_src/ and page_150.txt
+
+[ar]
+يَمِينُكَ عَلَى مَا يُصَدِّقُكَ عَلَيْهِ صَاحِبُكْ
+
+[ref]
+صحيح مسلم، رقم الحديث [1635]
+
+[en]
+“Only that meaning of your oath will be accepted which your companion would confirm.”
+
+[en]
+Amr (the narrator of the hadith) asked about the words:
+
+[ar]
+يُصَدِّقُكَ عَلَيْهِ صَاحِبُكْ
+
+[en]
+What do they mean? So he, peace be upon him, said:
+
+[ar]
+الْيَمِينُ عَلَى نِيَّةِ الْمُسْتَحْلِفْ
+
+[ref]
+صحيح مسلم، رقم الحديث [1635]
+
+[en]
+That is, the oath will be taken to mean what accords with the intention of the one who asked for the oath.
+
+[en]
+Imam an-Nawawi says:
+
+[en]
+“Because of tricks, deception and tawriyah (speaking in a way that hides the truth), that man will be a sinner.”
+
+[ref]
+شرح مسلم [117/11]
+
+[en]
+The sum of all the proofs is that swearing many oaths and using tricks is absolutely impermissible and forbidden.
+
+[en]
+Man: May Allah reward you with good.
+
+[en]
+Teacher: As-salamu alaikum wa rahmatullahi wa barakatuh.
+
+[en]
+Man: Wa alaikum as-salam wa rahmatullahi wa barakatuh.

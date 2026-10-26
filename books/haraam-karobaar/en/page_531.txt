@@ -1,0 +1,47 @@
+# title: Page 531
+# English edition of book page 531, built by build_english.py from en_src/ and page_531.txt
+
+[en]
+It is narrated from Abdullah ibn Umar, may Allah be pleased with them both, that the noble Prophet, peace be upon him, said:
+
+[ar]
+لاَ تَزَالُ الْمَسْأَلَةُ بِأَحَدِكُمْ حَتَّى يَلْقَى اللَّهَ وَلَيْسَ فِي وَجْهِهِ مُزْعَةُ لَحْمْ
+
+[ref]
+صحيح البخاري، رقم الحديث [1474] صحيح مسلم، رقم الحديث [1040]
+
+[en]
+“One of you keeps on begging, and then he will meet Allah the Exalted in such a state that there will not be a single piece of flesh on his face.”
+
+[en]
+The Messenger of Allah, peace be upon him, stood on the pulpit and said:
+
+[ar]
+ذَكَرَ الصَّدَقَةَ وَالتَّعَفُّفَ عَنِ الْمَسْأَلَةْ، الْيَدُ الْعُلْيَا خَيْرٌ مِنَ الْيَدِ السُّفْلَى، وَالْيَدُ الْعُلْيَا هِيَ الْمُنْفِقَةْ، وَالسُّفْلَى هِيَ السَّائِلَةْ
+
+[ref]
+صحيح البخاري، رقم الحديث [1429] صحيح مسلم، رقم الحديث [1033]
+
+[en]
+“He mentioned charity, and he mentioned refraining from asking. He, peace be upon him, said: The upper hand is better than the lower hand. The upper hand is the one that spends, while the lower hand is the one that asks.”
+
+[en]
+It is narrated from Abu Hurairah, may Allah be pleased with him, that the Messenger of Allah, peace be upon him, said:
+
+[ar]
+مَنْ سَأَلَ النَّاسَ تَكَثُّرًا فَإِنَّمَا يَسْأَلُ جَمْرًا فَلْيَسْتَقِلَّ أَوْ لِيَسْتَكْثِرْ
+
+[ref]
+صحيح مسلم، رقم الحديث [1041]
+
+[en]
+“Whoever begs from people to increase his wealth is only asking for embers, whether he takes little or much.”
+
+[en]
+Samurah ibn Jundub, may Allah be pleased with him, says that the Messenger of Allah, peace be upon him, said:
+
+[ar]
+إِنَّ الْمَسْأَلَةَ كَدٌّ يَكُدُّ بِهَا الرَّجُلُ وَجْهَهُ إِلاَّ أَنْ يَسْأَلَ الرَّجُلُ سُلْطَانَا، أَوْ فِي أَمْرٍ لاَ بُدَّ مِنْهْ
+
+[ref]
+سنن أبي داود، رقم الحديث [1639]

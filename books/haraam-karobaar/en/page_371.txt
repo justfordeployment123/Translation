@@ -1,0 +1,8 @@
+# title: Page 371
+# English edition of book page 371, built by build_english.py from en_src/ and page_371.txt
+
+[en]
+Teacher: In such a case it is interest. The deal will be valid only when everything is settled in that same sitting: whether it is on instalments or in cash; if on instalments, how much each monthly instalment is, how many instalments there are in all, what the total amount is, and so on.
+
+[en]
+Faisal: May Allah reward you with good.

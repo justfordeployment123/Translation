@@ -1,0 +1,26 @@
+# title: Page 114
+# English edition of book page 114, built by build_english.py from en_src/ and page_114.txt
+
+[en]
+Teacher: Give the factory people good advice and counsel, tell them the hadiths, and speak gently. I hope that Allah the Exalted will open a way for you, because people are in great need of advice and counsel, and when someone gives advice, people gladly listen to it and act on it too.
+
+[en]
+Salim: In sha Allah, I will certainly go on Tuesday, but what should I do now with this brother and his necklace?
+
+[en]
+Teacher: Separate the gold and the pearls of this necklace. Weigh each of them separately, and pay this man according to the separate rate for each.
+
+[en]
+Salim: All right! I will do just that.
+
+[en]
+Salim did exactly as the teacher had told him. The man thanked the teacher and went on his way.
+
+[en]
+Teacher: Salim! Ma sha Allah, you have set yourself right very quickly and taken our words to heart. We pray that Allah the Exalted puts blessing in your business and grants you abundant provision. As-salamu alaikum wa rahmatullah.
+
+[en]
+Salim: Teacher! May Allah the Exalted reward you with good as well. Have a meal with us today.
+
+[en]
+Teacher: No, may Allah reward you and bless you. We have many other things to do today; if we get the chance, we will come again.

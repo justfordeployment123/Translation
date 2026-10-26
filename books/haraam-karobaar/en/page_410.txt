@@ -1,0 +1,29 @@
+# title: Page 410
+# English edition of book page 410, built by build_english.py from en_src/ and page_410.txt
+
+[en]
+Have you never thought that if the punishment of Allah were to seize them on the way, while you are taking them to sin, they would all be destroyed, and you would be destroyed along with them?
+
+[en]
+Driver: Teacher! Whatever those people do when they get there is no concern of mine, and I have never joined them in it. My only concern is my fare, because my work is simply to take passengers here and there. Say all these things to those who do these wrong deeds.
+
+[en]
+Teacher: How strange your thinking is! Do you not remember the texts that show that what your car is doing is forbidden?
+
+[en]
+Driver: Which texts are those?
+
+[en]
+Teacher: First: Allah the Exalted says:
+
+[ar]
+إِنَّ الَّذِينَ يُحِبُّونَ أَنْ تَشِيعَ الْفَاحِشَةُ فِي الَّذِينَ آمَنُوا لَهُمْ عَذَابٌ أَلِيمٌ فِي الدُّنْيَا وَالْآخِرَةِ ۚ وَاللَّهُ يَعْلَمُ وَأَنْتُمْ لَا تَعْلَمُونْ
+
+[ref]
+[النور: 19]
+
+[en]
+Indeed, those who like that immorality should be spread (or publicized) among those who have believed will have a painful punishment in this world and the Hereafter. And Allah knows and you do not know.
+
+[en]
+If one looks at it, you not only like this forbidden work, but you take part in it with great pleasure and eagerness. It is as if you like the spreading of obscenity among the Muslims. If you do not repent, you too will be among those this verse speaks of.

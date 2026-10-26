@@ -1,0 +1,20 @@
+# title: Page 314
+# English edition of book page 314, built by build_english.py from en_src/ and page_314.txt
+
+[en]
+Young man: Teacher! A beard makes a person look ugly; a man with a beard looks like a jinn or a ghost, whereas without it a person looks civilised.
+
+[en]
+Teacher: Allah the Exalted has created for men and for women the appearance that is most fitting for each of them. Keeping the beauty of both in view, Allah the Exalted has placed a difference between them, and that difference stands out because of the beard. Sometimes a person thinks something is beautiful for him, while in reality it is not a sign of beauty, as Allah the Exalted says:
+
+[ar]
+أَفَمَنْ زُيِّنَ لَهُ سُوءُ عَمَلِهِ فَرَآهُ حَسَنَا
+
+[ref]
+[الفاطر: 8]
+
+[en]
+Then is one to whom the evil of his deed has been made attractive so he considers it good (like one rightly guided)?
+
+[en]
+That is, a person decides by his own reason that shaving the beard, trimming it or cutting it into various designs is a sign of beauty, but this way of thinking is against the will of Allah the Exalted. Human thinking is limited, and Allah the Exalted gives His commands keeping in view the wider good of mankind. In the Noble Quran, Allah the Exalted says:

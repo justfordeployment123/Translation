@@ -1,0 +1,48 @@
+# title: Page 342
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 342 (PDF page 343), پچاسواں باب: اصلی بالوں کے ساتھ نقلی بالوں (وِگ) کو جوڑنا
+# The page opens with the hadith introduced at the end of page 341 («حضرت جابر رضی اللہ عنہ سے مروی ہے:»); the teacher's turn goes on here.
+# Hadith 1: Muslim 5577 (Jabir; sunnah.com numbering of the Muslim 2126 the book cites); Jabir's words «زَجَرَ النَّبِيُّ ﷺ» are typed
+# from the print before the placeholder (as on page 128).
+# Print slip corrected: the print has «النَبيُّ» (no shadda on the nun, no kasra on the ba); typed in full, «النَّبِيُّ».
+# The boxed lead-ins «سوال» and «جواب» run on in the same line as their text, so they stay in their [ur] blocks, each followed by a colon (as on pages 88 and 106).
+# «فتویٰ» and «فتاویٰ» take the dagger alif (printed without it).
+# Hadith 2: Abu Dawud 4031 (Ibn Umar), as the book cites (سنن أبي داود، صحيح الجامع [6149]).
+# The page ends with the hadith's translation, a full sentence.
+
+[ar]
+# hadith زَجَرَ النَّبِيُّ ﷺ {{H muslim:5577 from أَنْ تَصِلَ to شَيْئًا}}
+زَجَرَ النَّبِيُّ ﷺ أَنْ تَصِلَ الْمَرْأَةُ بِرَأْسِهَا شَيْئَا
+
+[ref]
+صحيح مسلم، رقم الحديث [2126]
+
+[ur]
+“نبی ﷺ نے ڈانٹا کہ عورت اپنے سر میں کوئی (مصنوعی) چیز لگائے۔”
+
+[ur]
+آج ہمارے دور میں مردوں اور عورتوں کے لیے ہیر سٹائل کے نام سے اس طرح کی جتنی بھی چیزیں پائی جاتی ہیں، سب حرام ہیں، مثلاً ڈراموں اور فلموں وغیرہ میں اداکار کا اپنا بھیس بدلنے کے لیے یا کسی دوسرے بندے کی شکل اختیار کرنے کے لیے جعلی بال لگانا۔
+
+[ur]
+اس بارے میں علامہ ابن عثیمین کا ایک فتویٰ ملاحظہ فرمائیں۔
+
+[ur]
+سوال: کیا عورت اپنے خاوند کی خاطر اپنے بالوں کے ساتھ جعلی بال لگوا سکتی ہے؟
+
+[ur]
+جواب: مصنوعی بال لگانا اور لگوانا حرام ہے اور نبی مکرم ﷺ نے ایسی دونوں عورتوں پر لعنت فرمائی ہے۔ باروکہ (وِگ) کا استعمال اگرچہ خاوند کی رضامندی اور اجازت سے ہو وہ حرام اور ناجائز ہے، کیونکہ اللہ کی معصیت کو کسی کی رضامندی اور اجازت جائز نہیں کر سکتی۔
+
+[ref]
+فتاوىٰ المرأة [ص: 179]
+
+[ur]
+عالمی مجلس فتاویٰ نے فتویٰ دیا ہے کہ باروکہ خواہ کسی بھی شکل میں ہو، وہ حرام ہے، کیونکہ اس میں کافر عورتوں کے ساتھ مشابہت پائی جاتی ہے اور مسلمان عورت زیب و زینت کی آڑ میں کوئی بھی ایسا کام نہیں کر سکتی، جس میں غیر مسلم عورتوں سے مشابہت پائی جائے۔ نبی کریم ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H abudawud:4031 from مَنْ تَشَبَّهَ to مِنْهُمْ}}
+مَنْ تَشَبَّهَ بِقَوْمٍ فَهُوَ مِنْهُمْ
+
+[ref]
+سنن أبي داود، صحيح الجامع، رقم الحديث [6149]
+
+[ur]
+“جو شخص کسی قوم کی مشابہت اختیار کرتا ہے تو وہ انھی میں سے ہے۔”

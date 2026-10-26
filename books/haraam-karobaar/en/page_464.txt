@@ -1,0 +1,11 @@
+# title: Page 464
+# English edition of book page 464, built by build_english.py from en_src/ and page_464.txt
+
+[en]
+All these texts are proof that a will of more than a third is impermissible. So you should make a will of a third instead of a half, so that you do not go against the Sunnah.
+
+[en]
+Abdur-Rahim: In sha Allah, I will do just that.
+
+[en]
+Teacher: May Allah the Exalted bless you.

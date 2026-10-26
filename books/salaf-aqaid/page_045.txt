@@ -1,0 +1,39 @@
+# title: Page 45
+# Salaf-e-Saliheen ke Aqaid o Nazariyat, book page 45 (PDF page 42), اہل سنت والجماعت
+# The section title «اہل سنت والجماعت» is a heading.
+# The bold lead-in «سنت کی لغوی تعریف:» runs on in the same line as its paragraph, so it stays in the [ur] block.
+# The Arabic words «سَنَّ يَسِنُّ، وَيَسُنُّ سَنًّا», «مَسْنُون» and «سَنَّ الْأَمْرَ» are terms inside Urdu sentences: typed as printed inside
+# the [ur] block, stopping form on the last word before each pause.
+# Hadith 1 (Abu Sa'id al-Khudri; the book cites Bukhari 3456 and Muslim 2669): the book's «لَتَتَّبِعُنَّ سَنَنَ مَنْ كَانَ قَبْلَكُمْ شِبْرًا بِشِبْرٍ،
+# وَذِرَاعًا بِذِرَاعٍ» is joined from Bukhari 3456 ("لَتَتَّبِعُنَّ سَنَنَ مَنْ ... شِبْرًا بِشِبْرٍ، وَذِرَاعًا بِذِرَاعٍ", which lacks «كَانَ») and «كَانَ قَبْلَكُمْ»
+# from Bukhari 7320 (the same hadith of Abu Sa'id, which has «لَتَتْبَعُنَّ ... شِبْرًا شِبْرًا»), the first two excerpts with cont.
+# Proofreader please check: hadith 1 is joined from two of Abu Sa'id's reports (Bukhari 3456 and 7320), so that it reads as printed.
+# Hadith 2 (Jarir; the book cites Muslim 1017, al-Zakah): Muslim 2351 in the hadith-api numbering. The Arabic starts here and ends on
+# page 46 ("فِي الْإِسْلَامِ سُنَّةً سَيِّئَةً ......"); it is kept whole here, the dots after it (the hadith goes on) not typed. Its Urdu
+# translation and footnote start on page 46 and stay there.
+# Proofreader please check: in hadith 2 the book prints «وَأَجْرُ مَنْ عَمِلَ بِهَا مِنْ بَعْدِهِ» where Muslim 2351 has «... بِهَا بَعْدَهُ»; to read as
+# printed, «مِنْ بَعْدِهِ» is taken from the same report (its «وَوِزْرُ مَنْ عَمِلَ بِهَا مِنْ بَعْدِهِ»), after «وَأَجْرُ مَنْ عَمِلَ بِهَا» with cont.
+# Both hadiths pause at the book's commas.
+
+[h]
+اہل سنت والجماعت
+
+[ur]
+سنت کی لغوی تعریف: لغت میں سنت کا لفظ سَنَّ يَسِنّ، وَيَسُنُّ سَنَّا سے ماخوذ ہے جس کا صیغہ اسم مفعول مَسْنُون ہے۔ سَنَّ الْأَمْرْ کے معنی ہیں کہ اس نے بات کی خوب وضاحت کی۔ سنت کا مطلب ہے طریقہ اور سیرت (چلن)، چاہے وہ اچھا طریقہ اور اچھی سیرت ہو یا برا طریقہ اور بری سیرت۔ حسب ذیل حدیث میں سنت کے یہی معنی لیے گئے ہیں۔ فرمایا:
+
+[ar]
+# hadith {{H bukhari:3456 from لَتَتَّبِعُنَّ to مَنْ cont}} {{H bukhari:7320 from كَانَ قَبْلَكُمْ to قَبْلَكُمْ cont}} {{H bukhari:3456 from شِبْرًا to بِذِرَاعٍ}}
+لَتَتَّبِعُنَّ سَنَنَ مَنْ كَانَ قَبْلَكُمْ شِبْرًا بِشِبْرْ، وَذِرَاعًا بِذِرَاعْ
+
+[ur]
+“تم ان لوگوں کے طریقوں کی ضرور پیروی کرو گے جو تم سے پہلے ہو گزرے ہیں، بالشت بر بالشت اور ہاتھ بر ہاتھ، (یعنی قدم بقدم پیروی کرو گے)۔”
+
+[ref]
+صحيح البخاري، أحاديث الأنبياء، حديث: 3456، وصحيح مسلم، العلم، حديث: 2669.
+
+[ur]
+درج ذیل حدیث میں یہ لفظ سیرت (چلن) اور طریقے کے معنی میں آیا ہے۔ فرمایا:
+
+[ar]
+# hadith {{H muslim:2351 from مَنْ سَنَّ to حَسَنَةً}}، {{H muslim:2351 from فَلَهُ to أَجْرُهَا}}، {{H muslim:2351 from وَأَجْرُ مَنْ to بِهَا cont}} {{H muslim:2351 from مِنْ بَعْدِهِ to بَعْدِهِ}}، {{H muslim:2351 from مِنْ غَيْرِ to شَيْءٌ}}، {{H muslim:2351 from وَمَنْ سَنَّ to سَيِّئَةً}}
+مَنْ سَنَّ فِي الإِسْلاَمِ سُنَّةً حَسَنَةْ، فَلَهُ أَجْرُهَا، وَأَجْرُ مَنْ عَمِلَ بِهَا مِنْ بَعْدِهْ، مِنْ غَيْرِ أَنْ يَنْقُصَ مِنْ أُجُورِهِمْ شَيْءْ، وَمَنْ سَنَّ فِي الإِسْلاَمِ سُنَّةً سَيِّئَةْ

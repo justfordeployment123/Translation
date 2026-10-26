@@ -1,0 +1,20 @@
+# title: Page 352
+# English edition of book page 352, built by build_english.py from en_src/ and page_352.txt
+
+[en]
+Fourth: If you ban your wife and children at home from watching dramas and the like, the inevitable result will be quarrels and fights in your home, which will bring unrest and disorder into the house. So rather than that, it is better not to keep a thing that stirs up such disorder in the house at all.
+
+[en]
+It is clear that although television has some useful things, because of its other evils it becomes a doubtful thing, and our religion has commanded us to keep away from doubtful things. The waywardness society has fallen into because of television, and the results being produced by the films and dramas shown on it, are hidden from no one either.
+
+[en]
+A true Muslim keeps his religion, his honour and his children safe from things that are harmful to them; he does not let his home and family come anywhere near dangerous things.
+
+[en]
+In the present age, television is a very great danger to a person's honour, his morals and the good upbringing of his children.
+
+[en]
+Faisal: Teacher! If we do not keep a television at home, our children will go behind our backs to the neighbours' houses and watch dramas and the like there, and on top of that people will taunt us that these people cannot even buy a television for their children. So if we buy one only for the children, and do not watch it ourselves, what is wrong with that?
+
+[en]
+Teacher: That is not right either.

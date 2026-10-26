@@ -1,0 +1,38 @@
+# title: Page 165
+# Salaf-e-Saliheen ke Aqaid o Nazariyat, book page 165 (PDF page 162), پانچواں اصول: دوستی اور دشمنی
+# The page opens with the hadith introduced at the foot of page 164 («تو آپ نے ان سے فرمایا:»).
+# Hadith: Bukhari 6780, as the book cites, in one excerpt (it pauses at the source's comma after «لاَ تَلْعَنُوهُ», as the book does).
+# Proofreader please check: the book prints «فَوَاللَّهِ مَا عَلِمْتُ، إِنَّهُ يُحِبُّ اللَّهَ وَرَسُولَهُ»; Bukhari 6780 (the only report of these words in
+# the collections) has "مَا عَلِمْتُ أَنَّهُ", which is filled and will be read.
+# The book's comma after «عَلِمْتُ» belongs to its «إِنَّهُ» reading, so no pause is made there in the official «مَا عَلِمْتُ أَنَّهُ».
+# Item ③ (of the three kinds of people) is read تیسری; its bold lead-in runs on in the same line, so it stays in its [ur] block.
+# At-Tahrim 66:9 is filled from the official text (fill_quran.py), as the book cites («التحريم 9:66»; the same words are also At-Tawbah 9:73).
+# The reference is typed as it appears on the page, left to right («9:66»).
+# The Urdu translation of the verse continues on page 166 ("جہنم ہے اور وہ برا ٹھکانا ہے۔”"); it is kept whole here, with its footnote ①
+# («التحريم 9:66.»), printed on page 166.
+
+[ar]
+# hadith {{H bukhari:6780 from لاَ تَلْعَنُوهُ to وَرَسُولَهُ}}
+لاَ تَلْعَنُوهْ، فَوَاللَّهِ مَا عَلِمْتُ أَنَّهُ يُحِبُّ اللَّهَ وَرَسُولَهْ
+
+[ur]
+“اس پر لعنت مت بھیجو، اللہ کی قسم! میرے علم کے مطابق یہ اللہ اور اس کے رسول ﷺ سے محبت کرتا ہے۔”
+
+[ref]
+صحيح البخاري، الحدود، حديث: 6780.
+
+[ur]
+اس کے باوجود آپ نے اس پر حد نافذ کی تھی۔
+
+[ur]
+تیسری: وہ لوگ جو مطلق طور پر دشمنی و نفرت کے مستحق ہیں: ان میں وہ لوگ شامل ہیں جو مشرک اور کافر ہیں، چاہے وہ یہودی ہوں، عیسائی ہوں، مجوسی ہوں، ملحد ہوں یا بت پرست۔ اسی حکم کا اطلاق ان مسلمانوں پر بھی ہوتا ہے جو کافر بنا دینے والے افعال کا ارتکاب کرتے ہیں، جیسے غیر اللہ سے دعا کرنا، غیر اللہ سے امداد طلب کرنا، غیر اللہ پر توکل کرنا، اللہ اور اس کے رسول ﷺ کو یا اللہ کے دین کو گالی دینا، یہ اعتقاد رکھتے ہوئے دین کو دنیا سے الگ کرنا کہ دین عصر حاضر کے تقاضے پورے نہیں کرتا اور دورِ جدید کے لیے دین مناسب نہیں لیکن اس حکم کا اطلاق ایسے افراد پر اس وقت کیا جائے گا جب ان پر حجت قائم کر دی جائے، لہٰذا مسلمانوں کو چاہیے کہ اس تیسری قسم کے لوگوں سے جہاد کریں، ان پر عرصۂ حیات تنگ کر دیں اور انھیں زمین پر فساد پھیلاتے پھرنے کی اجازت نہ دیں۔ ارشادِ باری تعالیٰ ہے:
+
+[ar]
+# quran 66:9 from يَا أَيُّهَا النَّبِيُّ to وَبِئْسَ الْمَصِيرُ
+يَا أَيُّهَا النَّبِيُّ جَاهِدِ الْكُفَّارَ وَالْمُنَافِقِينَ وَاغْلُظْ عَلَيْهِمْ ۚ وَمَأْوَاهُمْ جَهَنَّمُ ۖ وَبِئْسَ الْمَصِيرْ
+
+[ur]
+“اے نبی! کفار اور منافقین سے جہاد کیجیے اور ان پر سختی کیجیے اور ان کا ٹھکانا جہنم ہے اور وہ برا ٹھکانا ہے۔”
+
+[ref]
+التحريم 9:66.

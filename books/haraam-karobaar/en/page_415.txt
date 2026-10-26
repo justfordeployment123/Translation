@@ -1,0 +1,26 @@
+# title: Page 415
+# English edition of book page 415, built by build_english.py from en_src/ and page_415.txt
+
+[hen]
+Chapter Sixty-Three: A Driver Secretly Taking More Than the Sum Agreed with the Car's Owner
+
+[en]
+Driver: Thanks be to Allah, who granted me your company today. One thing often troubles me: whenever I do it, I feel very uneasy. I would like to learn something from you about it.
+
+[en]
+Teacher: Yes, what is it? Ask.
+
+[en]
+Driver: When I take this car out, my wage agreed with its owner is ten pounds out of every hundred pounds. Some owners also agree with their drivers on three pounds extra besides the ten pounds. These three pounds are set aside for the driver's daily cigarettes, tea, food and so on, and with that the driver works happily.
+
+[en]
+Teacher: What do you do?
+
+[en]
+Driver: Shall I tell you honestly?
+
+[en]
+Teacher: The truth is all I want to hear.
+
+[en]
+Driver: Without letting the car's owner know, I have tea, food and so on, and take about three pounds a day out of the actual takings.

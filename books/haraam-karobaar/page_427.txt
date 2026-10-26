@@ -1,0 +1,33 @@
+# title: Page 427
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 427 (PDF page 428), پینسٹھواں باب: خوبصورتی کی خاطر دانتوں کے درمیان فاصلہ کروانا
+# The page opens with Imam Nawawi's words, introduced at the foot of page 426 ("امام نووی رحمہ اللہ فرماتے ہیں:"); they are printed in Urdu,
+# without quote marks. The Arabic terms «المتفلجة» and «الوشر» (in quote marks, with «سے مراد» attached) stay inside the Urdu sentence,
+# typed as printed (no harakat). Its footnote follows it.
+# The chapter ends on this page with Saad's full turn; the rest of the page is blank. Chapter sixty-six starts on page 428.
+
+[ur]
+“المتفلجة” سے مراد یہ ہے کہ دانتوں کو رگڑ کر چھوٹا کرنا، تاکہ وہ ایک دوسرے سے تھوڑا تھوڑا دور ہو جائیں اور “الوشر” سے مراد خوبصورتی ہے۔
+
+[ref]
+رياض الصالحين [ص:531]
+
+[ur]
+سعد: استاد صاحب! ٹھیک ہے میں نے مان لیا کہ خوبصورتی کی خاطر دانتوں کو چھوٹا کروانا حرام ہے، لیکن اگر دانت بڑے ہو جائیں اور تکلیف بھی دیں تو صرف علاج کی خاطر ان کے چھوٹا کروانے کا کیا حکم ہے؟
+
+[ur]
+استاد: اگر صرف علاج مقصود ہو تو اس میں کوئی حرج نہیں، لیکن اگر خوبصورتی وغیرہ مقصود ہو تو یہ حرام ہے اور اس کی اجرت بھی حرام ہے۔
+
+[ur]
+سعد: اب اس کا حل کیا ہے؟
+
+[ur]
+استاد: اگر تم خوبصورتی کی خاطر دانت چھوٹے کروانے آئے ہو تو علاج کروائے بغیر واپس چلے جاؤ۔
+
+[ur]
+سعد: ٹھیک ہے ہم علاج کروائے بغیر ہی واپس چلے جاتے ہیں۔
+
+[ur]
+استاد: لیکن میں نے بھی آپ سے ایک سوال پوچھنا ہے۔
+
+[ur]
+سعد: جی، پوچھیں۔

@@ -1,0 +1,8 @@
+# title: Page 445
+# English edition of book page 445, built by build_english.py from en_src/ and page_445.txt
+
+[en]
+The dead get no benefit at all from these things, nor does their reward reach them. Taking payment for this work is forbidden too. Instead of Quran recitation, the heirs of the deceased should give charity on his behalf, because charity benefits the deceased and its reward also reaches him.
+
+[en]
+Husain: Teacher! People are completely unaware of these things.

@@ -1,0 +1,41 @@
+# title: Page 361
+# English edition of book page 361, built by build_english.py from en_src/ and page_361.txt
+
+[en]
+Faisal: This is a very reasonable price for a freezer of this size.
+
+[en]
+Customer: I told you, I am an old customer of yours; give me some discount. I have been to your shop many times before. I think perhaps you have not recognised me?
+
+[en]
+Faisal: Sir, I have recognised you. Is your name not Muhammad?
+
+[en]
+Customer: Yes, it is Muhammad.
+
+[en]
+Faisal: For you there is a discount of a hundred rupees; pay two thousand four hundred. It cannot be less than that.
+
+[en]
+Muhammad: (Turning to the teacher) Teacher! Tell him to bring it down a little more.
+
+[en]
+Teacher: Faisal, let another hundred rupees go and give it to him for two thousand three hundred.
+
+[en]
+Faisal: Teacher! At two thousand three hundred I am making a loss.
+
+[en]
+Teacher: Never mind. Allah the Exalted will make up this loss from some other direction.
+
+[en]
+Faisal: Teacher! I cannot turn down what you say. All right, I accept two thousand three hundred pounds.
+
+[en]
+Teacher: May Allah reward you with good.
+
+[en]
+Faisal: We have some eighteen-foot freezers of excellent quality; their price is only two thousand nine hundred pounds. No freezers of any other quality can match them.
+
+[en]
+Muhammad: I am not buying this freezer for myself, but for my friend Sufyan. He himself lives abroad. He sent me two thousand five hundred pounds and said: Buy a freezer of that price and deliver it to our house. Now I will keep the remaining two hundred pounds for myself.

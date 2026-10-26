@@ -1,0 +1,28 @@
+# English source for book page 488
+
+[hen]
+Chapter Eighty: A Woman Taking Part in a Beauty Contest
+
+[en]
+Husain: Teacher! What is your view about women taking part in beauty contests?
+
+[en]
+Teacher: On this question we will put forward only what the people who take part in them say.
+
+[en]
+Husain: What do you mean?
+
+[en]
+Teacher: I mean that we will speak in the light of the details given by the people who take part in beauty contests. I have two answers to this question: one is somewhat detailed and the other is short. Which answer would you like?
+
+[en]
+Husain: Give the short answer, because it has become quite late, and I have to go back home too.
+
+[en]
+Teacher: All right, I will give the short answer first. If you do not understand it, then I will give the detailed answer.
+
+[en]
+Husain: May Allah reward you with good!
+
+[en]
+Teacher: Usually the organisers of beauty contests have set certain rules and regulations for the women who take part in them, and the women are given the choice: if you meet these conditions and this standard, you will be included in the contest; otherwise you will be left out of it.

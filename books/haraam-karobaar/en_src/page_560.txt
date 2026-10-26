@@ -1,0 +1,31 @@
+# English source for book page 560
+
+[hen]
+Chapter One Hundred: Holding Competitions with Prizes That Are Vague and Resemble Gambling
+
+[en]
+Ammar: A questioner asks: Sometimes competitions on religious topics are held in our mosques, at an official or unofficial level. For example: Write an essay on one of the following topics; the essay should not be more than fifty pages. The topics are:
+
+[en]
+First: The conduct of the Prophet, peace be upon him, towards the Jews.
+
+[en]
+Second: The system of justice in Islam.
+
+[en]
+Third: The importance of enjoining good and forbidding evil.
+
+[en]
+A committee will check these essays, and those who take the first five places will be awarded the following prizes.
+
+[en]
+First prize: A very large sum of money.
+
+[en]
+Second prize: Valuable gifts.
+
+[en]
+Third prize: Valuable books.
+
+[en]
+Fourth prize: A suitable gift.

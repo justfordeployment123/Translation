@@ -1,0 +1,20 @@
+# title: Page 29
+# English edition of book page 29, built by build_english.py from en_src/ and page_029.txt
+
+[en]
+In adopting this principle, we must make a distinction: the religion is easy only in the concessions of the Shariah. For example: combining prayers or shortening them while travelling; breaking the fast on a journey; a resident wiping over leather socks and ordinary socks for one day and night, and a traveller for three days and three nights; performing tayammum (dry ablution) when using water risks harm; a sick person combining prayers at a time of rain; looking at an unrelated woman with a view to marriage; the choice given in the expiation for an oath, that is, to free a slave, to feed people or to clothe them; eating dead meat in a case of necessity, and so on. All of these are concessions of the Shariah.
+
+[en]
+A Muslim should also know that there are countless wise purposes in the things that have been forbidden. For example:
+
+[en]
+First: Through the forbidden things Allah the Exalted tests His servants, to see how they act.
+
+[en]
+Second: The forbidden things are a means of telling the people of Paradise apart from the people of Hell. The people of Hell sink into their desires, and because of this the Fire overcomes them; and the people of Paradise are patient with things they dislike, and because of this Paradise takes them into its embrace. If there were no such trials, the difference between the disobedient and the obedient could not become clear.
+
+[en]
+Third: The people of faith look on difficulty and hardship as a way of earning reward and the pleasure of Allah, and because of this the difficulty becomes easy for them; while the hypocrites look on hardship as pain, sickness and extreme distress, so the hardship becomes even harder for them, and obedience becomes difficult for them.
+
+[en]
+Fourth: By leaving the forbidden things, the obedient enjoy the true sweetness of faith.

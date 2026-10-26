@@ -1,0 +1,29 @@
+# title: Page 322
+# English edition of book page 322, built by build_english.py from en_src/ and page_322.txt
+
+[en]
+Allah the Exalted says:
+
+[ar]
+ذَٰلِكَ بِأَنَّهُمْ كَرِهُوا مَا أَنْزَلَ اللَّهُ فَأَحْبَطَ أَعْمَالَهُمْ
+
+[ref]
+[محمد: 9]
+
+[en]
+That is because they disliked what Allah revealed, so He rendered worthless their deeds.
+
+[en]
+My brother! Repent to Allah the Exalted and stop shaving your beard. Leave it as it is, the way Allah the Exalted created it, and do not invite the punishment of Allah the Exalted by committing this disobedience. You people pray, you fast, and you take care over other acts of worship too, but what happens to you in the matter of the beard? Is this not also a command of Allah the Exalted, like prayer, fasting and the other commands? If both commands are from Allah and His Messenger, peace be upon him, then why this contradiction when it comes to acting on them?
+
+[en]
+Why do you become weak in the matter of the beard? Have you not heard this blessed verse of the Noble Quran:
+
+[ar]
+أَفَتُؤْمِنُونَ بِبَعْضِ الْكِتَابِ وَتَكْفُرُونَ بِبَعْضٍ ۚ فَمَا جَزَاءُ مَنْ يَفْعَلُ ذَٰلِكَ مِنْكُمْ إِلَّا خِزْيٌ فِي الْحَيَاةِ الدُّنْيَا ۖ وَيَوْمَ الْقِيَامَةِ يُرَدُّونَ إِلَىٰ أَشَدِّ الْعَذَابِ ۗ وَمَا اللَّهُ بِغَافِلٍ عَمَّا تَعْمَلُونْ
+
+[ref]
+[البقرة: 85]
+
+[en]
+So do you believe in part of the Scripture and disbelieve in part? Then what is the recompense for those who do that among you except disgrace in worldly life; and on the Day of Resurrection they will be sent back to the severest of punishment. And Allah is not unaware of what you do.

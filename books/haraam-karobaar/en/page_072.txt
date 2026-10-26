@@ -1,0 +1,11 @@
+# title: Page 72
+# English edition of book page 72, built by build_english.py from en_src/ and page_072.txt
+
+[en]
+May Allah bless you. Was-salamu alaikum.
+
+[en]
+Trader: May Allah grant you blessings too. Wa alaikum as-salam.
+
+[en]
+Then Ammar picked up one sack and the Shaykh picked up the other, and after this blessed round they set off for home.

@@ -1,0 +1,58 @@
+# title: Page 134
+# Salaf-e-Saliheen ke Aqaid o Nazariyat, book page 134 (PDF page 131), دوسرا اصول: حقیقتِ ایمان
+# The first two lines of the page ("نیکوکار، پرہیز گار ... باز رہنے کا۔") end a sentence that is on page 133, where it starts.
+# Al-Kahf 18:23-24 (printed as one quote, one ayah per block) and an-Najm 53:32 (its last part) are filled from the official text.
+# The graveyard greeting: the book cites Muslim 974 and 975 (Aisha's and Buraydah's reports). Its wording is Buraydah's report
+# (Muslim 2257 in the hadith-api numbering) with «بِكُمْ لَلَاحِقُونَ», which only Aisha's report has (Muslim 2256), so it is joined:
+# "السَّلاَمُ عَلَيْكُمْ ... وَالْمُسْلِمِينَ" (2257), "وَإِنَّا إِنْ شَاءَ اللَّهُ بِكُمْ لَلاَحِقُونَ" (2256), "أَسْأَلُ اللَّهَ لَنَا" (2257) and
+# "وَلَكُمُ الْعَافِيَةَ" (Ibn Majah 1547, Buraydah's report with the same words; 2257 reads "وَلَكُمْ الْعَافِيَةَ", a vowel slip).
+# Proofreader please check: the join uses Aisha's report (Muslim 2256) for «وَإِنَّا إِنْ شَاءَ اللَّهُ بِكُمْ لَلاَحِقُونَ» inside Buraydah's
+# report (Muslim 2257); Buraydah's own reports have "لَلَاحِقُونَ" without "بِكُمْ" (Muslim) or "بِكُمْ لاَحِقُونَ" (Ibn Majah 1547).
+# References: the digit groups are typed as they appear on the page, left to right («23:18»), the group printed at the right first
+# («23:18، 24», «974، 975»).
+
+[ur]
+لیکن اگر کوئی ایمان میں استثنا، ایمان میں شک کی راہ سے کرے، وہ ایمان میں شک و شبہ کو ایمان کا استثنا سمجھے تو ایسے استثنا کو اہل سنت والجماعت بالکل مسترد کرتے ہیں۔ وہ اسے استثنا نہیں بلکہ ایمان کی خرابی قرار دیتے ہیں۔
+
+[ur]
+کتاب و سنت، روایاتِ سلف اور اقوال ائمہ سے ایمان میں استثنا کے دلائل ملتے ہیں۔ قرآن مجید میں ہے:
+
+[ar]
+# quran 18:23 from وَلَا تَقُولَنَّ to ذَلِكَ غَدًا
+وَلَا تَقُولَنَّ لِشَيْءٍ إِنِّي فَاعِلٌ ذَٰلِكَ غَدَا
+
+[ar]
+# quran 18:24 from إِلَّا أَنْ to يَشَاءَ اللَّهُ
+إِلَّا أَنْ يَشَاءَ اللَّهْ
+
+[ur]
+“اور آپ کسی شے کے بارے میں کبھی یہ نہ کہیں: بے شک میں اسے کل کرنے والا ہوں مگر یہ کہ اللہ چاہے۔”
+
+[ref]
+الكهف 23:18، 24.
+
+[ur]
+اور فرمایا:
+
+[ar]
+# quran 53:32 from فَلَا تُزَكُّوا to بِمَنِ اتَّقَى
+فَلَا تُزَكُّوا أَنْفُسَكُمْ ۖ هُوَ أَعْلَمُ بِمَنِ اتَّقَىٰ
+
+[ur]
+“لہٰذا تم اپنی پاکیزگی آپ ہی بیان نہ کرو، وہی پرہیز گار کو خوب جانتا ہے۔”
+
+[ref]
+النجم 32:53.
+
+[ur]
+نبی اکرم ﷺ جب کسی قبرستان میں داخل ہوتے تو یہ کہا کرتے:
+
+[ar]
+# hadith {{H muslim:2257 from السَّلاَمُ عَلَيْكُمْ to وَالْمُسْلِمِينَ}}، {{H muslim:2256 from وَإِنَّا to لَلاَحِقُونَ}}، {{H muslim:2257 from أَسْأَلُ to لَنَا cont}} {{H ibnmajah:1547 from وَلَكُمُ to الْعَافِيَةَ}}
+السَّلاَمُ عَلَيْكُمْ أَهْلَ الدِّيَارِ مِنَ الْمُؤْمِنِينَ وَالْمُسْلِمِينْ، وَإِنَّا إِنْ شَاءَ اللَّهُ بِكُمْ لَلاَحِقُونْ، أَسْأَلُ اللَّهَ لَنَا وَلَكُمُ الْعَافِيَةْ
+
+[ur]
+“اہل دیار مومنو اور مسلمانو! السلام علیکم۔ ہم بھی بلاشبہ ان شاء اللہ تم سے ملنے والے ہیں۔ میں اللہ سے اپنے اور تمھارے لیے عافیت کا سوال کرتا ہوں۔”
+
+[ref]
+صحيح مسلم، الجنائز، حديث: 974، 975.

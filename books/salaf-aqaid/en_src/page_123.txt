@@ -1,0 +1,13 @@
+# English source for book page 123
+
+[en]
+{{QEN 21:23}}
+
+[en]
+In short, Allah the Exalted created man and his actions, and gave man intention, ability, will and choice, so that man's actions truly issue from him, and not merely figuratively. And He gave man reason, by which he can distinguish between good and evil. He holds man to account only for those deeds that man carried out by his own intention and choice. Thus no compulsion has been placed on man and he has not been made helpless; rather, he has will and he has choice. Whatever actions he is to perform and whatever beliefs he is to adopt, he chooses them himself; yet his will is subject to the will of Allah. Whatever Allah the Exalted wills happens, and whatever He does not will does not happen. Thus Allah the Exalted is the Creator of His servants' actions, while the servants are the doers of those actions. Their actions are from Allah in respect of being created, brought into existence and decreed, while in respect of being performed and done they are from the servants. Allah says:
+
+[en]
+{{QEN 81:29}}
+
+[en]
+When the polytheists made the divine decree an excuse for their deeds of shirk, Allah the Exalted firmly rejected this claim of theirs.

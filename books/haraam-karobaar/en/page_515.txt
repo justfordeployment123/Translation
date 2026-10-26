@@ -1,0 +1,17 @@
+# title: Page 515
+# English edition of book page 515, built by build_english.py from en_src/ and page_515.txt
+
+[en]
+Zaid: What is the solution to this?
+
+[en]
+Teacher: For mosques, sell only carpets that are plain.
+
+[en]
+Zaid: May carpets with designs be sold for ordinary use in homes?
+
+[en]
+Teacher: Yes, there is no harm in that; the prohibition is only for mosques.
+
+[en]
+Zaid: Teacher! May Allah reward you. Today you have given us a great many pieces of advice.

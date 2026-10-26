@@ -7,8 +7,13 @@ Prophet's words in as placeholders, which may share a line with typed text:
 Add " flat" before the closing braces to drop the source's pauses inside the excerpt (only its last word
 gets the stopping form), for where the source punctuation would make the voice pause mid-phrase:
     {{H bukhari:7499 from وَلَكَ الْحَمْدُ أَنْتَ رَبُّ to فِيهِنَّ flat}}
+Add " cont" (after " flat", if both) when the next excerpt carries straight on mid-phrase, so this one's last
+word keeps its vowel instead of taking the stopping form:
+    {{H ibnmajah:12 from مَا to اللَّهِ cont}} {{H ibnmajah:12 from مِثْلُ to اللَّهُ}}
 Phrases are matched by their letters only (harakat and punctuation are ignored). A phrase that occurs more
 than once can be followed by "#n" to pick its n-th occurrence: {{H muslim:594 from لاَ إِلَهَ#2 to اللَّهُ}}.
+A "from" phrase that starts with "~" also matches where the source joins «وَ» or «فَ» onto its first word, and
+then leaves that conjunction out, for a book that starts its quote without it: {{H muslim:6516 from ~الإِثْمُ#2}}.
 
 Usage:
     python3 fill_hadith.py books/zindagi-aur-waqt/page_054.txt [...]   # fill, then check
@@ -30,7 +35,7 @@ from pathlib import Path
 
 from fill_quran import waqf
 
-PLACEHOLDER = re.compile(r"\{\{H (\w+):(\d+)(?: from (.+?))?(?: to (.+?))?( flat)?\}\}")
+PLACEHOLDER = re.compile(r"\{\{H (\w+):(\d+)(?: from (.+?))?(?: to (.+?))?( flat)?( cont)?\}\}")
 MARKER = "# hadith "
 MARKS = re.compile("[ً-ٰٟـ]")
 PUNCT = "،.:؟؛"
@@ -59,9 +64,13 @@ def hadith(book, number):
             sys.exit(f"could not download {book}:{number}")
         CACHE.mkdir(parents=True, exist_ok=True)
         cached.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
-    text = json.loads(cached.read_text(encoding="utf-8"))["hadiths"][0]["text"]
+    return clean(json.loads(cached.read_text(encoding="utf-8"))["hadiths"][0]["text"])
+
+
+def clean(text):
+    """A hadith's text as it is filled: the salawat written in full, marks and stray dashes removed."""
     text = unicodedata.normalize("NFC", text).replace("صلى الله عليه وسلم", SALLA)
-    for ch in "‏\"":
+    for ch in "‏\"{}﴿﴾":  # quote marks, and the braces some editions put around a quoted ayah
         text = text.replace(ch, "")
     # some editions write yeh as ى even where it carries a vowel ("أَىُّ"); that is always ي
     text = re.sub("ى(?=[ً-ْ])", "ي", text)
@@ -76,18 +85,22 @@ def _skeleton(word):
     return MARKS.sub("", word).strip(PUNCT).translate(SAME_LETTERS)
 
 
-def _find(words, phrase, ref, after=0):
+def _find(words, phrase, ref, after=0, joined=False):
     """(start, end) word indexes of the first occurrence of `phrase` at or after word `after`; a phrase
-    ending in "#n" (e.g. "لاَ إِلَهَ#3") selects its n-th occurrence instead."""
+    ending in "#n" (e.g. "لاَ إِلَهَ#3") selects its n-th occurrence instead. With `joined`, the first word
+    may also carry a «و» or «ف» joined in front of it. Returns (start, end, joined_conjunction_found)."""
     phrase, _, nth = phrase.partition("#")
     nth = int(nth or 1)
     skeletons = [_skeleton(w) for w in words]
     want = [_skeleton(w) for w in phrase.split()]
     for i in range(after, len(skeletons) - len(want) + 1):
-        if skeletons[i : i + len(want)] == want:
+        if skeletons[i + 1 : i + len(want)] != want[1:]:
+            continue
+        prefixed = joined and skeletons[i][:1] in ("و", "ف") and skeletons[i][1:] == want[0]
+        if skeletons[i] == want[0] or prefixed:
             nth -= 1
             if not nth:
-                return i, i + len(want)
+                return i, i + len(want), prefixed
     sys.exit(f"'{phrase}' not found in {ref}: {' '.join(words)}")
 
 
@@ -103,18 +116,24 @@ def _words(text):
     return words
 
 
-def excerpt(book, number, start=None, end=None, flat=None):
+def excerpt(book, number, start=None, end=None, flat=None, cont=None):
     """The words of the hadith from `start` to `end`, with waqf at every pause and at the end
-    (with `flat`, only at the end)."""
+    (with `flat`, only at the end; with `cont`, not at the end, for an excerpt the next one continues)."""
     words = _words(hadith(book, number))
     ref = f"{book}:{number}"
-    first = _find(words, start, ref)[0] if start else 0
+    first, drop = 0, False
+    if start:
+        first, _, drop = _find(words, start.lstrip("~"), ref, joined=start.startswith("~"))
     last = _find(words, end, ref, first)[1] if end else len(words)
     out = []
     for k, word in enumerate(words[first:last]):
+        if k == 0 and drop:  # the book starts its quote without the joined «و» / «ف»
+            word = re.sub("^[وف][ً-ْ]*", "", word)
         bare = word.rstrip(PUNCT)
         is_last = k == last - first - 1
-        if is_last or (bare != word and not flat):  # a pause: stopping form, and a comma for the voice
+        if is_last and cont:  # the next excerpt carries on mid-phrase: no stop here
+            out.append(bare)
+        elif is_last or (bare != word and not flat):  # a pause: stopping form, and a comma for the voice
             out.append(waqf(bare) + ("" if is_last else "،"))
         elif flat:
             out.append(bare)

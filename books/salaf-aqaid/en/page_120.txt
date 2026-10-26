@@ -1,0 +1,53 @@
+# title: Page 120
+# English edition of book page 120, built by build_english.py from en_src/ and page_120.txt
+
+[en]
+He is the Creator of everything that moves and of its movement. He says:
+
+[ar]
+وَخَلَقَ كُلَّ شَيْءٍ فَقَدَّرَهُ تَقْدِيرَا
+
+[en]
+And has created each thing and determined it with (precise) determination.
+
+[ref]
+الفرقان 2:25.
+
+[en]
+Whatever comes about, of good and evil, disbelief and faith, obedience and disobedience, it is Allah the Exalted alone who intended it, decreed it and created it. He says:
+
+[ar]
+وَمَا كَانَ لِنَفْسٍ أَنْ تُؤْمِنَ إِلَّا بِإِذْنِ اللَّهْ
+
+[en]
+And it is not for a soul to believe except by permission of Allah.
+
+[ref]
+يونس 100:10.
+
+[en]
+And He says:
+
+[ar]
+قُلْ لَنْ يُصِيبَنَا إِلَّا مَا كَتَبَ اللَّهُ لَنَا
+
+[en]
+Say, “Never will we be struck except by what Allah has decreed for us.”
+
+[ref]
+التوبة 51:9.
+
+[en]
+It is also necessary to believe that Allah the Exalted is the one and only Creator, who creates and brings into being. He alone, without exception, is the Creator of everything. There is no creator besides Him and no lord besides Him. Allah the Exalted says:
+
+[ar]
+اللَّهُ خَالِقُ كُلِّ شَيْءٍ ۖ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ وَكِيلْ
+
+[en]
+Allah is the Creator of all things, and He is, over all things, Disposer of affairs.
+
+[ref]
+الزمر 62:39.
+
+[en]
+Allah the Exalted loves obedience and dislikes sin. By His grace He guides whom He wills, and by His justice He leads astray whom He wills.

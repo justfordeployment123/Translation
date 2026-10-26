@@ -1,0 +1,41 @@
+# title: Page 118
+# English edition of book page 118, built by build_english.py from en_src/ and page_118.txt
+
+[en]
+He knew, even before He created the creatures, what they would do. He was aware of their provision, their appointed times, their deeds and all their movements and moments of stillness. He knew which of them is good and which is bad. This is His eternal knowledge, which has been His from all eternity. He says:
+
+[ar]
+إِنَّ اللَّهَ بِكُلِّ شَيْءٍ عَلِيمْ
+
+[en]
+Indeed, Allah is Knowing of all things.
+
+[ref]
+التوبة 115:9.
+
+[en]
+The second level, writing: It is necessary to believe that Allah the Exalted, on the basis of His prior knowledge, has written the decrees of all creatures in the Preserved Tablet. The Preserved Tablet is the Book in which nothing has been left out. All that has happened and all that will happen until the Day of Resurrection is written with Allah in this Book, which, besides Umm al-Kitab (the Mother of the Book), is also called adh-Dhikr (the Reminder), al-Imam (the Register) and al-Kitab al-Mubin (the Clear Book). He says:
+
+[ar]
+وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ فِي إِمَامٍ مُبِينْ
+
+[en]
+And all things We have enumerated in a clear register.
+
+[ref]
+يٰسٓ 12:36.
+
+[en]
+The noble Prophet, peace be upon him, said:
+
+[ar]
+إِنَّ أَوَّلَ مَا خَلَقَ اللَّهُ الْقَلَمْ، فَقَالَ اكْتُبْ، قَالَ مَا أَكْتُبْ؟ قَالَ اكْتُبِ الْقَدَرْ، مَا كَانَ وَمَا هُوَ كَائِنٌ إِلَى الأَبَدْ
+
+[en]
+“The first thing Allah created was the Pen, and He said: Write. It said: What shall I write? He said: Write the decree, all that has been and all that will be for all time.”
+
+[ref]
+جامع الترمذي، القدر، حديث: 2155.
+
+[en]
+The third level, intention and will: This means that everything in the universe is by the intention of Allah and by His will, which turns between mercy and wisdom.

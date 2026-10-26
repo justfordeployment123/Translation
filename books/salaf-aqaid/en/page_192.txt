@@ -1,0 +1,14 @@
+# title: Page 192
+# English edition of book page 192, built by build_english.py from en_src/ and page_192.txt
+
+[en]
+The noble Prophet, peace be upon him, said:
+
+[ar]
+خِيَارُ أَئِمَّتِكُمُ الَّذِينَ تُحِبُّونَهُمْ وَيُحِبُّونَكُمْ، وَيُصَلُّونَ عَلَيْكُمْ وَتُصَلُّونَ عَلَيْهِمْ، وَشِرَارُ أَئِمَّتِكُمُ الَّذِينَ تُبْغِضُونَهُمْ وَيُبْغِضُونَكُمْ وَتَلْعَنُونَهُمْ وَيَلْعَنُونَكُمْ، قِيلَ يَا رَسُولَ اللَّهْ! أَفَلاَ نُنَابِذُهُمْ بِالسَّيْفْ؟ فَقَالَ لا، مَا أَقَامُوا فِيكُمُ الصَّلاَةْ، وَإِذَا رَأَيْتُمْ مِنْ وُلاَتِكُمْ شَيْئًا تَكْرَهُونَهُ فَاكْرَهُوا عَمَلَهْ، وَلاَ تَنْزِعُوا يَدًا مِنْ طَاعَةْ
+
+[en]
+“Your best rulers are those whom you love and who love you, who pray for good for you and for whom you pray for good. And your worst rulers are those whom you hate and who hate you, whom you curse and who curse you.” It was said: O Messenger of Allah, shall we not take up the sword and fight them? He said: “No, as long as they establish the prayer among you. When you see something from your rulers that you dislike, dislike that action itself, but do not withdraw your hand from obedience to him.”
+
+[ref]
+صحيح مسلم، الإمارة، حديث: 1855.

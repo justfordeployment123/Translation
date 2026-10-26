@@ -1,0 +1,29 @@
+# title: Page 145
+# English edition of book page 145, built by build_english.py from en_src/ and page_145.txt
+
+[en]
+“The one who deceives is a consumer of interest (riba) and a traitor.”
+
+[ref]
+صحيح البخاري، رقم الحديث [2675]
+
+[en]
+Man: Shaykh! How can I get free of this?
+
+[en]
+Teacher: One should repent of this disobedience at once, and wish to bring up one's children on lawful provision, and one should know that wealth earned in this way is forbidden. The noble Prophet, peace be upon him, said:
+
+[ar]
+كُلُّ جَسَدٍ نَبَتَ مِنَ السُّحْتِ فَالنَّارُ أَوْلَى بِهْ
+
+[ref]
+صحيح الجامع، رقم الحديث [4519]
+
+[en]
+“Every body that has been nourished on the forbidden deserves the Fire.”
+
+[en]
+So fear Allah and keep your children away from the forbidden. Keep this firmly in mind: a little lawful income is more blessed and better than a lot of forbidden income.
+
+[en]
+The man went away, thanking the Shaykh and repenting to Allah and seeking His forgiveness.

@@ -1,0 +1,39 @@
+# title: Page 510
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 510 (PDF page 511), چوراسیواں باب: کفار کے شعائر اور ان کی تصاویر والے ملبوسات
+# The page starts with the new chapter (page 509 ends with a full turn).
+# The teacher's list (diamond-boxed 1 to 6, pages 510-511) is read as words: پہلی ... چھٹی (the items are the «خطرناک چیزیں» he names).
+# The first item opens his turn, so the name stays with it («استاد: پہلی: ...»).
+# Hadith: Bukhari 3322 (Abu Talha), filled from there; the book cites Bukhari [3225] and Muslim [2106]. Bukhari 3225 (the same report)
+# ends "وَلاَ صُورَةُ تَمَاثِيلَ" in the source, while the book prints "وَلَا صُورَةٌ", as in Bukhari 3322 (and Muslim 5514).
+# The page ends with the hadith's translation; page 511 starts with the second item.
+
+[h]
+چوراسیواں باب: کفار کے شعائر اور ان کی تصاویر والے ملبوسات
+
+[ur]
+استاد صاحب کو دکان پر ایسے ملبوسات نظر آئے، جن پر کافروں کے شعائر (امتیازی علامات) مثلاً صلیب وغیرہ بنے ہوئے تھے، یا ایسے ملبوسات تھے جن پر کافر مردوں اور عورتوں میں سے مختلف کھلاڑیوں، فنکاروں اور ایکٹروں کی عریاں تصاویر تھیں، اسی طرح کچھ ایسے ملبوسات بھی تھے، جن پر فحش تحریریں کندہ کی گئی تھیں۔
+
+[ur]
+استاد: زید صاحب! یہ سب کیا ہے؟
+
+[ur]
+زید: یہ بھی کپڑے ہیں، کیا ان میں بھی کوئی حرج ہے؟
+
+[ur]
+استاد: ہاں، ان میں بے شمار خطرناک چیزیں ہیں۔
+
+[ur]
+زید: کون کون سی؟
+
+[ur]
+استاد: پہلی: ان ملبوسات پر تصویریں بنی ہوئی ہیں۔ جب خریدار انھیں خرید کر اپنے گھر لے جاتا ہے تو ان تصویروں کی وجہ سے ان کے گھر میں رحمت کے فرشتے داخل نہیں ہوتے، کیونکہ رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H bukhari:3322 from لاَ تَدْخُلُ to صُورَةٌ}}
+لاَ تَدْخُلُ الْمَلاَئِكَةُ بَيْتًا فِيهِ كَلْبٌ وَلاَ صُورَةْ
+
+[ref]
+صحيح البخاري، رقم الحديث [3225] صحيح مسلم، رقم الحديث [2106]
+
+[ur]
+“فرشتے اس گھر میں داخل نہیں ہوتے، جہاں کتا یا کوئی تصویر ہو۔”

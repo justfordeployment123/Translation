@@ -1,0 +1,33 @@
+# title: Page 288
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 288 (PDF page 289), اکتالیسواں باب: جفتی کے لیے سانڈ کرائے پر دینا
+# The page opens with the second condition («دوسری», ②) of the list on page 287; the teacher's turn continues with Ibn Umar's words.
+# The bracketed narration stands on its own between turns; it is its own block (as on pages 119 and 299).
+# Proofreader please check: "چارے کی بڑی گٹھلی" is typed as printed (perhaps "گٹھڑی", a bundle, is meant).
+# The page ends the chapter; page 289 starts the next one.
+
+[ur]
+دوسری: دل اس کا حریص نہ ہو۔
+
+[ur]
+حضرت عبداللہ بن عمر رضی اللہ عنہما فرماتے ہیں: ہم دنیا کی کوئی چیز مانگتے نہیں تھے اور اللہ کی طرف سے آئے ہوئے رزق کو واپس نہیں کرتے تھے۔
+
+[ur]
+بھنسی: ان شاء اللہ آج کے بعد ہم سانڈ کی اجرت وصول نہیں کریں گے۔
+
+[ur]
+ابو جمعہ: اب میں گائے کو لگوانے کے لیے کیا کروں؟
+
+[ur]
+بھنسی: آپ جب مرضی ہماری حویلی میں چلے جانا اور گائے لگوا لینا اور ہمارے لیے صرف دعا کر دینا۔
+
+[ur]
+(ابو جمعہ گائے لے کر بھنسی کی حویلی میں گیا، گائے لگوائی اور واپس آ کر اپنے بیٹے کو حکم دیا کہ اپنی حویلی سے چارے کی بڑی گٹھلی اٹھاؤ اور بھنسی کی حویلی میں رکھ آؤ)
+
+[ur]
+بھنسی: ابو جمعہ صاحب! آپ کو کہا تھا کہ بس دعا کر دینا، یہی کافی ہے۔
+
+[ur]
+ابو جمعہ: یہ میں اپنی خوشی سے بھیج رہا ہوں۔
+
+[ur]
+استاد: اللہ تعالیٰ تم کو برکت دے۔ یہ صورت ٹھیک ہے، اس میں کوئی حرج نہیں۔

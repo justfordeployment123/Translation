@@ -1,0 +1,29 @@
+# title: Page 41
+# English edition of book page 41, built by build_english.py from en_src/ and page_041.txt
+
+[en]
+Allah the Exalted made following the noble Prophet, peace be upon him, the sign of love for Him, and said:
+
+[ar]
+إِنْ كُنْتُمْ تُحِبُّونَ اللَّهَ فَاتَّبِعُونِي يُحْبِبْكُمُ اللَّهُ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ ۗ وَاللَّهُ غَفُورٌ رَحِيمْ
+
+[en]
+If you should love Allah, then follow me, (so) Allah will love you and forgive you your sins. And Allah is Forgiving and Merciful.
+
+[ref]
+آل عمران 31:3.
+
+[en]
+That is why, whenever the Righteous Predecessors faced a disputed issue, they referred only to the Book of Allah and the Sunnah of the Messenger of Allah. Allah the Exalted says:
+
+[ar]
+يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الْأَمْرِ مِنْكُمْ ۖ فَإِنْ تَنَازَعْتُمْ فِي شَيْءٍ فَرُدُّوهُ إِلَى اللَّهِ وَالرَّسُولِ إِنْ كُنْتُمْ تُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ۚ ذَٰلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلَا
+
+[en]
+O you who have believed, obey Allah and obey the Messenger and those in authority among you. And if you disagree over anything, refer it to Allah and the Messenger, if you should believe in Allah and the Last Day. That is the best (way) and best in result.
+
+[ref]
+النسآء 59:4.
+
+[en]
+After the Messenger of Allah, peace be upon him, the most virtuous figures among the Righteous Predecessors are the noble Companions, who received the teachings of the religion from him with the utmost sincerity and complete truthfulness of heart.

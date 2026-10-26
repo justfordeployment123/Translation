@@ -1,0 +1,38 @@
+# title: Page 207
+# English edition of book page 207, built by build_english.py from en_src/ and page_207.txt
+
+[en]
+It is narrated from Jabir, may Allah be pleased with him, that the Messenger of Allah, peace be upon him, said:
+
+[ar]
+إِنَّ عَلَى اللَّهِ عَزَّ وَجَلَّ عَهْدًا لِمَنْ يَشْرَبُ الْمُسْكِرَ أَنْ يَسْقِيَهُ مِنْ طِينَةِ الْخَبَالْ، قَالُوا يَا رَسُولَ اللَّهِ وَمَا طِينَةُ الْخَبَالْ، قَالَ عَرَقُ أَهْلِ النَّارِ أَوْ عُصَارَةُ أَهْلِ النَّارْ
+
+[ref]
+صحيح مسلم، رقم الحديث [2002] سنن أبي داود، رقم الحديث [3680]
+
+[en]
+“Allah the Exalted has taken it upon Himself to give the one who drinks alcohol tinat al-khabal to drink. The noble Companions asked: O Messenger of Allah, what is tinat al-khabal? He, peace be upon him, said: It is the sweat, blood and pus of the people of Hell.”
+
+[en]
+It is narrated from Abdullah ibn Abbas, may Allah be pleased with them both, that the Messenger of Allah, peace be upon him, said:
+
+[ar]
+مَنْ مَّاتَ مُدْمِنَ خَمْرٍ لَقِيَ اللَّهَ وَهُوَ كَعَابِدِ وَثَنْ
+
+[ref]
+الطبراني في الكبير [45/12] صحيح الجامع، رقم الحديث [6549]
+
+[en]
+“If one who is addicted to alcohol dies in that state, he will meet Allah the Exalted as though he were a worshipper of idols.”
+
+[en]
+All these texts of the Shariah give the ruling that alcohol is forbidden.
+
+[en]
+The Messenger of Allah, peace be upon him, also said:
+
+[ar]
+لَعَنَ اللَّهُ الْيَهُودْ، إِنَّ اللَّهَ حَرَّمَ عَلَيْهِمُ الشُّحُومَ فَبَاعُوهَا، وَأَكَلُوا أَثْمَانَهَا وَإِنَّ اللَّهَ إِذَا حَرَّمَ عَلَى قَوْمٍ أَكْلَ شَيْءٍ حَرَّمَ عَلَيْهِمْ ثَمَنَهْ
+
+[ref]
+صحيح الجامع، رقم الحديث [5107]

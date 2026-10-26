@@ -1,0 +1,42 @@
+# title: Page 141
+# Salaf-e-Saliheen ke Aqaid o Nazariyat, book page 141 (PDF page 138), تیسرا اصول: مسئلہ تکفیر کے بارے میں اہل سنت والجماعت کا موقف
+# The first two lines of the page ("قرار دیتے ہیں یا یہ کہتے ہیں ... استعمال کرتے ہیں)۔") end a sentence that is on page 140, where it starts.
+# Hadith 1: Muslim 216 in the hadith-api numbering (the book's Muslim 60), in excerpts at the book's «!» and commas; the colon after
+# «لأَخِيهِ» is not a pause.
+# Hadith 2: Muslim 217 (the book's Muslim 61), in excerpts at the book's commas; the colon after «قَالَ» is not a pause.
+# Hadith 3 (Abu Dharr) starts at the foot of the page and runs on to page 142 ("عَلَيْهِ، إِنْ لَمْ يَكُنْ صَاحِبُهُ كَذَلِكَ"); it is kept whole
+# here, filled from Bukhari 6045. Its translation, which carries footnote ① (صحيح البخاري، الأدب، حديث: 6045), starts page 142,
+# so that footnote stays there with it.
+
+[ur]
+نبی کریم ﷺ نے اس بارے میں سخت احتیاط برتنے کی تاکید کی ہے کہ کوئی کسی کو واضح دلیل کے بغیر کافر قرار دے۔ فرمایا:
+
+[ar]
+# hadith {{H muslim:216 from أَيُّمَا to كَافِرُ}}! {{H muslim:216 from فَقَدْ to أَحَدُهُمَا}}، {{H muslim:216 from إِنْ كَانَ to كَمَا قَالَ}}، {{H muslim:216 from وَإِلاَّ to عَلَيْهِ}}
+أَيُّمَا امْرِئٍ قَالَ لأَخِيهِ يَا كَافِرْ! فَقَدْ بَاءَ بِهَا أَحَدُهُمَا، إِنْ كَانَ كَمَا قَالْ، وَإِلاَّ رَجَعَتْ عَلَيْهْ
+
+[ur]
+“جو شخص اپنے بھائی سے کہتا ہے: “اے کافر!” تو ان دونوں میں سے ایک اس لقب کا مستحق ہو جاتا ہے۔ اگر وہ ویسا ہی ہے جیسا کہ اس نے کہا (تو وہ اس کا مستحق ہوا)، ورنہ یہ لفظ اسی (کہنے والے) پر لوٹ آتا ہے۔”
+
+[ref]
+صحيح مسلم، الإيمان، حديث: 60.
+
+[ur]
+آپ نے ایک اور موقع پر فرمایا:
+
+[ar]
+# hadith {{H muslim:217 from وَمَنْ دَعَا to بِالْكُفْرِ}}، {{H muslim:217 from أَوْ قَالَ to عَلَيْهِ}}
+وَمَنْ دَعَا رَجُلاً بِالْكُفْرْ، أَوْ قَالَ عَدُوَّ اللَّهْ، وَلَيْسَ كَذَلِكَ إِلاَّ حَارَ عَلَيْهْ
+
+[ur]
+“اور جس نے کسی شخص کو کافر کہہ کر پکارا یا اللہ کا دشمن کہا، حالانکہ وہ ایسا نہیں تو یہ لقب اسی (کہنے والے) پر لوٹ آئے گا۔”
+
+[ref]
+صحيح مسلم، الإيمان، حديث: 61.
+
+[ur]
+ایک اور روایت کے مطابق آپ نے فرمایا:
+
+[ar]
+# hadith {{H bukhari:6045 from لاَ يَرْمِي to كَذَلِكَ}}
+لاَ يَرْمِي رَجُلٌ رَجُلاً بِالْفُسُوقْ، وَلاَ يَرْمِيهِ بِالْكُفْرْ، إِلاَّ ارْتَدَّتْ عَلَيْهْ، إِنْ لَمْ يَكُنْ صَاحِبُهُ كَذَلِكْ

@@ -1,0 +1,26 @@
+# title: Page 178
+# English edition of book page 178, built by build_english.py from en_src/ and page_178.txt
+
+[hen]
+Summary of the Fruit and Vegetable Market Tour
+
+[en]
+Ammar: Today's visit has been very blessed.
+
+[en]
+Teacher: We visited our brothers for the pleasure of Allah, and Allah the Exalted favoured us, for we were also able to carry out the duty of enjoining good and forbidding evil.
+
+[en]
+First: Cheating people by adulterating the packing of fruit, although this is forbidden.
+
+[en]
+Second: Putting poor-quality fruit at the bottom of baskets and crates and fine, good fruit on top. This too is cheating, like the first.
+
+[en]
+Third: Farmers taking loans on interest (riba), although Allah the Exalted has made interest forbidden.
+
+[en]
+Ammar: Praise be to Allah! I pray to Allah to make your efforts bear fruit.
+
+[en]
+Shaykh: And yours too.

@@ -1,0 +1,16 @@
+# title: Page 107
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 107 (PDF page 108), دسواں باب: قسطوں پر سونے کی خرید و فروخت (end)
+# The page starts with a new dialogue turn and ends with a full sentence; the rest of the page is blank. Chapter eleven starts on page 108.
+# Print typo corrected: "خریدار::" -> "خریدار:" (a doubled colon after the speaker's name).
+
+[ur]
+سالم: اللہ آپ کو جزا دے، اب اس کا حل کیا ہے؟
+
+[ur]
+استاد: اس کا حل بڑا آسان ہے، جتنی رقم پاس ہو، اتنی کا سونا خرید لو اور باقی دوبارہ جب پیسے پاس ہوں خرید لینا۔
+
+[ur]
+خریدار: شیخ میں اپنے درشت رویے پر معذرت خواہ ہوں۔ مجھے اس مسئلے کا علم نہ تھا۔ سالم بھائی! مجھے ساڑھے نو ہزار پاؤنڈ کا سونا تول دو اور باقی میں دوبارہ قیمت ادا کر کے لے جاؤں گا۔
+
+[ur]
+سودا ختم ہونے کے بعد اس آدمی نے سامان پکڑا اور چلا گیا۔ شیخ اور عمار دکان سے نکلنے لگے تو ایک اور آدمی سونے کا ہار فروخت کرنے آ گیا۔

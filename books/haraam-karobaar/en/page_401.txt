@@ -1,0 +1,38 @@
+# title: Page 401
+# English edition of book page 401, built by build_english.py from en_src/ and page_401.txt
+
+[hen]
+Summary of the Book Market Tour
+
+[en]
+Ammar: Teacher! By the grace and favour of Allah, today you have stopped people from the following matters:
+
+[en]
+First: Buying and selling books that contain innovations.
+
+[en]
+Second: Buying and selling obscene magazines and periodicals.
+
+[en]
+Third: Buying and selling school bags with pictures.
+
+[en]
+Fourth: Buying and selling musical instruments.
+
+[en]
+Fifth: Buying and selling pictures.
+
+[en]
+Teacher: Praise be to Allah, Lord of the worlds.
+
+[en]
+(The teacher and Ammar arrived back home.)
+
+[en]
+Ammar: Teacher! May I take my leave now?
+
+[en]
+Teacher: First the two of us will eat together; after that you may go.
+
+[en]
+(The two of them went into the house and ate, and an appointment was made for the time of the Asr prayer the next day.)

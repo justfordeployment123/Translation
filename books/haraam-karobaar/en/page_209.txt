@@ -1,0 +1,38 @@
+# title: Page 209
+# English edition of book page 209, built by build_english.py from en_src/ and page_209.txt
+
+[en]
+The Shariah has given us a rule about alcohol that puts an end to every trick and excuse. The Messenger of Allah, peace be upon him, said:
+
+[ar]
+كُلُّ مُسْكِرٍ خَمْرْ، وَكُلُّ مُسْكِرٍ حَرَامْ
+
+[ref]
+صحيح مسلم، رقم الحديث [2003] سنن أبي داود، رقم الحديث [3679]
+
+[en]
+“Every intoxicant is alcohol, and every intoxicant is forbidden.”
+
+[en]
+That is, anything that clouds the mind and robs a person of his senses is forbidden, whether a little or a lot. The Messenger of Allah, peace be upon him, said:
+
+[ar]
+مَا أَسْكَرَ كَثِيرُهُ فَقَلِيلُهُ حَرَامْ
+
+[ref]
+سنن أبي داود، رقم الحديث [3681]
+
+[en]
+“An intoxicant is forbidden, whether a little of it or a lot.”
+
+[en]
+Ammar: Teacher! As this is the right moment for it, please give some exhortation and advice for the man who drinks.
+
+[en]
+Teacher: At this moment I am reminded of this saying of the Messenger of Allah, peace be upon him, in which he, peace be upon him, said:
+
+[ar]
+مَنْ شَرِبَ الْخَمْرَ وَسَكِرَ لَمْ تُقْبَلْ لَهُ صَلاَةٌ أَرْبَعِينَ صَبَاحَا، وَإِنْ مَاتَ دَخَلَ النَّارْ، فَإِنْ تَابَ تَابَ اللَّهُ عَلَيْهْ، وَإِنْ عَادَ فَشَرِبَ فَسَكِرَ لَمْ تُقْبَلْ لَهُ صَلاَةٌ أَرْبَعِينَ صَبَاحَا، فَإِنْ مَاتَ دَخَلَ النَّارْ، فَإِنْ تَابَ تَابَ اللَّهُ عَلَيْهْ، وَإِنْ عَادَ فَشَرِبَ فَسَكِرَ لَمْ تُقْبَلْ لَهُ صَلاَةٌ أَرْبَعِينَ صَبَاحَا، فَإِنْ مَاتَ دَخَلَ النَّارْ، فَإِنْ تَابَ تَابَ اللَّهُ عَلَيْهْ، وَإِنْ عَادَ كَانَ حَقًّا عَلَى اللَّهِ أَنْ يَسْقِيَهُ مِنْ رَدْغَةِ الْخَبَالِ يَوْمَ الْقِيَامَةْ، قَالُوا يَا رَسُولَ اللَّهْ، وَمَا رَدْغَةُ الْخَبَالْ، قَالَ عُصَارَةُ أَهْلِ النَّارْ
+
+[ref]
+سنن ابن ماجه، رقم الحديث [3377]

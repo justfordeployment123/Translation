@@ -1,0 +1,41 @@
+# title: Page 374
+# English edition of book page 374, built by build_english.py from en_src/ and page_374.txt
+
+[en]
+Today he has used this same method with us.
+
+[en]
+Teacher: So this is a trick adopted to change one's financial situation.
+
+[en]
+Faisal: Yes.
+
+[en]
+Teacher: But sadly, when making the agreement, you did not bother to ask whether this form is even permissible.
+
+[en]
+Faisal: Teacher! Is this forbidden too?
+
+[en]
+Teacher: Faisal, I think you should have learned the Islamic rulings about business before starting it.
+
+[en]
+Faisal: You are right.
+
+[en]
+Buyer: Teacher! What is the ruling on the present case?
+
+[en]
+Teacher: First of all we should know what it is called in the terminology of the Shariah.
+
+[en]
+Faisal: Yes, what is it called?
+
+[en]
+Teacher: The jurists have named it bay' al-'inah.
+
+[en]
+Salah: What is bay' al-'inah?
+
+[en]
+Teacher: It means buying goods on credit and then selling them for cash in the same place and in the same condition. Its form is this: I sell Zaid a car on credit for twenty thousand, to be paid in a year, and then I buy that same car back for eighteen thousand in cash. This is forbidden and impermissible, because in it nothing is really given and nothing taken; there are only words spoken.

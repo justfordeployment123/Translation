@@ -1,0 +1,16 @@
+# English source for book page 128
+
+[en]
+{{QEN 8:2 8:3 8:4}}
+
+[en]
+In most verses of the Noble Quran, Allah the Exalted has joined faith with action.
+
+[en]
+Consider these verses:
+
+[en]
+{{QEN 18:107}}
+
+[en]
+Indeed, those who have said, “Our Lord is Allah” and then remained on a right course - the angels will descend upon them, (saying), “Do not fear and do not grieve.”

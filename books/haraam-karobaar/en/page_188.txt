@@ -1,0 +1,32 @@
+# title: Page 188
+# English edition of book page 188, built by build_english.py from en_src/ and page_188.txt
+
+[hen]
+Chapter Twenty-Three: On Games of Chance
+
+[en]
+The teacher was busy talking with the shopkeeper when Ammar saw a packet hanging in one of the shop's cabinets. It held small folded pieces of paper, and around it were quite a few items, banknotes and so on. Ammar turned to the shopkeeper.
+
+[en]
+Ammar: What is this packet with the little papers?
+
+[en]
+Shopkeeper: It is a game of chance.
+
+[en]
+Teacher: What does that mean?
+
+[en]
+Shopkeeper: Something is written on these papers, for example five rupees, a watch, or nothing at all. You can win from it, and you can also lose.
+
+[en]
+Teacher: Servant of Allah! May Allah bless you. This is a kind of gambling, and it is about this that Allah the Exalted says:
+
+[ar]
+إِنَّمَا الْخَمْرُ وَالْمَيْسِرُ وَالْأَنْصَابُ وَالْأَزْلَامُ رِجْسٌ مِنْ عَمَلِ الشَّيْطَانِ فَاجْتَنِبُوهُ لَعَلَّكُمْ تُفْلِحُونْ
+
+[ref]
+[المائدة: 90]
+
+[en]
+Indeed, intoxicants, gambling, (sacrificing on) stone alters (to other than Allah), and divining arrows are but defilement from the work of Satan, so avoid it that you may be successful.

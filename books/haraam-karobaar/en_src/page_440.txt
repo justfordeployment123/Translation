@@ -1,0 +1,7 @@
+# English source for book page 440
+
+[en]
+Ammar: Teacher! May I take my leave?
+
+[en]
+Teacher: No, we will eat together; after that you may go.

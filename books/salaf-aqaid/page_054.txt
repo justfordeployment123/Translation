@@ -1,0 +1,24 @@
+# title: Page 54
+# Salaf-e-Saliheen ke Aqaid o Nazariyat, book page 54 (PDF page 51), اہل سنت والجماعت کی امتیازی خصوصیات
+# The first line ("دیگر بدعتی اور گمراہ فرقے اہل سنت والجماعت کے مفہوم سے خارج ہیں۔") ends a sentence that is on page 53, where it starts.
+# Al Imran 3:106 (its opening, «يَوْمَ تَبْيَضُّ وُجُوهٌ وَتَسْوَدُّ وُجُوهٌ») is quoted inside the Urdu sentence as the verse Ibn Abbas explained;
+# it is filled from the official text (fill_quran.py) and splits the sentence around it, as on Shab o Roz page 32. The book gives no reference for it.
+# The footnote ① (تفسير ابن كثير) belongs to Ibn Abbas's words. Its digits are printed ".390;1" (left to right); the semicolon, like an
+# underscore, makes the app show the numbers reversed, so they are typed right to left ("1;390") to look as printed.
+# The page ends with an ornament after "... علمائے سلف سے اخذ کی گئی ہیں۔"; page 55 starts a new section.
+
+[ur]
+سنت یہاں بدعت کے مقابلے میں آ رہی ہے اور جماعت تفرقہ کے مقابلے میں۔ جماعت سے وابستہ رہنے اور تفرقہ پردازی سے بچنے کے متعلق جو احادیث آتی ہیں، ان کا بھی یہی مقصود ہے۔ قرآن مجید کے ترجمان حضرت عبداللہ بن عباس رضی اللہ عنہما نے آیت
+
+[ar]
+# quran 3:106 from يَوْمَ تَبْيَضُّ to وَتَسْوَدُّ وُجُوهٌ
+يَوْمَ تَبْيَضُّ وُجُوهٌ وَتَسْوَدُّ وُجُوهْ
+
+[ur]
+کی تفسیر میں یہی بات بیان فرمائی ہے۔ انھوں نے کہا: “اہل سنت والجماعت کے چہرے روشن ہوں گے اور اہل بدعت و تفرقہ کے چہرے سیاہ پڑ جائیں گے۔”
+
+[ref]
+تفسير ابن كثير:1;390.
+
+[ur]
+“سلف صالحین” کی ترکیب “اہل سنت والجماعت” کی اصطلاحی ترکیب کے مترادف ہے۔ ان کے لیے اہل اثر (اثر: روایت)، اہل حدیث، طائفہ منصورہ، فرقۂ ناجیہ اور اہل اتباع جیسی اصطلاحیں بھی استعمال کی جاتی ہیں۔ یہ نام اور یہ اصطلاحیں علمائے سلف سے اخذ کی گئی ہیں۔

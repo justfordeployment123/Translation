@@ -1,0 +1,8 @@
+# title: Page 169
+# English edition of book page 169, built by build_english.py from en_src/ and page_169.txt
+
+[en]
+Tenth: Not being the first to greet the disbelievers with as-salamu alaykum (peace be upon you).
+
+[en]
+Here end the details of the fifth principle, “Loyalty and Disavowal”, among the principles of the religion that Ahl as-Sunnah wal-Jama'ah hold. Now the details of the sixth principle, “Affirming the Karamat of the Friends of Allah”, are presented.

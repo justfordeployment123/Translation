@@ -1,0 +1,35 @@
+# title: Page 137
+# English edition of book page 137, built by build_english.py from en_src/ and page_137.txt
+
+[hen]
+Chapter Fifteen: Holding Back Milk in Animals' Udders
+
+[en]
+Teacher Salih set out with his promising student to make a round of the Livestock Market outside the city. On reaching the market, the two of them went and stood beside a man. The man had come to the market to sell his cow. The cow's udders were greatly swollen, and she was standing with her legs spread wide.
+
+[en]
+The teacher addressed the man.
+
+[en]
+Teacher: Why are this cow's udders so swollen?
+
+[en]
+Man: Because they are full of milk.
+
+[en]
+Teacher: It does not look that way to me. Tell me the truth: when did you last milk her?
+
+[en]
+Man: There is no might and no power except with Allah... Why do you need to press me so hard? I am telling you that this is milk.
+
+[en]
+Teacher: I am surprised, that is why I am asking.
+
+[en]
+Man: Will you buy this cow?
+
+[en]
+Teacher: No, I am not a buyer, but this sight has astonished me.
+
+[en]
+Man: I will tell you: I have not milked her since yesterday. And do not tell anyone this, because I have come to sell her.

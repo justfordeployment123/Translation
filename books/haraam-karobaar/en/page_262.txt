@@ -1,0 +1,38 @@
+# title: Page 262
+# English edition of book page 262, built by build_english.py from en_src/ and page_262.txt
+
+[en]
+Teacher: Ammar! I think we should pick up some vegetables on the way as we go home. A farmer friend of mine has his farmstead close by here, and he is surely working in the fields there at this time.
+
+[en]
+Ammar: As you wish.
+
+[en]
+(The teacher and his student set off for their farmer friend's farmstead. There, Atiyyah was busy working in the fields.)
+
+[en]
+Teacher: As-salamu alaikum wa rahmatullahi wa barakatuh, Atiyyah!
+
+[en]
+Atiyyah: Wa alaikum as-salam wa rahmatullahi wa barakatuh. Atiyyah was delighted to see Teacher Salih arrive. Welcome!
+
+[en]
+Teacher: We have come to ask how you are and to get some fresh vegetables from your fields.
+
+[en]
+Atiyyah: Welcome, come and sit down.
+
+[en]
+Teacher: We are in a bit of a hurry. If you have time, pick us some vegetables.
+
+[en]
+Atiyyah: Now you will not be able to leave without having lunch.
+
+[en]
+(Atiyyah's house was right there. He wanted to hurry and open the door of the sitting room, but the teacher stopped him, so he told the household to make tea.)
+
+[en]
+Teacher: Sitting in the open air is better for one's health than sitting in a room.
+
+[en]
+(Atiyyah spread a mat right there under the trees in the fields, and everyone sat there and began to drink tea.)

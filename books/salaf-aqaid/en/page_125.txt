@@ -1,0 +1,14 @@
+# title: Page 125
+# English edition of book page 125, built by build_english.py from en_src/ and page_125.txt
+
+[ar]
+قُلْ كُلٌّ مِنْ عِنْدِ اللَّهِ ۖ فَمَالِ هَٰؤُلَاءِ الْقَوْمِ لَا يَكَادُونَ يَفْقَهُونَ حَدِيثَا
+
+[en]
+Say, “All (things) are from Allah.” So what is (the matter) with those people that they can hardly understand any statement?
+
+[ref]
+النسآء 78:4.
+
+[en]
+This is what the Righteous Predecessors, the Companions and the Successors, believed, may Allah be pleased with them all.

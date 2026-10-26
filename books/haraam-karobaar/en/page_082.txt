@@ -1,0 +1,53 @@
+# title: Page 82
+# English edition of book page 82, built by build_english.py from en_src/ and page_082.txt
+
+[en]
+Ammar: Shaykh! What is the ruling of the Shariah on this matter?
+
+[en]
+Teacher: This is completely forbidden.
+
+[en]
+Ammar: If you allow me, may I speak to them?
+
+[en]
+Teacher: Yes, go ahead. (Ammar went over to the two of them.)
+
+[en]
+Ammar: As-salamu alaikum wa rahmatullahi wa barakatuh.
+
+[en]
+Shopkeeper: Wa alaikum as-salam wa rahmatullahi wa barakatuh.
+
+[en]
+Ammar: He said with a smile: May Allah have mercy on you.
+
+[en]
+Ma sha Allah, you both look like excellent people. May Allah the Exalted make all of us like that. The way you two have just made your deal is not right. What do you think?
+
+[en]
+Shopkeeper: How so?
+
+[en]
+Ammar: First we should introduce ourselves to one another.
+
+[en]
+Shopkeeper: Your brother, Abu Faris.
+
+[en]
+Buyer: Abu Jihad.
+
+[en]
+Ammar: Your brother in religion, Ammar.
+
+[en]
+Abu Faris: How is this forbidden, and who has declared it forbidden?
+
+[en]
+Ammar: You and I are alike in knowledge, but there is a great and learned Shaykh with me. He is standing over there. Come, let us ask him.
+
+[en]
+Abu Faris: All right, let us ask him.
+
+[en]
+Ammar: Shaykh! May Allah bless you. We would like to ask you about a matter.

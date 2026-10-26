@@ -1,0 +1,38 @@
+# title: Page 256
+# English edition of book page 256, built by build_english.py from en_src/ and page_256.txt
+
+[en]
+Abdullah ibn Mas'ud, may Allah be pleased with him, says: By lahw al-hadith (the amusement of speech) is meant “singing and music”.
+
+[ref]
+تفسير ابن كثير [441/3]
+
+[en]
+The Messenger of Allah, peace be upon him, said:
+
+[ar]
+لَيَكُونَنَّ مِنْ أُمَّتِي أَقْوَامٌ يَسْتَحِلُّونَ الْحِرَ وَالْحَرِيرَ وَالْخَمْرَ وَالْمَعَازِفْ
+
+[ref]
+صحيح البخاري، رقم الحديث [5590]
+
+[en]
+“A time will come when some people of my Ummah will make fornication, silk, alcohol and music lawful.”
+
+[en]
+In this blessed hadith, the word of the Prophet, peace be upon him, yastahillun (they will make lawful) is proof that music is forbidden, since those people will make it lawful on their own account.
+
+[en]
+Likewise, in another hadith the noble Prophet, peace be upon him, said:
+
+[ar]
+لَيَكُوْنَنَّ فِيْ هَذِهِ الأُمَّةِ خَسْفٌ وَقَذْفٌ وَمَسْخْ، وَذَلِكَ إِذَا شَرِبُوْا الْخُمُوْرَ وَاتَّخَذُوْا الْقَيْنَاتِ وَضَرَبُوْا الْمَعَازِفْ
+
+[ref]
+سنن الترمذي، رقم الحديث [2212] صححه الألباني فى الصحيحة [2203]
+
+[en]
+“A time will come when the people of my Ummah will be swallowed up (into the earth), stones will be rained down on them, and their forms will be disfigured. This will happen when they drink alcohol, keep female singers and put musical instruments to use.”
+
+[en]
+These hadiths prove that musical instruments, singing and playing, and the sound of music are filthy and foul.

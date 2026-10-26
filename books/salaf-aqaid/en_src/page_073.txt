@@ -1,0 +1,25 @@
+# English source for book page 73
+
+[en]
+His knowledge encompasses everything. Allah the Exalted Himself has stated these things in seven verses of the Noble Quran, and He has not described how they are.
+
+[fen]
+These verses, in order, are: al-A'raf 7:54, Yunus 10:3, ar-Ra'd 13:2, Ta-Ha 20:5, al-Furqan 25:59, as-Sajdah 32:4, al-Hadid 57:4.
+
+[en]
+He says:
+
+[en]
+{{QEN 20:5}}
+
+[fen]
+Ta-Ha 20:5. Imam Ishaq ibn Rahawayh, may Allah have mercy on him, said about this verse: “The people of knowledge have reached consensus (ijma') that Allah the Exalted has risen over the Throne, and that He knows everything, even at the bottom of the seventh earth.” This saying of his is quoted by Imam adh-Dhahabi, may Allah have mercy on him, in al-Uluww lil-Aliyy al-Ghaffar.
+
+[en]
+And He says:
+
+[en]
+Then established Himself above the Throne.
+
+[en]
+And He says:

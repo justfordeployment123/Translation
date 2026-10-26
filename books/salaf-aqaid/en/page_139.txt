@@ -1,0 +1,14 @@
+# title: Page 139
+# English edition of book page 139, built by build_english.py from en_src/ and page_139.txt
+
+[hen]
+The Third Principle: The Position of Ahl as-Sunnah wal-Jama'ah on the Question of Declaring Someone a Disbeliever
+
+[en]
+The rule for declaring a specific person a disbeliever: An important principle of the creed of the Righteous Predecessors, Ahl as-Sunnah wal-Jama'ah, is that they do not declare a specific Muslim who has committed an act of disbelief to be a disbeliever until such proof has been established against that person as would warrant declaring him a disbeliever. For this, the conditions must be fulfilled, there must be no impediment, and he must not have committed the act of disbelief out of ignorance or a mistaken interpretation.
+
+[en]
+It is of course known that this principle concerns hidden matters that need to be explained clearly, as opposed to obvious matters that are clearly disbelief, such as denying the existence of Allah, belying the Messenger of Allah, peace be upon him, and denying the universality of his message and the finality of prophethood.
+
+[en]
+Ahl as-Sunnah wal-Jama'ah do not declare someone a disbeliever if he is forced into disbelief while his heart is at peace with faith. They do not declare any Muslim a disbeliever because of any sin, even if it is a major sin, except shirk (associating partners with Allah). They do not call the one who commits major sins a disbeliever.

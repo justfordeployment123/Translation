@@ -1,0 +1,42 @@
+# title: Page 291
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 291 (PDF page 292), بیالیسواں باب: مزدوروں کو اجرت ادا نہ کرنا
+# The first words of the page ("سے دریافت کیا: کیا تم جانتے ہو: کنگال کون ہے؟") end a sentence that is on page 290, where it starts;
+# item 1 of the teacher's list goes on here with a new sentence.
+# Al-Mutaffifin 83:1-3 start at the foot of the page and end on page 292 with their reference; they are kept whole here, filled from the
+# official text (fill_quran.py), one ayah per block. Their translation starts on page 292 and stays there. The reference is printed
+# "[3- 1:المطففين]" from left to right; its digits are typed in that order, without the space ("[المطففين:3-1]").
+# Hadith (Abu Hurayra, al-muflis): Muslim 6579 in the sunnah.com numbering (the book cites Muslim [2581]), split at the book's commas. The book's
+# "مَنْ" before "يَأْتِي" is not in Muslim; it is taken from Tirmidhi 2418 (the same hadith, "الْمُفْلِسُ مِنْ أُمَّتِي مَنْ يَأْتِي", which lacks "إِنَّ"),
+# with " cont" on the excerpts that run on.
+# Proofreader please check: the book prints "وَيَأْتِي وَقَدْ شَتَمَ هَذَا"; Muslim 6579 and Tirmidhi 2418 have "وَيَأْتِي قَدْ شَتَمَ هَذَا", which is filled.
+
+[ur]
+صحابہ کرام نے جواب دیا: کنگال وہ ہے جس کے پاس درہم اور دنیاوی ساز و سامان نہ ہو۔ رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H muslim:6579 from إِنَّ الْمُفْلِسَ to أُمَّتِي cont}} {{H tirmidhi:2418 from مَنْ يَأْتِي to مَنْ cont}} {{H muslim:6579 from يَأْتِي يَوْمَ to وَزَكَاةٍ}}، {{H muslim:6579 from وَيَأْتِي to شَتَمَ هَذَا}}، {{H muslim:6579 from وَقَذَفَ to مَالَ هَذَا}}، {{H muslim:6579 from وَسَفَكَ to هَذَا}}، {{H muslim:6579 from وَضَرَبَ to هَذَا}}، {{H muslim:6579 from فَيُعْطَى to حَسَنَاتِهِ}}، {{H muslim:6579 from وَهَذَا مِنْ to خَطَايَاهُمْ}}، {{H muslim:6579 from فَطُرِحَتْ to عَلَيْهِ}}، {{H muslim:6579 from ثُمَّ طُرِحَ to النَّارِ}}
+إِنَّ الْمُفْلِسَ مِنْ أُمَّتِي مَنْ يَأْتِي يَوْمَ الْقِيَامَةِ بِصَلاَةٍ وَصِيَامٍ وَزَكَاةْ، وَيَأْتِي قَدْ شَتَمَ هَذَا، وَقَذَفَ هَذَا وَأَكَلَ مَالَ هَذَا، وَسَفَكَ دَمَ هَذَا، وَضَرَبَ هَذَا، فَيُعْطَى هَذَا مِنْ حَسَنَاتِهْ، وَهَذَا مِنْ حَسَنَاتِهِ فَإِنْ فَنِيَتْ حَسَنَاتُهُ قَبْلَ أَنْ يُقْضَى مَا عَلَيْهِ أُخِذَ مِنْ خَطَايَاهُمْ، فَطُرِحَتْ عَلَيْهْ، ثُمَّ طُرِحَ فِي النَّارْ
+
+[ref]
+صحيح مسلم، رقم الحديث [2581]
+
+[ur]
+“بے شک کنگال میری امت کا وہ شخص ہے، جو قیامت کے دن اس حالت میں آئے گا کہ اس کے پاس نمازیں، روزے اور زکات جیسی نیکیاں ہوں گی، لیکن اس کے ساتھ ساتھ اس نے کسی کو گالی دی ہوگی، کسی پر بہتان لگایا ہوگا، کسی کا (ناجائز) مال کھایا ہوگا، کسی کا (ناحق) خون بہایا ہوگا اور کسی کو مارا ہوگا، پس اس (مظلوم) کو اس (ظالم) کی نیکیاں دی جائیں گی۔ اگر ظالم کی نیکیاں ختم ہو گئیں اور مظلوموں کا حق ابھی باقی ہوا تو ان (مظلوموں) کی برائیاں اس (ظالم) پر ڈال دی جائیں گی، پھر اسے جہنم میں پھینک دیا جائے گا۔”
+
+[ur]
+دوسری: بعض لوگ مزدوروں کو ان کی پوری اجرت نہیں دیتے، بلکہ ناجائز طور پر کچھ کم کر دیتے ہیں، جیسا کہ قرآن مجید میں ہے:
+
+[ar]
+# quran 83:1 from وَيْلٌ to لِلْمُطَفِّفِينَ
+وَيْلٌ لِلْمُطَفِّفِينْ
+
+[ar]
+# quran 83:2 from الَّذِينَ إِذَا to النَّاسِ يَسْتَوْفُونَ
+الَّذِينَ إِذَا اكْتَالُوا عَلَى النَّاسِ يَسْتَوْفُونْ
+
+[ar]
+# quran 83:3 from وَإِذَا كَالُوهُمْ to يُخْسِرُونَ
+وَإِذَا كَالُوهُمْ أَوْ وَزَنُوهُمْ يُخْسِرُونْ
+
+[ref]
+[المطففين:3-1]

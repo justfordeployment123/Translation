@@ -1,0 +1,44 @@
+# title: Page 22
+# Salaf-e-Saliheen ke Aqaid o Nazariyat, book page 22 (PDF page 19), پیش لفظ
+# Page 21 ends with a full sentence (the footnote of Al-An'am 6:153); this page starts a new paragraph.
+# Yusuf 12:108 is printed in full; filled from the official text (fill_quran.py).
+# Hadith 1 (Mu'awiya): Sahih al-Bukhari 3641, as the book cites, in excerpts at the book's commas.
+# Proofreader please check: the book prints «لَا تَزَالُ» where Bukhari 3641 has «لاَ يَزَالُ»; the official «لاَ يَزَالُ» is filled and will be read
+# (a single word is not borrowed from another report, such as Muslim 4955 «لاَ تَزَالُ طَائِفَةٌ ...», just to match the print).
+# Hadith 2 (Abdullah ibn Amr): Tirmidhi 2641, as the book cites, in excerpts at the book's commas. Its Arabic runs on to page 23
+# («أُمَّتِي عَلَى ثَلَاثٍ ... إِلَّا مِلَّةً وَاحِدَةً»); it is kept whole here. Its translation starts on page 23 and is there, with the footnote
+# (جامع الترمذي ... 2641), whose marker is printed after the narrator's question that follows the translation on page 23.
+# The honorific ligatures after «صحابۂ کرام» are typed in full words, رضی اللہ عنہم.
+
+[ur]
+یہی وہ راستہ ہے جس کی دعوت اللہ کے رسول حضرت محمد ﷺ نے دی۔ اللہ تعالیٰ نے فرمایا:
+
+[ar]
+# quran 12:108 from قُلْ هَٰذِهِ to مِنَ الْمُشْرِكِينَ
+قُلْ هَٰذِهِ سَبِيلِي أَدْعُو إِلَى اللَّهِ ۚ عَلَىٰ بَصِيرَةٍ أَنَا وَمَنِ اتَّبَعَنِي ۖ وَسُبْحَانَ اللَّهِ وَمَا أَنَا مِنَ الْمُشْرِكِينْ
+
+[ur]
+“(اے نبی!) کہہ دیجیے: یہی میری راہ ہے، میں (تمھیں) اللہ کی طرف بلاتا ہوں، میں اور وہ لوگ بھی جنھوں نے میری پیروی کی، پوری بصیرت کے ساتھ۔ اور اللہ پاک ہے اور میں مشرکوں میں سے نہیں ہوں۔”
+
+[ref]
+يوسف 108:12.
+
+[ur]
+جو فرقہ روزِ قیامت نجات پائے گا، اس کا یہی عقیدہ ہے۔ جس کے بارے میں نبی کریم ﷺ نے آگاہ کیا۔ فرمایا:
+
+[ar]
+# hadith {{H bukhari:3641 from لاَ يَزَالُ to بِأَمْرِ اللَّهِ}}، {{H bukhari:3641 from لاَ يَضُرُّهُمْ to خَالَفَهُمْ}}، {{H bukhari:3641 from حَتَّى to ذَلِكَ}}
+لاَ يَزَالُ مِنْ أُمَّتِي أُمَّةٌ قَائِمَةٌ بِأَمْرِ اللَّهْ، لاَ يَضُرُّهُمْ مَنْ خَذَلَهُمْ وَلاَ مَنْ خَالَفَهُمْ، حَتَّى يَأْتِيَهُمْ أَمْرُ اللَّهِ وَهُمْ عَلَى ذَلِكْ
+
+[ur]
+“میری امت میں سے ایک قوم اللہ کے امر کے ساتھ قائم رہے گی۔ جو شخص ان کا ساتھ چھوڑے گا یا ان کی مخالفت کرے گا وہ ان کا کچھ نقصان نہیں کرے گا۔ وہ اسی طرح رہیں گے تا آنکہ اللہ کا امر ان کو آن پہنچے گا۔”
+
+[ref]
+صحيح البخاري، المناقب، حديث: 3641.
+
+[ur]
+یہ وہی جماعت ہوگی جو اللہ کے رسول ﷺ اور صحابۂ کرام رضی اللہ عنہم کے نقش قدم پر چلے گی۔ آپ نے فرمایا:
+
+[ar]
+# hadith {{H tirmidhi:2641 from وَإِنَّ بَنِي to مِلَّةً}}، {{H tirmidhi:2641 from وَتَفْتَرِقُ to مِلَّةً}}، {{H tirmidhi:2641 from كُلُّهُمْ to وَاحِدَةً}}
+وَإِنَّ بَنِي إِسْرَائِيلَ تَفَرَّقَتْ عَلَى ثِنْتَيْنِ وَسَبْعِينَ مِلَّةْ، وَتَفْتَرِقُ أُمَّتِي عَلَى ثَلاَثٍ وَسَبْعِينَ مِلَّةْ، كُلُّهُمْ فِي النَّارِ إِلاَّ مِلَّةً وَاحِدَةْ

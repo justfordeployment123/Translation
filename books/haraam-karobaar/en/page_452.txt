@@ -1,0 +1,26 @@
+# title: Page 452
+# English edition of book page 452, built by build_english.py from en_src/ and page_452.txt
+
+[ar]
+اعْدِلُوا هُوَ أَقْرَبُ لِلتَّقْوَىٰ
+
+[ref]
+[المائدة: 8]
+
+[en]
+Be just; that is nearer to righteousness.
+
+[en]
+It is narrated from an-Nu'man ibn Bashir, may Allah be pleased with him, that his father brought him to the Messenger of Allah, peace be upon him, and said: I have given this son of mine a slave as a gift. The Messenger of Allah, peace be upon him, asked: Bashir! Do you have any other children besides him? My father replied: Yes. He, peace be upon him, asked:
+
+[ar]
+أَكُلَّهُمْ وَهَبْتَ لَهُ مِثْلَ هَذَا، قَالَ لا، قَالَ فَلاَ تُشْهِدْنِي إِذًا فَإِنِّي لاَ أَشْهَدُ عَلَى جَوْرْ
+
+[ref]
+صحيح البخاري، رقم الحديث [2586] صحيح مسلم، رقم الحديث [1623]
+
+[en]
+“Have you given each of them a slave as a gift in the same way? My father replied: No. He, peace be upon him, said: Then do not make me a witness to this, for I do not bear witness to injustice.”
+
+[en]
+It is often seen that when a father abandons fairness and justice in giving gifts to his children, the children, that is, the brothers and sisters, begin to look at one another with hatred because of it. Envy, rancour and malice against one another arise in their hearts, and because of this, feelings of enmity and hostility rise up among them. In particular, the child who has been treated unjustly no longer holds his father in the respect he once did. About those who give some of their children more and others less in the matter of gifts, the Messenger of Allah, peace be upon him, said:

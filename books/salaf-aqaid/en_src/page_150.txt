@@ -1,0 +1,13 @@
+# English source for book page 150
+
+[hen]
+The Fourth Principle: Faith in the Texts (Clear Statements) of the Promises and the Warnings
+
+[en]
+An important principle of the creed of the Righteous Predecessors, Ahl as-Sunnah wal-Jama'ah, is faith in the texts of the promises and the warnings that have come in the Quran and the Sunnah. Ahl as-Sunnah wal-Jama'ah believe in these texts and convey them just as they have come. They do not set about subjecting them to ta'wil (figurative interpretation). They regard the texts of the promises and the warnings as decisive, such as this verse:
+
+[en]
+{{QEN 4:48}}
+
+[en]
+Ahl as-Sunnah wal-Jama'ah believe that the final end of the servants is not known. No one knows the outcome of anyone else; however, whoever openly displays major disbelief will be judged a disbeliever and will be treated as a disbeliever.

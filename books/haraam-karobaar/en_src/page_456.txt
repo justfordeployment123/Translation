@@ -1,0 +1,10 @@
+# English source for book page 456
+
+[en]
+Allah the Exalted has made it clear that when the decision of Allah and His Messenger, peace be upon him, comes in any matter, no believer has the right to reject it, and whoever opposes that decision has, as it were, invited misguidance.
+
+[en]
+{{QEN 33:36}}
+
+[en]
+Allah the Exalted has made it clear that accepting the decision one likes and rejecting what one does not like is a sign of hypocrisy.

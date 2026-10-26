@@ -1,0 +1,5 @@
+# title: Page 548
+# English edition of book page 548, built by build_english.py from en_src/ and page_548.txt
+
+[en]
+“If anyone keeps a dog that is not for hunting, nor for guarding animals and land, two qirats are deducted from his reward every day.”

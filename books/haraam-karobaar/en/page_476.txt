@@ -1,0 +1,14 @@
+# title: Page 476
+# English edition of book page 476, built by build_english.py from en_src/ and page_476.txt
+
+[en]
+All the things mentioned above are such that they can lead to ruin and destruction.
+
+[en]
+Husain: What is the solution to this?
+
+[en]
+Teacher: Leave this work at once and look for a new job.
+
+[en]
+Husain: To Allah we belong and to Him we return. In sha Allah, I will leave it soon.

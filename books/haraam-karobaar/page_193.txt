@@ -1,0 +1,37 @@
+# title: Page 193
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 193 (PDF page 194), پچیسواں باب: غلیل کی خرید و فروخت
+# Print typo corrected (Proofreader please check): "محذفہ" -> "مخذفہ" (one dot: the word is mikhdhafah, a sling, as in Bukhari 5479 on this page).
+# The first line of the page ("تو فرمایا کہ کنکری نہ پھینکو:") ends a sentence that is on page 192, where it starts, so it is left out here; the page opens with the hadith it introduces.
+# Hadith: Bukhari 5479 (Abdullah bin Mughaffal; the book cites "صحيح البخاري، رقم الحديث [5479]" and Muslim [1954]), filled in three excerpts
+# so that it pauses where the book has its dashes. The source's «وَقَالَ» before «إِنَّهُ» is not in the book and is left out; the last excerpt
+# is "flat", since the book has no pause at the source's comma after «عَدُوٌّ».
+# Proofreader please check: the book prints «وَلَا يُنْكَأُ بِهِ عَدُوٌّ»; Bukhari 5479 reads «وَلاَ يُنْكَى بِهِ عَدُوٌّ», which is filled.
+# The numbered list of reasons (①...) is read as words: پہلی (وجوہات); the next items are on page 194.
+
+[ar]
+# hadith {{H bukhari:5479 from فَإِنَّ رَسُولَ to الْخَذْفِ}}، {{H bukhari:5479 from أَوْ كَانَ to الْخَذْفَ}}، {{H bukhari:5479 from إِنَّهُ لاَ يُصَادُ to الْعَيْنَ flat}}
+فَإِنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَهَى عَنِ الْخَذْفْ، أَوْ كَانَ يَكْرَهُ الْخَذْفْ، إِنَّهُ لاَ يُصَادُ بِهِ صَيْدٌ وَلاَ يُنْكَى بِهِ عَدُوٌّ وَلَكِنَّهَا قَدْ تَكْسِرُ السِّنَّ وَتَفْقَأُ الْعَيْنْ
+
+[ref]
+صحيح البخاري، رقم الحديث [5479] صحيح مسلم، رقم الحديث [1954]
+
+[ur]
+“رسول اللہ ﷺ نے کنکری پھینکنے سے منع کیا ہے، یا یہ کہا کہ رسول اللہ ﷺ نے اسے ناپسند کیا ہے، کیوں کہ اس سے نہ شکار کیا جا سکتا ہے اور نہ دشمن کو کوئی نقصان پہنچایا جا سکتا ہے، ہاں البتہ یہ کبھی کسی کا دانت توڑ دیتی ہے اور آنکھ پھوڑ دیتی ہے۔”
+
+[ur]
+اس کے بعد دوبارہ حضرت عبداللہ بن مغفل رضی اللہ عنہ نے اس آدمی کو کنکری پھینکتے ہوئے دیکھا تو فرمایا: میں تمھیں رسول اللہ ﷺ کی حدیث سنا رہا ہوں کہ آپ ﷺ نے اس سے منع فرمایا ہے اور تم اس کے باوجود پھینکتے جا رہے ہو؟ میں تم سے اتنے اتنے دنوں تک بات نہیں کروں گا۔
+
+[ur]
+حافظ ابن حجر رحمہ اللہ اس کی تشریح میں لکھتے ہیں:
+
+[ur]
+یعنی وہ آدمی پتھر یا کھجور کی گٹھلی پھینک رہا تھا اور “مخذفہ” (غلیل) اس آلے کو کہتے ہیں، جس میں پتھر رکھ کر پرندوں کی طرف پھینکا جائے، اس سے مراد غلیل یا گوپھن وغیرہ ہے۔
+
+[ref]
+فتح الباري [607/9]
+
+[ur]
+یہ چیز آج ہمارے زمانے میں بھی غلیل کی صورت میں موجود ہے اور یہ مندرجہ ذیل وجوہات کی بنا پر حرام ہے:
+
+[ur]
+پہلی: نبی اکرم ﷺ نے کنکری، پتھر یا گٹھلی وغیرہ پھینکنے سے منع فرمایا ہے۔

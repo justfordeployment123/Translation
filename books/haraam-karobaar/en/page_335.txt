@@ -1,0 +1,32 @@
+# title: Page 335
+# English edition of book page 335, built by build_english.py from en_src/ and page_335.txt
+
+[hen]
+Chapter Forty-Eight: Having Designs and Floral Patterns Made on the Body
+
+[en]
+Young man: Teacher! We make designs and floral patterns on women's faces and hands. This too is a form of adornment. Is it permissible?
+
+[en]
+Teacher: The Messenger of Allah, peace be upon him, said:
+
+[ar]
+لَعَنَ اللَّهُ الْوَاصِلَةَ وَالْمُسْتَوْصِلَةَ وَالْوَاشِمَةَ وَالْمُسْتَوْشِمَةْ
+
+[ref]
+صحيح البخاري، رقم الحديث [5937] صحيح مسلم، رقم الحديث [2124]
+
+[en]
+“Allah the Exalted has cursed the women who attach artificial hair, those who have it attached, those who tattoo, and those who have themselves tattooed.”
+
+[en]
+Al-washimah means the woman who makes the designs, whether on her own body or on the body of another woman.
+
+[en]
+Al-mustawshimah means the woman on whose body the designs are made.
+
+[en]
+Both such women are cursed. And remember, this ruling is not limited to women only; rather, it applies to men and women alike. Women alone are mentioned in this hadith only because they take more care over these things than men do.
+
+[en]
+Washm means pricking the hand, the forehead or any part of the body with a needle, and then filling the spot where the needle went in with kohl, lime or any kind of ink, so that its marks remain under the skin.

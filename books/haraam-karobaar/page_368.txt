@@ -1,0 +1,17 @@
+# title: Page 368
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 368 (PDF page 369), چونواں باب: ایک سودے میں دو سودے کرنا
+# Page 367 ends with a full dialogue turn; this page starts with a new one and ends the chapter with a full turn (the rest of the page is blank).
+# The figure "200 پاؤنڈ" is written as words: "دو سو پاؤنڈ".
+# «بارك الله» is set in Arabic type inside the teacher's Urdu turn; it is kept in the Urdu block, in Urdu letters (بارک اللہ), as on the other pages.
+
+[ur]
+محمد: پیسوں کو ادا کرنے کا طریقہ کار کیا ہے؟
+
+[ur]
+فیصل: ایک ہزار آپ کو ابھی دینا ہوگا اور باقی پندرہ مہینوں میں، ہر مہینے کی قسط دو سو پاؤنڈ ہے۔
+
+[ur]
+محمد: شکریہ، اس کا بل بنا دیں۔
+
+[ur]
+استاد: بارک اللہ۔

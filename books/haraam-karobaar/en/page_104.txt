@@ -1,0 +1,29 @@
+# title: Page 104
+# English edition of book page 104, built by build_english.py from en_src/ and page_104.txt
+
+[hen]
+A Rule
+
+[en]
+In matters of interest (riba) there is a well-known rule: when a thing in which interest can occur is bought or sold for another such thing that is not of the same kind, taking possession in the same sitting is a condition.
+
+[en]
+As for buying and selling gold for money, the same applies: the full price must be paid in the same sitting.
+
+[en]
+The Messenger of Allah, peace be upon him, says:
+
+[ar]
+فَإِذَا اخْتَلَفَتْ هَذِهِ الأَصْنَافُ فَبِيعُوا كَيْفَ شِئْتُمْ، إِذَا كَانَ يَدًا بِيَدْ
+
+[en]
+When the kinds of these things differ, sell as you wish, as long as it is in cash. This is proof that a thing in which interest can occur may be bought or sold for something else when the condition of cash is met. In the same way, the noble Prophet, peace be upon him, said:
+
+[ar]
+وَلاَ بَأْسَ بِبَيْعِ الذَّهَبِ بِالْفِضَّةِ وَالْفِضَّةُ أَكْثَرُهُمَا يَدًا بِيَدْ، وَأَمَّا نَسِيئَةً فَلا، وَلاَ بَأْسَ بِبَيْعِ الْبُرِّ بِالشَّعِيرْ، وَالشَّعِيرُ أَكْثَرُهُمَا يَدًا بِيَدْ، وَأَمَّا نَسِيئَةً فَلا
+
+[ref]
+سنن أبي داود، رقم الحديث [3349]
+
+[en]
+“There is no harm in buying and selling gold for silver in cash, even if the silver is more, and there is no harm in buying and selling wheat for barley in cash, even if the barley is more; but doing this on credit is not permissible.”

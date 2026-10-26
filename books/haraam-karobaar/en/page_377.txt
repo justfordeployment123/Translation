@@ -1,0 +1,38 @@
+# title: Page 377
+# English edition of book page 377, built by build_english.py from en_src/ and page_377.txt
+
+[hen]
+Summary of the Electronics Market Tour
+
+[en]
+(When the teacher had finished the conversation, he paid Faisal the price of the recorder and, thanking him, set off back from there.)
+
+[en]
+Faisal: Teacher! May Allah protect you. Today we have benefited a great deal from you.
+
+[en]
+Ammar: On the way back, Ammar turned to the teacher:
+
+[en]
+Teacher! Today you have pointed out the following matters:
+
+[en]
+First: The prohibition of buying, selling and repairing televisions.
+
+[en]
+Second: Putting in fake, imitation and old parts.
+
+[en]
+Third: Cheating when acting as an agent.
+
+[en]
+Fourth: Making two deals in one deal.
+
+[en]
+Fifth: Charging more money when an instalment is late.
+
+[en]
+Sixth: Bay' al-'inah.
+
+[en]
+Teacher: Praise be to Allah, Lord of the worlds.

@@ -1,0 +1,46 @@
+# title: Page 328
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 328 (PDF page 329), چھیالیسواں باب: سر پر کچھ بال چھوڑنے اور کچھ مونڈنے کا بیان
+# The page opens with the hadith introduced at the bottom of page 327 ("سچ فرمایا تھا رسول اللہ ﷺ نے کہ"); the teacher's turn continues.
+# Hadith 1 (Abu Sa'id): the book cites Bukhari [3456] and Muslim [2669] (Muslim 6781 in the sunnah.com numbering). It is joined from the two
+# reports of the same hadith: "لَتَتَّبِعُنَّ سَنَنَ الَّذِينَ مِنْ قَبْلِكُمْ" (Muslim 6781, as the book prints it; Bukhari has "سَنَنَ مَنْ قَبْلَكُمْ")
+# and the rest from Bukhari 3456 ("حَتَّى لَوْ سَلَكُوا جُحْرَ ضَبٍّ لَسَلَكْتُمُوهُ", as printed). The pauses follow the book's commas and «؟»;
+# "قُلْنَا يَا رَسُولَ اللَّهِ الْيَهُودَ وَالنَّصَارَى" is read flat, since the book has no pause there.
+# Proofreader please check: hadith 1 is read with the official wording where the book prints "أَوْ ذِرَاعًا" (Bukhari and Muslim: "وَذِرَاعًا")
+# and "قَالُوا: الْيَهُودُ وَالنَّصَارَى؟" (Bukhari 3456: "قُلْنَا يَا رَسُولَ اللَّهِ، الْيَهُودَ وَالنَّصَارَى"); no excerpt of these reports reproduces them.
+# The Urdu translation has "اے اللہ کے رسول", which matches the official wording.
+# Hadith 2: Abu Dawud 4031, filled from there.
+# Proofreader please check: the book cites "سنن أبي داود، رقم الحديث [6119]"; the hadith is Abu Dawud 4031 (the printed [ref] is kept).
+# The last sentence continues on page 329 ("حضرت عبداللہ بن عمر رضی اللہ عنہما سے مروی ہے:"); it is kept whole here. The hadith it introduces
+# is printed on page 329 and stays there.
+
+[ar]
+# hadith {{H muslim:6781 from لَتَتَّبِعُنَّ to قَبْلِكُمْ}}، {{H bukhari:3456 from شِبْرًا to لَسَلَكْتُمُوهُ}}. {{H bukhari:3456 from قُلْنَا to وَالنَّصَارَى flat}}؟ {{H bukhari:3456 from قَالَ#3 to فَمَنْ}}
+لَتَتَّبِعُنَّ سَنَنَ الَّذِينَ مِنْ قَبْلِكُمْ، شِبْرًا بِشِبْرْ، وَذِرَاعًا بِذِرَاعْ، حَتَّى لَوْ سَلَكُوا جُحْرَ ضَبٍّ لَسَلَكْتُمُوهْ. قُلْنَا يَا رَسُولَ اللَّهِ الْيَهُودَ وَالنَّصَارَى؟ قَالَ فَمَنْ
+
+[ref]
+صحيح البخاري، رقم الحديث [3456] صحيح مسلم، رقم الحديث [2669]
+
+[ur]
+“البتہ ضرور تم پہلی امتوں کی پیروی کرو گے، بالشت کے بدلے بالشت اور ہاتھ کے بدلے ہاتھ (یعنی قدم بہ قدم) یہاں تک کہ اگر وہ کسی گوہ کے سوراخ میں داخل ہوئے ہوں تو تم بھی اس میں داخل ہوگے۔ صحابہ کرام رضی اللہ عنہم نے پوچھا: اے اللہ کے رسول ﷺ (پہلی امتوں سے مراد) یہود و نصاریٰ ہیں؟ آپ ﷺ نے فرمایا: اور کون ہو سکتا ہے؟”
+
+[ur]
+ایک دوسری حدیث میں رسول اللہ ﷺ نے کفار کی تقلید کرنے والے مسلمانوں کے لیے شدید وعید بیان فرمائی ہے۔ آپ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H abudawud:4031 from مَنْ تَشَبَّهَ to مِنْهُمْ}}
+مَنْ تَشَبَّهَ بِقَوْمٍ فَهُوَ مِنْهُمْ
+
+[ref]
+صحيح. سنن أبي داود، رقم الحديث [6119]
+
+[ur]
+“جو شخص کسی قوم کی مشابہت اختیار کرتا ہے تو وہ انھی میں سے ہے۔”
+
+[ur]
+کس قدر افسوس کی بات ہے کہ اگر یورپ کے لوگ جوتے سر پر رکھ کر ننگے پاؤں چلنا شروع کر دیں تو ہمارے نوجوان ان کی تقلید میں آنکھیں بند کر کے بڑی خوشی کے ساتھ اس طریقے کو بھی اپنا لیں گے۔
+
+[ur]
+نوجوان: استاد صاحب! کیا یہ حرام ہے؟
+
+[ur]
+استاد: اگرچہ حرام نہ ہو، لیکن اس میں کفار سے مشابہت تو پائی جا رہی ہے اور دوسری بات یہ ہے کہ نبی کریم ﷺ سے اس کی حرمت بھی ثابت ہے، حضرت عبداللہ بن عمر رضی اللہ عنہما سے مروی ہے:

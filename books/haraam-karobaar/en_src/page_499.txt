@@ -1,0 +1,10 @@
+# English source for book page 499
+
+[hen]
+The Sixth Tour
+
+[en]
+First: Buying and selling clothes with obscene pictures and high-heeled shoes.
+
+[en]
+Second: Some miscellaneous forbidden things.

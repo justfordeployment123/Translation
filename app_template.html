@@ -149,6 +149,8 @@
   .seg span { border-radius: 6px; padding: 0 2px; transition: background .15s, color .15s; cursor: pointer; }
   .seg span.on { background: var(--hl); color: #fff; }
   .ref { font-family: var(--urdu); font-size: .76rem; line-height: 2.2; color: var(--muted); margin: -10px 0 20px; direction: rtl; text-align: center; }
+  .ref.long { text-align: justify; text-align-last: right; border-inline-start: 2px solid var(--line); padding-inline-start: 10px; margin-top: 0; }
+  .ref.en { font-family: var(--read-en); font-size: .8rem; line-height: 1.6; direction: ltr; text-align: left; text-align-last: left; }
 
   /* ============ Player ============ */
   .player { bottom: calc(var(--tab-h) + var(--bottom)); background: rgba(28, 18, 25, .97); backdrop-filter: blur(18px); border-top: 1px solid var(--line); padding: 10px 16px 6px; }
@@ -562,7 +564,7 @@ function render() {
     const pg = seg.page || 0;
     segStart[si] = acc[pg] || 0; acc[pg] = (acc[pg] || 0) + (seg.d || 0);
     const p = document.createElement("p"); p.lang = seg.lang;
-    if (seg.style === "ref") { p.className = "ref"; p.textContent = seg.text; }
+    if (seg.style === "ref") { p.className = "ref" + (seg.lang === "en" ? " en" : "") + (seg.fn ? " long" : ""); p.textContent = seg.text; }
     else {
       p.className = "seg " + seg.lang + (seg.style === "h" ? " h" : "");
       seg.words.forEach(w => { w.el = document.createElement("span"); w.el.textContent = w.w; w.el.onclick = () => seek(si, w.s, true); p.append(w.el, " "); });

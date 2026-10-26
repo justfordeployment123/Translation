@@ -1,0 +1,41 @@
+# title: Page 68
+# English edition of book page 68, built by build_english.py from en_src/ and page_068.txt
+
+[en]
+The agents buy the underweight goods from the factory and pass them on to us just as they are, and everyone knows that they are below the proper weight; even the buyer knows that it is nine hundred and fifty grams instead of a kilo.
+
+[en]
+Teacher: May Allah bless you! It is impermissible for them to misstate the weight and deceive the Muslims. This is injustice. The noble Prophet, peace be upon him, forbade this. He, peace be upon him, said:
+
+[ar]
+الْمُسْلِمُ أَخُو الْمُسْلِمْ، وَلاَ يَحِلُّ لِمُسْلِمٍ بَاعَ مِنْ أَخِيهِ بَيْعًا فِيهِ عَيْبٌ إِلاَّ بَيَّنَهُ لَهْ
+
+[ref]
+سنن ابن ماجه، رقم الحديث [2246]
+
+[en]
+“A Muslim is the brother of a Muslim. It is not permissible for a Muslim to sell his brother something that has a defect, unless he makes that defect clear.”
+
+[en]
+This too is a very serious defect, and it is not permissible in any way.
+
+[en]
+Ammar: In such a case, what should we do according to the way of the Shariah?
+
+[en]
+Teacher: In such a situation, one of three courses should be adopted.
+
+[en]
+Trader: What are those courses?
+
+[en]
+Teacher: The three courses are these:
+
+[en]
+First: The correct weight should be written on the sack.
+
+[en]
+Second: Nothing should be written on the sack, and the goods should be weighed out for each customer.
+
+[en]
+Third: It should be made clear to the customer that it is really forty-nine kilos, and that “fifty kilos” is only a way of speaking.

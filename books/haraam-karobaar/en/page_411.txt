@@ -1,0 +1,20 @@
+# title: Page 411
+# English edition of book page 411, built by build_english.py from en_src/ and page_411.txt
+
+[en]
+Second: It is not permissible for a woman to travel in a car with a non-mahram, whether he is the driver or anyone else, because this comes under being alone together. The noble Prophet, peace be upon him, said:
+
+[ar]
+لاَ يَخْلُوَنَّ رَجُلٌ بِامْرَأَةٍ إِلاَّ وَمَعَهَا ذُو مَحْرَمْ
+
+[ref]
+صحيح البخاري، رقم الحديث [5233] صحيح مسلم، رقم الحديث [1339]
+
+[en]
+“No man should be alone with a woman unless a mahram relative of hers is with her.”
+
+[en]
+In the matter we are talking about, it does not stop at travelling with a non-mahram; rather, the matter goes as far as fornication. For men and women who commit fornication there is disgrace and humiliation in this world and the Hereafter. On the Day of Resurrection such people will be punished in a pit of Hell that is narrow at the top and very wide at the bottom, like a tandoor oven. These people will be thrown naked into this oven-like pit, and the fire will be stoked high for them. The flames, burning them, will carry them up to the top, until, when they come near the upper edge of the pit, they will think they are about to get out; but suddenly the flames will die down, and these people will go back down to the bottom of the pit. They will go on being treated like this until the Day of Resurrection.
+
+[en]
+Every night at midnight, when the gates of heaven open and it is the time when prayers are answered, the men and women who commit fornication are deprived, because of this vile deed of theirs, of having their prayers answered and of the blessing of that time.

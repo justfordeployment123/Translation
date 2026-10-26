@@ -1,0 +1,39 @@
+# title: Page 254
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 254 (PDF page 255), چھتیسواں باب: موسیقی کی تعلیم دینا
+# The page starts with the new chapter (page 253 ends the previous one) and ends with a full dialogue turn.
+# The bracketed narration «(عاطف نے ... آئے)» is printed as its own paragraph between turns, so it is its own [ur] block (as on page 159).
+# The greetings (printed in Urdu type) are kept in the Urdu blocks as set phrases.
+# "استاذ ہیثم" (with ذ) is typed as printed in Abdul Wahhab's words; the narration has "استاد ہیثم".
+
+[h]
+چھتیسواں باب: موسیقی کی تعلیم دینا
+
+[ur]
+بحث و مباحثہ ابھی جاری تھا کہ قریب سے گانے بجانے اور موسیقی کی آواز آنے لگی۔
+
+[ur]
+استاد: یہ گانے بجانے اور بانسری کی آواز کہاں سے آ رہی ہے؟
+
+[ur]
+عاطف: استاد صاحب! سکول میں ایک پیریڈ موسیقی کی تعلیم کے لیے خاص کیا گیا ہے اور جب وہ پیریڈ شروع ہوتا ہے تو سکول کا دیگر عملہ بھی اس میں شریک ہو جاتا ہے، جس کی وجہ سے یہ اتنا شور و غوغا ہو رہا ہے۔
+
+[ur]
+طلعت: استاد صاحب! ادھر ہمارے ہاں موسیقی کے سپیشلسٹ مدرس ہیثم صاحب ہیں۔
+
+[ur]
+(عاطف نے موسیقی اور شور کی آواز پست رکھنے کے لیے استاد ہیثم کو آواز دی، ہیثم صاحب عاطف کی بات سننے کے لیے آئے)
+
+[ur]
+ہیثم: السلام علیکم ورحمۃ اللہ وبرکاتہ۔
+
+[ur]
+سب لوگ: وعلیکم السلام ورحمۃ اللہ وبرکاتہ۔
+
+[ur]
+عبدالوہاب: یہ استاذ ہیثم صاحب آ گئے ہیں۔
+
+[ur]
+ہیثم: خیریت ہے ناں؟
+
+[ur]
+عاطف: آپ کے شور کی آواز ہم تک آ رہی ہے، ذرا آواز آہستہ رکھو۔

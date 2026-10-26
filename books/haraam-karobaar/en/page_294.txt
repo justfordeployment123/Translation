@@ -1,0 +1,41 @@
+# title: Page 294
+# English edition of book page 294, built by build_english.py from en_src/ and page_294.txt
+
+[hen]
+Chapter Forty-Three: A Kind of Interest (riba) Found among Farmers
+
+[en]
+Abu Jum'a: Bahnasi! Do you have Kernel rice?
+
+[en]
+Bahnasi: Yes. Why, what do you want to do?
+
+[en]
+Abu Jum'a: This year I want to buy Kernel rice for seed, because it is good and more profitable.
+
+[en]
+Bahnasi: All right, as you like.
+
+[en]
+Abdul-Khaliq: What is the rate for Kernel these days?
+
+[en]
+Atiyyah: Last week it was a hundred rupees a kilo.
+
+[en]
+Bahnasi: Abu Jum'a! What is it you want?
+
+[en]
+Abu Jum'a: I have Super rice. It is also of good quality and it tastes good too, but I want to give this and buy Kernel rice with it.
+
+[en]
+Bahnasi: That is fine, but Kernel rice is more expensive than Super rice.
+
+[en]
+Abu Jum'a: Yes, I know.
+
+[en]
+Bahnasi: Excuse me! I only mentioned it as a reminder.
+
+[en]
+Abu Jum'a: I will give you a hundred and thirty kilos of Super rice, and you give me a hundred kilos of Kernel rice in exchange, because your rice is a bit more expensive.

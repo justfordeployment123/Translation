@@ -1,0 +1,20 @@
+# title: Page 188
+# English edition of book page 188, built by build_english.py from en_src/ and page_188.txt
+
+[hen]
+The Eighth Principle: Obedience to Muslim Rulers in What Is Permissible Is Obligatory
+
+[en]
+One of the principles of religion in the creed of the Righteous Predecessors, Ahl as-Sunnah wal-Jama'ah, is that they hold obedience to Muslim rulers to be obligatory as long as the rulers do not command a sin (a proven and clear sin). If they command a sin, it is not permissible to do as they say in that sin; however, in other matters obedience to them remains obligatory. They took this principle from the following evidence of the Quran and the Sunnah.
+
+[en]
+Allah says:
+
+[ar]
+يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الْأَمْرِ مِنْكُمْ ۖ فَإِنْ تَنَازَعْتُمْ فِي شَيْءٍ فَرُدُّوهُ إِلَى اللَّهِ وَالرَّسُولِ إِنْ كُنْتُمْ تُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ۚ ذَٰلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلَا
+
+[en]
+O you who have believed, obey Allah and obey the Messenger and those in authority among you. And if you disagree over anything, refer it to Allah and the Messenger, if you should believe in Allah and the Last Day. That is the best (way) and best in result.
+
+[ref]
+النسآء 59:4.

@@ -1,0 +1,35 @@
+# title: Page 233
+# English edition of book page 233, built by build_english.py from en_src/ and page_233.txt
+
+[en]
+If you want to raise your children on lawful earnings, then take any one of the three ways above.
+
+[en]
+Ubaid: May Allah the Exalted grant me the ability to take the right way.
+
+[en]
+Teacher: This will be no favour of yours to the government; rather, it is your responsibility.
+
+[en]
+Ubaid: Teacher! I promise you that from now on I will take care of my responsibility and arrive for my duty on time.
+
+[en]
+Teacher: And when will you finish for the day?
+
+[en]
+Ubaid: Since there is also the shop's work, I take leave two hours before the set time. Besides, there is no particular work in the last two hours.
+
+[en]
+Teacher: Taking leave before the set time will be permissible only when the conditions we have stated above are being met.
+
+[en]
+Ubaid: Well, glory be to Allah! Is there not even that much leeway?
+
+[en]
+Teacher: I have already said that if you want to feed your children what is lawful, you will have to fear Allah and adopt one of the three ways above.
+
+[en]
+Ubaid: Teacher! In sha Allah, I will certainly put myself right.
+
+[en]
+Teacher: Praise be to Allah! May Allah put blessing in your family and children, your wealth and your business. May Allah the Exalted grant you the ability to follow the truth.

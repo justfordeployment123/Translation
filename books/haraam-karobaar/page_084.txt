@@ -1,0 +1,58 @@
+# title: Page 84
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 84 (PDF page 85), ساتواں باب: نئے سونے اور زائد رقم کے بدلے پرانے سونے کی خرید و فروخت کرنا
+# The page starts with a new sentence (the teacher's explanation goes on) and ends with a full quotation.
+# The quoted phrase «وَلَا تُشِفُّوا بَعْضَهَا عَلَى بَعْضٍ» is from the hadith on page 83; filled from Bukhari 2177.
+# Hadith 1: the book cites "صحيح مسلم، رقم الحديث [1584]"; its words are Muslim 4057 (sunnah.com numbering), which has
+# "وَلاَ الْوَرِقَ بِالْوَرِقِ" after "بِالذَّهَبِ"; the book leaves it out, so the text is joined from two excerpts of 4057.
+# The first excerpt ends with "cont", so "بِالذَّهَبِ" runs on into "إِلَّا" without a stop, as printed.
+# Hadith 2: Muslim 4068 (the book cites "صحيح مسلم، رقم الحديث [1588]"), filled in three excerpts so it pauses at the book's commas.
+# The quoted phrase «زَادَ أَوِ اسْتَزَادَ» is from hadith 2; filled from Muslim 4068.
+
+[ar]
+# hadith {{H bukhari:2177 from وَلاَ تُشِفُّوا to بَعْضٍ}}
+وَلاَ تُشِفُّوا بَعْضَهَا عَلَى بَعْضْ
+
+[ur]
+(دونوں طرف سے کمی بیشی نہ کرو) یعنی اس بنیاد پر کہ ایک چیز نئی ہے اور دوسری پرانی ہے اور نئی چیز مہنگی ہے، یہ سود اور حرام ہے، کیونکہ ایسی صورت میں ایک چیز دوسری چیز سے بڑھ جاتی ہے۔
+
+[ur]
+نبی اکرم ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H muslim:4057 from لاَ تَبِيعُوا to بِالذَّهَبِ cont}} {{H muslim:4057 from إِلاَّ وَزْنًا to بِسَوَاءٍ}}
+لاَ تَبِيعُوا الذَّهَبَ بِالذَّهَبِ إِلاَّ وَزْنًا بِوَزْنٍ مِثْلاً بِمِثْلٍ سَوَاءً بِسَوَاءْ
+
+[ref]
+صحيح مسلم، رقم الحديث [1584]
+
+[ur]
+“سونے کے ساتھ سونے کی بیع ہم وزن، ایک جیسی اور برابر کرو۔”
+
+[ur]
+نیز نبی اکرم ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H muslim:4068 from الذَّهَبُ to بِمِثْلٍ}}، {{H muslim:4068 from وَالْفِضَّةُ to بِمِثْلٍ}}، {{H muslim:4068 from فَمَنْ to رِبًا}}
+الذَّهَبُ بِالذَّهَبِ وَزْنًا بِوَزْنٍ مِثْلاً بِمِثْلْ، وَالْفِضَّةُ بِالْفِضَّةِ وَزْنًا بِوَزْنٍ مِثْلاً بِمِثْلْ، فَمَنْ زَادَ أَوِ اسْتَزَادَ فَهُوَ رِبَا
+
+[ref]
+صحيح مسلم، رقم الحديث [1588]
+
+[ur]
+“سونا سونے کے بدلے، چاندی چاندی کے بدلے برابر برابر بیچو، جس نے زیادہ دیا یا لیا تو یہ زیادتی سود ہے۔”
+
+[ar]
+# hadith {{H muslim:4068 from زَادَ to اسْتَزَادَ}}
+زَادَ أَوِ اسْتَزَادْ
+
+[ur]
+یعنی جس نے زیادہ دیا یا زیادہ طلب کیا۔
+
+[ur]
+ابن شداد رحمہ اللہ فرماتے ہیں:
+
+[ur]
+“اس حدیث میں دلیل ہے کہ زیور کے بدلے زیور وزن میں برابر نہ ہو تو ناجائز ہے، اسی طرح زرگری اور بناوٹ کے لیے زیادہ لینا بھی ناجائز ہے۔”
+
+[ref]
+دلائل الأحكام [289/3]

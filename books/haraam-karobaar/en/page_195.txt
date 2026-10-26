@@ -1,0 +1,35 @@
+# title: Page 195
+# English edition of book page 195, built by build_english.py from en_src/ and page_195.txt
+
+[en]
+Example: Attending the mosque for the Friday prayer and the other prayers is obligatory. If a man says that he sleeps very deeply and cannot wake up for the Fajr prayer without an alarm clock, we will tell him that keeping an alarm clock is obligatory for him, because it is a permissible means to an obligatory need, and keeping it is obligatory just as the need is.
+
+[en]
+Impermissible means: These are means that it is impermissible to take up in any case, even if they are taken up for a permissible need.
+
+[en]
+Example: Every person wishes to become wealthy and to gather a great deal of wealth, and this is permissible too. But would it be permissible to gather wealth through interest (riba) and fulfil this wish that way?
+
+[en]
+Shopkeeper: Not at all.
+
+[en]
+Teacher: It is because of this second kind that the slingshot is forbidden.
+
+[en]
+Shopkeeper: What does all this talk have to do with the slingshot being forbidden?
+
+[en]
+Teacher: Why do children buy slingshots?
+
+[en]
+Shopkeeper: To hunt sparrows with them.
+
+[en]
+Teacher: But it is not a proper means of hunting, because it is forbidden, and with it someone's eye can be put out or someone's tooth broken. From this we can also draw another point.
+
+[en]
+Shopkeeper: What is that?
+
+[en]
+Teacher: It is this: when Allah the Exalted makes something forbidden, buying and selling it, trading in it, its price and so on all become forbidden too, because the Messenger of Allah, peace be upon him, said:

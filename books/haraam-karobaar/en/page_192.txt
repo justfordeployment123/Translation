@@ -1,0 +1,26 @@
+# title: Page 192
+# English edition of book page 192, built by build_english.py from en_src/ and page_192.txt
+
+[hen]
+Chapter Twenty-Five: Buying and Selling Slingshots
+
+[en]
+Ammar: Teacher! There is a slingshot shaped like a bow lying in this cabinet. What is the Shariah's ruling on it, since it is used to shoot small stones?
+
+[en]
+Shopkeeper: Flaring up in anger, he said: You keep declaring everything forbidden! At this rate there will be nothing left in the shop. For Allah's sake, have mercy on people and do not declare everything forbidden!
+
+[en]
+Teacher: Brother! We are not declaring anything forbidden on our own authority, nor would that befit any Muslim. Everything should be said with sound proof, and when something is established by proof, it should be followed.
+
+[en]
+Shopkeeper: Yes, you are right about that, but what is the proof that the slingshot is forbidden?
+
+[en]
+Teacher: If you give me a chance to speak, I will satisfy you with proof.
+
+[en]
+Shopkeeper: Yes, go ahead.
+
+[en]
+Teacher: Abdullah ibn Mughaffal, may Allah be pleased with him, saw a man throwing pebbles and told him not to throw pebbles:

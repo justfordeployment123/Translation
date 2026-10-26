@@ -1,0 +1,42 @@
+# title: Page 436
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 436 (PDF page 437), اڑسٹھواں باب: مانع حمل ادویات کی خرید و فروخت
+# The first words of the page ("وقفہ کرنا چاہیں تو کیا کریں؟") end a sentence that is on page 435, where it starts.
+# The teacher's methods (boxed 1–4) are read as words: پہلا، دوسرا، تیسرا، چوتھا (the items are «طریقے»).
+# «صحابہ کرام» carries the symbol for رضی اللہ عنہم in the print; typed in full words.
+# «كُنَّا نَعْزِلُ وَالْقُرْآنُ يَنْزِلُ» is Jabir's own words (a Companion's report, not the Prophet's words; Sahih al-Bukhari 5208, as the
+# book cites), so it is typed from the print as other Arabic, with the stopping form at the end; the print's letters and harakat are the
+# same as the source's. Its translation and the definition of «عزل» that follow are printed in the teacher's item ①, each as its own
+# paragraph; they are nameless blocks.
+# «ایام حیض سے پہلے» (at a line end) is printed without the zer that the other «ایامِ حیض» on the page carry; typed as printed.
+# The figure "24 دفعہ" is written as words: "چوبیس دفعہ".
+# The page ends with a full sentence; the teacher's turn goes on at the top of page 437.
+
+[ur]
+استاد: مندرجہ ذیل طریقوں میں سے کوئی بھی طریقہ اختیار کیا جا سکتا ہے:
+
+[ur]
+پہلا: عزل کر لو، جیسا کہ صحابہ کرام رضی اللہ عنہم کیا کرتے تھے۔ صحیح بخاری کی روایت میں ہے، صحابہ کہتے ہیں:
+
+[ar]
+كُنَّا نَعْزِلُ وَالْقُرْآنُ يَنْزِلْ
+
+[ref]
+صحيح البخاري، رقم الحديث [5208]
+
+[ur]
+“ہم عزل کرتے تھے اور اس وقت قرآن مجید نازل ہو رہا ہوتا تھا۔”
+
+[ur]
+عزل سے مراد یہ ہے کہ جماع کے وقت شرم گاہ سے باہر انزال کرنا۔
+
+[ur]
+دوسرا: تم ایک مہینے کو چار ہفتوں میں تقسیم کر لو، یعنی ایک ہفتہ ایامِ حیض والا اور تین ہفتے طہر والے، حیض کے دوران مباشرت کرنا تو ویسے ہی منع ہے، باقی رہ گئے تین ہفتے، اب تم مباشرت صرف ایامِ حیض کے بعد والے ہفتے اور ایام حیض سے پہلے ہفتے کر لیا کرو، ان دونوں ہفتوں میں حمل نہیں ٹھہرتا، البتہ درمیان والے تیسرے ہفتے میں مباشرت نہ کرو، کیونکہ اس میں لازمی طور پر حمل ہو جاتا ہے، یہ طریقہ اختیار کر کے تم وقفہ ڈال سکتے ہو۔
+
+[ur]
+تیسرا: بہت زیادہ رضاعت کا طریقہ، یعنی اگر عورت دن اور رات میں کم از کم چوبیس دفعہ بچے کو دودھ پلائے تو اس دوران مباشرت سے حمل نہیں ٹھہرتا۔
+
+[ur]
+چوتھا: ایک خاص شربت ہے، جو ایامِ حیض کے بعد پانچویں دن پیا جائے تو بھی حمل نہیں ٹھہرتا۔
+
+[ur]
+یہ چاروں طریقے جائز ہیں اور کبھی عورت کے لیے نقصان دہ ثابت نہیں ہوں گے، جب اللہ تعالیٰ نے تمھیں مشکل میں نہیں ڈالا تو تم خواہ مخواہ اپنے آپ کو کیوں مشکل میں ڈال رہے ہو؟

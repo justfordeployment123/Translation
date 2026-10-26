@@ -1,0 +1,22 @@
+# title: Page 542
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 542 (PDF page 543), اکانوےواں باب: کیفے اور کلبوں وغیرہ میں کام کرنا
+# The first lines of the page ("کی تو یاد رکھو ... کیفے سے بھی زیادہ خطرناک ہے۔") end a sentence that is on page 541, where it starts;
+# the teacher's paragraph continues here with «اللہ تعالیٰ فرماتے ہیں:» (a nameless block).
+# Al-Ma'idah 5:2 (part) is filled from the official text (fill_quran.py).
+# The chapter ends on this page with a full sentence; the rest of the page is blank. Page 543 starts «بانوےواں باب».
+
+[ur]
+اللہ تعالیٰ فرماتے ہیں:
+
+[ar]
+# quran 5:2 from وَلَا تَعَاوَنُوا to وَالْعُدْوَانِ
+وَلَا تَعَاوَنُوا عَلَى الْإِثْمِ وَالْعُدْوَانْ
+
+[ref]
+[المائدة: 2]
+
+[ur]
+“اور گناہ اور زیادتی پر ایک دوسرے کی مدد نہ کرو۔”
+
+[ur]
+مندرجہ بالا جگہوں پر کام کر کے ہر صورت میں تم گناہ اور زیادتی کے کاموں پر تعاون کرنے والے کی طرح ہوگے، جب کہ یہ شیطان کی پیروی اور اللہ تعالیٰ کی نافرمانی ہے۔

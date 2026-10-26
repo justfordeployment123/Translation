@@ -1,0 +1,26 @@
+# title: Page 30
+# English edition of book page 30, built by build_english.py from en_src/ and page_030.txt
+
+[en]
+The Messenger of Allah, peace be upon him, said:
+
+[ar]
+مَنْ تَرَكَ شَيْئًا لِلَّهِ عَوَّضَهُ اللَّهُ خَيْرًا مِنْهْ
+
+[en]
+“Whoever leaves something for the sake of Allah, Allah the Exalted gives him something better than it in its place.”
+
+[en]
+Fifth: The obedient and dutiful find the taste of faith in their hearts.
+
+[en]
+Whoever studies this book will learn in it of many forbidden things which the Shariah has made forbidden, and which have become common practice among most Muslims today.
+
+[en]
+In this book I have mentioned only those forbidden things by which people amass wealth and riches; I have not set out every forbidden thing in general. Had I mentioned them all, the discussion would have grown very long.
+
+[en]
+I have divided this book into six large tours, or rounds. Each large tour is made up of several smaller tours, or rounds, and within each smaller tour I have divided the forbidden things into different chapters.
+
+[ref]
+وكتبه، أبو إسماعيل الحمراوى، إبراهيم بن فتحى عبد المقتدر

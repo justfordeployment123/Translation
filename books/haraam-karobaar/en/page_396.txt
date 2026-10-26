@@ -1,0 +1,44 @@
+# title: Page 396
+# English edition of book page 396, built by build_english.py from en_src/ and page_396.txt
+
+[en]
+Manager: Yes, of course.
+
+[en]
+Teacher: It is narrated from Abdullah ibn Mas'ud, may Allah be pleased with him, that the Messenger of Allah, peace be upon him, said:
+
+[ar]
+إِنَّ أَشَدَّ النَّاسِ عَذَابًا عِنْدَ اللَّهِ يَوْمَ الْقِيَامَةِ الْمُصَوِّرُونْ
+
+[ref]
+صحيح البخاري، رقم الحديث [5950]
+
+[en]
+“On the Day of Resurrection, those who make pictures will have the severest punishment with Allah.”
+
+[en]
+It is narrated from Abu Hurairah, may Allah be pleased with him, that the Messenger of Allah, peace be upon him, said:
+
+[ar]
+وَمَنْ أَظْلَمُ مِمَّنْ ذَهَبَ يَخْلُقُ كَخَلْقِي فَلْيَخْلُقُوا حَبَّةً أَوْ لِيَخْلُقُوا ذَرَّةْ
+
+[ref]
+صحيح البخاري، رقم الحديث [5953]
+
+[en]
+“Allah the Exalted says: Who could be a greater wrongdoer than the one who sets out to create like My creation? Let him create a single grain, or let him create a single ant.”
+
+[en]
+It is narrated from Abdullah ibn Abbas, may Allah be pleased with them both, that the Messenger of Allah, peace be upon him, said:
+
+[ar]
+كُلُّ مُصَوِّرٍ فِي النَّارْ، يَجْعَلُ لَهُ بِكُلِّ صُورَةٍ صَوَّرَهَا نَفْسًا فَتُعَذِّبُهُ فِي جَهَنَّمْ
+
+[ref]
+صحيح البخاري، رقم الحديث [2255] صحيح مسلم، رقم الحديث [2110]
+
+[en]
+“Every maker of pictures will go to Hell, and for every single picture a living being will be made, by which he will be punished in Hell.”
+
+[en]
+All these hadiths show that pictures are forbidden, whether the pictures are of people, of animals or of other living things; whether they cast a shadow or not; whether they are printed on paper, taken with a camera, or carved into stone and wood. In the hadiths all these kinds of pictures have been declared forbidden.

@@ -1,0 +1,44 @@
+# title: Page 482
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 482 (PDF page 483), اٹھترواں باب: فیشن ایبل لباس پہن کر عورت کا گھر سے باہر نکلنا
+# The page starts with the new chapter (page 481 ends the previous one with a full turn).
+# Al-Ahzab 33:33 (up to «الْأُولَىٰ») is filled from the official text (fill_quran.py).
+# Hadith: Muslim 5582 (the book cites Muslim [2128]), filled from Muslim 5582 alone, as on page 388. The book prints
+# «لَمْ أَرَهُمَا نِسَاءٌ... كَاسِيَاتٌ ...»: the first kind is left out and «نِسَاءٌ» has no «وَ» (Muslim: «وَنِسَاءٌ»); the "~" leaves the joined «وَ»
+# out (the placeholder's `to` names the source's «وَنِسَاءٌ», so the one-word excerpt ends there). The voice pauses at the printed
+# dots after «نِسَاءٌ», which are not typed; the first excerpt takes " cont", as the print runs «لَمْ أَرَهُمَا نِسَاءٌ» on.
+# Proofreader please check: the book prints «عَارِيَاتٌ مَائِلَاتٌ مُمِيلَاتٌ»; Muslim 5582 has «مُمِيلاَتٌ مَائِلاَتٌ», which is filled.
+# (Muwatta Malik 1658 has the book's order, but it is Abu Hurairah's own words (mawquf), not a report of the Prophet's words,
+# so it is not used.) The book's «رُؤُوسُهُنَّ» is spelled «رُءُوسُهُنَّ» in the source (same pronunciation).
+# The Urdu translation of the hadith continues on page 483 ("خود بہکنے والی ... بھی نہیں پائیں گی۔”"); it is kept whole here.
+
+[h]
+اٹھترواں باب: فیشن ایبل لباس پہن کر عورت کا گھر سے باہر نکلنا
+
+[ur]
+عمار: استاد صاحب! عورت کا بناؤ سنگار کر کے اور فیشن ایبل لباس پہن کر گھر سے باہر جانے کا کیا حکم ہے؟
+
+[ur]
+استاد: عمار! اللہ تمھیں دین کی سمجھ عطا کرے، اس کے حرام ہونے کے بارے میں قرآن و سنت سے بے شمار دلائل منقول ہیں۔ اللہ تعالیٰ ارشاد فرماتے ہیں:
+
+[ar]
+# quran 33:33 from وَقَرْنَ فِي بُيُوتِكُنَّ to الْجَاهِلِيَّةِ الْأُولَىٰ
+وَقَرْنَ فِي بُيُوتِكُنَّ وَلَا تَبَرَّجْنَ تَبَرُّجَ الْجَاهِلِيَّةِ الْأُولَىٰ
+
+[ref]
+[الأحزاب: 33]
+
+[ur]
+“اور اپنے گھروں میں ٹکی رہو اور پہلی جاہلیت کے زینت ظاہر کرنے کی طرح زینت ظاہر نہ کرو۔”
+
+[ur]
+رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H muslim:5582 from صِنْفَانِ to أَرَهُمَا cont}} {{H muslim:5582 from ~نِسَاءٌ to وَنِسَاءٌ}}، {{H muslim:5582 from كَاسِيَاتٌ to رِيحَهَا}}
+صِنْفَانِ مِنْ أَهْلِ النَّارِ لَمْ أَرَهُمَا نِسَاءْ، كَاسِيَاتٌ عَارِيَاتٌ مُمِيلاَتٌ مَائِلاَتٌ رُءُوسُهُنَّ كَأَسْنِمَةِ الْبُخْتِ الْمَائِلَةِ لاَ يَدْخُلْنَ الْجَنَّةَ وَلاَ يَجِدْنَ رِيحَهَا
+
+[ref]
+صحيح مسلم، رقم الحديث [2128]
+
+[ur]
+“دوزخیوں کی دو قسمیں ہیں جن کو میں نے نہیں دیکھا ہے... وہ عورتیں جو لباس پہنتی ہیں مگر ننگی رہتی ہیں، دوسروں کو بہکانے والی، خود بہکنے والی، ان کے سر بختی اونٹ کی کوہان کی طرح ایک طرف جھکے ہوئے ہیں، وہ جنت میں داخل نہ ہوں گی، بلکہ وہ اس کی خوشبو بھی نہیں پائیں گی۔”

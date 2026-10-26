@@ -1,0 +1,23 @@
+# title: Page 155
+# English edition of book page 155, built by build_english.py from en_src/ and page_155.txt
+
+[en]
+Ahl as-Sunnah wal-Jama'ah do not say of anyone, whoever he may be, with certainty that he is among the people of Paradise or among the people of Hell, except those about whom the noble Messenger, peace be upon him, said that they are certainly among the people of Paradise or of Hell; however, Ahl as-Sunnah wal-Jama'ah hope for mercy for those who do good deeds and fear harm for the evildoer.
+
+[fen]
+That is why a person who is killed or who dies is not declared a martyr, because only Allah the Exalted knows the state of his intention. The correct way in this matter is to say: We ask Allah the Exalted to grant him the rank of martyrdom. We consider him, in sha Allah, a martyr, and we do not declare anyone pure before Allah. So words of supplication should be used, not words of certainty and finality, because saying it with certainty is saying about Allah what we have no knowledge of.
+
+[en]
+Ahl as-Sunnah wal-Jama'ah believe that Paradise is not owed to anyone, even if he is righteous, unless Allah the Exalted shows him favour and grace and admits him to Paradise by His mercy. He says:
+
+[ar]
+وَلَوْلَا فَضْلُ اللَّهِ عَلَيْكُمْ وَرَحْمَتُهُ مَا زَكَىٰ مِنْكُمْ مِنْ أَحَدٍ أَبَدًا وَلَٰكِنَّ اللَّهَ يُزَكِّي مَنْ يَشَاءُ ۗ وَاللَّهُ سَمِيعٌ عَلِيمْ
+
+[en]
+And if not for the favor of Allah upon you and His mercy, not one of you would have been pure, ever, but Allah purifies whom He wills, and Allah is Hearing and Knowing.
+
+[ref]
+النور 21:24.
+
+[en]
+And the noble Prophet, peace be upon him, said:

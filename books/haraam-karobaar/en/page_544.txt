@@ -1,0 +1,26 @@
+# title: Page 544
+# English edition of book page 544, built by build_english.py from en_src/ and page_544.txt
+
+[hen]
+Chapter Ninety-Three: Working at Plastering Graves
+
+[en]
+Ammar: What is the ruling in the Shariah on plastering graves?
+
+[en]
+Teacher: It is stated in a hadith:
+
+[ar]
+نَهَى رَسُولُ اللَّهِ ﷺ أَنْ يُجَصَّصَ الْقَبْرُ وَأَنْ يُقْعَدَ عَلَيْهِ وَأَنْ يُبْنَى عَلَيْهْ
+
+[ref]
+صحيح مسلم، رقم الحديث [970]
+
+[en]
+“The Messenger of Allah, peace be upon him, forbade plastering graves, sitting on them and putting up buildings on them.”
+
+[en]
+In this hadith the Messenger of Allah, peace be upon him, forbade plastering graves, and this prohibition concerns the act itself, which is proof that it is forbidden and invalid. When Allah the Exalted makes something forbidden, He also makes its price forbidden.
+
+[en]
+So plastering graves, taking wages for it, doing labour on it and so on are all forbidden matters.

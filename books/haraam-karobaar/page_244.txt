@@ -1,0 +1,12 @@
+# title: Page 244
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 244 (PDF page 245), چونتیسواں باب: اساتذہ کا سکول کے طلبہ کو ٹیوشن پڑھنے پر مجبور کرنا
+# The first lines of the page ("کمائی، فیس وغیرہ حلال ہے ... حرام کے زمرے میں آئے گی۔") end the teacher's sentence that is on page 243, where it starts.
+# «جزاك الله» (printed in Arabic type) is kept in Isam's Urdu turn, in Urdu letters, as a set phrase; «ان شاء اللہ» is printed in Urdu type.
+# "حتیٰ الوسع" takes the dagger alif (the print has "حتی الوسع"), as the rules ask for حتیٰ.
+# The rest of the page is blank; the next chapter starts on page 245.
+
+[ur]
+عصام: جزاک اللہ! استاد صاحب میں پہلے بھی حتیٰ الوسع غلط کام سے بچنے کی کوشش کرتا ہوں اور آیندہ بھی، ان شاء اللہ، معمولی رہ جانے والی غلطیوں کی اصلاح کی بھرپور کوشش کروں گا۔
+
+[ur]
+استاد: اللہ تعالیٰ آپ کی اولاد اور مال میں برکت پیدا فرمائے۔

@@ -1,0 +1,32 @@
+# title: Page 80
+# English edition of book page 80, built by build_english.py from en_src/ and page_080.txt
+
+[en]
+Do they await but that Allah should come to them in covers of clouds and the angels (as well) and the matter is (then) decided?
+
+[ref]
+البقرة 210:2.
+
+[en]
+In all these matters, the methodology of Ahl as-Sunnah wal-Jama'ah is that a person believes completely in what Allah and His Messenger, peace be upon him, have stated on this subject, and accepts it fully, as Imam az-Zuhri, may Allah have mercy on him, said: “From Allah comes the message. Upon the Messenger it is to convey the message. Upon us it is to accept it.”
+
+[ref]
+شرح السنة للإمام البغوي: 217/1، للمكتب الإسلامي، بيروت.
+
+[en]
+Sayings of the imams of the Salaf about the attributes of Allah the Exalted: Imam Sufyan ibn Uyaynah, may Allah have mercy on him, said: “The attributes that Allah the Exalted has described of Himself in the Noble Quran: their recitation is their explanation. Neither their how nor any likeness for them is to be given.”
+
+[ref]
+شرح أصول اعتقاد أهل السنة والجماعة للالكائي: 186/1، رقم: 431.
+
+[en]
+Imam ash-Shafi'i, may Allah have mercy on him, said: “I believe in Allah and in the verses that have come from Allah, as Allah intended them. And I believe in the Messenger of Allah, peace be upon him, and in the hadiths that have come from the Messenger of Allah, as the Messenger of Allah intended them.”
+
+[ref]
+شرح لمعة الاعتقاد: 10/2.
+
+[en]
+Al-Walid ibn Muslim, may Allah have mercy on him, said: I asked al-Awza'i, Sufyan ibn Uyaynah and Malik ibn Anas, may Allah have mercy on them, about the hadiths that have come about the attributes of Allah the Exalted and the seeing of Allah the Exalted, and they replied: “Pass them on just as they have come, without describing how.”
+
+[ref]
+شرح السنة للإمام البغوي: 171/1، للمكتب الإسلامي، بيروت.

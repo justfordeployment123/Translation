@@ -1,0 +1,31 @@
+# English source for book page 102
+
+[en]
+Buyer: There are four rak'ahs.
+
+[en]
+Teacher: And surely you have prayed four from the very beginning?
+
+[en]
+Buyer: Yes, everyone prays four.
+
+[en]
+Teacher: Yes, I pray four as well. But tell me, in which verse of the Quran is the command to pray four rak'ahs each for Zuhr, Asr and Isha?
+
+[en]
+Buyer: What do you mean?
+
+[en]
+Teacher: What I mean is that the rulings of the religion are not all in the Quran alone; rather, there are countless rulings that are stated in the hadiths and of which there is no trace at all in the Quran. I said these things because you were speaking so loudly and forcefully against Allah and His Messenger, peace be upon him, when in fact there is also a command in the Quran that makes trading gold in instalments forbidden.
+
+[en]
+Buyer: In which verse is that command?
+
+[en]
+Teacher: Allah the Exalted says:
+
+[en]
+And whatever the Messenger has given you - take; and what he has forbidden you - refrain from.
+
+[en]
+The Messenger of Allah, peace be upon him, forbade the case described above. He, peace be upon him, said:

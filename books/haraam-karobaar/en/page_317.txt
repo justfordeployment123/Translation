@@ -1,0 +1,56 @@
+# title: Page 317
+# English edition of book page 317, built by build_english.py from en_src/ and page_317.txt
+
+[ar]
+وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانْتَهُوا
+
+[ref]
+[الحشر: 7]
+
+[en]
+And whatever the Messenger has given you - take; and what he has forbidden you - refrain from.
+
+[en]
+The Messenger of Allah, peace be upon him, has commanded that the beard be grown and the moustache be cut.
+
+[en]
+Young man: These are general proofs. I want you to present a proof in which there is a clear command to grow the beard.
+
+[en]
+Teacher: If you consider these to be general proofs, then I will give you some more proofs from the hadiths of the Prophet.
+
+[en]
+First: The Messenger of Allah, peace be upon him, said:
+
+[ar]
+خَالِفُوا الْمُشْرِكِينْ، أَحْفُوا الشَّوَارِبَ وَأَوْفُوا اللِّحَى
+
+[ref]
+صحيح البخاري، رقم الحديث [5892]
+
+[en]
+“Act contrary to the polytheists: leave your beards alone and trim your moustaches.”
+
+[en]
+Second: The Messenger of Allah, peace be upon him, said:
+
+[ar]
+خَالِفُوا الْمُشْرِكِينْ، أَحْفُوا الشَّوَارِبَ وَأَوْفُوا اللِّحَى
+
+[ref]
+صحيح البخاري، رقم الحديث [5892]
+
+[en]
+“Act contrary to the polytheists: always have your moustaches trimmed close and let your beards grow.”
+
+[en]
+Third: The noble Prophet, peace be upon him, said:
+
+[ar]
+انْهَكُوا الشَّوَارِبَ وَأَعْفُوا اللِّحَى
+
+[ref]
+صحيح البخاري، رقم الحديث [5893]
+
+[en]
+“Have your moustaches cut short and let your beards grow.”

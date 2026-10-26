@@ -1,0 +1,14 @@
+# title: Page 359
+# English edition of book page 359, built by build_english.py from en_src/ and page_359.txt
+
+[en]
+Teacher: May Allah reward you! May Allah grant us all the ability to walk on the straight path.
+
+[en]
+Faisal: Teacher! Today you have proved a blessing for us; otherwise we had grown tired of trying again and again to make Muntasir understand.
+
+[en]
+Teacher: Faisal! There is an element of goodness in people. When they are given advice, they accept it; but they need someone who will put the matters of religion before them in the very best way.
+
+[en]
+Faisal: Truly, you are right.

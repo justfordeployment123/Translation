@@ -1,0 +1,13 @@
+# English source for book page 94
+
+[en]
+According to the Noble Quran, this is an act of Satan. He says:
+
+[en]
+{{QEN 2:168 2:169}}
+
+[en]
+The correct way of interpreting the Noble Quran is this: first, the verses of the Quran should be interpreted by the verses of the Quran themselves; then the Quran should be interpreted by hadith; after that, it should be interpreted by the sayings of the noble Companions; then the sayings of the Successors should be brought to bear on it; and if no interpretation is found even from the Successors, it should be interpreted by the Arabic language, in which the Quran was revealed.
+
+[en]
+Faith in the Messengers (believing in the Messengers): Ahl as-Sunnah wal-Jama'ah have certain faith that Allah the Exalted sent Messengers to His servants, who gave them glad tidings of the good of this world and the Hereafter, and of Paradise, in return for good deeds, and warned them of Hell as the result of evil deeds. They called people to the true religion in order to bring them out of the darknesses of misguidance into the light of the path of truth.

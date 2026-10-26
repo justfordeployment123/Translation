@@ -1,0 +1,45 @@
+# title: Page 360
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 360 (PDF page 361), ترپنواں باب: وکالت میں دھوکا دینا
+# The page starts with the new chapter (page 359 ends the previous one with a full turn) and ends with a full dialogue turn.
+# The greetings printed «السلام علیکم و رحمۃ اللہ» / «وعلیکم السلام و رحمۃ اللہ» are typed in the joined spelling used on the other pages.
+# «جزاك الله» is set in Arabic type inside the customer's Urdu turn; it is kept in the Urdu block, in Urdu letters (جزاک اللہ), as on page 45.
+# The figure "2500 پاؤنڈ" is written as words: "دو ہزار پانچ سو پاؤنڈ".
+
+[h]
+ترپنواں باب: وکالت میں دھوکا دینا
+
+[ur]
+استاد صاحب وہاں کھڑے باتیں کر رہے تھے کہ ایک گاہک فریزر خریدنے آیا۔
+
+[ur]
+گاہک: السلام علیکم ورحمۃ اللہ۔
+
+[ur]
+سب لوگ: وعلیکم السلام ورحمۃ اللہ۔
+
+[ur]
+گاہک: میں ایک فریزر خریدنا چاہتا ہوں۔
+
+[ur]
+فیصل: ہمارے پاس جو سٹاک موجود ہے اس میں سے دیکھ لیں، اگر آپ کو کوئی پسند نہ آیا تو ہم آرڈر پر آپ کی مرضی کا فریزر منگوا دیں گے۔
+
+[ur]
+گاہک: جزاک اللہ۔
+
+[ur]
+(وہ آدمی فریزر دیکھنے لگا، اس نے دو دروازوں والا چودہ فٹ کا ایک فریزر پسند کیا)
+
+[ur]
+گاہک: فیصل صاحب! اس کی کتنی قیمت ہے؟
+
+[ur]
+فیصل: آپ فکر نہ کریں مناسب ہی ہوگی۔
+
+[ur]
+گاہک: بتائیں تو سہی؟
+
+[ur]
+فیصل: اس کی قیمت دو ہزار پانچ سو پاؤنڈ ہے۔
+
+[ur]
+گاہک: میرے لیے کتنی قیمت ہے؟ میں تو آپ کا پرانا گاہک ہوں۔

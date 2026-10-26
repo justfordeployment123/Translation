@@ -1,0 +1,41 @@
+# title: Page 32
+# English edition of book page 32, built by build_english.py from en_src/ and page_032.txt
+
+[hen]
+Make a Firm Resolve
+
+[ar]
+أَيُّهَا الطَّالِبُ عِلْمًا، إِيتِ حَمَّادَ بْنَ زَيْدِ
+
+[ar]
+تَسْتَفِدْ حِلْمًا وَعِلْمًا، ثُمَّ قَيِّدْهُ بِقَيْدِ
+
+[ar]
+لَا كَثَوْرٍ وَكَجَهْمٍ، وَكَعَمْرِو بْنِ عُبَيْدِ
+
+[en]
+“O seeker of knowledge! Go to Hammad ibn Zaid. Learn forbearance and knowledge from him, then write it down carefully. Do not become like Thawr, Jahm and Amr ibn Ubaid.”
+
+[en]
+By the command of Allah the Exalted a new day begins. With the break of dawn the course of our deeds begins, and the call of truth, the adhan, rings out.
+
+[ar]
+الله أكبر، الله أكبر
+
+[en]
+“Allah is the Greatest, Allah is the Greatest.”
+
+[en]
+This call, which fills the heart with concern, always reaches Ammar's ears, and at the time of this call there is an angel and a devil with Ammar.
+
+[en]
+The angel says: Get up for the Fajr prayer and begin your day with good.
+
+[en]
+The accursed devil says: Stay asleep and begin your day with evil.
+
+[en]
+O man! Just think: what wins you over at that moment, good or evil?
+
+[en]
+O man! Is it perhaps the soft, warm bed and a beautiful wife that win you over? Or do the cool nights of summer get the better of you? Or else, at that moment, the truth prevails, the soul turns eagerly towards Allah the Exalted, and by the time the muezzin reaches “as-salatu khayrun min an-nawm” (prayer is better than sleep), all of Satan's snares are broken.

@@ -1,0 +1,32 @@
+# title: Page 79
+# English edition of book page 79, built by build_english.py from en_src/ and page_079.txt
+
+[ar]
+يَنْزِلُ رَبُّنَا تَبَارَكَ وَتَعَالَى كُلَّ لَيْلَةٍ إِلَى السَّمَاءِ الدُّنْيَا حِينَ يَبْقَى ثُلُثُ اللَّيْلِ الآخِرْ، يَقُولُ مَنْ يَدْعُونِي فَأَسْتَجِيبَ لَهْ؟ مَنْ يَسْأَلُنِي فَأُعْطِيَهُ مَنْ يَسْتَغْفِرُنِي فَأَغْفِرَ لَهْ؟
+
+[en]
+“Our Lord, the Blessed and Most High, descends every night to the lowest heaven when the last third of the night remains. He says: Who is there who calls on Me, so that I may answer him? Who is there who asks of Me, so that I may give him? Who is there who seeks My forgiveness, so that I may forgive him?”
+
+[ref]
+صحيح البخاري، التهجد، حديث: 1145، وصحيح مسلم، صلاة المسافرين، حديث: 758.
+
+[en]
+Ahl as-Sunnah wal-Jama'ah also believe that Allah the Exalted will truly come on the Day of Resurrection to judge between people, in the way that befits His majesty. He says:
+
+[ar]
+كَلَّا إِذَا دُكَّتِ الْأَرْضُ دَكًّا دَكَّا
+
+[ar]
+وَجَاءَ رَبُّكَ وَالْمَلَكُ صَفًّا صَفَّا
+
+[en]
+No! When the earth has been leveled - pounded and crushed - And your Lord has come and the angels, rank upon rank.
+
+[ref]
+الفجر 21:89، 22.
+
+[en]
+And He says:
+
+[ar]
+هَلْ يَنْظُرُونَ إِلَّا أَنْ يَأْتِيَهُمُ اللَّهُ فِي ظُلَلٍ مِنَ الْغَمَامِ وَالْمَلَائِكَةُ وَقُضِيَ الْأَمْرْ

@@ -1,0 +1,42 @@
+# title: Page 474
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 474 (PDF page 475), چھہترواں باب: مرد کا عورتوں کو ٹریننگ دینا
+# The first chapter of the round «ایسے حرام امور جن کا عموماً عورتیں گھروں میں ارتکاب کرتی ہیں» (title page 471); page 473 ends with
+# a full paragraph.
+# The page ends with the hadith «الْعَيْنَانِ زِنَاهُمَا النَّظَرُ» and its footnote; its translation starts on page 475 and is there.
+# Hadith: the book cites Bukhari [6243] and Muslim [2657]. Bukhari 6243 has «فَزِنَا الْعَيْنِ النَّظَرُ»; the book's words are in Muslim 6755
+# (= Muslim 2658 in the hadith-api numbering, Abu Hurairah), which reads «فَالْعَيْنَانِ زِنَاهُمَا النَّظَرُ» inside a longer hadith.
+# The print starts the quote without the «فَ»; the placeholder's "~" leaves the joined «فَ» out, so the fill reads as printed.
+
+[h]
+چھہترواں باب: مرد کا عورتوں کو ٹریننگ دینا
+
+[ur]
+استاد: حسین اور کوئی نئی تازہ بات سناؤ؟
+
+[ur]
+حسین: استاد صاحب! حال ہی میں میں نے بیس سال کی لڑکیوں کی ایک کلاس کو تیراکی کی ٹریننگ دینا شروع کی ہے۔
+
+[ur]
+استاد: کیا تم سچ کہہ رہے ہو یا مذاق کر رہے ہو؟
+
+[ur]
+حسین: مذاق کس بات کا؟ استاد صاحب! میں سچ کہہ رہا ہوں۔
+
+[ur]
+استاد: کیا واقعی تم لڑکیوں کو تیراکی کی ٹریننگ دے رہے ہو؟
+
+[ur]
+حسین: کیوں؟ کیا اس میں کوئی حرج ہے؟
+
+[ur]
+استاد: تم کس بنا پر ان لڑکیوں کو ٹریننگ دے رہے ہو، جو بالغ ہیں، نوجوان ہیں اور ان کے جسم پر لباس بھی نہیں ہوتا یا اگر لباس ہو تو اس میں پردے اور شرم و حیا کا نام و نشان نہیں ہوتا۔ اس ماحول میں لڑکیوں کو ٹریننگ دیتے ہوئے تمھیں وہ نصوص یاد نہیں آتیں، جن میں اللہ تعالیٰ نے شرم و حیا اور پاکدامنی کا درس دیا اور مسلمانوں کو نگاہیں جھکا کر رکھنے کی تاکید کی ہے۔
+
+[ur]
+کیا تم نے یہ حدیث نہیں سنی:
+
+[ar]
+# hadith {{H muslim:6755 from ~الْعَيْنَانِ to النَّظَرُ}}
+الْعَيْنَانِ زِنَاهُمَا النَّظَرْ
+
+[ref]
+صحيح البخاري، رقم الحديث [6243] صحيح مسلم، رقم الحديث [2657]

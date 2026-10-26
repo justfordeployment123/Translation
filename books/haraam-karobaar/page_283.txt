@@ -1,0 +1,43 @@
+# title: Page 283
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 283 (PDF page 284), اکتالیسواں باب: جفتی کے لیے سانڈ کرائے پر دینا
+# The page starts with the new chapter (page 282 ends the previous one) and ends with a full dialogue turn.
+# The Arabic term «بَيْعُ عَسْبِ الْفَحْلِ» in the teacher's last turn is followed by «(...) کہتے ہیں», so it is typed inside the turn's [ur] block
+# (read in the Urdu flow), its quote marks dropped and the stopping form on its last word.
+# Print typo corrected: "عَسَبِ" -> "عَسْبِ" (the word is ʿasb, as in the hadith on page 284, Abu Dawud 3429 and Bukhari 2284).
+# The name is printed «ابوجمعہ»; it is typed «ابو جمعہ», as on pages 263 and 279.
+
+[h]
+اکتالیسواں باب: جفتی کے لیے سانڈ کرائے پر دینا
+
+[ur]
+ابو جمعہ: بھنسی صاحب! کیا آپ کا بیل حویلی میں ہے؟
+
+[ur]
+بھنسی: ہاں، حویلی میں فلاں جگہ پر باندھا ہوا ہے۔
+
+[ur]
+ابو جمعہ: ہم نے گائے لگوانی ہے۔
+
+[ur]
+بھنسی: جب چاہے لگوا لینا۔
+
+[ur]
+ابو جمعہ: بھنسی یار! کل میں گائے فلاں بوڑھے کی حویلی میں لے کر گیا تھا، اس نے مجھ سے دس درہم مانگے تھے۔
+
+[ur]
+بھنسی: یہ تو ظلم ہے، معاملات میں لوگ دوسروں پر ذرا ترس نہیں کھاتے، استاد صاحب! اس بارے میں آپ کی کیا رائے ہے؟
+
+[ur]
+استاد: کس چیز کے بارے میں؟
+
+[ur]
+ابو جمعہ: ہم لوگ جب جانوروں کو حاملہ کرواتے ہیں تو سانڈ کے مالک اس کی بھاری قیمت وصول کرتے ہیں۔
+
+[ur]
+استاد: کیا واقعی اس کے پیسے وصول کیے جاتے ہیں؟
+
+[ur]
+بھنسی: ہاں، تو کیا اس میں کوئی حرج ہے؟
+
+[ur]
+استاد: ہاں، یہ حرام اور فاسد بیع ہے، اصطلاح میں اسے بَيْعُ عَسْبِ الْفَحْلْ (سانڈ کی جفتی فروخت کرنا) کہتے ہیں۔

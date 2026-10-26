@@ -1,0 +1,11 @@
+# title: Page 15
+# English edition of book page 15, built by build_english.py from en_src/ and page_015.txt
+
+[en]
+It had been torn to pieces, and it became united. It had been overpowered, and it became dominant.
+
+[en]
+The creed of Tawhid is the expression and proclamation of the Oneness of Allah alone, who has no partner. This pure and clear creed continued, firmly established, in unbroken succession, until, with the passage of time and the course of life, and in accordance with the divine decree, people entered the religion in whose hearts pure Tawhid had not taken root. Then corruption crept into people's beliefs, and they fell into disagreement and disunity. Deviant thinking and false doctrines were born. Tribulations began to raise their heads and innovations began to spread. Then came a time when eyes rolled and hearts rose to the throats. Mountains of trials fell upon the Muslims. Darkness began to spread everywhere. At such a time Allah the Exalted raised up the imams of guidance as towers of light. They showed people the way to the lamp of Prophethood and pointed them to the road to the fortress of faith. They separated the genuine from the false. And by removing the doubts raised by the followers of falsehood, they set people once again on the methodology of the Righteous Predecessors.
+
+[en]
+The history of the Muslim Ummah tells us that the honour and greatness of this Ummah, its eminence and its supremacy, and the dignity and standing of the Muslims in the eyes of other nations were established and maintained only by virtue of the correct creed. As long as this Ummah turned to Allah with a sincere heart, followed the Sunnah of the Prophet, kept to the methodology of the Righteous Predecessors and obeyed its rulers, other nations always paid it tribute. It also tells us that the humiliation and disgrace, the decline and helplessness of the Muslim Ummah, and the domination of other nations over it came about as a result of the spread of shirk and innovation, sectarianism and rebellion against its rulers, because of which the Muslim Ummah fell into political turmoil.

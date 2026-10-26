@@ -1,0 +1,38 @@
+# title: Page 285
+# English edition of book page 285, built by build_english.py from en_src/ and page_285.txt
+
+[en]
+Besides the evidence above, there are some other things too which show that this sale is invalid.
+
+[en]
+Bahnasi: What are they?
+
+[en]
+Teacher: First: It is a sale involving deception; that is, a person is never fully certain whether his cow has become pregnant by that bull or not.
+
+[en]
+Second: It is the sale of something unknown, that is, something undetermined.
+
+[en]
+Third: The whole matter depends on the bull, which is why the cow sometimes has to be mated again and again. So when the cow did not become pregnant at all the first time, what was the hire or payment given for?
+
+[en]
+Abu Jum'a: It does often happen that we have to take the cow to the bull again and again.
+
+[en]
+Teacher: For any deal to be valid, three conditions must be met in it:
+
+[en]
+First: There must be no deception in it.
+
+[en]
+Second: There must be no uncertainty, that is, nothing hidden, in it.
+
+[en]
+Third: The thing being sold must be fully owned. In this sale, all three of these conditions are missing.
+
+[en]
+Bahnasi: Teacher! We give the bull more feed than the rest of the cattle so that it keeps its strength. That is why we charge for its hire.
+
+[en]
+Teacher: This objection is pointless, because you have to feed it in any case, whether it does the work of mating or not.

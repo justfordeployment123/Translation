@@ -1,0 +1,41 @@
+# title: Page 194
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 194 (PDF page 195), پچیسواں باب: غلیل کی خرید و فروخت
+# The page opens with the second item (②, read «دوسری») of the list of reasons on page 193; the teacher's turn continues.
+# Item ③ («تیسری») of the same list comes after two dialogue turns.
+# The lead-in «امام نووی فرماتے ہیں:» is printed on its own line and is its own block, as Ibn Hajar's on page 193. Imam an-Nawawi's quoted words
+# open with the Arabic term «اَلْخَذْف», kept inside the sentence's [ur] block (read in the Urdu flow), with the quote marks
+# around it and at the end of the explanation dropped, as on pages 56 and 138.
+# Print typo corrected: "اَلْخَذَف" -> "اَلْخَذْف" (the word is al-khadhf, as in Bukhari 5479 on page 193).
+# The teacher's list of the two kinds of means (boxed 1, 2) is not read as numbers: each item starts with its own label
+# («جائز وسائل:», «ناجائز وسائل:» on page 195).
+# "مکلّف" is typed with its printed shadda.
+
+[ur]
+دوسری: کنکر وغیرہ پھینکنے میں کسی طرح بھی بھلائی کا عنصر موجود نہیں ہے، بلکہ اس میں شر، فساد اور لڑائی کا سامان پایا جاتا ہے، مثلاً کسی کا دانت ٹوٹ سکتا ہے، آنکھ پھوٹ سکتی ہے اور لڑائی کی نوبت آ سکتی ہے۔
+
+[ur]
+امام نووی فرماتے ہیں:
+
+[ur]
+اَلْخَذْف سے مراد کوئی کنکر یا گٹھلی وغیرہ دو انگلیوں کے درمیان رکھ کر پھینکنا ہے اور اس میں کئی قسم کے مفاسد پائے جاتے ہیں۔
+
+[ref]
+شرح صحيح مسلم للنووي [106-105/13]
+
+[ur]
+دکاندار: استاد صاحب! آپ کی بات سے تو پتا چلتا ہے کہ اس سے مراد صرف ہاتھ سے کوئی چیز پھینکنا ہے نہ کہ غلیل وغیرہ سے پھینکنا مراد ہے؟
+
+[ur]
+استاد: آپ میری پوری بات تو سن لیں، ان شاء اللہ آپ کا یہ اشکال بھی دور ہو جائے گا۔
+
+[ur]
+تیسری: کوئی بھی عاقل بالغ اور سمجھ دار مسلمان یہ نہیں کہہ سکتا کہ ہر طرح کی ضرورت ہر طرح کے وسیلے کو جائز کر دیتی ہے۔
+
+[ur]
+دکاندار: تو پھر ہم کیا کہیں گے؟
+
+[ur]
+استاد: ہم یہ کہیں گے کہ وسائل اور ذرائع کی دو قسمیں ہیں اور ان کے کچھ احکام ہیں:
+
+[ur]
+جائز وسائل: یہ وہ وسائل ہیں جن کا دار و مدار مکلّف ٹھہرائے جانے والے پانچ احکام کے ساتھ ہے، وہ پانچ احکام یہ ہیں: واجب، حرام، مندوب، مکروہ اور جائز۔ یعنی اگر ضرورت واجب کے زمرے میں آتی ہے تو اس کا ذریعہ بننے والی چیز بھی واجب ہی ہوگی، اسی طرح اگر وہ جائز ہے تو اس کا ذریعہ اور وسیلہ اختیار کرنا بھی جائز ہوگا۔

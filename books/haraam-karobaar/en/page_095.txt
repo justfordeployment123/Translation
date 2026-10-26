@@ -1,0 +1,35 @@
+# title: Page 95
+# English edition of book page 95, built by build_english.py from en_src/ and page_095.txt
+
+[hen]
+Chapter Nine: Polishing Old Gold and Selling It at the Price of New Gold
+
+[en]
+Teacher: Ammar! I think we should go to the jeweller's shop opposite. My daughter has completed the Noble Quran, and I have to buy her a ring as a gift.
+
+[en]
+Ammar: As you command.
+
+[en]
+The teacher and the student both went into the jeweller's shop and began looking at the designs of the jewellery displayed in the frames. Suddenly the Shaykh saw that the shopkeeper was sitting in a corner polishing old gold, and his son was picking up the polished gold piece by piece and putting it in the cabinet.
+
+[en]
+Teacher: May Allah bless you! What are you doing?
+
+[en]
+Boy: We polish old gold and sell it as though it were new.
+
+[en]
+Teacher: In surprise: At the price of new gold?
+
+[en]
+Boy: Yes. After polishing, it shines as though it were completely new, and the difference between new and old disappears completely.
+
+[en]
+Teacher: Turning to the shopkeeper: Is this boy telling the truth?
+
+[en]
+Shopkeeper: So is there anything wrong with doing this?
+
+[en]
+Teacher: This is outright deception. The noble Prophet, peace be upon him, said:

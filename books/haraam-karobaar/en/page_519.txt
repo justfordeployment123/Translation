@@ -1,0 +1,23 @@
+# title: Page 519
+# English edition of book page 519, built by build_english.py from en_src/ and page_519.txt
+
+[hen]
+Chapter Eighty-Six: Working in a Factory for Alcohol, Cigarettes and the Like
+
+[en]
+After the Maghrib prayer, the teacher gave a lesson that strengthened faith, on the factors that keep a person steadfast in the religion. The lesson did so much to reform hearts that tears were flowing from people's eyes and their hearts were trembling with the fear of Allah. When the lesson was over, Ammar began the question session, and among the questions was this one.
+
+[en]
+Ammar: The questioner asks: Teacher, we would like to know: what is the ruling of the Shariah on working in a factory for alcohol, cigarettes and the like?
+
+[en]
+Teacher: Working in places where forbidden things are done falls under cooperating in sin and aggression. In the matter of alcohol, Allah the Exalted has cursed ten people. The Messenger of Allah, peace be upon him, said:
+
+[ar]
+لَعَنَ اللَّهُ الْخَمْرَ وَشَارِبَهَا، وَسَاقِيَهَا، وَبَائِعَهَا، وَمُبْتَاعَهَا، وَعَاصِرَهَا، وَمُعْتَصِرَهَا، وَحَامِلَهَا، وَالْمَحْمُولَةَ إِلَيْهْ، وَآكِلَ ثَمَنِهَا
+
+[ref]
+سنن أبي داود، رقم الحديث [3674] صحيح الجامع، رقم الحديث [5091]
+
+[en]
+“Allah the Exalted has cursed all of these: alcohol, the one who drinks it, the one who serves it, the one who sells it, the one who buys it, the one who presses it, the one for whom it is pressed, the one who carries it, the one to whom it is carried, and the one who consumes its price.”

@@ -1,0 +1,8 @@
+# title: Page 191
+# English edition of book page 191, built by build_english.py from en_src/ and page_191.txt
+
+[en]
+The real reason why alcohol, gambling and the like are forbidden is exactly this: they give rise to hostility and enmity among Muslims. And remember that whatever fosters enmity is forbidden. Likewise, everyone knows the kind of fights that break out among children because of card games and the like.
+
+[en]
+Shopkeeper: I believe in Allah, and soon I will give up buying and selling them too.

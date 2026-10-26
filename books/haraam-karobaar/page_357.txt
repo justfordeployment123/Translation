@@ -1,0 +1,40 @@
+# title: Page 357
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 357 (PDF page 358), باونواں باب: اصلی اور نئے پرزے نکال کر ان کی جگہ پرانے اور استعمال شدہ پرزے لگا دینا
+# Page 356 ends with a full sentence (item ①); the page opens with a new paragraph of the teacher's turn, without his name.
+# Item ② of the list («وجوہات») is read «دوسری». «ہوگی» is kept as printed.
+# Print typo corrected: "کہ تم ۔نے مجھ سے" -> "کہ تم نے مجھ سے" (a stray full stop inside the sentence).
+# Hadith 1: Ibn Majah 2246 (as the book cites), filled in two excerpts so it pauses at the book's comma (as on page 152).
+# Proofreader please check: the book prints «لِمُسْلِمٍ أَنْ يَبْتَاعَ مِنْ أَخِيهِ»; Ibn Majah 2246 has «لِمُسْلِمٍ بَاعَ مِنْ أَخِيهِ», and no report in the
+# collections has the book's words, so the official text is read.
+# Hadith 2: the same hadith and join as on page 152: the book cites Muslim 102 but prints «أَفَلَا جَعَلْتَهُ فَوْقَ الطَّعَامِ حَتَّى يَرَاهُ النَّاسُ! مَنْ غَشَّنَا
+# فَلَيْسَ مِنَّا»; Muslim 102 (284 in the hadith-api) has "كَيْ يَرَاهُ النَّاسُ مَنْ غَشَّ فَلَيْسَ مِنِّي". The book's words are joined from Tirmidhi 1315
+# (the same story, "أَفَلاَ جَعَلْتَهُ ... حَتَّى يَرَاهُ النَّاسُ") and Ibn Majah 2225 (the same saying about a seller of grain, "مَنْ غَشَّنَا فَلَيْسَ مِنَّا"),
+# with the book's "!" between. Its Urdu translation starts on page 358 and is there.
+# Proofreader please check: this join uses two Companions' reports of the same saying: Tirmidhi 1315 is Abu Hurayrah's report (the
+# story Muslim 102 tells) and Ibn Majah 2225 is Abu al-Hamra's report (a man selling food in a container, «مَنْ غَشَّنَا فَلَيْسَ مِنَّا»).
+
+[ur]
+اگر فریقین میں سے کوئی ایک سودے کے بارے میں ابہام کا شکار ہو یا جس چیز پر دونوں متفق ہوں، اس کے علاوہ کوئی اور چیز ڈال دینا دھوکا ہے اور یہ حرام ہے۔ گاہک پر جب یہ حقیقت واضح ہوگی کہ تم نے وہ پرزہ نہیں ڈالا جس کی قیمت وصول کی ہے تو لازمی بات ہے وہ تم سے لڑے گا اور کہے گا کہ تم نے مجھ سے وعدہ خلافی کی ہے۔
+
+[ur]
+دوسری: جس سودے یا پرزے پر دونوں کا اتفاق ہوا تھا، اس کے علاوہ کوئی اور پرزہ ڈال دینا جو قیمت میں اس سے کم ہو، یہ ملاوٹ ہے اور نبی مکرم ﷺ سے اس کی ممانعت منقول ہے۔ مثلاً آپ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H ibnmajah:2246 from الْمُسْلِمُ to أَخُو الْمُسْلِمِ}}، {{H ibnmajah:2246 from وَلاَ يَحِلُّ to لَهُ}}
+الْمُسْلِمُ أَخُو الْمُسْلِمْ، وَلاَ يَحِلُّ لِمُسْلِمٍ بَاعَ مِنْ أَخِيهِ بَيْعًا فِيهِ عَيْبٌ إِلاَّ بَيَّنَهُ لَهْ
+
+[ref]
+سنن ابن ماجه، رقم الحديث [2246]
+
+[ur]
+“مسلمان مسلمان کا بھائی ہے، کسی مسلمان کے لیے جائز نہیں کہ وہ اپنے بھائی کو عیب والی چیز فروخت کرے ہاں، البتہ جب وہ اس عیب کو واضح کر دے (تو جائز ہے)۔”
+
+[ur]
+ایک دوسری روایت میں ہے کہ رسول اللہ ﷺ بازار میں ایک سودا فروخت کرنے والے آدمی کے پاس سے گزرے، وہ غلہ بیچ رہا تھا، آپ ﷺ نے اس غلے (کے ڈھیر) میں اپنا ہاتھ داخل کیا تو آپ ﷺ کے ہاتھ کو تری پہنچی۔ آپ ﷺ نے فرمایا: غلے والے! یہ کیا ہے؟ اس نے جواب دیا: اے اللہ کے رسول ﷺ! بارش کی وجہ سے یہ گیلا ہو گیا تھا، آپ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H tirmidhi:1315 from أَفَلاَ to النَّاسُ}}! {{H ibnmajah:2225 from مَنْ غَشَّنَا to مِنَّا}}
+أَفَلاَ جَعَلْتَهُ فَوْقَ الطَّعَامِ حَتَّى يَرَاهُ النَّاسْ! مَنْ غَشَّنَا فَلَيْسَ مِنَّا
+
+[ref]
+صحيح مسلم، رقم الحديث [102]

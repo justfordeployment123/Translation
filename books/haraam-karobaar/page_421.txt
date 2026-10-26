@@ -1,0 +1,44 @@
+# title: Page 421
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 421 (PDF page 422), چونسٹھواں باب: سرکاری یا کمپنی کی گاڑی کا ناجائز استعمال
+# The page opens with the Urdu translation of the hadith printed at the foot of page 420; the teacher's turn continues without his name.
+# Print typo corrected: "میں وعدہ کرتا ہو کہ" -> "میں وعدہ کرتا ہوں کہ".
+# Print typo corrected: "ایک، بات تم نے یہ کہی ہے" -> "ایک بات تم نے یہ کہی ہے" (a stray comma-like mark between the two words).
+# Checked: the small dot after «عادت» ("کہ عقل اور عادت. اسی وقت معتبر ہوگی") is a speck at the baseline, the same as the one after
+# «سکتے» in the line above, and not the book's dash-shaped full stop «۔»; typed "کہ عقل اور عادت اسی وقت معتبر ہوگی".
+# «جزاك الله خيراً! السلام عليكم ورحمة الله.» and «وعليكم السلام ورحمة الله.» are set in Arabic type inside Urdu turns; they are kept
+# in the Urdu blocks, in Urdu letters, as set phrases. The narration «کرایہ وصول کرتے ہوئے:» (printed without brackets) stays in the
+# driver's turn, as printed.
+# The chapter ends on this page with the driver's full turn; the rest of the page is blank. Page 422 is the round's «خلاصہ».
+
+[ur]
+“مسلمان اپنی شرائط پر پورا اترتے ہیں۔”
+
+[ur]
+جن شرائط پر تم کام کر رہے ہو، اگر ان میں یہ شرط بھی شامل ہے کہ تم ذاتی استعمال کر سکتے ہو اور اپنے عزیز و اقارب کو بھی مفت سفر کروا سکتے ہو تو ٹھیک ہے۔ ایک بات تم نے یہ کہی ہے کہ عقل اسے تسلیم نہیں کرتی تو یاد رکھو کہ عقل اور عادت اسی وقت معتبر ہوگی، جب شریعت کی مخالفت لازم نہ آئے اور جہاں عقل شریعت کی مخالفت کی طرف دھکیل رہی ہو، وہاں عقل کو خاطر میں نہیں لایا جائے گا۔
+
+[ur]
+ڈرائیور: استاد! آپ کا شکریہ، آج آپ نے میری توجہ کافی ایسے امور کی طرف دلائی ہے، جن سے میں آگاہ نہ تھا اور میں وعدہ کرتا ہوں کہ آپ کی نصیحتوں پر عمل کروں گا۔
+
+[ur]
+استاد: اللہ تعالیٰ آپ کو نیکی کی توفیق عطا فرمائے۔ اب یہ بتاؤ کہ ہم دونوں کا کتنا کرایہ ہے؟
+
+[ur]
+ڈرائیور: اتنی وعظ و نصیحت کے بعد اب کرائے کی کسر رہتی ہے، مہربانی آپ کرایہ رہنے دیں۔
+
+[ur]
+استاد: نہیں، آپ کو کرایہ وصول کرنا پڑے گا۔
+
+[ur]
+ڈرائیور: چلیں آپ صرف ایک پاؤنڈ دے دیں۔
+
+[ur]
+استاد: اگر اس سے زیادہ بنتا ہے تو زیادہ لے لو۔
+
+[ur]
+ڈرائیور: نہیں اتنا ہی کافی ہے۔
+
+[ur]
+استاد: جزاک اللہ خیراً! السلام علیکم ورحمۃ اللہ۔
+
+[ur]
+ڈرائیور: کرایہ وصول کرتے ہوئے: وعلیکم السلام ورحمۃ اللہ۔

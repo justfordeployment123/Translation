@@ -1,0 +1,29 @@
+# title: Page 167
+# English edition of book page 167, built by build_english.py from en_src/ and page_167.txt
+
+[en]
+One day I went there and saw the workers packing tomatoes. I was very surprised to see the way they were packing the tomatoes. It was this: one man was putting the poor, bad and small tomatoes on one pile, while he put the big, fine and sound tomatoes on another pile. After that, a second man would put about three parts of tomatoes from the bad pile at the bottom of the basket and one part from the good pile, and then pack the basket.
+
+[en]
+Teacher: The owner asked the workers: What are you doing?
+
+[en]
+Worker: This too is a way of selling goods.
+
+[en]
+Teacher: Oh brother! This is adulteration and deception, and it is forbidden.
+
+[en]
+Worker: Maulana! Find some leeway in the religion. We have to sell these tomatoes whatever happens; besides, everyone does it this way.
+
+[en]
+Teacher: No. Empty these baskets right now, and never do this again. And remember! There are only two ways of selling tomatoes, fruit and so on:
+
+[en]
+First: Mix them all together, the bad and the good, the poor and the fine, the small and the large, and put the mixed tomatoes into the basket in the same way at the top, the bottom and the middle, so that the buyer can tell at a single glance what quality the goods are.
+
+[en]
+Second: Pack the bad and poor ones separately and the good and fine ones separately, and set a separate price for each.
+
+[en]
+Worker: All right, from now on we will do it this way, but very soon we will face a loss, and as a result we will be forced to go back to the old way.

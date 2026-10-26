@@ -1,0 +1,8 @@
+# title: Page 522
+# English edition of book page 522, built by build_english.py from en_src/ and page_522.txt
+
+[en]
+“Whoever drinks alcohol and becomes drunk, his prayer of forty days will not be accepted, and if he dies (without repenting), he will enter Hell. If he repents, Allah will accept his repentance. If he drinks alcohol again and becomes drunk, then (once more) his prayer will not be accepted for forty days; (during that time) if he dies without repenting, he will enter Hell, and if he repents, Allah will accept his repentance. If he drinks alcohol again (a third time) and becomes drunk, his prayer of forty days will not be accepted. If he dies, he will enter Hell, and if he repents, Allah will accept his repentance. If he drinks alcohol again (a fourth time), then Allah the Exalted has taken it upon Himself to give him radghat al-khabal to drink on the Day of Resurrection. The noble Companions, may Allah be pleased with them, asked: O Messenger of Allah, peace be upon him! What is this radghat al-khabal? He, peace be upon him, said: The pus and filth of the people of Hell.”
+
+[en]
+All these texts prove that the sin of being involved in the matter of alcohol in any way at all is the same. Cigarettes and the like, however, are even more strictly forbidden than alcohol, because their harm is greater than the harm of alcohol. And just as these things are forbidden in themselves, so too helping to produce them, working at it, and taking wages and the like for it are forbidden; indeed, it is the fire of Hell, which a person puts into his stomach in the form of provision.

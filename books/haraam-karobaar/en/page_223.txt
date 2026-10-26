@@ -1,0 +1,23 @@
+# title: Page 223
+# English edition of book page 223, built by build_english.py from en_src/ and page_223.txt
+
+[hen]
+Chapter Thirty: Taking Bribes in Return for Work
+
+[en]
+As promised, Ammar went to his teacher. When he asked permission to enter the house, the teacher seated him in the sitting room and showed him hospitality; after that, the teacher and his student set off for the education office. On arriving there, the teacher went to the room of his old classmate, Muhammad Atif. As soon as Atif saw them, he came forward, embraced the teacher, seated him with honour and respect, and served him cold water. He was delighted to meet his old friend Teacher Salih, and asked him the reason for his unexpected visit to the office today.
+
+[en]
+Atif: All well, I hope? What brings you here today?
+
+[en]
+Teacher: Yes, we had some important business with you, and we also thought that this would give us a chance to see you.
+
+[en]
+Atif: Teacher! What is the business? Just say the word.
+
+[en]
+Teacher: I have come to have my son Umair's matriculation certificate issued.
+
+[en]
+Atif: I will see whether Abbas, the head of this section, has come in yet or not.

@@ -1,0 +1,41 @@
+# title: Page 520
+# English edition of book page 520, built by build_english.py from en_src/ and page_520.txt
+
+[en]
+According to this hadith, a person who works in an alcohol factory certainly becomes deserving of the curse through one of the following five acts:
+
+[en]
+First: Selling.
+
+[en]
+Second: Drinking.
+
+[en]
+Third: Pressing.
+
+[en]
+Fourth: Carrying.
+
+[en]
+Fifth: Consuming its price.
+
+[en]
+Working in places where war is declared on Allah and His Messenger, peace be upon him, and which are under a curse, is the same as needlessly making oneself accursed. Allah the Exalted says in the Noble Quran:
+
+[ar]
+إِنَّمَا الْخَمْرُ وَالْمَيْسِرُ وَالْأَنْصَابُ وَالْأَزْلَامُ رِجْسٌ مِنْ عَمَلِ الشَّيْطَانِ فَاجْتَنِبُوهُ لَعَلَّكُمْ تُفْلِحُونْ
+
+[ref]
+[المائدة: 90]
+
+[en]
+Indeed, intoxicants, gambling, (sacrificing on) stone alters (to other than Allah), and divining arrows are but defilement from the work of Satan, so avoid it that you may be successful.
+
+[en]
+This blessed verse is the strongest proof that alcohol is forbidden. In it, drinking alcohol is joined with the ansab, which were the gods and idols of the disbelievers. After this verse no argument is left for those who say that there is no clear command making alcohol forbidden. In the hadith an even sterner warning has come. It is narrated from Jabir, may Allah be pleased with him, that the Messenger of Allah, peace be upon him, said:
+
+[ar]
+إِنَّ عَلَى اللَّهِ عَزَّ وَجَلَّ عَهْدًا لِمَنْ يَشْرَبُ الْمُسْكِرَ أَنْ يَسْقِيَهُ مِنْ طِينَةِ الْخَبَالْ، قَالُوا يَا رَسُولَ اللَّهْ، وَمَا طِينَةُ الْخَبَالْ، قَالَ عُصَارَةُ أَهْلِ النَّارْ
+
+[ref]
+صحيح مسلم، رقم الحديث [1587]

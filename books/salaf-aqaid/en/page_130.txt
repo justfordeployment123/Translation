@@ -1,0 +1,53 @@
+# title: Page 130
+# English edition of book page 130, built by build_english.py from en_src/ and page_130.txt
+
+[en]
+Thus knowledge and action are inseparable; the two are never apart from each other. Action is the face of knowledge and its essence.
+
+[en]
+Most of the evidence of the Quran and the Sunnah shows that faith has many degrees and branches. Faith both increases and decreases. The faith of different believers is also greater or lesser. Allah the Exalted says:
+
+[ar]
+وَيَزْدَادَ الَّذِينَ آمَنُوا إِيمَانَا
+
+[en]
+And those who have believed will increase in faith.
+
+[ref]
+المدثر 31:74.
+
+[en]
+And He says:
+
+[ar]
+فَزَادَتْهُمْ إِيمَانَا
+
+[en]
+It has increased them in faith.
+
+[ref]
+التوبة 124:9.
+
+[en]
+And He says:
+
+[ar]
+وَإِذَا تُلِيَتْ عَلَيْهِمْ آيَاتُهُ زَادَتْهُمْ إِيمَانًا وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونْ
+
+[en]
+And when His verses are recited to them, it increases them in faith; and upon their Lord they rely.
+
+[ref]
+الأنفال 2:8.
+
+[en]
+And He says:
+
+[ar]
+هُوَ الَّذِي أَنْزَلَ السَّكِينَةَ فِي قُلُوبِ الْمُؤْمِنِينَ لِيَزْدَادُوا إِيمَانًا مَعَ إِيمَانِهِمْ
+
+[en]
+It is He who sent down tranquillity into the hearts of the believers that they would increase in faith along with their (present) faith.
+
+[ref]
+الفتح 4:48.

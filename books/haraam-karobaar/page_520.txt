@@ -1,0 +1,56 @@
+# title: Page 520
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 520 (PDF page 521), چھیاسیواں باب: شراب اور سگریٹ وغیرہ کی فیکٹری میں کام کرنے کا بیان
+# The end of the hadith's translation at the top of the page ("اور جس کی طرف اٹھائی جا رہی ہو ... لعنت فرمائی ہے۔”") is on page 519.
+# The numbered list (①–⑤, printed in two rows) is read as words: پہلا ... پانچواں (the items are کام).
+# Al-Ma'idah 5:90 is printed from «إِنَّمَا الْخَمْرُ» to its end (without «يَا أَيُّهَا الَّذِينَ آمَنُوا»); that part is filled from the official text.
+# The last hadith (Jabir) continues on page 521 ("مِنْ طِينَةِ الْخَبَالِ ... عُصَارَةُ أَهْلِ النَّارِ"); it is kept whole here, with its footnote ①,
+# printed at the foot of page 521. Its Urdu translation starts on page 521 and stays there.
+# Hadith (Jabir): Muslim 5217 (sunnah.com numbering of Muslim 2002), in excerpts that pause at the end of the Prophet's words, at the
+# book's «!» and «؟» (not at the colons after قَالُوا / قَالَ). Muslim's answer is "عَرَقُ أَهْلِ النَّارِ أَوْ عُصَارَةُ أَهْلِ النَّارِ"; the book
+# prints only "قَالَ: عُصَارَةُ أَهْلِ النَّارِ", which is taken from Nasa'i 5709 (the same hadith of Jabir, same chain: "أَوْ قَالَ عُصَارَةُ أَهْلِ النَّارِ").
+# Proofreader please check: the book's footnote reads "صحيح مسلم، رقم الحديث [1587]"; this hadith is Muslim 2002 (1587 is a hadith on
+# gold and silver). The printed reference is kept.
+# Checked: the word after «اعلانِ» is faded in the scan; on the extracted page image only the two top strokes of a گ and a speck show, in the
+# width of «جنگ», which is the only reading that fits the fixed phrase «اللہ اور اس کے رسول ﷺ سے اعلانِ جنگ». Typed «اعلانِ جنگ».
+# «الٰہ» is printed with the small alif.
+
+[ur]
+اس حدیث کے مطابق شراب کی فیکٹری میں کام کرنے والا شخص مندرجہ ذیل پانچ کاموں میں سے کسی ایک کی وجہ سے ضرور لعنت کا مستحق بنتا ہے:
+
+[ur]
+پہلا: بیچنا۔
+
+[ur]
+دوسرا: پینا۔
+
+[ur]
+تیسرا: نچوڑنا۔
+
+[ur]
+چوتھا: اٹھانا۔
+
+[ur]
+پانچواں: اس کی قیمت کھانا۔
+
+[ur]
+ایسی جگہیں جہاں اللہ اور اس کے رسول ﷺ سے اعلانِ جنگ کیا جاتا ہو اور لعنت زدہ ہوں، وہاں کام کرنا خواہ مخواہ اپنے آپ کو لعنتی بنانے کے مترادف ہے۔ اللہ تعالیٰ قرآن مجید میں ارشاد فرماتے ہیں:
+
+[ar]
+# quran 5:90 from إِنَّمَا الْخَمْرُ to لَعَلَّكُمْ تُفْلِحُونَ
+إِنَّمَا الْخَمْرُ وَالْمَيْسِرُ وَالْأَنْصَابُ وَالْأَزْلَامُ رِجْسٌ مِنْ عَمَلِ الشَّيْطَانِ فَاجْتَنِبُوهُ لَعَلَّكُمْ تُفْلِحُونْ
+
+[ref]
+[المائدة: 90]
+
+[ur]
+“بات یہی ہے کہ شراب اور جوا اور شرک کے لیے نصب کردہ چیزیں اور فال کے تیر سراسر گندے ہیں، شیطان کے کام سے ہیں، سو اس سے بچو، تاکہ تم فلاح پاؤ۔”
+
+[ur]
+یہ آیت مبارکہ شراب کی حرمت کی سب سے قوی دلیل ہے، اس میں شراب نوشی کو انصاب کے ساتھ ملایا گیا ہے جو کافروں کے الٰہ اور بت تھے، اس آیت کے بعد ان لوگوں کے پاس کوئی دلیل باقی نہیں رہتی، جو کہتے ہیں کہ شراب کی حرمت کا واضح حکم موجود نہیں ہے۔ حدیث میں اس سے بھی سخت وعید آئی ہے۔ حضرت جابر رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H muslim:5217 from إِنَّ عَلَى to الْخَبَالِ}}، {{H muslim:5217 from قَالُوا to اللَّهِ}}، {{H muslim:5217 from وَمَا طِينَةُ to الْخَبَالِ}}، {{H nasai:5709 from قَالَ عُصَارَةُ to النَّارِ}}
+إِنَّ عَلَى اللَّهِ عَزَّ وَجَلَّ عَهْدًا لِمَنْ يَشْرَبُ الْمُسْكِرَ أَنْ يَسْقِيَهُ مِنْ طِينَةِ الْخَبَالْ، قَالُوا يَا رَسُولَ اللَّهْ، وَمَا طِينَةُ الْخَبَالْ، قَالَ عُصَارَةُ أَهْلِ النَّارْ
+
+[ref]
+صحيح مسلم، رقم الحديث [1587]

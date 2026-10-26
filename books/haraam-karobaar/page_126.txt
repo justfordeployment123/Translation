@@ -1,0 +1,45 @@
+# title: Page 126
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 126 (PDF page 127), تیرھواں باب: پھٹے پرانے نوٹوں کو کم قیمت کے عوض فروخت کرنا (end)
+# The first line of the page ("رو سے ایک ہزار روپے ... فروخت کرنا چاہیے۔") ends a sentence that is on page 125, where it starts; the teacher's turn continues here.
+# Hadith: Bukhari 2312 (the book cites Bukhari [2312] and Muslim [1594]), filled from "أَوَّهْ" to the first "الرِّبَا".
+# Proofreader please check: the print vowels the third word "عَيْنَ" (fatha); Bukhari 2312 has "عَيْنُ الرِّبَا", which is filled.
+# Proofreader please check: the Urdu names «عبد اللہ بن عمر رضی اللہ عنہما» as the narrator, but both hadiths the book cites
+# (Bukhari 2312, Muslim 1594 = Muslim 4083 here) are narrated by Abu Sa'id al-Khudri; the Urdu is typed as printed.
+# The narration in brackets inside the teacher's turn ("(عمار کی باری آئی ... واپس ہوئے)") stays in his block, as printed (as on page 53).
+
+[ur]
+عبد اللہ بن عمر رضی اللہ عنہما سے مروی ہے کہ بلال رضی اللہ عنہ نبی اکرم ﷺ کے پاس عمدہ قسم کی کھجوریں لے کر آئے۔ نبی کریم ﷺ نے پوچھا: یہ کہاں سے آئی ہیں؟ بلال رضی اللہ عنہ نے کہا: میرے پاس ہلکی کھجوریں تھیں، میں نے ان میں سے دو صاع بیچ کر ان کے بدلے یہ ایک صاع عمدہ کھجوریں خریدی ہیں، تاکہ نبی اکرم ﷺ کو کھلا سکوں۔ آپ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H bukhari:2312 from أَوَّهْ to الرِّبَا}}
+أَوَّهْ أَوَّهْ عَيْنُ الرِّبَا
+
+[ref]
+صحيح البخاري، رقم الحديث [2312] صحيح مسلم، رقم الحديث [1594]
+
+[ur]
+“اوہ، اوہ، یہ تو بالکل سود ہے۔”
+
+[ur]
+حضرت بلال رضی اللہ عنہ کے اس فعل پر نبی مکرم ﷺ کی تنقید اس بات کی واضح دلیل ہے کہ اس طرح کی خرید و فروخت درست نہیں ہے، جس میں ربوی چیز کسی دوسری ربوی چیز کے بدلے برابر اور نقد نہ ہو۔
+
+[ur]
+آدمی: شیخ! اللہ آپ کو جزا دے۔
+
+[ur]
+استاد: آپ کو بھی (عمار کی باری آئی تو اس نے اپنی کرنسی تبدیل کروائی اور یہ کہتے ہوئے واپس ہوئے)۔
+
+[ur]
+عمار: شیخ! اللہ آپ کو جزا دے، آپ کا کافی وقت لیا ہے۔
+
+[ur]
+استاد: عمار تمھارا کام ہو گیا ہے؟
+
+[ur]
+عمار: ہاں شیخ ہو گیا ہے۔
+
+[ur]
+استاد: اللہ کا شکر ہے! آؤ چلیں۔
+
+[ur]
+عمار: ٹھیک ہے۔

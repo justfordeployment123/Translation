@@ -1,0 +1,38 @@
+# title: Page 43
+# English edition of book page 43, built by build_english.py from en_src/ and page_043.txt
+
+[en]
+According to these blessed verses, giving short measure and weight, or taking more than one's due, is forbidden.
+
+[en]
+The Messenger of Allah, peace be upon him, said:
+
+[ar]
+خَمْسٌ بِخَمْسْ، مَا نَقَضَ قَوْمٌ الْعَهْدَ إِلَّا سُلِّطَ عَلَيْهِمْ عَدُوُّهُمْ، وَمَا حَكَمُوْا بِغَيْرِ مَا أَنْزَلَ اللَّهُ إِلَّا فَشَا فِيْهِمُ الْفَقْرْ، وَلَا ظَهَرَتْ فِيْهِمُ الْفَاحِشَةُ إِلَّا فَشَا فِيْهِمُ الْمَوْتْ، وَلَا طَفَّفُوْا الْمِكْيَالَ إِلَّا مُنِعُوْا النَّبَاتْ، وَأُخِذُوْا بِالسِّنِيْنْ، وَلَا مَنَعُوْا الزَّكَاةَ إِلَّا حُبِسَ عَنْهُمُ الْقَطْرْ
+
+[ref]
+صحيح الجامع، رقم الحديث [3240]
+
+[en]
+“Five things will come in return for five deeds:
+
+[en]
+First: Any people who break a covenant will have their enemies set over them.
+
+[en]
+Second: Any people who judge by something other than the commands Allah the Exalted has revealed will be overcome by poverty and want.
+
+[en]
+Third: Among any people in whom indecency becomes widespread, deaths will be many.
+
+[en]
+Fourth: Any people who give short measure and weight will see no greenery (vegetation) grow for them, and they will be struck by years of famine.
+
+[en]
+Fifth: Any people who stop paying zakat will have no rain sent down on them.”
+
+[en]
+Abu Shawqi! Listen to an incident of people who gave short measure and weight, which happened to them in their lifetime. This incident is very sad and full of lessons.
+
+[en]
+Abu Shawqi: Shaykh! What is that incident?

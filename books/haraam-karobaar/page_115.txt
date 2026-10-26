@@ -1,0 +1,20 @@
+# title: Page 115
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 115 (PDF page 116), گیارھواں باب: زیورات خریدتے وقت ان کے ساتھ لگے ہوئے موتیوں کو اتار دینا اور بیچتے وقت ان کو ساتھ شمار کر کے وزن کرنا (end)
+# The page starts with a new dialogue turn and ends with a full one; the rest of the page is blank. The round's summary starts on page 116.
+# The parenthetical narration «(دونوں گھر کو روانہ ہوئے)» stays inside the teacher's turn, as on page 53.
+# Proofreader please check: "استاد: عمار: کیا تم مجھے ..." is typed as printed; the colon after the vocative "عمار" may stand for "!".
+
+[ur]
+سالم: وعلیکم السلام ورحمۃ اللہ۔
+
+[ur]
+عمار: استاد صاحب! اب کہاں کا ارادہ ہے؟
+
+[ur]
+استاد: اب گھر چلتے ہیں۔ (دونوں گھر کو روانہ ہوئے)
+
+[ur]
+استاد: عمار: کیا تم مجھے بتا سکتے ہو کہ آج ہم نے کتنے لوگوں کو دعوت دی ہے اور کس کس برائی سے لوگوں کو منع کیا ہے؟
+
+[ur]
+عمار: جی استاد صاحب! میں بتاتا ہوں۔

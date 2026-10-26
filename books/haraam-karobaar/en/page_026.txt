@@ -1,0 +1,35 @@
+# title: Page 26
+# English edition of book page 26, built by build_english.py from en_src/ and page_026.txt
+
+[en]
+Allah the Exalted has described those who are forbidden in marriage in this way:
+
+[ar]
+حُرِّمَتْ عَلَيْكُمْ أُمَّهَاتُكُمْ وَبَنَاتُكُمْ وَأَخَوَاتُكُمْ وَعَمَّاتُكُمْ وَخَالَاتُكُمْ وَبَنَاتُ الْأَخِ وَبَنَاتُ الْأُخْتِ وَأُمَّهَاتُكُمُ اللَّاتِي أَرْضَعْنَكُمْ وَأَخَوَاتُكُمْ مِنَ الرَّضَاعَةِ وَأُمَّهَاتُ نِسَائِكُمْ
+
+[ref]
+[النساء: 23]
+
+[en]
+Prohibited to you (for marriage) are your mothers, your daughters, your sisters, your father's sisters, your mother's sisters, your brother's daughters, your sister's daughters, your (milk) mothers who nursed you, your sisters through nursing, your wives' mothers.
+
+[en]
+With regard to earning wealth, Allah the Exalted has described the forbidden things in this way:
+
+[ar]
+وَأَحَلَّ اللَّهُ الْبَيْعَ وَحَرَّمَ الرِّبَا
+
+[ref]
+[البقرة: 275]
+
+[en]
+But Allah has permitted trade and has forbidden interest.
+
+[en]
+Concerning lawful things, Allah the Exalted has laid down a principle: all pure things are lawful, and because there are so many of them, Allah the Exalted has not listed them. With forbidden things, on the contrary, Allah the Exalted has set them out in detail and listed them, so that we may know them well and avoid them. Allah the Exalted says:
+
+[ar]
+وَقَدْ فَصَّلَ لَكُمْ مَا حَرَّمَ عَلَيْكُمْ إِلَّا مَا اضْطُرِرْتُمْ إِلَيْهْ
+
+[ref]
+[الأنعام: 119]

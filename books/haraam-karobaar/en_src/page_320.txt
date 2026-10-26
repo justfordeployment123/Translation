@@ -1,0 +1,22 @@
+# English source for book page 320
+
+[en]
+O young man! You have heard countless proofs and the opinions of the scholars. Now tell me, what do you think?
+
+[en]
+Young man: If keeping a beard is such an important obligation, then why do most of our scholars trim their beards?
+
+[en]
+Teacher: O young man! We have been commanded to follow Allah the Exalted; we have certainly not been commanded to follow ordinary people. We should take our proof only from a clear text, that is, from the Quran and the hadith. What someone else does should be no concern of ours.
+
+[en]
+The Dar al-Ifta of Egypt has a unanimous fatwa that keeping a beard is obligatory.
+
+[en]
+In view of all these proofs, we should not fall short in the matter of the beard even slightly. Listen also to one more blessed verse of the Noble Quran! Allah the Exalted says:
+
+[en]
+{{QEN 33:36}}
+
+[en]
+Allah and His Messenger, peace be upon him, have made growing the beard obligatory and shaving it forbidden. If there is even the slightest trace of faith in you, then follow at once; and if there is no trace of faith, then reflect on your faith, and, fearing to go against Allah and His Messenger, peace be upon him, renew your faith and set it right.

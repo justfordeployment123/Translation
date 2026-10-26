@@ -1,0 +1,20 @@
+# title: Page 479
+# English edition of book page 479, built by build_english.py from en_src/ and page_479.txt
+
+[en]
+Consider this: the noble Prophet, peace be upon him, did not allow a woman to travel without a mahram even for so great an obligation as Hajj. That Companion explained that his name was already on the list of the fighters who were to set out for jihad; even so, the Messenger of Allah, peace be upon him, commanded him to return and go on Hajj with his wife, so that his wife would not travel without a mahram. You know that that woman's journey for Hajj was in obedience to Allah the Exalted, whereas your daughter will every day do work in which there is no element of obedience to Allah and His Messenger, peace be upon him. And most of the passengers on planes are not only sinful and wicked people; disbelievers are among them too, for whom lowering the eyes and guarding the gaze mean nothing at all. It is as if you yourself, with your own hands, are putting your daughter in front of such beasts as have no regard for a woman's chastity.
+
+[en]
+In the Noble Quran, Allah the Exalted says:
+
+[ar]
+قُلْ لِلْمُؤْمِنِينَ يَغُضُّوا مِنْ أَبْصَارِهِمْ
+
+[ref]
+[النور: 30]
+
+[en]
+Tell the believing men to reduce (some) of their vision.
+
+[en]
+And the Lord also says:

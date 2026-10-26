@@ -1,0 +1,20 @@
+# title: Page 37
+# English edition of book page 37, built by build_english.py from en_src/ and page_037.txt
+
+[en]
+This is what is called manhaj as-salaf (the methodology of the Salaf) in Arabic.
+
+[en]
+In this matter, belonging to any particular period is not a condition; rather, the condition is that a person's beliefs, deeds and conduct accord exactly with the Quran and the Sunnah, and that he understands the rulings of the Quran and the Sunnah just as the Salaf understood them. In other words, he acts on the rulings of the Quran and the Sunnah according to the understanding of the Salaf. So whoever acts in accordance with the Quran and the Sunnah is a follower of the Salaf, even if he is far from the Righteous Predecessors in time and place. And whoever goes against them in following the Quran and the Sunnah has no connection with the Salaf, even if he lived in the very age of the Salaf and in their own land. The noble Messenger, peace be upon him, is the imam of the Righteous Predecessors.
+
+[en]
+Allah says:
+
+[ar]
+مُحَمَّدٌ رَسُولُ اللَّهِ ۚ وَالَّذِينَ مَعَهُ أَشِدَّاءُ عَلَى الْكُفَّارِ رُحَمَاءُ بَيْنَهُمْ ۖ تَرَاهُمْ رُكَّعًا سُجَّدًا يَبْتَغُونَ فَضْلًا مِنَ اللَّهِ وَرِضْوَانًا ۖ سِيمَاهُمْ فِي وُجُوهِهِمْ مِنْ أَثَرِ السُّجُودِ ۚ ذَٰلِكَ مَثَلُهُمْ فِي التَّوْرَاةِ ۚ وَمَثَلُهُمْ فِي الْإِنْجِيلِ كَزَرْعٍ أَخْرَجَ شَطْأَهُ فَآزَرَهْ
+
+[en]
+Muhammad is the Messenger of Allah; and those with him are forceful against the disbelievers, merciful among themselves. You see them bowing and prostrating (in prayer), seeking bounty from Allah and (His) pleasure. Their mark is on their faces from the trace of prostration. That is their description in the Torah. And their description in the Gospel is as a plant which produces its offshoots and strengthens them.
+
+[ref]
+الفتح 29:48.

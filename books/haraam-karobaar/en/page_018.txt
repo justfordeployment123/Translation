@@ -1,0 +1,11 @@
+# title: Page 18
+# English edition of book page 18, built by build_english.py from en_src/ and page_018.txt
+
+[en]
+It is hoped that readers will like this engaging style, and that our traders and business people will read it with interest, benefit from it and set their dealings right.
+
+[en]
+We ask Allah the Exalted to make this book a treasure for the Hereafter and a means of raised ranks for its author, translator, publisher and all who helped with it. Amin, O Lord of the worlds.
+
+[ref]
+ابو میمون حافظ عابد الٰہی، مدیر، مکتبہ بیت السلام، ریاض۔ لاہور

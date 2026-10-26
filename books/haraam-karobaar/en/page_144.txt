@@ -1,0 +1,41 @@
+# title: Page 144
+# English edition of book page 144, built by build_english.py from en_src/ and page_144.txt
+
+[en]
+Some of the people of knowledge say:
+
+[en]
+“Najsh means that goods are on offer and buyers are bidding for them, and another man comes along and begins to praise the goods and to bid higher and higher, but he does not want to buy them; rather, he is doing it only to deceive people. Usually this is done with the seller's consent.”
+
+[ref]
+إتحاف الكرام بالتعليق على بلوغ المرام [ص: 233]
+
+[en]
+About this, the Prophet, peace be upon him, said:
+
+[ar]
+الْمَكْرُ وَالْخَدِيْعَةُ فِي النَّارْ
+
+[ref]
+صححه الألباني في صحيح الجامع، رقم الحديث [6725]
+
+[en]
+“Trickery and deception lead to Hell.”
+
+[en]
+How sad it is that those who play such tricks in the markets are so brazenly engaged in these forbidden acts, and so busy amassing wealth by deceiving people! Imam al-Bukhari says:
+
+[en]
+“Selling goods with deception in this way is void and impermissible.”
+
+[en]
+Imam Ibn Battal says:
+
+[en]
+“The scholars agree that the one who deceives is disobedient.”
+
+[ref]
+فتح الباري [355/4]
+
+[en]
+Ibn Abi Awfa says:

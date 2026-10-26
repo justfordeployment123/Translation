@@ -1,0 +1,23 @@
+# title: Page 422
+# English edition of book page 422, built by build_english.py from en_src/ and page_422.txt
+
+[hen]
+Summary of the Taxi Stand Tour
+
+[en]
+The teacher and Ammar got out of the car and went into the hospital. They collected a slip for the check-up and sat down in the waiting room to wait for their turn.
+
+[en]
+Ammar: Teacher! The journey with this driver went very well. Ma sha Allah, you advised him on the following matters:
+
+[en]
+First: Providing taxi services for impermissible purposes.
+
+[en]
+Second: A driver secretly taking more than the sum agreed with the car's owner.
+
+[en]
+Third: Misusing a government or company car.
+
+[en]
+Teacher: Praise be to Allah, Lord of the worlds.

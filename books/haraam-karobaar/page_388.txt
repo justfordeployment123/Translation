@@ -1,0 +1,33 @@
+# title: Page 388
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 388 (PDF page 389), اٹھاونواں باب: فحش رسائل و جرائد کی خرید و فروخت
+# The page starts with the teacher's turn going on from page 387 (which ends with a full sentence).
+# Hadith: Muslim 5582 (sunnah.com numbering of Muslim 2128; the book cites "صحيح مسلم، رقم الحديث [2128]"). The book prints the
+# opening, then "..." (the first kind is left out), then the second kind; the dots are not typed, and the Urdu "..." is kept as printed.
+# The hadith is filled from Muslim 5582 alone, in two excerpts (the pause is at the book's "..."; the book prints no commas in it).
+# Proofreader please check: the book prints «عَارِيَاتٌ مَائِلَاتٌ مُمِيلَاتٌ»; Muslim 5582 has «مُمِيلاَتٌ مَائِلاَتٌ», which is filled.
+# (Muwatta Malik 1658 has the book's order, but it is Abu Hurairah's own words (mawquf), not a report of the Prophet's words,
+# so it is not used.) The book's «رُؤُوسُهُنَّ» is spelled «رُءُوسُهُنَّ» in the source (same pronunciation).
+# «جزاك الله خيراً» is set in Arabic type inside the teacher's Urdu turn; it is kept in the Urdu block, in Urdu letters (جزاک اللہ خیراً).
+# The chapter ends on this page with the teacher's full turn; the rest of the page is blank. Chapter fifty-nine starts on page 389.
+
+[ur]
+رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H muslim:5582 from صِنْفَانِ to أَرَهُمَا}}، {{H muslim:5582 from وَنِسَاءٌ to رِيحَهَا}}
+صِنْفَانِ مِنْ أَهْلِ النَّارِ لَمْ أَرَهُمَا، وَنِسَاءٌ كَاسِيَاتٌ عَارِيَاتٌ مُمِيلاَتٌ مَائِلاَتٌ رُءُوسُهُنَّ كَأَسْنِمَةِ الْبُخْتِ الْمَائِلَةِ لاَ يَدْخُلْنَ الْجَنَّةَ وَلاَ يَجِدْنَ رِيحَهَا
+
+[ref]
+صحيح مسلم، رقم الحديث [2128]
+
+[ur]
+“دوزخیوں کی دو قسمیں ہیں جن کو میں نے نہیں دیکھا ہے... وہ عورتیں جو لباس پہنتی ہیں مگر ننگی رہتی ہیں، دوسروں کو بہکانے والی، خود بہکنے والی، ان کے سر بختی اونٹ کی کوہان کی طرح ایک طرف جھکے ہوئے، وہ جنت میں داخل نہ ہوں گی، بلکہ وہ اس کی خوشبو بھی نہیں پائیں گی۔”
+
+[ur]
+اے اللہ! ہمارے معاشرے سے ایسی چیزوں کو فنا کر دے، جو گناہ اور غلط کاری کا سبب بنتی ہیں اور ہمیں صحیح اسلامی معاشرہ قائم کرنے کی توفیق عطا فرما دے۔
+
+[ur]
+مدیر: اگر شریعت میں یہ اتنا بڑا جرم ہے تو میں آج ہی سے اس کام سے رک جاتا ہوں۔
+
+[ur]
+استاد: جزاک اللہ خیراً۔

@@ -19,7 +19,7 @@ import sys
 import time
 from pathlib import Path
 
-from make_sample import mp3_seconds
+from make_sample import mp3_seconds, parse_page
 
 ROOT = Path(__file__).parent
 MARKER = ".generated-by-export-site"
@@ -63,6 +63,37 @@ BOOKS = [
             149: "لباس، چھینک اور جمائی کی سنتیں", 156: "عام روز مرہ کی سنتیں",
         },
     },
+    {
+        "id": "salaf-aqaid", "title": "سلف صالحین کے عقائد و نظریات", "subtitle": "Salaf-e-Saliheen ke Aqaid o Nazariyat",
+        "en_title": "The Beliefs and Doctrines of the Righteous Predecessors",
+        "author": "الشیخ عبداللہ بن عبدالحمید اثری", "en_author": "Shaykh Abdullah ibn Abd al-Hamid al-Athari",
+        "publisher": "دارالسلام", "en_publisher": "Darussalam",
+        "blurb": "اہل سنت والجماعت کا عقیدہ، اصول بہ اصول، قرآن و حدیث کے دلائل کے ساتھ۔",
+        "en_blurb": "The creed of Ahl as-Sunnah wal-Jama'ah, principle by principle, with its proofs from the Quran and the hadith.",
+        "_editions": {"ur": "sa", "en": "saen"}, "_pages": (10, 196), "_prefix": "salaf-aqaid/",
+        "_scans": "books/salaf-aqaid/scans/page_{n:03d}.jpg",
+        # the book's sections are its principles («پہلا اصول»), not «باب» chapters; labels per edition
+        "_toc": {
+            10: {"ur": "عرضِ ناشر", "en": "Publisher's Note"}, 13: {"ur": "پیش لفظ", "en": "Foreword"},
+            26: {"ur": "مقدمہ", "en": "Introduction"}, 31: {"ur": "ضروری تعریفیں", "en": "Essential Definitions"},
+            60: {"ur": "پہلا اصول: ایمان اور ارکانِ ایمان", "en": "The First Principle: Faith and the Pillars of Faith"},
+            126: {"ur": "دوسرا اصول: حقیقتِ ایمان", "en": "The Second Principle: The Reality of Faith"},
+            139: {"ur": "تیسرا اصول: مسئلہ تکفیر", "en": "The Third Principle: Takfir"},
+            150: {"ur": "چوتھا اصول: وعدہ وعید کی نصوص پر ایمان", "en": "The Fourth Principle: The Promises and the Warnings"},
+            159: {"ur": "پانچواں اصول: دوستی اور دشمنی", "en": "The Fifth Principle: Loyalty and Disavowal"},
+            170: {"ur": "چھٹا اصول: کراماتِ اولیاء کی تصدیق", "en": "The Sixth Principle: The Karamat of the Friends of Allah"},
+            179: {"ur": "ساتواں اصول: احکام و مسائل اخذ کرنے کے ذرائع", "en": "The Seventh Principle: The Sources of Rulings"},
+            188: {"ur": "آٹھواں اصول: مسلمان حکمرانوں کی اطاعت", "en": "The Eighth Principle: Obeying Muslim Rulers"},
+        },
+        "_parts": {
+            10: {"ur": "عرضِ ناشر، پیش لفظ و مقدمہ", "en": "Publisher's Note, Foreword and Introduction"},
+            31: {"ur": "ضروری تعریفیں", "en": "Essential Definitions"},
+            60: {"ur": "پہلا اصول", "en": "The First Principle"}, 126: {"ur": "دوسرا اصول", "en": "The Second Principle"},
+            139: {"ur": "تیسرا اصول", "en": "The Third Principle"}, 150: {"ur": "چوتھا اصول", "en": "The Fourth Principle"},
+            159: {"ur": "پانچواں اصول", "en": "The Fifth Principle"}, 170: {"ur": "چھٹا اصول", "en": "The Sixth Principle"},
+            179: {"ur": "ساتواں اصول", "en": "The Seventh Principle"}, 188: {"ur": "آٹھواں اصول", "en": "The Eighth Principle"},
+        },
+    },
 ]
 TOC_WORDS = ("باب", "مقدمہ", "تمہید", "Chapter", "Introduction", "Preface")
 
@@ -78,7 +109,12 @@ def load_edition(site, book, lang, suffix):
             continue
         sync = json.loads((folder / "sync.json").read_text(encoding="utf-8"))
         index = len(pages)
+        # explanatory footnotes ([fn] / [fen]) are shown as footnote paragraphs, not centred like a reference
+        source = ROOT / "books" / book["id"] / ("en" if lang == "en" else "") / f"page_{n:03d}.txt"
+        notes = {" ".join(x.split()) for tag, x in parse_page(source) if tag in ("fn", "fen")} if source.exists() else set()
         for seg in sync["segments"]:
+            if seg.get("style") == "ref" and seg["text"] in notes:
+                seg = {**seg, "fn": 1}
             if "audio" in seg:
                 dest = f"audio/{prefix}{lang}/{n:03d}_{seg['audio']}"
                 (site / dest).parent.mkdir(parents=True, exist_ok=True)
@@ -100,7 +136,7 @@ def load_edition(site, book, lang, suffix):
         for number, label in book["_toc"].items():
             index = next((k for k, pg in enumerate(pages) if pg["number"] == number), None)
             if index is not None:  # sections not recorded yet are left out
-                toc.append({"label": label, "page": index})
+                toc.append({"label": label[lang] if isinstance(label, dict) else label, "page": index})
     else:  # chapter, introduction and preface headings
         for seg in segments:
             text = " ".join(w["w"] for w in seg.get("words", []))
@@ -120,7 +156,7 @@ def chapter_mp3s(site, chapters, book, lang, edition, url):
     "Chapter" (or, for a book with _parts, on each listed page); the pages before it are the introduction."""
     if "_parts" in book:
         numbers = [pg["number"] for pg in edition["pages"]]
-        starts = {numbers.index(k): v for k, v in book["_parts"].items() if k in numbers}
+        starts = {numbers.index(k): v[lang] if isinstance(v, dict) else v for k, v in book["_parts"].items() if k in numbers}
     else:
         starts = {t["page"]: t["label"].split(":")[0] for t in edition["toc"] if t["label"].startswith(CHAPTER[lang])}
     parts = []

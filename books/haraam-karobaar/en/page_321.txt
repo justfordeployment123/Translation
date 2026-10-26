@@ -1,0 +1,32 @@
+# title: Page 321
+# English edition of book page 321, built by build_english.py from en_src/ and page_321.txt
+
+[en]
+Allah the Exalted says:
+
+[ar]
+فَلْيَحْذَرِ الَّذِينَ يُخَالِفُونَ عَنْ أَمْرِهِ أَنْ تُصِيبَهُمْ فِتْنَةٌ أَوْ يُصِيبَهُمْ عَذَابٌ أَلِيمْ
+
+[ref]
+[النور: 63]
+
+[en]
+So let those beware who dissent from the Prophet's order, lest fitnah strike them or a painful punishment.
+
+[en]
+Young man: What I have understood from all that you have said is that shaving the beard is forbidden and a major sin.
+
+[en]
+Teacher: May Allah the Exalted grant you the ability to accept the truth. Some ignorant people think it is a minor sin, but that idea of theirs is false. You have understood quite rightly that it is a major sin, and sometimes the seriousness of this sin goes beyond that of other major sins, because it is open disobedience of the Shariah, and about one who disobeys openly in this way the Messenger of Allah, peace be upon him, said:
+
+[ar]
+كُلُّ أُمَّتِي مُعَافًى إِلاَّ الْمُجَاهِرِينْ
+
+[ref]
+صحيح البخاري، رقم الحديث [6069] صحيح مسلم، رقم الحديث [2990]
+
+[en]
+“All of my Ummah will be forgiven, except those who sin openly.”
+
+[en]
+In the same way, this offence becomes even greater when people regard the beard as distasteful, make fun of it and say all sorts of things about it, because all the deeds of those who dislike the commands of the Shariah are rendered void.

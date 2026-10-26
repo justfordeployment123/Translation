@@ -1,0 +1,47 @@
+# title: Page 470
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 470 (PDF page 471), خلاصہ
+# The summary of the third smaller round of «پانچواں دورہ» («مسلمان گھرانوں میں ہونے والے حرام کام», title page 441, chapters sixty-nine
+# to seventy-five); the contents (book page 13) list it as «خلاصہ» at page 470. Page 469 ends with a full paragraph.
+# The bracketed narration stands on its own lines between turns; it is its own block.
+# «ماشاء اللہ» is typed «ما شاء اللہ». Ammar's list (①–⑦) is read as words: پہلی ... ساتویں (the items are «چیزیں»).
+# «الحمد لله رب العالمين.» is set in Arabic type as the teacher's turn; it is kept in the Urdu block, in Urdu letters (as on page 377).
+# The page ends with a full turn; the rest of the page is blank. Page 471 is the title page of the next smaller round.
+
+[h]
+خلاصہ
+
+[ur]
+نمازِ عشا کی اذان شروع ہو گئی۔
+
+[ur]
+استاد: آؤ، نماز پڑھنے چلیں، باقی باتیں نماز کے بعد کریں گے۔
+
+[ur]
+(سب لوگ نمازِ عشا ادا کرنے کے لیے مسجد کی طرف جا رہے تھے کہ راستے میں عمار استاد صاحب سے مخاطب ہوا)
+
+[ur]
+عمار: ما شاء اللہ، استاد صاحب! آج آپ نے مندرجہ ذیل چیزوں کی حرمت بیان کی ہے:
+
+[ur]
+پہلی: قبروں پر قرآن مجید پڑھنا اور دیے وغیرہ جلانا۔
+
+[ur]
+دوسری: جادو کرنا۔
+
+[ur]
+تیسری: عطیے وغیرہ میں اولاد کے درمیان عدل و انصاف نہ کرنا۔
+
+[ur]
+چوتھی: وارث کے لیے وصیت کرنا۔
+
+[ur]
+پانچویں: ایک تہائی سے زائد کی وصیت کرنا۔
+
+[ur]
+چھٹی: وصیت کے ذریعے سے کسی وارث کو نقصان پہنچانا۔
+
+[ur]
+ساتویں: عورت کا خاوند کی جیب سے اجازت کے بغیر پیسے نکالنا۔
+
+[ur]
+استاد: الحمد للہ رب العالمین۔

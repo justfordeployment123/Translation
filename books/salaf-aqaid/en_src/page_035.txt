@@ -1,0 +1,10 @@
+# English source for book page 35
+
+[en]
+A man's salaf are his forefathers and those relatives who are older than him and higher in rank (those called aslaf in Urdu). That is why the noble Companions and the eminent Successors are called as-salaf as-salih in Arabic (and Salaf-e-Saliheen in Urdu), that is, the righteous people of the earlier age, the elders of a bygone era.
+
+[en]
+The technical definition of Salaf: All the definitions of “Salaf” given by the scholars of creed centre on this: the Salaf means either the noble Companions; or the noble Companions and the eminent Successors who followed them; or else the Salaf means the noble Companions, the Successors and the followers of the Successors, that is, those imams of the virtuous generations whose leadership, virtue and following of the Sunnah were known and acknowledged, who avoided every kind of innovation, and on whose leadership and great standing in the religion the Ummah is agreed. That is why the people of the first era (the earliest age) are called the Righteous Predecessors. Allah the Exalted says:
+
+[en]
+{{QEN 4:115}}

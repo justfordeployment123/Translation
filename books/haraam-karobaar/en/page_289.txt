@@ -1,0 +1,35 @@
+# title: Page 289
+# English edition of book page 289, built by build_english.py from en_src/ and page_289.txt
+
+[hen]
+Chapter Forty-Two: Not Paying Workers Their Wages
+
+[en]
+Abdul-Khaliq: Bahnasi! Who is that coming?
+
+[en]
+Bahnasi: That is Abdul-Jawwad.
+
+[en]
+Abdul-Khaliq: Look, another problem has turned up.
+
+[en]
+Atiyyah: Is everything all right? What problem has turned up?
+
+[en]
+Abdul-Khaliq: Last week I had Abdul-Jawwad and his companions harvest my wheat. We agreed on a wage of fifteen dirhams a man, but I have not yet been able to pay them.
+
+[en]
+Teacher: Why? Are you in some financial difficulty?
+
+[en]
+Abdul-Khaliq: No, nothing like that, thanks be to Allah.
+
+[en]
+Teacher: If all is well, why have you not yet paid these people, when your work is finished? Are you doing this out of miserliness, or do you want to swallow their wages? They did your work in such intense heat and sun, and this is how you treat them?
+
+[en]
+Abdul-Khaliq: Teacher, I will pay them soon.
+
+[en]
+Teacher: How long? Will you keep these poor people's due with you for another week? Have you not heard this hadith of the Prophet, peace be upon him:

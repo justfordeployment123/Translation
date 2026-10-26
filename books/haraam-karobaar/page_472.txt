@@ -1,0 +1,57 @@
+# title: Page 472
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 472 (PDF page 473), ایسے حرام امور جن کا عموماً عورتیں گھروں میں ارتکاب کرتی ہیں
+# The opening scene of the round «ایسے حرام امور جن کا عموماً عورتیں گھروں میں ارتکاب کرتی ہیں» (title page 471), printed before its
+# first chapter (page 474). Page 471 is a title page, so nothing runs onto this page.
+# The teacher's numbered cases ①–④ are printed inside one paragraph, and ⑤–⑥ on one line after the hadiths; they are read as words
+# that agree with «صورتوں» (پہلی ... چھٹی), each list kept in its block (as on page 438). The print separates these items only by the
+# circled numbers, so a comma is typed before each ordinal word after the first, to keep the pause the numbers give.
+# Hadith 1 (Anas): Sahih al-Bukhari 6292, as the book cites; the print has no salawat after «رَسُولَ اللّٰهِ», so it is filled in two
+# excerpts that leave the source's salawat out (as on page 101), split at the book's comma.
+# Hadith typed from the print (not in the hadith-api collections in this wording): «وَأَمْسَى أَبُوْ بَكْرٍ عِنْدَ النَّبِيِّ ﷺ حَتَّى مَضَى مِنَ
+# اللَّيْلِ مَا شَاءَ اللَّهُ», a narrator's summary that the book cites as Bukhari 602; Bukhari 602 tells it as «وَإِنَّ أَبَا بَكْرٍ تَعَشَّى عِنْدَ
+# النَّبِيِّ ﷺ ... فَجَاءَ بَعْدَ مَا مَضَى مِنَ اللَّيْلِ مَا شَاءَ اللَّهُ». It holds no words of the Prophet. Printed harakat kept, including the sukun on
+# the long vowel in «أَبُوْ»; dagger-alif spellings typed in the standard form («وَأَمْسَى», «حَتَّى», «مَضَى», «اللَّهْ»); «أَبُوْبَكْرٍ», printed as
+# one word, is typed as two; stopping form at the end.
+# "حتی کہ" is printed without the dagger alif; typed "حتیٰ کہ" so the voice reads it right.
+# «یہ چھے لوگ نماز عشا ...» is printed without the zer that the other three «نمازِ عشا» on the page carry; typed as printed.
+# The page ends with "رسول اللہ ﷺ نے فرمایا:"; the hadith it introduces is printed on page 473 and stays there.
+
+[ur]
+عمار: استاد صاحب! کیا نمازِ عشا کے بعد دیر تک جاگنا اور باتیں کرنا مکروہ ہے؟
+
+[ur]
+استاد: مطلقاً نمازِ عشا کے بعد جاگنا مکروہ نہیں ہے، بلکہ بعض صورتوں میں یہ جائز ہے۔ مثلاً پہلی: حصولِ علم کی خاطر، دوسری: مسلمانوں کی اصلاح اور تربیت کی خاطر، تیسری: مہمان سے گفتگو کرنا، چوتھی: اپنے اہل و عیال کی تعلیم و تربیت کی خاطر، یعنی شرعی امور کی غرض سے نمازِ عشا کے بعد جاگنا اور باتیں کرنا درست ہے۔
+
+[ur]
+حضرت انس رضی اللہ عنہ سے روایت ہے:
+
+[ar]
+# hadith {{H bukhari:6292 from أُقِيمَتِ to اللَّهِ}}، {{H bukhari:6292 from فَمَا زَالَ to أَصْحَابُهُ}}
+أُقِيمَتِ الصَّلاَةُ وَرَجُلٌ يُنَاجِي رَسُولَ اللَّهْ، فَمَا زَالَ يُنَاجِيهِ حَتَّى نَامَ أَصْحَابُهْ
+
+[ref]
+صحيح البخاري، رقم الحديث [6292]
+
+[ur]
+“نماز (عشا) کے لیے اقامت کہہ دی گئی اور ایک آدمی رسول اللہ ﷺ سے مسلسل سرگوشی کر رہا تھا، حتیٰ کہ صحابہ کرام کو اونگھ آنے لگی۔”
+
+[ur]
+دوسری روایت میں ہے:
+
+[ar]
+وَأَمْسَى أَبُوْ بَكْرٍ عِنْدَ النَّبِيِّ ﷺ حَتَّى مَضَى مِنَ اللَّيْلِ مَا شَاءَ اللَّهْ
+
+[ref]
+صحيح البخاري، رقم الحديث [602]
+
+[ur]
+“حضرت ابوبکر رضی اللہ عنہ شام کے وقت رسول اللہ ﷺ کے پاس آئے حتیٰ کہ اتنی رات گزر گئی جتنی اللہ نے چاہی۔”
+
+[ur]
+پانچویں: وہ آدمی جو نماز پڑھنا چاہتا ہو، چھٹی: مسافر آدمی۔
+
+[ur]
+یہ چھے لوگ نماز عشا کے بعد جاگ سکتے ہیں۔
+
+[ur]
+رسول اللہ ﷺ نے فرمایا:

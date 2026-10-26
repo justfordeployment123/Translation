@@ -1,0 +1,26 @@
+# title: Page 43
+# English edition of book page 43, built by build_english.py from en_src/ and page_043.txt
+
+[en]
+That is why Allah the Exalted chose them to spread His religion and to convey the Sunnah of the Prophet. The noble Messenger, peace be upon him, said:
+
+[ar]
+تَفْتَرِقُ أُمَّتِي عَلَى ثَلاَثٍ وَسَبْعِينَ مِلَّةْ، كُلُّهُمْ فِي النَّارْ، إِلاَّ مِلَّةً وَاحِدَةْ، قَالُوا وَمَنْ هِيَ يَا رَسُولَ اللَّهْ؟ قَالَ مَا أَنَا عَلَيْهِ وَأَصْحَابِي
+
+[en]
+“My Ummah will split into seventy-three sects, all of which will go to Hell except one sect. The noble Companions asked: Which sect is that, Messenger of Allah? He said: ‘The one that I and my Companions are upon.’”
+
+[ref]
+جامع الترمذي، الإيمان، حديث: 2641.
+
+[en]
+Thus those who follow the Righteous Predecessors and remain on their methodology are called “Salafi”, in relation to the Salaf. In this way they are distinguished from those who do not walk the path shown by the Righteous Predecessors and do not remain on their way. Allah the Exalted says:
+
+[ar]
+وَمَنْ يُشَاقِقِ الرَّسُولَ مِنْ بَعْدِ مَا تَبَيَّنَ لَهُ الْهُدَىٰ وَيَتَّبِعْ غَيْرَ سَبِيلِ الْمُؤْمِنِينَ نُوَلِّهِ مَا تَوَلَّىٰ وَنُصْلِهِ جَهَنَّمَ ۖ وَسَاءَتْ مَصِيرَا
+
+[en]
+And whoever opposes the Messenger after guidance has become clear to him and follows other than the way of the believers - We will give him what he has taken and drive him into Hell, and evil it is as a destination.
+
+[ref]
+النسآء 115:4.

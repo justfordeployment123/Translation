@@ -1,0 +1,67 @@
+# title: Page 112
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 112 (PDF page 113), گیارھواں باب: زیورات خریدتے وقت ان کے ساتھ لگے ہوئے موتیوں کو اتار دینا اور بیچتے وقت ان کو ساتھ شمار کر کے وزن کرنا
+# Items ②–⑤ of the list of five sins started on page 111, read as words: دوسرا، تیسرا، چوتھا، پانچواں.
+# Hud 11:85 and Al-Isra 17:35 are quoted in part; filled from the official text (fill_quran.py). The reference «[الإسرآء: 35]» is typed with the letters printed.
+# Item ④ is printed as one sentence around the verse: «اللہ تعالیٰ کے واضح فرمان: [verse, translation] کی مخالفت، کیونکہ ...»; typed in that order.
+# Hadith typed from the print (not in the hadith-api collections): «كُلُّ جَسَدٍ نَبَتَ مِنْ سُحْتٍ فَالنَّارُ أَوْلَى بِهِ», the book cites الطبراني في الكبير
+# and صحيح الجامع 4519 (Tirmidhi 614 has only a similar wording, "لاَ يَرْبُو لَحْمٌ نَبَتَ مِنْ سُحْتٍ ..."). "أَوْلٰى" typed as "أَوْلَى"; waqf on the last word.
+# Proofreader please check: the print has "نُبِتَ" and "مِنَ"; typed "نَبَتَ" (as in Tirmidhi 614 and on page 19) and "مِنْ" (no hamzat al-wasl follows).
+# An-Nisa 4:9 starts at the bottom of the page and ends on page 113 ("عَلَيْهِمْ فَلْيَتَّقُوا اللَّهَ وَلْيَقُولُوا قَوْلًا سَدِيدًا"); it is kept whole here,
+# with its reference «[النساء: 9]», printed on page 113. Its translation starts on page 113 and stays there.
+
+[ur]
+دوسرا: زیورات سے موتیوں کو الگ نہ کر کے رسول اللہ ﷺ کے واضح حکم کی مخالفت ہوتی ہے۔
+
+[ur]
+تیسرا: اللہ تعالیٰ ارشاد فرماتے ہیں:
+
+[ar]
+# quran 11:85 from وَلَا تَبْخَسُوا to أَشْيَاءَهُمْ
+وَلَا تَبْخَسُوا النَّاسَ أَشْيَاءَهُمْ
+
+[ref]
+[هود: 85]
+
+[ur]
+“اور لوگوں کو ان کی چیزیں کم نہ دو۔”
+
+[ur]
+کسی کی حق تلفی کرنا بہت بڑا ظلم ہے۔ یہ لوگوں کی حق تلفی ہے کہ ایک چیز خریدتے وقت تم علاحدہ کر لیتے ہو اور فروخت کرتے وقت اسے ساتھ ہی رکھتے ہو۔
+
+[ur]
+چوتھا: اللہ تعالیٰ کے واضح فرمان:
+
+[ar]
+# quran 17:35 from وَزِنُوا to الْمُسْتَقِيمِ
+وَزِنُوا بِالْقِسْطَاسِ الْمُسْتَقِيمْ
+
+[ref]
+[الإسرآء: 35]
+
+[ur]
+“اور سیدھی ترازو کے ساتھ وزن کرو۔”
+
+[ur]
+کی مخالفت، کیونکہ اس طریقے سے ترازو درست نہیں رہتا، بلکہ اس میں کجی آ جاتی ہے۔
+
+[ur]
+پانچواں: نبی مکرم ﷺ نے فرمایا:
+
+[ar]
+كُلُّ جَسَدٍ نَبَتَ مِنْ سُحْتٍ فَالنَّارُ أَوْلَى بِهْ
+
+[ref]
+الطبراني في الكبير [135/19] صحيح الجامع، رقم الحديث [4519]
+
+[ur]
+“ہر وہ جسم جس نے حرام سے پرورش پائی، آگ اس کی زیادہ حق دار ہے۔”
+
+[ur]
+غور کرو! تم اس طریقے سے حرام روزی خود بھی کھا رہے ہو اور اپنے بیوی بچوں کو بھی کھلا رہے ہو۔ اللہ تعالیٰ ارشاد فرماتے ہیں:
+
+[ar]
+# quran 4:9 from وَلْيَخْشَ الَّذِينَ to قَوْلًا سَدِيدًا
+وَلْيَخْشَ الَّذِينَ لَوْ تَرَكُوا مِنْ خَلْفِهِمْ ذُرِّيَّةً ضِعَافًا خَافُوا عَلَيْهِمْ فَلْيَتَّقُوا اللَّهَ وَلْيَقُولُوا قَوْلًا سَدِيدَا
+
+[ref]
+[النساء: 9]

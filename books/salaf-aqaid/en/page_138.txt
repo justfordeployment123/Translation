@@ -1,0 +1,17 @@
+# title: Page 138
+# English edition of book page 138, built by build_english.py from en_src/ and page_138.txt
+
+[en]
+It is reported that Abdullah ibn Abbas, may Allah be pleased with them both, used to call his slaves one by one and say to each of them: “Shall I not get you married? When a servant commits adultery, Allah the Exalted takes the light of faith away from him.”
+
+[ref]
+فتح الباري: 72/12.
+
+[en]
+Ikrimah, may Allah have mercy on him, asked how faith is taken away. He said: “Like this (he interlaced the fingers of both hands, then separated them to show him). If he repents, faith comes back like this (saying this, he interlaced the fingers of both hands to show him).”
+
+[ref]
+صحيح البخاري، الحدود، تحت حديث: 6809.
+
+[en]
+This completes the details of the second principle, “The Reality of Faith”, among the principles of the religion that are established according to Ahl as-Sunnah wal-Jama'ah. Now the details of the position of Ahl as-Sunnah wal-Jama'ah on the third principle, that is, the question of takfir, are presented. Takfir is a word of the Arabic language; it means “declaring an individual a disbeliever.”

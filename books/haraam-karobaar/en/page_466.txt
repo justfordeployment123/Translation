@@ -1,0 +1,14 @@
+# title: Page 466
+# English edition of book page 466, built by build_english.py from en_src/ and page_466.txt
+
+[en]
+Second: Making a will of more than a third, against the ruling of the Shariah.
+
+[en]
+Third: Some people turn to the courts to achieve their wicked aims, and the courts themselves are the kind that give judgements against the Quran and the Sunnah. So in matters of wills the court rules in favour of the person for whom the will was made, the case is closed by giving the real heir a small share, and he is bound by the ruling that his share comes to only this much and that he is not entitled to anything more.
+
+[en]
+Abdur-Rahim: Teacher! I have understood this, but I want to know the answer to one more question.
+
+[en]
+Teacher: What is the question?

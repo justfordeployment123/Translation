@@ -1,0 +1,17 @@
+# title: Page 51
+# English edition of book page 51, built by build_english.py from en_src/ and page_051.txt
+
+[en]
+Fourth: They do not get drawn into religious disputes. They keep apart from those who get drawn into religious disputes. In questions of the lawful and the unlawful, they avoid quarrelling and argument. They take up the religion wholly, in the complete sense.
+
+[en]
+Fifth: They hold the Righteous Predecessors in great honour. From the depths of their hearts they acknowledge that the way of thinking of the Righteous Predecessors is more cautious and safer, very deep in knowledge and most firmly grounded.
+
+[en]
+Sixth: They reject ta'wil (figurative interpretation) of the texts. They submit to the rulings of the Shariah. They give transmission (the texts) precedence over reason (mental notions and opinions). They make reason (mental notions) subordinate to transmission (the texts).
+
+[en]
+Seventh: They seek to reconcile and harmonise the different texts relating to one issue, and they refer the mutashabih (a text open to different meanings) back to the muhkam (a text explicit in meaning, that is, a text whose sense is clear).
+
+[en]
+Eighth: They stand firm on the truth and do not turn away from it. In matters of creed they remain in agreement with one another. They are both scholars and worshippers. They put their trust in Allah and also make use of means and causes. They acquire the goods of this world but never let go of piety. They fear the displeasure of Allah and hope for His mercy.

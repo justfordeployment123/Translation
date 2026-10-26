@@ -1,0 +1,15 @@
+# title: Page 499
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 499 (PDF page 500), چھٹا دورہ
+# A framed title page (no page number printed): the sixth and last of the large rounds, with the list of its two
+# smaller rounds. The list numbers (①–②) are read as words: پہلا، دوسرا (they count rounds, as on pages 31, 301 and 403).
+# The first item is printed on two lines; it is one item. The second item is printed without a full stop; typed as printed.
+# Book page 498 (before it) is blank and has no file, so nothing runs onto this page.
+
+[h]
+چھٹا دورہ
+
+[ur]
+پہلا: فحش تصاویر والے ملبوسات اور اونچی ایڑھی والے جوتوں کی خرید فروخت کا بیان۔
+
+[ur]
+دوسرا: چند متفرق حرام کام

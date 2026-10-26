@@ -1,0 +1,53 @@
+# title: Page 284
+# English edition of book page 284, built by build_english.py from en_src/ and page_284.txt
+
+[en]
+Bahnasi: Teacher! Is everything forbidden? Things we have seen done since the days of our forefathers, you are declaring forbidden? Until today we have never heard that they are forbidden. What evidence do you have that earnings from a bull are forbidden?
+
+[en]
+Teacher: Servant of Allah, I am not declaring it forbidden on my own; rather, the Shariah has made it forbidden.
+
+[en]
+It is narrated from Abdullah ibn Umar, may Allah be pleased with them both:
+
+[ar]
+نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ عَسْبِ الْفَحْلْ
+
+[ref]
+صحيح البخاري، رقم الحديث [2284]
+
+[en]
+“The Messenger of Allah, peace be upon him, forbade taking payment for a male animal's mating.”
+
+[en]
+It is narrated from Jabir, may Allah be pleased with him:
+
+[ar]
+نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ بَيْعِ ضِرَابِ الْجَمَلْ
+
+[ref]
+صحيح مسلم، رقم الحديث [1565]
+
+[en]
+“The Messenger of Allah, peace be upon him, forbade taking payment for putting a male camel to a female.”
+
+[en]
+It is narrated from Abdullah ibn Abbas, may Allah be pleased with them both:
+
+[ar]
+نَهَى رَسُوْلُ اللَّهِ ﷺ عَنْ بَيْعِ الْمَلَاقِيْحْ
+
+[ref]
+صحيح الجامع، رقم الحديث [6937]
+
+[en]
+“The Messenger of Allah, peace be upon him, forbade the sale of what is in the wombs of camels.”
+
+[en]
+Imam Ibn al-Mundhir, may Allah have mercy on him, said:
+
+[en]
+“The scholars agree that charging a price for the mating of animals is an invalid sale.”
+
+[ref]
+الإجماع [ص: 474]

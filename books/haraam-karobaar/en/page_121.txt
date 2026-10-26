@@ -1,0 +1,26 @@
+# title: Page 121
+# English edition of book page 121, built by build_english.py from en_src/ and page_121.txt
+
+[en]
+The words of the Messenger of Allah, peace be upon him:
+
+[ar]
+يَدًا بِيَدْ
+
+[en]
+“Hand to hand (in cash).” This is clear proof that taqabud (completing the exchange) is required in the very sitting where the buying and selling takes place. This same principle is also accepted in matters of interest (riba): when a ribawi item is bought or sold for another ribawi item that is not of its own kind, taqabud in the same sitting is a condition.
+
+[en]
+In the currency exchange you have just made, too, you must complete the deal in the same sitting.
+
+[en]
+Malik ibn Aws, may Allah be pleased with him, says: I turned to the noble Companions and asked: Who will give dirhams in exchange for dinars? Talhah ibn Ubaidullah, may Allah be pleased with him, was with Umar ibn al-Khattab, may Allah be pleased with him, at the time. He said: Show us your gold (dinars); when our servant comes, we will give you silver in exchange for it. Umar, may Allah be pleased with him, said: Certainly not! By Allah, you must give him the silver at once or return his gold (dinars) to him, for the Messenger of Allah, peace be upon him, said:
+
+[ar]
+الْوَرِقُ بِالذَّهَبِ رِبًا إِلاَّ هَاءَ وَهَاءْ، وَالشَّعِيرُ بِالشَّعِيرِ رِبًا إِلاَّ هَاءَ وَهَاءْ، وَالتَّمْرُ بِالتَّمْرِ رِبًا إِلاَّ هَاءَ وَهَاءْ
+
+[ref]
+صحيح البخاري، رقم الحديث [2134] صحيح مسلم، رقم الحديث [1586]
+
+[en]
+“Selling silver for gold is interest, except when it is in cash (then it is permissible); selling wheat for wheat is interest, except when it is in cash (then it is permissible); selling barley for barley is interest, except when it is in cash (then it is permissible); selling dates for dates is interest, except when it is in cash (then it is permissible).”

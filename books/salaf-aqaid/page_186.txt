@@ -1,0 +1,26 @@
+# title: Page 186
+# Salaf-e-Saliheen ke Aqaid o Nazariyat, book page 186 (PDF page 183), ساتواں اصول: احکام و مسائل اخذ کرنے کے ذرائع اور طریق استدلال
+# The first words of the page ("رکھتا ہے اس پر لازم ہے ... دوسرے امام کی دلیل راجح ہو۔") end a sentence that is on page 185, where it
+# starts. The paragraph goes on here as a nameless [ur] block.
+# The footnote text below the rule ends footnote ① of page 184 (on taqlid). Its first words ("انسان ہی ہوں۔ ... اسے چھوڑ دو۔”") end
+# Imam Malik's quotation, which starts on page 185 and is typed whole there; the rest is typed here in [fn] blocks after the page's own
+# blocks, one per printed paragraph. Al-A'raf 7:3 quoted inside it is filled from the official text on its own line of the [fn] block,
+# ornamental brackets dropped, with its printed translation and reference after it.
+# The page ends with An-Nahl 16:43 (quoted from «فَاسْأَلُوا»), filled from the official text; its Urdu translation is printed on page 187
+# and stays there, followed by its footnote ① ("النحل 43:16."), printed there, whose marker is after the translation.
+
+[ur]
+اس کے لیے دلیل جانے بغیر کسی کے قول پر کار بند ہونا جائز نہیں کیونکہ اس طرح وہ مقلد بن جائے گا۔ اختلافی مسائل میں طالب علم کو چاہیے کہ پوری کوشش سے راجح مَوقف اختیار کرے اور اگر اس کے لیے ترجیح ممکن نہ ہو تو اس کا حکم عام آدمی کا ہوگا، چنانچہ وہ اہل علم سے سوال کرے اور جہاں تک عام آدمی کا تعلق ہے تو اس کا مسلک اس کے مفتی والا ہوتا ہے، تاہم اس پر واجب ہے کہ وہ اہل علم سے کتاب و سنت کے بارے میں سوال کرے کیونکہ ارشاد باری تعالیٰ ہے:
+
+[ar]
+# quran 16:43 from فَاسْأَلُوا to تَعْلَمُونَ
+فَاسْأَلُوا أَهْلَ الذِّكْرِ إِنْ كُنْتُمْ لَا تَعْلَمُونْ
+
+[fn]
+امام شافعی رحمہ اللہ نے فرمایا: “ہر وہ مسئلہ جس کے بارے میں کوئی حدیث اصحابِ حدیث کے نزدیک صحیح ہو اور وہ میرے قول کے خلاف جاتی ہو تو میں اپنی زندگی میں اور مرنے کے بعد بھی اپنے اس قول سے رجوع کرتا ہوں۔” امام احمد رحمہ اللہ نے فرمایا: “میری تقلید مت کرو، نہ مالک کی تقلید کرو، نہ شافعی کی، نہ اوزاعی کی اور نہ ثوری کی، کسی کی تقلید نہ کرو۔ وہاں سے اخذ کرو جہاں سے انھوں نے اخذ کیا۔”
+
+[fn]
+ائمہ کے بیشتر اقوال اس مضمون سے متعلق ملتے ہیں، اس لیے کہ وہ اس ارشادِ باری تعالیٰ کا مفہوم خوب سمجھتے تھے:
+# quran 7:3 from اتَّبِعُوا to تَذَكَّرُونَ
+اتَّبِعُوا مَا أُنْزِلَ إِلَيْكُمْ مِنْ رَبِّكُمْ وَلَا تَتَّبِعُوا مِنْ دُونِهِ أَوْلِيَاءَ ۗ قَلِيلًا مَا تَذَكَّرُونْ
+“تم اس (ہدایت) کی پیروی کرو جو تمھارے رب کی طرف سے تمھاری جانب نازل کی گئی ہے اور تم اس کے علاوہ (اور) دوستوں کی پیروی نہ کرو، تم بہت ہی کم نصیحت حاصل کرتے ہو۔” (الأعراف 3:7)

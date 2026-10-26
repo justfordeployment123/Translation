@@ -1,0 +1,38 @@
+# title: Page 68
+# English edition of book page 68, built by build_english.py from en_src/ and page_068.txt
+
+[en]
+The Oneness of worship requires that worship be done for Allah the Exalted alone, and for no one else.
+
+[en]
+Worship is of two kinds: the speech of the heart and the tongue, and the action of the heart and of the other working limbs of the body. The Noble Quran says:
+
+[ar]
+قُلْ إِنَّ صَلَاتِي وَنُسُكِي وَمَحْيَايَ وَمَمَاتِي لِلَّهِ رَبِّ الْعَالَمِينْ
+
+[ar]
+لَا شَرِيكَ لَهُ ۖ وَبِذَٰلِكَ أُمِرْتُ وَأَنَا أَوَّلُ الْمُسْلِمِينْ
+
+[en]
+Say, “Indeed, my prayer, my rites of sacrifice, my living and my dying are for Allah, Lord of the worlds. No partner has He. And this I have been commanded, and I am the first (among you) of the Muslims.”
+
+[ref]
+الأنعام 162:6 ،163.
+
+[en]
+In another place Allah the Exalted says:
+
+[ar]
+أَلَا لِلَّهِ الدِّينُ الْخَالِصْ
+
+[en]
+Unquestionably, for Allah is the pure religion.
+
+[ref]
+الزمر 3:39.
+
+[en]
+Second, worship should be in accordance with the teachings of Allah and His Messenger, peace be upon him.
+
+[en]
+Thus, when the Oneness of Allah is upheld in worship, obedience and humble submission, the requirements of (there is no god but Allah) are fulfilled. And by following the Messenger of Allah, peace be upon him, completely in this, the requirements of (Muhammad is the Messenger of Allah) are fulfilled.

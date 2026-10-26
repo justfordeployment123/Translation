@@ -1,0 +1,11 @@
+# title: Page 144
+# English edition of book page 144, built by build_english.py from en_src/ and page_144.txt
+
+[ar]
+كَانَ رَجُلاَنِ فِي بَنِي إِسْرَائِيلَ مُتَآخِيَيْنْ، فَكَانَ أَحَدُهُمَا يُذْنِبْ، وَالآخَرُ مُجْتَهِدٌ فِي الْعِبَادَةْ، فَكَانَ لاَ يَزَالُ الْمُجْتَهِدُ يَرَى الآخَرَ عَلَى الذَّنْبْ، فَيَقُولُ أَقْصِرْ، فَوَجَدَهُ يَوْمًا عَلَى ذَنْبْ، فَقَالَ لَهُ أَقْصِرْ، فَقَالَ خَلِّنِي وَرَبِّي أَبُعِثْتَ عَلَيَّ رَقِيبَا؟ فَقَالَ وَاللَّهْ! لاَ يَغْفِرُ اللَّهُ لَكْ، أَوْ لاَ يُدْخِلُكَ اللَّهُ الْجَنَّةْ، فَقُبِضَ أَرْوَاحُهُمَا، فَاجْتَمَعَا عِنْدَ رَبِّ الْعَالَمِينْ، فَقَالَ لِهَذَا الْمُجْتَهِدِ أَكُنْتَ بِي عَالِمَا، أَوْ كُنْتَ عَلَى مَا فِي يَدِي قَادِرَا؟ وَقَالَ لِلْمُذْنِبِ اذْهَبْ فَادْخُلِ الْجَنَّةَ بِرَحْمَتِي، وَقَالَ لِلآخَرِ اذْهَبُوا بِهِ إِلَى النَّارْ، قَالَ أَبُو هُرَيْرَةَ وَالَّذِي نَفْسِي بِيَدِهْ! لَتَكَلَّمَ بِكَلِمَةْ، أَوْبَقَتْ دُنْيَاهُ وَآخِرَتَهْ
+
+[en]
+“There were two men of the Children of Israel who had become brothers to each other. One of them used to sin, while the other strove hard in worship. Whenever the one who strove in worship saw the other sinning, he would say: Stop. One day he saw him sinning and said: Stop. The one who was sinning replied: That is between me and my Lord; leave me to my Lord. Have you been sent as a watcher over me? The one who strove said: By Allah, Allah will not forgive you (or he said: Allah will not admit you to Paradise). Then the souls of both were taken, and they were gathered before the Lord of the worlds. Allah the Exalted said to the one who strove: Did you have knowledge about Me? Or did you have power over what is in My hand? Then Allah the Exalted said to the sinner: Go and enter Paradise by My mercy. And about the other He said: Take him to Hell.” Abu Hurairah, may Allah be pleased with him, said: “By the One in whose hand is my soul, he spoke a word that ruined his world and his Hereafter.”
+
+[ref]
+سنن أبي داود، الأدب، حديث: 4901.

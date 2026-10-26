@@ -1,0 +1,41 @@
+# title: Page 473
+# English edition of book page 473, built by build_english.py from en_src/ and page_473.txt
+
+[ar]
+لاَ سَمَرَ إِلاَّ لِمُصَلٍّ أَوْ مُسَافِرْ
+
+[ref]
+مسند أحمد، رقم الحديث [3917] الصحيحة، رقم الحديث [2435]
+
+[en]
+“Staying up at night is not permissible, except for a person who wants to pray or who intends to travel.”
+
+[en]
+It is narrated from Anas, may Allah be pleased with him:
+
+[ar]
+نَظَرْنَا النَّبِيَّ ذَاتَ لَيْلَةٍ حَتَّى كَانَ شَطْرُ اللَّيْلِ يَبْلُغُهْ
+
+[ref]
+صحيح البخاري، رقم الحديث [600]
+
+[en]
+“One night we watched for the noble Prophet, peace be upon him, until a large part of the night had passed.”
+
+[ar]
+وَكَانَ ﷺ يَسْمُرُ هُوَ وَأَبُوْ بَكْرٍ وَعُمَرُ فِي الْأَمْرِ مِنْ أُمُوْرِ الْمُسْلِمِيْنْ
+
+[ref]
+سنن الترمذي، رقم الحديث [169] الصحيحة، رقم الحديث [2781]
+
+[en]
+“The Messenger of Allah, peace be upon him, Abu Bakr and Umar, may Allah be pleased with them both, used to talk after Isha about the affairs of the Muslims.”
+
+[en]
+However, staying up and talking for purposes outside the Shariah is disliked. The purpose for which we will stay up and talk after the Isha prayer today is not only permissible but recommended.
+
+[en]
+Ammar: Praise be to Allah! You have put my mind at rest.
+
+[en]
+After praying Isha in congregation, everyone came back to the house. The teacher quickly set food before them and kept welcoming them with words of blessing. They all ate together, and after that the teacher honoured them with various fruits.

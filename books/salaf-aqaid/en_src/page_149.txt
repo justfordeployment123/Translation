@@ -1,0 +1,4 @@
+# English source for book page 149
+
+[en]
+“There are two things among people that are disbelief on their part: taunting someone about his family (lineage) and wailing over the dead.”

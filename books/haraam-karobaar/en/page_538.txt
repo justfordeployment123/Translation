@@ -1,0 +1,23 @@
+# title: Page 538
+# English edition of book page 538, built by build_english.py from en_src/ and page_538.txt
+
+[hen]
+Chapter Ninety: Not Repaying Debts
+
+[en]
+Ammar: What is the ruling in the Shariah on a man who takes loans from people but has no intention of paying them back?
+
+[en]
+Teacher: The rights of Allah's servants have a very great standing with Allah the Exalted. Shortcomings in the rights of Allah are forgiven through repentance, but the matter of the rights of His servants is the opposite. They are not forgiven until the person concerned forgives them. Indeed, on the Day of Resurrection a person will not be given his warrant of success until he has come out clear in the matter of the rights of Allah's servants. And at that time a person will have no dirhams or dinars; rather, there the rights of Allah's servants will be settled by means of good deeds and bad deeds. That is why Allah the Exalted says:
+
+[ar]
+إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ أَهْلِهَا
+
+[ref]
+[النساء: 58]
+
+[en]
+Indeed, Allah commands you to render trusts to whom they are due.
+
+[en]
+In the matter of loans, countless problems have spread through society in which people fall short. For example, some people do not take loans out of any necessity; rather, they take loans merely to look wealthy or to build up assets.

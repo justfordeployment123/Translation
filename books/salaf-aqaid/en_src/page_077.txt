@@ -1,0 +1,31 @@
+# English source for book page 77
+
+[en]
+Allah says:
+
+[en]
+{{QEN 5:119}}
+
+[en]
+He says:
+
+[en]
+A people He will love and who will love Him.
+
+[en]
+Allah the Exalted says:
+
+[en]
+And when they angered Us, We took retribution from them.
+
+[en]
+He says:
+
+[en]
+{{QEN 68:42}}
+
+[en]
+Allah the Exalted says:
+
+[en]
+{{QEN 3:2}}

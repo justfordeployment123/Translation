@@ -1,0 +1,29 @@
+# title: Page 387
+# English edition of book page 387, built by build_english.py from en_src/ and page_387.txt
+
+[en]
+As for your point that it has become an excellent business, remember that trading in a forbidden thing is also forbidden, because when Allah the Exalted makes something forbidden, its price becomes forbidden too.
+
+[en]
+It is not right to help in any way in promoting things that draw a person towards fornication, obscenity, sodomy, drinking alcohol and the like; it amounts to cooperating in sin. Allah the Exalted says:
+
+[ar]
+وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَىٰ ۖ وَلَا تَعَاوَنُوا عَلَى الْإِثْمِ وَالْعُدْوَانْ
+
+[ref]
+[المائدة: 2]
+
+[en]
+And cooperate in righteousness and piety, but do not cooperate in sin and aggression.
+
+[en]
+The Messenger of Allah, peace be upon him, said:
+
+[ar]
+مَنْ دَعَا إِلَى هُدًى كَانَ لَهُ مِنَ الأَجْرِ مِثْلُ أُجُورِ مَنْ تَبِعَهْ، لاَ يَنْقُصُ ذَلِكَ مِنْ أُجُورِهِمْ شَيْئَا، وَمَنْ دَعَا إِلَى ضَلاَلَةٍ كَانَ عَلَيْهِ مِنَ الإِثْمِ مِثْلُ آثَامِ مَنْ تَبِعَهُ لاَ يَنْقُصُ ذَلِكَ مِنْ آثَامِهِمْ شَيْئَا
+
+[ref]
+صحيح مسلم، رقم الحديث [2674] سنن أبي داود، رقم الحديث [4609]
+
+[en]
+“Whoever guides others to the right path will have as much reward as those who follow him will have, and nothing will be lessened from the reward of any of those who follow. And whoever guides others to misguidance will have as much sin as those who follow him will have; nothing will be lessened from their sins because of this.”

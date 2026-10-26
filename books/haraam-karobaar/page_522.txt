@@ -1,0 +1,15 @@
+# title: Page 522
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 522 (PDF page 523), چھیاسیواں باب: شراب اور سگریٹ وغیرہ کی فیکٹری میں کام کرنے کا بیان
+# The first lines of the page ("مِنْ رَدْغَةِ الْخَبَالِ ... عُصَارَةُ أَهْلِ النَّارِ") end the hadith that is on page 521, where it starts; its footnote ①
+# (صحيح. سنن ابن ماجه 3377), printed at the foot of this page, is typed there too. The hadith's Urdu translation starts here, so it stays here.
+# The last sentence continues on page 523 ("بننا، کام کرنا ... اپنے پیٹ میں ڈالتا ہے۔"); it is kept whole here.
+# The Arabic term «رَدْغَةُ الْخَبَال», quoted twice inside the Urdu translation, is typed inside the translation's [ur] block each time
+# (read in the Urdu flow, as on page 210), its quote marks dropped; the print has no vowel on the last letter.
+# Proofreader please check: the print vowels the term «رَدْغَةُ الْخِبَال» (kasra on the خ) both times; typed «الْخَبَال», as in the hadith.
+# Print typo corrected: "(اسی دوران میں اگر وہ" -> "(اسی دوران میں) اگر وہ" (the closing bracket is missing in the print).
+
+[ur]
+“جس نے شراب پی اور اسے نشہ ہو گیا تو اس کی چالیس دن کی نماز قبول نہیں ہوگی اور اگر وہ (توبہ کیے بغیر) مر گیا تو جہنم میں داخل ہو گا، اگر اس نے توبہ کی تو اللہ اس کی توبہ قبول فرمائے گا، اگر اس نے دوبارہ شراب پی لی اور اسے نشہ ہو گیا تو (مزید) اس کی نماز چالیس دن تک قبول نہیں ہوگی، (اسی دوران میں) اگر وہ توبہ کیے بغیر مر گیا تو جہنم میں داخل ہو گا اور اگر اس نے توبہ کر لی تو اللہ اس کی توبہ قبول فرمائے گا، اگر اس نے پھر (تیسری بار) شراب پی اور اسے نشہ ہو گیا تو اس کی چالیس دن کی نماز قبول نہیں ہوگی۔ اگر وہ مر گیا تو جہنم میں داخل ہو گا اور اگر توبہ کر لی تو اللہ اس کی توبہ کو قبول فرمائے گا، اگر اس نے پھر (چوتھی بار) شراب پی تو اللہ تعالیٰ پر لازم ہے کہ اسے قیامت کے دن رَدْغَةُ الْخَبَال پلائے۔ صحابہ کرام رضی اللہ عنہم نے پوچھا: اے اللہ کے رسول ﷺ! یہ رَدْغَةُ الْخَبَال کیا ہے؟ آپ ﷺ نے فرمایا: جہنمیوں کی پیپ اور گندگی۔”
+
+[ur]
+ان تمام نصوص سے ثابت ہوتا ہے کہ شراب کے معاملے میں کسی بھی طرح سے ملوث ہونے کا گناہ برابر ہے، البتہ سگریٹ وغیرہ میں شراب سے بھی شدید حرمت پائی جاتی ہے، کیونکہ اس کا نقصان شراب کے نقصان سے زیادہ ہے اور جس طرح یہ چیزیں بذات خود حرام ہیں، اسی طرح ان کی تیاری میں معاون بننا، کام کرنا اور اجرت وغیرہ لینا بھی حرام ہے، بلکہ یہ جہنم کی آگ ہے، جسے روزی کی شکل میں انسان اپنے پیٹ میں ڈالتا ہے۔

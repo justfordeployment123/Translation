@@ -1,0 +1,35 @@
+# title: Page 13
+# Salaf-e-Saliheen ke Aqaid o Nazariyat, book page 13 (PDF page 10), پیش لفظ
+# Page 12 ends with the publisher's signature; this page starts the foreword with its heading.
+# The last sentence continues on page 14 ("ختمی مرتبت حضرت محمد ﷺ کی بعثت ہوئی اور انسانیت کو یہ پیغام ملا: “نہیں کوئی
+# معبودِ برحق سوائے اللہ کے۔”"); it is kept whole here.
+# The opening formula «اَلْحَمْدُ لِلّٰهِ ... أَمَّا بَعْدُ!» is typed from the print as other Arabic: dagger-alif spellings in the
+# standard form («لِلَّهِ», «عَلَى», «اللَّهِ»), stopping form at the comma and at the end («اللَّهْ»، «بَعْدْ»).
+# The verse of poetry (Zuhayr ibn Abi Sulma's Mu'allaqa, printed in two stacked halves) is one [ar] block, both halves joined
+# by «، », typed as printed with its rhyme vowel («يُظْلَمِ») and no waqf. The small subscript alif under the pronoun
+# («حَوْضِهٖ», «بِسِلَاحِهٖ») is typed in the standard form, «حَوْضِهِ», «بِسِلَاحِهِ».
+# Print typo corrected: "يَظْلِمُ" -> "يَظْلِمِ" (the print has a damma; after the conditional «وَمَنْ لَا» the verb is jussive and
+# takes a kasra before «النَّاسَ», as the verse is known).
+# Proofreader please check: "يُهَدَّم" (the first word of the second half) carries no vowel on its last letter in the print; typed
+# "يُهَدَّمْ" (jussive, the answer of the condition).
+
+[h]
+پیش لفظ
+
+[ar]
+اَلْحَمْدُ لِلَّهِ وَالصَّلَاةُ وَالسَّلَامُ عَلَى رَسُولِ اللَّهْ، أَمَّا بَعْدْ
+
+[ur]
+رسالت مآب حضرت محمد ﷺ کی بعثت سے پہلے لوگ بری طرح جاہلیت میں گرفتار تھے۔ وہ شرک اور جہالت کی تاریکیوں میں بھٹکتے پھرتے تھے۔ خرافات کا شکار تھے۔ خانہ جنگی میں مبتلا تھے، قبائلی دنگے فساد کی چکی میں بری طرح پس رہے تھے۔ وہ ایک دوسرے کو قتل کرتے اور یرغمال بناتے تھے۔ وہ نہایت پسماندگی، بدنظمی اور نسلی و گروہی امتیازات کے عذاب میں زندگی بسر کرتے تھے۔ اس سلسلے میں ان کا نصب العین یہ تھا:
+
+[ar]
+وَمَنْ لَمْ يَذُدْ عَنْ حَوْضِهِ بِسِلَاحِهِ، يُهَدَّمْ وَمَنْ لَا يَظْلِمِ النَّاسَ يُظْلَمِ
+
+[ur]
+“جو شخص ہتھیار کے زور پر اپنے حوض کی حفاظت نہیں کرتا، اس کا حوض ڈھا دیا جاتا ہے۔ اور جو لوگوں پر ظلم نہیں کرتا، اس پر ظلم کیا جاتا ہے۔”
+
+[ref]
+معلقة زهير بن أبي سلمى المزني.
+
+[ur]
+پھر اسلام کا سورج طلوع ہوا۔ ختمی مرتبت حضرت محمد ﷺ کی بعثت ہوئی اور انسانیت کو یہ پیغام ملا: “نہیں کوئی معبودِ برحق سوائے اللہ کے۔”

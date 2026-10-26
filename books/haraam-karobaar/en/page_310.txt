@@ -1,0 +1,29 @@
+# title: Page 310
+# English edition of book page 310, built by build_english.py from en_src/ and page_310.txt
+
+[en]
+All the people of knowledge agree that it is impermissible for both men and women to have the hair of the face removed.
+
+[en]
+The great scholar Ibn Uthaymeen says:
+
+[en]
+“Some women have the hair plucked from their faces for the sake of beauty. This is forbidden, because the noble Prophet, peace be upon him, cursed such women. And when this act is forbidden for women, how can it be lawful for men?”
+
+[en]
+Young man: So there is no room for it at all in the Shariah?
+
+[en]
+Teacher: If there were room for it anywhere, I would certainly have explained it.
+
+[en]
+Young man: (turning to the barber) Brother, leave the hair on my face as it is.
+
+[en]
+Barber: Even if you had not said this, I still would not have removed it. So I repent to Allah the Exalted.
+
+[en]
+Young man: Teacher! Forgive me; I did not know about this matter.
+
+[en]
+Teacher: That is all right. May Allah the Exalted forgive you.

@@ -1,0 +1,23 @@
+# title: Page 304
+# English edition of book page 304, built by build_english.py from en_src/ and page_304.txt
+
+[en]
+As usual, Ammar went home and noted down in his notebook everything that had happened that day. The next day at ten o'clock he set off for the teacher's house, and when he reached the door he knocked.
+
+[en]
+Teacher: Who is it?
+
+[en]
+Ammar: It is Ammar.
+
+[en]
+Teacher: Welcome. The teacher embraced Ammar warmly, took him into the house and showed him hospitality.
+
+[en]
+Ammar: Teacher! Which market do you intend to go round today?
+
+[en]
+Teacher: I think we should go to the salon today. The hair on my head has grown quite long; let us get it cut there.
+
+[en]
+Ammar: All right.

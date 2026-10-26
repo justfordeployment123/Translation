@@ -1,0 +1,10 @@
+# English source for book page 96
+
+[en]
+{{QEN 4:150 4:151 4:152}}
+
+[en]
+Allah the Exalted has Himself stated the wisdom behind the sending of the Messengers:
+
+[en]
+{{QEN 4:165}}

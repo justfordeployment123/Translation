@@ -1,0 +1,27 @@
+# title: Page 242
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 242 (PDF page 243), چونتیسواں باب: اساتذہ کا سکول کے طلبہ کو ٹیوشن پڑھنے پر مجبور کرنا
+# The first lines of the page ("کا والد فوت ہو چکا تھا ... منقطع ہوگیا۔") end the teacher's sentence that is on page 241, where it starts;
+# the teacher's turn continues here.
+# The Urdu translation of the verses continues on page 243 ("رہا ہوتا ہے اور اللہ کو کبھی نیند نہیں آتی۔”"); it is kept whole here.
+# Arabic poetry (two verses, each printed as two stacked half-lines): one verse per [ar] block, its halves joined by "، ", typed from the
+# print with its harakat (read on the 300 dpi scan image); poetry keeps its vowels (no stopping forms), as on pages 32, 159 and 211.
+# "إِلَى" in the standard form for the printed dagger alif; the waw printed apart («وَ الْمَظْلُوْمُ», «وَ عَيْنُ») is joined to its word.
+# "ترجِعُ", "عُقْبَاه", "تَنَام", "عَيْنَاك", "مُنْتَبِه" and "تَنَم" are typed with only the harakat printed on them; the sukun printed on
+# the long vowels of "الْمَظْلُوْمُ" and "تَدْعُوْا" is kept.
+# Print typo corrected: "مُتنْتَبِه" -> "مُنْتَبِه" (the print has an extra tooth with two dots after the mim; the word is مُنْتَبِهٌ, awake).
+# Proofreader please check: the print has "تَدْعُوْا" (with alif) where the verse is usually quoted "يَدْعُو عَلَيْكَ"; typed as printed.
+
+[ur]
+کچھ عرصہ بعد وہ بچہ دوبارہ کسی کام کی غرض سے سکول آیا تو اس کی ملاقات اس استاد سے ہو گئی۔ بچے نے کہا: استاد جی! آپ آمین کہیں۔ استاد نے آمین کہی۔ بچہ بار بار ٹیچر سے آمین کہلواتا رہا، اس کے بعد بچے نے کہا: اے اللہ! جس طرح اس ٹیچر کی مال کی ہوس نے میری والدہ کو صدمہ دیا اور مجھے تعلیم سے محروم کیا، اے اللہ! تو اسے جنت کی خوشبو سے محروم فرما۔ یہ بددعا دے کر وہ بچہ آنسو بہاتا ہوا واپس چلا گیا۔ ذرا غور کرو! اس مسکین بچے اور اس کی غریب والدہ پر کیا گزری ہوگی؟ دونوں کو کتنا غم، افسوس اور دکھ ہوا ہوگا؟!
+
+[ur]
+کسی نے کیا خوب کہا ہے:
+
+[ar]
+لَا تَظْلِمَنَّ إِذَا مَا كُنْتَ مُقْتَدِراً، فَالظُّلْمُ ترجِعُ عُقْبَاه إِلَى النَّدَمِ
+
+[ar]
+تَنَام عَيْنَاك وَالْمَظْلُوْمُ مُنْتَبِه، تَدْعُوْا عَلَيْكَ وَعَيْنُ اللَّهِ لَمْ تَنَم
+
+[ur]
+“اقتدار میں آ کر اور بااختیار ہو کر کسی پر ظلم نہ کرو، اس لیے کہ ظلم کا انجام ہمیشہ شرمندگی ہوتا ہے۔ اے ظالم! تو ظلم کر کے غفلت کی نیند سو جاتا ہے، لیکن مظلوم اللہ کی بارگاہ میں کھڑا تجھے بددعائیں دے رہا ہوتا ہے اور اللہ کو کبھی نیند نہیں آتی۔”

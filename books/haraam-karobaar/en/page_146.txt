@@ -1,0 +1,29 @@
+# title: Page 146
+# English edition of book page 146, built by build_english.py from en_src/ and page_146.txt
+
+[hen]
+Chapter Seventeen: Swearing False Oaths in Trade and Using Tricks
+
+[en]
+The teacher and his student were looking for some other forbidden practice to put right when they came to a man who wanted to sell a cow and was swearing a great many oaths.
+
+[en]
+The teacher went up to him and, smiling, said: As-salamu alaikum. The man returned the greeting and, taking the teacher for a customer, treated him with great respect and began to say:
+
+[en]
+Man: Teacher! By Allah, this cow is pregnant. By Allah, she gives five kilos of milk every morning and five every evening. By Allah...
+
+[en]
+Teacher: Brother, wait.
+
+[en]
+Man: Yes, Teacher, in the whole market you will not find a cow as fine as this one, and at such a low price. By Allah...
+
+[en]
+Teacher: Taking hold of the man, the teacher said: Brother! No doubt you are telling the truth, but just listen to what I have to say.
+
+[en]
+Man: Yes, please go ahead.
+
+[en]
+Teacher: May Allah keep you in His care and protection. The Shariah has forbidden swearing many oaths in business and trade, even if they are true.

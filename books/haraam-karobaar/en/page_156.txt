@@ -1,0 +1,23 @@
+# title: Page 156
+# English edition of book page 156, built by build_english.py from en_src/ and page_156.txt
+
+[hen]
+Summary of the Livestock Market Tour
+
+[en]
+First: Collecting milk in the udders is forbidden for two reasons: it is deception, and it causes the animal harm.
+
+[en]
+Second: Raising the price to deceive people, so that they buy.
+
+[en]
+Third: Swearing many oaths and using tricks.
+
+[en]
+Fourth: Hiding defects.
+
+[en]
+Through all these practices Muslims are deceived, so they are absolutely forbidden.
+
+[en]
+Teacher: May Allah bless you. Praise be to Allah.

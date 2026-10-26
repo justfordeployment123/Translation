@@ -1,0 +1,37 @@
+# English source for book page 39
+
+[en]
+Shopkeeper: What?
+
+[en]
+Ammar: I asked what your name is.
+
+[en]
+Shopkeeper: Why are you asking my name?
+
+[en]
+Ammar: I would like to talk with you a little, and I want to know your name so that I can address you.
+
+[en]
+The man: My name is Rajab Khalifah Abu Shawqi.
+
+[en]
+Ammar: Abu Shawqi! I pray that Allah puts blessing in your business and grants you ample and lawful provision. I am your brother in religion, Ammar Muhammad Abdur-Rahman.
+
+[en]
+Abu Shawqi: Amin. You are welcome.
+
+[en]
+Ammar: Brother! What is this you are doing?
+
+[en]
+Abu Shawqi: I am measuring rice to buy for myself, and I am measuring wheat to sell to others.
+
+[en]
+Ammar: May Allah bless you! I watched you measuring the rice and saw that you were measuring well over the measure, but with the wheat you are not doing that. Abu Shawqi! Why is there this difference between the two?
+
+[en]
+Abu Shawqi: Ammar! That is a secret. It is business sense and skill, and matters of provision are always kept secret.
+
+[en]
+Ammar: Abu Shawqi! It is an injustice to give less when you measure for others and the full amount when you measure for yourself.

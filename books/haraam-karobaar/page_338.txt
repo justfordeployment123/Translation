@@ -1,0 +1,41 @@
+# title: Page 338
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 338 (PDF page 339), انچاسواں باب: بالوں کو سیاہ کرنا (خضاب لگانا)
+# The page starts with the new chapter.
+# Hadith: Abu Dawud 4212 (Ibn Abbas; the book cites the same number), filled from there.
+# «استغفر اللہ» (printed in Arabic type, «أستغفر الله») stays in the young man's [ur] block in Urdu spelling, as a set phrase.
+# The teacher's list of «مفاسد» starts here: item ① is read «پہلا» (masculine, as items ② and ③ on page 339 are read «دوسرا، تیسرا»).
+# Item ① is a full sentence and the last line of the page; nothing runs onto page 339.
+
+[h]
+انچاسواں باب: بالوں کو سیاہ کرنا (خضاب لگانا)
+
+[ur]
+نوجوان: استاد صاحب! ایک اور مسئلہ ہے۔
+
+[ur]
+استاد: ہاں، بیان کریں۔
+
+[ur]
+نوجوان: میں اپنے بالوں کو سیاہ کیا کرتا تھا، اس کا کیا حکم ہے؟
+
+[ur]
+استاد: بالوں کو سیاہ کرنا مندرجہ ذیل حدیث کی وجہ سے حرام ہے۔ رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H abudawud:4212 from يَكُونُ قَوْمٌ to الْجَنَّةِ}}
+يَكُونُ قَوْمٌ يَخْضِبُونَ فِي آخِرِ الزَّمَانِ بِالسَّوَادِ كَحَوَاصِلِ الْحَمَامِ لاَ يَرِيحُونَ رَائِحَةَ الْجَنَّةْ
+
+[ref]
+صحيح. سنن أبي داود، رقم الحديث [4212]
+
+[ur]
+“آخر زمانے میں ایسے لوگ ہوں گے، جو سیاہ رنگ سے اپنے بال رنگیں گے، جیسے کبوتروں کے سینے ہوتے ہیں۔ یہ لوگ جنت کی خوشبو نہیں پائیں گے۔”
+
+[ur]
+نوجوان: استغفر اللہ! اتنا سخت عذاب کہ جنت کی خوشبو بھی نصیب نہیں ہوگی!!
+
+[ur]
+استاد: ہمارے بے شمار بوڑھے لوگ اپنے بالوں کو سیاہ کرتے ہیں، جس کے مندرجہ ذیل مفاسد ہیں:
+
+[ur]
+پہلا: اس سے اللہ تعالیٰ کی تخلیق میں ملاوٹ ہوتی ہے۔

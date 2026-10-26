@@ -1,0 +1,14 @@
+# title: Page 217
+# English edition of book page 217, built by build_english.py from en_src/ and page_217.txt
+
+[en]
+Just as, in the matter of alcohol, even the one who merely carries it is included because he helps in it, in the same way the one who provides the premises is included, simply because of the premises.
+
+[en]
+Lutfi: Teacher! May Allah reward you. I will not rent the building to those people, in sha Allah.
+
+[en]
+Teacher: May Allah bless you. As-salamu alaikum wa rahmatullahi wa barakatuh.
+
+[en]
+Lutfi: Wa alaikum as-salam wa rahmatullahi wa barakatuh.

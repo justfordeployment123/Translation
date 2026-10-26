@@ -1,0 +1,19 @@
+# title: Page 515
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 515 (PDF page 516), پچاسیواں باب: مساجد کے لیے نقش و نگار والے قالینوں کی خرید و فروخت
+# The first line of the page ("نہ ان پر نماز ہی پڑھی جائے۔") ends a sentence that is on page 514, where it starts.
+# The page ends with a full dialogue turn (the end of chapter eighty-five); the rest of the page is blank.
+
+[ur]
+زید: اس کا حل کیا ہے؟
+
+[ur]
+استاد: تم مسجدوں کے لیے وہی قالین فروخت کرو جو سادہ ہوں۔
+
+[ur]
+زید: کیا گھروں میں عام استعمال کے لیے نقش و نگار والے قالین فروخت کیے جا سکتے ہیں؟
+
+[ur]
+استاد: ہاں اس میں کوئی حرج نہیں، ممانعت صرف مسجدوں کے لیے ہے۔
+
+[ur]
+زید: استاد! اللہ آپ کو جزا دے۔ آج آپ نے ہمیں بے شمار نصیحتیں فرمائی ہیں۔

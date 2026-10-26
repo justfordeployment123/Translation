@@ -1,0 +1,10 @@
+# English source for book page 21
+
+[en]
+“I counsel you to fear Allah, and to listen attentively to the ruler and obey him, even if that ruler is an Abyssinian slave. Whoever of you lives after me will see a great deal of disagreement. Then hold to my Sunnah and the Sunnah of the Rightly Guided Caliphs, who are upon guidance. Cling to it and hold on to it firmly with your molar teeth. Beware of newly invented matters, for every newly invented matter is an innovation and every innovation is misguidance.”
+
+[en]
+This is the straight path that leads to the pleasure of the Lord of the worlds. Allah says:
+
+[en]
+{{QEN 6:153}}

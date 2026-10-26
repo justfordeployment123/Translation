@@ -1,0 +1,38 @@
+# title: Page 344
+# English edition of book page 344, built by build_english.py from en_src/ and page_344.txt
+
+[hen]
+Summary of the Hairdressing and Beauty Parlour Market Tour
+
+[en]
+When they had finished at the barbershop, the teacher and his student took their leave and came back.
+
+[en]
+Ammar: Teacher! Today's gathering went very well. I wish I could attend a gathering like this every day.
+
+[en]
+Teacher! Today you have stopped people from the following evils:
+
+[en]
+First: Men and women having the hair of their faces removed with thread.
+
+[en]
+Second: Having the beard shaved.
+
+[en]
+Third: Having the hair shaved from part of the head and leaving it on the rest.
+
+[en]
+Fourth: A male barber cutting women's hair.
+
+[en]
+Fifth: Having designs made on the body.
+
+[en]
+Sixth: Having the hair dyed black.
+
+[en]
+Seventh: Having false hair attached to real hair.
+
+[en]
+Teacher: Praise be to Allah.

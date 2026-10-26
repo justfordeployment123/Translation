@@ -1,0 +1,41 @@
+# title: Page 48
+# English edition of book page 48, built by build_english.py from en_src/ and page_048.txt
+
+[en]
+And do not be like the ones who became divided and differed after the clear proofs had come to them.
+
+[ref]
+آل عمران 105:3.
+
+[en]
+The noble Prophet, peace be upon him, said:
+
+[ar]
+وَإِنَّ هَذِهِ الْمِلَّةَ سَتَفْتَرِقُ عَلَى ثَلاَثٍ وَسَبْعِينْ، ثِنْتَانِ وَسَبْعُونَ فِي النَّارْ، وَوَاحِدَةٌ فِي الْجَنَّةْ، وَهِيَ الْجَمَاعَةْ
+
+[en]
+“This community will split into seventy-three groups. Seventy-two groups will go to Hell and one group to Paradise. That group is the ‘Jama'ah’ (the community).”
+
+[ref]
+سنن أبي داود، السنة، حديث: 4597.
+
+[en]
+On another occasion he said:
+
+[ar]
+عَلَيْكُمْ بِالْجَمَاعَةْ، وَإِيَّاكُمْ وَالْفُرْقَةْ، فَإِنَّ الشَّيْطَانَ مَعَ الْوَاحِدْ، وَهُوَ مِنَ الاِثْنَيْنِ أَبْعَدْ. مَنْ أَرَادَ بُحْبُوحَةَ الْجَنَّةْ، فَلْيَلْزَمِ الْجَمَاعَةْ
+
+[en]
+“Hold fast to the Jama'ah. Beware of division. Satan is with the one who is alone, and he is further away from two (than from one). Whoever wants the middle of Paradise, let him hold fast to the Jama'ah.”
+
+[ref]
+جامع الترمذي، الفتن، حديث: 2165.
+
+[en]
+Abdullah ibn Mas'ud, may Allah be pleased with him, said: “The Jama'ah is whatever agrees with the truth, even if you are alone.”
+
+[ref]
+شرح أصول اعتقاد أهل السنة والجماعة.
+
+[en]
+In conclusion: Ahl as-Sunnah wal-Jama'ah are those who hold to the way of the noble Prophet, peace be upon him, his Companions and their Successors, and who follow their path in beliefs, in word and in deed.

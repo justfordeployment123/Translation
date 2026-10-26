@@ -1,0 +1,23 @@
+# title: Page 70
+# English edition of book page 70, built by build_english.py from en_src/ and page_070.txt
+
+[en]
+A person should be certain that Allah the Exalted does not break His promise. A person should be patient, should not act in haste, and should firmly believe that lawful wealth, even if it is little, is better, more blessed and more beneficial than a great deal of the forbidden. Allah the Exalted says:
+
+[ar]
+قُلْ لَا يَسْتَوِي الْخَبِيثُ وَالطَّيِّبُ وَلَوْ أَعْجَبَكَ كَثْرَةُ الْخَبِيثْ
+
+[ref]
+[المائدة: 100]
+
+[en]
+Say, “Not equal are the evil and the good, although the abundance of evil might impress you.”
+
+[en]
+Even supposing the profit earned is small, that is no excuse for a Muslim to commit a forbidden act merely for its sake. Rather, he should be patient with the little, be content, and be pleased with what Allah has given. It may be that Allah the Exalted is testing his faith and his trust. It may be that Allah the Exalted will put blessing for him into that little, and open up for him sources of provision that he never even imagined.
+
+[en]
+Brother! Be careful that the love of wealth does not make you heedless of your Lord, your religion and death. This forbidden wealth will soon be gone, but the punishment that comes because of it will be very long.
+
+[en]
+Trader: Shaykh! May Allah grant you a good reward. People! These sacks have fifty kilos written on them and are being sold on that basis, but in reality they are forty-nine kilos. From now on we too will sell them as forty-nine kilos. Shaykh! What about what I have already sold before this as fifty?

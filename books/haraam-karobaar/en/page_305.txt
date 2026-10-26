@@ -1,0 +1,41 @@
+# title: Page 305
+# English edition of book page 305, built by build_english.py from en_src/ and page_305.txt
+
+[hen]
+Chapter Forty-Four: Removing Hair from the Face
+
+[en]
+The teacher went to the salon. There, on the door, this blessed verse was written:
+
+[ar]
+وُجُوهٌ يَوْمَئِذٍ نَاعِمَةْ
+
+[ref]
+[الغاشية: 8]
+
+[en]
+(Other) faces, that Day, will show pleasure.
+
+[en]
+Saying As-salamu alaikum, the teacher went into the barbershop. Five young men were already sitting there, waiting for their turn. The teacher addressed the owner of the salon.
+
+[en]
+Teacher: If you do not mind, may I ask you something?
+
+[en]
+Barber: Yes, ask.
+
+[en]
+Teacher: Why have you written this blessed verse on the door of your shop?
+
+[en]
+Barber: The purpose of writing this verse is clear: whoever comes here goes back with a face that shines like silver.
+
+[en]
+Teacher: So, in your view, Allah the Exalted revealed this blessed verse to describe the self-made good looks of a man who has his beard shaved?
+
+[en]
+Barber: That is how I see it.
+
+[en]
+Teacher: Oh brother! This blessed verse does not mean what you take it to mean. Rather, in it Allah the Exalted describes the blessings of the people of Paradise; that is, on the Day of Resurrection their faces will be shining.

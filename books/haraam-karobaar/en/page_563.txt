@@ -1,0 +1,35 @@
+# title: Page 563
+# English edition of book page 563, built by build_english.py from en_src/ and page_563.txt
+
+[en]
+Ammar: Teacher! Is there no way we can adopt to avoid resembling gambling?
+
+[en]
+Teacher: There are countless ways of doing it.
+
+[en]
+Ammar: Will you tell me two or three of them?
+
+[en]
+Teacher: First: The prizes should be given only from government sources or from the funds of the bayt al-mal (the public treasury).
+
+[en]
+Second: Two or more people take part in the competition; some of the participants put in money and some others do not. They should bear (the cost), because if all the participants put in money, this will resemble gambling, and when some people put in money and some do not, it will not resemble gambling.
+
+[en]
+Third: A new partner joins them in the competition on the condition that he will not put in any money. The scholars call this newcomer the “muhallil” (the one who makes it lawful), and the condition in this will be that the prize goes to whoever succeeds; even if the “muhallil” succeeds, he will take the prize.
+
+[en]
+Ammar: In this third form, can anyone at all be the muhallil?
+
+[en]
+Teacher: No; rather, the muhallil will be a person on whom certain conditions are laid.
+
+[en]
+Ammar: What are those conditions?
+
+[en]
+Teacher: The conditions are as follows:
+
+[en]
+First: The muhallil will not put in any money to buy the prize.

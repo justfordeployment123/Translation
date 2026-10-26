@@ -1,0 +1,45 @@
+# title: Page 393
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 393 (PDF page 394), ساٹھواں باب: آلاتِ موسیقی کی خرید و فروخت
+# The first words of the page ("چیزیں حرام ہیں۔") end a sentence that is on page 392, where it starts; the teacher's answer continues here.
+# The hadith words «اَلْمَعَازِفَ» and «يَسْتَحِلُّوْنَ» (in quote marks) are terms inside Urdu sentences ("... سے مراد", "... سے صاف ظاہر ہوتا ہے"),
+# so they stay in their sentences' [ur] blocks (read in the Urdu flow), typed as printed with their harakat, quote marks dropped,
+# stopping form on the last word (as on page 256).
+# Proofreader please check: «گھٹار» (in the list of instruments) is typed as printed; the usual spelling of "guitar" is «گٹار».
+# Hadith 1: Muslim 5548 (sunnah.com numbering of Muslim 2114; the book cites "صحيح مسلم، رقم الحديث [2114]"), filled from there.
+# Its translation is printed on the same line after it.
+# Hadith typed from the print (not in the hadith-api collections in this wording): hadith 2, the book cites سنن الترمذي [2212] and
+# الصحيحة للألباني [2203], as on page 256 (Tirmidhi 2212 has another wording: "إِذَا ظَهَرَتِ الْقَيْنَاتُ وَالْمَعَازِفُ وَشُرِبَتِ الْخُمُورُ").
+# Typed with the printed harakat (read at 400 dpi), "هٰذِهِ" and "ذٰلِكَ" in the standard form, the loose "وَ مَسْخٌ" joined, and the
+# stopping form at the comma and at the end; it reads exactly as typed on page 256.
+# The last sentence continues on page 394 ("اور مستی والے ہوتے ہیں ... کے مترادف ہے۔"); it is kept whole here.
+
+[ur]
+اَلْمَعَازِفْ سے مراد ہر وہ چیز ہے، جس سے سریلی اور گانے والی آواز نکالی جائے، جیسے ڈھول، گھٹار، دف، بانسری، سارنگی وغیرہ ہے، حتیٰ کہ گھنٹی کا شمار بھی انھی چیزوں میں ہوتا ہے، کیونکہ رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H muslim:5548 from الْجَرَسُ to الشَّيْطَانِ}}
+الْجَرَسُ مَزَامِيرُ الشَّيْطَانْ
+
+[ref]
+صحيح مسلم، رقم الحديث [2114]
+
+[ur]
+“گھنٹی شیطان کا باجا ہے۔”
+
+[ur]
+يَسْتَحِلُّوْنْ سے صاف ظاہر ہوتا ہے کہ حقیقت میں یہ چیزیں حرام ہیں، لیکن ان کو حلال کر لیا جائے گا۔ ہمارے ہاں شادی، منگنی اور دیگر خوشی کے مواقع پر جس طرح گانے بجانے کی محفلیں سجائی جاتی ہیں اور اس کے بعد محفلوں میں جو بے حیائی پائی جاتی ہے، اس کی وجہ سے نوجوان نسل میں خواہشات ابھرتی ہیں، جو بعد میں زنا اور فحاشی کا موجب بنتی ہیں۔
+
+[ur]
+حضرت انس رضی اللہ عنہ سے مروی ہے کہ رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+لَيَكُوْنَنَّ فِيْ هَذِهِ الأُمَّةِ خَسْفٌ وَقَذْفٌ وَمَسْخْ، وَذَلِكَ إِذَا شَرِبُوْا الْخُمُوْرَ وَاتَّخَذُوْا الْقَيْنَاتِ وَضَرَبُوْا الْمَعَازِفْ
+
+[ref]
+سنن الترمذي، رقم الحديث [2212] صححه الألباني فى الصحيحة [2203]
+
+[ur]
+“ایک وقت ایسا آئے گا کہ میری امت کے لوگ (زمین میں) دھنسا دیے جائیں گے، ان پر پتھر برسائے جائیں گے اور ان کی شکلیں مسخ کی جائیں گی، ایسا اس وقت ہوگا جب وہ شراب پییں گے، گلوکار عورتیں رکھیں گے اور آلاتِ موسیقی کو استعمال میں لائیں گے۔”
+
+[ur]
+یہ محفلیں اس وقت اور زیادہ خطرناک بن جاتی ہیں، جب ان میں نیم برہنہ اور عریاں لباس میں لڑکیاں ڈانس کرتی ہیں، گانوں کے بول، محبت، عشق اور مستی والے ہوتے ہیں، اسی لیے علما نے موسیقی کو زنا کا مقدمہ قرار دیا ہے، یعنی موسیقی انسان کو زنا پر ابھارتی ہے، تم موسیقی کے آلات کی خرید و فروخت کر کے موسیقی کے پھیلاؤ میں برابر کے ذمے دار ہو، کیوں کہ تمھارا یہ کاروبار گناہ کے کاموں پر تعاون کرنے کے مترادف ہے۔

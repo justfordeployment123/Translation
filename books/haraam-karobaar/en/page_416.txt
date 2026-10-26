@@ -1,0 +1,41 @@
+# title: Page 416
+# English edition of book page 416, built by build_english.py from en_src/ and page_416.txt
+
+[en]
+Teacher: There is no might and no power except with Allah.
+
+[en]
+Driver: Is this forbidden?
+
+[en]
+Teacher: The greatest proof that it is forbidden is that it leaves doubt, suspicion and hesitation in the heart, and the Prophet, peace be upon him, said:
+
+[ar]
+الإِثْمُ مَا حَاكَ فِي صَدْرِكَ وَكَرِهْتَ أَنْ يَطَّلِعَ عَلَيْهِ النَّاسْ
+
+[ref]
+صحيح مسلم، رقم الحديث [2553] سنن الترمذي، رقم الحديث [2359]
+
+[en]
+“Sin is that which raises doubt in your heart, and you dislike that people should come to know of this deed of yours.”
+
+[en]
+You yourself admitted a little while ago: Whenever I do this, I feel ashamed and troubled. It is not lawful for you to take even a single penny more than the agreement you have made with the car's owner.
+
+[en]
+Driver: Teacher! Most drivers do the same.
+
+[en]
+Teacher: Leave the others aside and talk about yourself. Does the taxi owner force you to drive the car for this wage, or are you driving it by your own choice?
+
+[en]
+Driver: No, he does not force me.
+
+[en]
+Teacher: So you are driving it by your own choice?
+
+[en]
+Driver: I agree because of my difficult circumstances; I do have to meet life's needs too.
+
+[en]
+Teacher: The ruling of the Shariah does not change because of such difficulties. If you drove someone else's car, perhaps he would give you a higher wage than this, but you have not even tried for that.

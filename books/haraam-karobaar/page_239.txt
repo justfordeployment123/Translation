@@ -1,0 +1,12 @@
+# title: Page 239
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 239 (PDF page 240), تینتیسواں باب: ضرورت کے بغیر رخصت لینا
+# The first lines of the page ("جانچ پڑتال کرتی ہے، ... قانونی کارروائی کی جاتی ہے۔") end Ubaid's sentence that starts on page 238
+# ("اس کے علاوہ گورنمنٹ کے ہر ادارے میں ..."); they are on page 238, where it starts.
+# «جزاك الله خيراً» is set in Arabic type inside Abdul Wahhab's Urdu turn; it is kept in the Urdu block, in Urdu letters, as on pages 89 and 150.
+# The rest of the page is blank; the next chapter starts on page 240.
+
+[ur]
+استاد: اس طرح تو ادارے کے سربراہ، ناظم، پرنسپل اور قائمہ کمیٹی پر بھی ذمے داری عائد ہوتی ہے کہ وہ سب مل کر اس جھوٹ کو ختم کریں اور سچ کے فروغ میں اپنا کردار ادا کریں۔ یہ بھی نیکی اور تقوے کے کاموں میں تعاون کا اعلا ترین زینہ ہے۔
+
+[ur]
+عبدالوہاب: جزاک اللہ خیراً۔

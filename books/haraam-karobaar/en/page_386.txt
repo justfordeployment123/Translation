@@ -1,0 +1,17 @@
+# title: Page 386
+# English edition of book page 386, built by build_english.py from en_src/ and page_386.txt
+
+[en]
+Manager: Teacher! These magazines are about the fine arts and the news of the present day. In the present age it is essential to rely on these things in order to progress.
+
+[en]
+Teacher: Alas! Today obscenity and nakedness have become an art. In the name of the fine arts, the Jews and non-Muslims are destroying our young generation. Oh brother! Fear Allah and do not fall into such false ways of thinking. It is merely a whisper of Satan that you cannot progress without these things.
+
+[en]
+It is the duty of every Muslim to protect himself and his family from all such things that create corruption in the Ummah. These magazines have no aim other than to spread fornication, obscenity, homosexuality, the mixing of men and women, evil and shamelessness in the Ummah. Servant of Allah, you should keep away from having a share in this.
+
+[en]
+Manager: Teacher! These magazines have become very popular. The young generation likes them very much and buys and reads them, which is why this has become an excellent business.
+
+[en]
+Teacher: That is exactly what I am trying to explain: young people are strongly drawn to these things. That is why such things spread very quickly, and the moral decline we are heading towards because of it is before your eyes too.

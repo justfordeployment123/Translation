@@ -1,0 +1,53 @@
+# title: Page 48
+# Salaf-e-Saliheen ke Aqaid o Nazariyat, book page 48 (PDF page 45), اہل سنت والجماعت
+# The page opens with the Urdu translation of Al Imran 3:105, whose Arabic ends page 47; the translation starts here and stays here,
+# with its footnote ①.
+# Hadith 1 (Mu'awiyah; the book cites Abu Dawud 4597, al-Sunnah): Abu Dawud 4597, filled in excerpts at the book's commas.
+# The colon after «وَهِيَ» is not a pause (as after «قَالَ»).
+# Numbers: «تہتر (73)» and «بہتر (72)» print each number as a word with its digits in brackets; the digits are dropped, since the
+# word already says the number.
+# Hadith 2 (Umar's sermon; the book cites Tirmidhi 2165, al-Fitan): Tirmidhi 2165, filled in excerpts at the book's commas and full stop.
+# Ibn Mas'ud's saying is given in Urdu only; footnote ④ follows it.
+# The bold lead-in «حاصل کلام:» runs on in the same line as its paragraph, so it stays in the [ur] block.
+# The last sentence continues on page 49 ("اور ان کے تابعین کے طریقے پر ... ان کی راہ پر چلتے ہیں۔"); it is kept whole here.
+
+[ur]
+“اور تم ان لوگوں کی طرح نہ ہو جاؤ جو فرقوں میں بٹ گئے اور ان کے پاس واضح نشانیاں آ جانے کے بعد انھوں نے ایک دوسرے سے اختلاف کیا۔”
+
+[ref]
+آل عمران 105:3.
+
+[ur]
+نبی اکرم ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H abudawud:4597 from وَإِنَّ هَذِهِ to وَسَبْعِينَ}}، {{H abudawud:4597 from ثِنْتَانِ to النَّارِ}}، {{H abudawud:4597 from وَوَاحِدَةٌ to الْجَنَّةِ}}، {{H abudawud:4597 from وَهِيَ to الْجَمَاعَةُ}}
+وَإِنَّ هَذِهِ الْمِلَّةَ سَتَفْتَرِقُ عَلَى ثَلاَثٍ وَسَبْعِينْ، ثِنْتَانِ وَسَبْعُونَ فِي النَّارْ، وَوَاحِدَةٌ فِي الْجَنَّةْ، وَهِيَ الْجَمَاعَةْ
+
+[ur]
+“یہ ملت تہتر گروہوں میں بٹے گی۔ بہتر گروہ جہنم میں جائیں گے اور ایک گروہ جنت میں۔ یہ گروہ “جماعت” ہی ہے۔”
+
+[ref]
+سنن أبي داود، السنة، حديث: 4597.
+
+[ur]
+آپ نے ایک اور موقع پر فرمایا:
+
+[ar]
+# hadith {{H tirmidhi:2165 from عَلَيْكُمْ to بِالْجَمَاعَةِ}}، {{H tirmidhi:2165 from وَإِيَّاكُمْ to وَالْفُرْقَةَ}}، {{H tirmidhi:2165 from فَإِنَّ الشَّيْطَانَ to الْوَاحِدِ}}، {{H tirmidhi:2165 from وَهُوَ مِنَ to أَبْعَدُ}}. {{H tirmidhi:2165 from مَنْ أَرَادَ to الْجَنَّةِ}}، {{H tirmidhi:2165 from فَلْيَلْزَمِ to الْجَمَاعَةَ}}
+عَلَيْكُمْ بِالْجَمَاعَةْ، وَإِيَّاكُمْ وَالْفُرْقَةْ، فَإِنَّ الشَّيْطَانَ مَعَ الْوَاحِدْ، وَهُوَ مِنَ الاِثْنَيْنِ أَبْعَدْ. مَنْ أَرَادَ بُحْبُوحَةَ الْجَنَّةْ، فَلْيَلْزَمِ الْجَمَاعَةْ
+
+[ur]
+“جماعت سے وابستہ رہنا۔ تفرقہ سے بچنا۔ شیطان تنہا آدمی کے ساتھ ہوتا ہے۔ اور دو سے وہ (ایک کے مقابلے میں) زیادہ دور ہوتا ہے۔ جو شخص جنت کا وسط چاہتا ہے وہ جماعت سے وابستہ رہے۔”
+
+[ref]
+جامع الترمذي، الفتن، حديث: 2165.
+
+[ur]
+حضرت عبداللہ بن مسعود رضی اللہ عنہ نے فرمایا: “جماعت وہ ہے جو حق کی موافقت کرے، چاہے تم اکیلے ہی ہو۔”
+
+[ref]
+شرح أصول اعتقاد أهل السنة والجماعة.
+
+[ur]
+حاصل کلام: اہل سنت والجماعت وہ لوگ ہیں جو نبی کریم ﷺ اور آپ کے اصحاب اور ان کے تابعین کے طریقے پر قائم رہتے ہیں اور عقائد اور قول و عمل میں ان کی راہ پر چلتے ہیں۔

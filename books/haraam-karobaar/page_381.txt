@@ -1,0 +1,42 @@
+# title: Page 381
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 381 (PDF page 382), ستاونواں باب: بے ہودگی اور غلیظ مواد پر مبنی کتب کی خرید و فروخت
+# Print spelling normalized: «ستانواں باب» -> «ستاونواں باب» (the print's «ستانواں» is also its spelling for 97th (page 551), so it would be read as ninety-seventh); the contents page has the same spelling.
+# The page starts with the new chapter (page 380 ends with a full turn).
+# The numbered list of books (①–⑤) is read as words: پہلی، دوسری، تیسری، چوتھی، پانچویں (the items are کتب).
+# The figure "200 سوالات" is written as words: "دو سو سوالات".
+# The last sentence continues on page 382 ("ہے، جو شریعت اور عقل دونوں کے معیار پر پوری نہیں اترتیں۔"); it is kept whole here.
+# Proofreader please check: the fourth title is printed «بدائع الذہور فی وقائع الدہور» (with ذ, here and in the paragraph below);
+# the known title (Ibn Iyas) is «بدائع الزہور». Kept as printed; the two letters sound the same in Urdu.
+
+[h]
+ستاونواں باب: بے ہودگی اور غلیظ مواد پر مبنی کتب کی خرید و فروخت
+
+[ur]
+بک سٹور میں مندرجہ ذیل کتب پر استاد صاحب کی نظر پڑی:
+
+[ur]
+پہلی: فصوص الحکم۔
+
+[ur]
+دوسری: فتوحات مکیہ۔
+
+[ur]
+تیسری: شمس المعارف۔
+
+[ur]
+چوتھی: بدائع الذہور فی وقائع الدہور۔
+
+[ur]
+پانچویں: محبت اور جنسی معاملات کے بارے میں دو سو سوالات۔
+
+[ur]
+استاد: (مدیر سے مخاطب ہوئے) آپ نے یہ بیہودہ اور بدعتی کتابیں سٹور پر کیوں رکھی ہوئی ہیں؟
+
+[ur]
+مدیر: استاد صاحب! یہ بڑی مفید کتابیں ہیں۔
+
+[ur]
+استاد: نہیں بھائی جو کتابیں گمراہی، فساد اور اخلاقی زوال پیدا کرنے والی ہوں، وہ مفید کیسے ہو سکتی ہیں؟ مسلمان بندے کے لیے یہ انتہائی خطرناک ہیں۔
+
+[ur]
+کتاب الفصوص اور فتوحات مکیہ اس مصنف کی کتابیں ہیں، جو عقیدہ حلول کا قائل تھا، جب کہ یہ عقیدہ صریحاً آسمانی شریعت کے خلاف ہے۔ شمس المعارف جادوگری کی تعلیم دیتی ہے، جس کے سبب سے مسلمانوں میں فتنے برپا ہو رہے ہیں۔ بدائع الذہور جھوٹی، من گھڑت، موضوع اور باطل حکایتوں سے بھری پڑی ہے، جو شریعت اور عقل دونوں کے معیار پر پوری نہیں اترتیں۔

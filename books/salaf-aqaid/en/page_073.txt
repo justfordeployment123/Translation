@@ -1,0 +1,41 @@
+# title: Page 73
+# English edition of book page 73, built by build_english.py from en_src/ and page_073.txt
+
+[en]
+His knowledge encompasses everything. Allah the Exalted Himself has stated these things in seven verses of the Noble Quran, and He has not described how they are.
+
+[fen]
+These verses, in order, are: al-A'raf 7:54, Yunus 10:3, ar-Ra'd 13:2, Ta-Ha 20:5, al-Furqan 25:59, as-Sajdah 32:4, al-Hadid 57:4.
+
+[en]
+He says:
+
+[ar]
+الرَّحْمَٰنُ عَلَى الْعَرْشِ اسْتَوَىٰ
+
+[en]
+The Most Merciful (who is) above the Throne established.
+
+[fen]
+Ta-Ha 20:5. Imam Ishaq ibn Rahawayh, may Allah have mercy on him, said about this verse: “The people of knowledge have reached consensus (ijma') that Allah the Exalted has risen over the Throne, and that He knows everything, even at the bottom of the seventh earth.” This saying of his is quoted by Imam adh-Dhahabi, may Allah have mercy on him, in al-Uluww lil-Aliyy al-Ghaffar.
+
+[en]
+And He says:
+
+[ar]
+ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشْ
+
+[en]
+Then established Himself above the Throne.
+
+[ref]
+الحديد 4:57.
+
+[en]
+And He says:
+
+[ar]
+أَأَمِنْتُمْ مَنْ فِي السَّمَاءِ أَنْ يَخْسِفَ بِكُمُ الْأَرْضَ فَإِذَا هِيَ تَمُورْ
+
+[ar]
+أَمْ أَمِنْتُمْ مَنْ فِي السَّمَاءِ أَنْ يُرْسِلَ عَلَيْكُمْ حَاصِبًا ۖ فَسَتَعْلَمُونَ كَيْفَ نَذِيرْ

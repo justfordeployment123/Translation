@@ -1,0 +1,35 @@
+# title: Page 136
+# English edition of book page 136, built by build_english.py from en_src/ and page_136.txt
+
+[en]
+The one who commits a major sin does not leave faith. In this world he is a believer who is naqis al-iman (deficient in faith). He is a believer because of his faith and a transgressor (fasiq) because of the major sin. In the Hereafter he will be subject to the will of Allah: if Allah the Exalted wills, He will forgive him, and if He wills, He will punish him. Faith can have portions and parts. Allah the Exalted will bring out of Hell, because of their little faith, some of the people of faith who will have entered Hell.
+
+[en]
+The noble Prophet, peace be upon him, said:
+
+[ar]
+لاَ يَدْخُلُ النَّارَ مَنْ كَانَ فِي قَلْبِهِ مِثْقَالُ حَبَّةٍ مِنْ خَرْدَلٍ مِنْ إِيمَانْ
+
+[en]
+“The one who has in his heart faith equal to even a mustard seed will not enter Hell.”
+
+[ref]
+صحيح مسلم، الإيمان، حديث: 91، ومسند أحمد: 399/1.
+
+[en]
+Thus Ahl as-Sunnah wal-Jama'ah do not call anyone among the people of the qiblah a disbeliever because of a sin, unless he commits a sin that uproots faith. Allah the Exalted says:
+
+[ar]
+إِنَّ اللَّهَ لَا يَغْفِرُ أَنْ يُشْرَكَ بِهِ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَنْ يَشَاءْ
+
+[en]
+Indeed, Allah does not forgive association with Him, but He forgives what is less than that for whom He wills.
+
+[ref]
+النسآء 48:4.
+
+[en]
+The noble Prophet, peace be upon him, said:
+
+[ar]
+أَتَانِي جِبْرِيلُ عَلَيْهِ السَّلاَمُ فَبَشَّرَنِي أَنَّهُ مَنْ مَاتَ مِنْ أُمَّتِكَ لاَ يُشْرِكُ بِاللَّهِ شَيْئًا دَخَلَ الْجَنَّةْ، قُلْتُ وَإِنْ زَنَى وَإِنْ سَرَقْ، قَالَ وَإِنْ زَنَى وَإِنْ سَرَقْ

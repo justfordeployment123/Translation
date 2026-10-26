@@ -1,0 +1,55 @@
+# title: Page 71
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 71 (PDF page 72), پانچواں باب: اصل وزن سے کم سودا پیک کرنا
+# The first words of the page ("ہوں، اس کا کیا بنے گا؟") end a sentence that is on page 70, where it starts.
+# At-Talaq 65:2 (its end) and 65:3 (its start) are quoted again, as on page 69; filled from the official text, one ayah per block.
+# The reference is printed "[الطلاق: 2.3]" here (with a point), typed as printed.
+# The page ends with the verse's translation; the teacher's turn goes on at the top of page 72 with a new sentence.
+# The speaker's name is printed «اُستاد» (with a damma) before the verse; typed "استاد" like every other turn.
+# This page prints "تھیلہ" (with ہ), where page 66 prints "تھیلا"; typed as printed.
+
+[ur]
+استاد: اگر تم ان خریداروں کو جانتے ہو تو ان کو ان کا حق واپس کر دو اور اگر نہیں جانتے تو ان کے حصے کے پیسے صدقہ کر دو۔
+
+[ur]
+تاجر: مجھے تو ان لوگوں کی تعداد بھی معلوم نہیں۔
+
+[ur]
+استاد: تم غالب گمان کے مطابق صدقہ کر دو۔
+
+[ur]
+تاجر: شیخ! ہم سب سے پہلے آپ سے ابتدا کرتے ہیں، یہ لیجیے اپنا ایک پاؤنڈ۔
+
+[ur]
+استاد: آپ نے اللہ کے حکم کی پیروی کی ہے، لہٰذا میں بہ خوشی یہ ایک پاؤنڈ تمھیں واپس کرتا ہوں اور ہم ایک اور تھیلہ تم سے خریدتے ہیں۔
+
+[ur]
+تاجر: اللہ آپ کو برکت دے۔ اللہ کا حکم سن کر اس کی اطاعت کرنی چاہیے۔
+
+[ur]
+پاس سے ایک شربت بیچنے والا گزرا، عمار اس کی طرف لپکا۔
+
+[ur]
+عمار: دو گلاس شربت دینا۔
+
+[ur]
+شیخ ایک طرف بیٹھ کر شربت نوش فرمانے لگے۔ اتنے میں تاجر بھی اپنے چاولوں سے فارغ ہو گیا اور اللہ تعالیٰ نے اسے بہت زیادہ نفع دیا۔ لوگ چاول خریدنے کے لیے اس کی طرف امڈ آئے۔
+
+[ur]
+شیخ یہ کہتے ہوئے اس کی طرف دوبارہ آئے:
+
+[ur]
+استاد: کیا میں نے تمھیں کہا نہیں تھا:
+
+[ar]
+# quran 65:2 from وَمَنْ يَتَّقِ to مَخْرَجًا
+وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجَا
+
+[ar]
+# quran 65:3 from وَيَرْزُقْهُ to لَا يَحْتَسِبُ
+وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبْ
+
+[ref]
+[الطلاق: 2.3]
+
+[ur]
+“اور جو اللہ سے ڈرے گا وہ اس کے لیے نکلنے کا کوئی راستہ بنا دے گا۔ اور اسے رزق دے گا جہاں سے وہ گمان نہیں کرتا۔”

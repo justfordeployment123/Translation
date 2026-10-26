@@ -1,0 +1,26 @@
+# title: Page 400
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 400 (PDF page 401), اکسٹھواں باب: جاندار چیزوں کی تصویروں کی خرید و فروخت
+# The first lines of the page ("مجسمے کی صورت میں سب حرام ہیں، ... جیسے شناختی کارڈ وغیرہ کے لیے۔") end the teacher's turn that starts on page 399, where it is kept whole.
+# «جزاك الله خيراً» is set in Arabic type as the teacher's turn; it is kept in the Urdu block, in Urdu letters (جزاک اللہ خیراً), as on page 388.
+# The page ends with a full narration paragraph; the rest of the page is blank. Page 401 is the round's summary («خلاصہ»).
+
+[ur]
+مدیر: کیا ان کا کاروبار بھی حرام ہے؟
+
+[ur]
+استاد: اللہ تعالیٰ جب کسی چیز کو حرام کرتے ہیں تو اس کی قیمت بھی حرام ہو جاتی ہے۔
+
+[ur]
+مدیر: ان شاء اللہ میں اس کام سے بھی رک جاؤں گا۔
+
+[ur]
+استاد: اللہ تعالیٰ تمھاری حفاظت فرمائے، اب ہمیں ہمارے سامان کی قیمت بتاؤ۔
+
+[ur]
+مدیر: اس سامان کے پچپن دینار بنتے ہیں، لیکن آپ صرف پچاس دے دیں۔
+
+[ur]
+استاد: جزاک اللہ خیراً!
+
+[ur]
+استاد صاحب نے قیمت ادا کی، بک سٹور والے کا شکریہ ادا کیا اور اپنے شاگرد عمار کے ساتھ وہاں سے واپسی کو روانہ ہوئے۔

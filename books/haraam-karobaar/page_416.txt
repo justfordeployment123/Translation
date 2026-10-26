@@ -1,0 +1,52 @@
+# title: Page 416
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 416 (PDF page 417), تریسٹھواں باب: ڈرائیور کا خفیہ طور پر گاڑی کے مالک کے ساتھ طے شدہ رقم سے زائد وصول کرنا
+# The first line of the page ("لیتا ہوں اور اصل رقم سے تقریباً تین پاؤنڈ روزانہ کے لے لیتا ہوں۔") ends the driver's sentence that starts
+# on page 415, where it is kept whole.
+# «لا حول و لا قوة إلا بالله.» is set in Arabic type as the teacher's turn; it is kept in the Urdu block, in Urdu spelling, spaced as printed.
+# Hadith (an-Nawwas bin Sam'an): Muslim 6516 in the sunnah.com numbering (the book cites Muslim [2553] and Tirmidhi [2359]; the
+# hadith-api has the Tirmidhi report as 2389, with «فِي نَفْسِكَ»). The book quotes only the second half, starting «اَلْإِثْمُ»;
+# in the source it is joined to the first half as «وَالإِثْمُ», so the excerpt starts «~الإِثْمُ#2» (the second «الإثم», after the
+# question's «وَالإِثْمِ») and leaves the joined «وَ» out, reading exactly as the book prints.
+# Proofreader please check: the printed reference "سنن الترمذي [2359]" is another hadith in the sunnah.com numbering (Abu Umamah
+# on barley bread); an-Nawwas's report is Tirmidhi 2389. The printed reference is kept.
+# The last sentence continues on page 417 ("لیکن تم نے اس کے لیے کوشش ہی نہیں کی۔"); it is kept whole here.
+
+[ur]
+استاد: لا حول و لا قوۃ الا باللہ۔
+
+[ur]
+ڈرائیور: کیا یہ حرام ہے؟
+
+[ur]
+استاد: اس کے حرام ہونے کی سب سے بڑی دلیل یہ ہے کہ اس سے دل میں شک و شبہہ اور تردد رہتا ہے اور نبی ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H muslim:6516 from ~الإِثْمُ#2 to النَّاسُ}}
+الإِثْمُ مَا حَاكَ فِي صَدْرِكَ وَكَرِهْتَ أَنْ يَطَّلِعَ عَلَيْهِ النَّاسْ
+
+[ref]
+صحيح مسلم، رقم الحديث [2553] سنن الترمذي، رقم الحديث [2359]
+
+[ur]
+“گناہ وہ ہے جو تیرے دل میں شک پیدا کرے اور تو اس بات کو ناپسند سمجھے کہ لوگ تیرے اس فعل پر اطلاع پائیں۔”
+
+[ur]
+تم نے خود ہی تھوڑی دیر پہلے اعتراف کیا ہے کہ میں جب بھی یہ کام کرتا ہوں تو شرمندہ اور پریشان ہو جاتا ہوں۔ گاڑی کے مالک کے ساتھ تمھارا جو معاہدہ طے ہوتا ہے، اس سے ایک پیسہ بھی زائد وصول کرنا تمھارے لیے حلال نہیں ہے۔
+
+[ur]
+ڈرائیور: استاد صاحب! اکثر ڈرائیور اسی طرح کرتے ہیں۔
+
+[ur]
+استاد: تم دوسروں کو چھوڑو، اپنی بات کرو۔ کیا ٹیکسی کا مالک تمھیں مجبور کرتا ہے کہ تم نے اتنی اجرت کے عوض گاڑی چلانی ہے یا تم اپنی مرضی سے چلا رہے ہو؟
+
+[ur]
+ڈرائیور: نہیں، وہ مجبور نہیں کرتا۔
+
+[ur]
+استاد: یعنی تم اپنی مرضی سے چلا رہے ہو؟
+
+[ur]
+ڈرائیور: اپنی مجبوریوں کی وجہ سے راضی ہوں، ضروریات زندگی بھی تو پورے کرنے ہیں۔
+
+[ur]
+استاد: ایسی مجبوریوں کی وجہ سے شریعت کا حکم بدل نہیں جاتا۔ تم اگر کسی اور آدمی کی گاڑی چلاؤ تو شاید وہ تمھیں اس سے زیادہ مزدوری دے دے، لیکن تم نے اس کے لیے کوشش ہی نہیں کی۔

@@ -1,0 +1,35 @@
+# title: Page 340
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 340 (PDF page 341), انچاسواں باب: بالوں کو سیاہ کرنا (خضاب لگانا)
+# The page opens with the hadith introduced at the end of page 339 («رسول اللہ ﷺ نے فرمایا:»); the teacher's turn goes on here.
+# Hadith 1: Muslim 5509 (sunnah.com numbering of the Muslim 2102 the book cites; Jabir, about Abu Quhafa), filled from there.
+# Proofreader please check: the book prints «غَيِّرُوا هَذَا الشَّيْبَ بِشَيْءٍ وَاجْتَنِبُوا السَّوَادَ»; Muslim 5509 (and Abu Dawud 4204, Nasa'i 5076)
+# has «غَيِّرُوا هَذَا بِشَيْءٍ» without «الشَّيْبَ», and Ibn Majah 3624 (also cited) has a different wording, so the official text of Muslim 5509 is read.
+# Hadith 2: typed from the print (not in the hadith-api collections in this wording): the book cites مسند أحمد [293/1] and صحيح الجامع [5107].
+# Abu Dawud 3488 (Ibn Abbas) has a longer wording («إِنَّ اللَّهَ إِذَا حَرَّمَ عَلَى قَوْمٍ أَكْلَ شَيْءٍ حَرَّمَ عَلَيْهِمْ ثَمَنَهُ»). Waqf on the last word.
+# The printed «اللّٰهَ» is typed in the standard form «اللَّهَ».
+# The chapter ends with «نوجوان: جزاک اللہ خیراً۔» (printed in Arabic type, kept in Urdu spelling); the rest of the page is blank.
+
+[ar]
+# hadith {{H muslim:5509 from غَيِّرُوا to السَّوَادَ}}
+غَيِّرُوا هَذَا بِشَيْءٍ وَاجْتَنِبُوا السَّوَادْ
+
+[ref]
+صحيح مسلم، رقم الحديث [2102] سنن ابن ماجه، رقم الحديث [3624]
+
+[ur]
+“اس سفیدی کا رنگ کسی چیز کے ساتھ تبدیل کر دو اور انھیں سیاہ رنگ سے بچانا۔”
+
+[ur]
+اس حکم میں مرد و عورت دونوں برابر ہیں، یعنی دونوں کے لیے بال سیاہ کرنا ممنوع اور سرخ یا زرد کرنا جائز ہے۔ بال سیاہ کرنے کی اجرت وصول کرنا بھی حرام ہے، کیونکہ نبی ﷺ نے فرمایا:
+
+[ar]
+وَإِنَّ اللَّهَ إِذَا حَرَّمَ شَيْئًا حَرَّمَ ثَمَنَهْ
+
+[ref]
+مسند أحمد [293/1] صحيح الجامع، رقم الحديث [5107]
+
+[ur]
+“اللہ تعالیٰ جب کسی چیز کو حرام کر دیتے ہیں تو اس کی قیمت کو بھی حرام کر دیتے ہیں۔”
+
+[ur]
+نوجوان: جزاک اللہ خیراً۔

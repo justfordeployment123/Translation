@@ -1,0 +1,26 @@
+# title: Page 46
+# English edition of book page 46, built by build_english.py from en_src/ and page_046.txt
+
+[en]
+“Whoever starts a good practice in Islam has its reward, and also the reward of those who act on that way after him, without their rewards being reduced in any way; and whoever introduces a bad way in Islam ...”
+
+[ref]
+صحيح مسلم، الزكاة، حديث: 1017.
+
+[en]
+The technical definition of Sunnah: In technical usage, the Sunnah means the manner and way on which the noble Prophet, peace be upon him, and his Companions stood in knowledge, belief, word, deed and tacit approval. Tacit approval means the words and actions in which he, peace be upon him, let people continue. The word Sunnah is also used for the sunnahs of acts of worship and of beliefs. The word innovation stands as the opposite of Sunnah.
+
+[en]
+The noble Prophet, peace be upon him, said:
+
+[ar]
+فَإِنَّهُ مَنْ يَعِشْ مِنْكُمْ بَعْدِي فَسَيَرَى اخْتِلاَفًا كَثِيرَا، فَعَلَيْكُمْ بِسُنَّتِي وَسُنَّةِ الْخُلَفَاءِ الرَّاشِدِينَ الْمَهْدِيِّينْ
+
+[en]
+“Whoever of you lives after me will indeed see many disagreements, so hold to my Sunnah and the Sunnah of the Rightly Guided Caliphs, who are upon guidance.”
+
+[ref]
+سنن أبي داود، السنة، حديث: 4607.
+
+[en]
+The linguistic definition of Jama'ah: The word jama'ah is derived from jam', which means to gather something together, to join together, to unite. In Arabic one says jama'tuhu fajtama'a, that is, I brought it together and it gathered.

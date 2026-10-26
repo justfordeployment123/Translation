@@ -1,0 +1,29 @@
+# title: Page 105
+# English edition of book page 105, built by build_english.py from en_src/ and page_105.txt
+
+[en]
+In the sale of a ribawi item (something in which interest can occur) for another ribawi item, for example the sale of gold for money, it is not right to pay part of the price and leave part of it on credit.
+
+[en]
+Salim: There is no god but Allah! Is there this much evidence on this question?
+
+[en]
+Teacher: There is one more proof as well, the clearest of all.
+
+[en]
+Man: What is it?
+
+[en]
+Teacher: Malik ibn Aws says: I turned to the noble Companions, may Allah be pleased with them, and asked: Who will give dirhams in exchange for dinars? Talhah ibn Ubaidullah, may Allah be pleased with him, was with Umar ibn al-Khattab, may Allah be pleased with him, at the time, and he said: Show us your gold (dinars); when our servant comes, we will give you silver in exchange for it. Umar, may Allah be pleased with him, said: Certainly not! By Allah, you must give him the silver at once or return his gold (dinars) to him, for the Messenger of Allah, peace be upon him, said:
+
+[ar]
+الْوَرِقُ بِالذَّهَبِ رِبًا إِلاَّ هَاءَ وَهَاءْ، وَالشَّعِيرُ بِالشَّعِيرِ رِبًا إِلاَّ هَاءَ وَهَاءْ، وَالتَّمْرُ بِالتَّمْرِ رِبًا إِلاَّ هَاءَ وَهَاءْ
+
+[ref]
+صحيح البخاري، رقم الحديث [2134] صحيح مسلم، رقم الحديث [1586]
+
+[en]
+“Selling silver for gold is interest, except when it is in cash (then it is permissible); selling wheat for wheat is interest, except when it is in cash (then it is permissible); selling barley for barley is interest, except when it is in cash (then it is permissible); selling dates for dates is interest, except when it is in cash (then it is permissible).”
+
+[en]
+The words of Umar, may Allah be pleased with him: “Certainly not! By Allah, you must give him the silver at once or return his gold to him.”

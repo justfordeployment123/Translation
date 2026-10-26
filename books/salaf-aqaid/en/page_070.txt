@@ -1,0 +1,35 @@
+# title: Page 70
+# English edition of book page 70, built by build_english.py from en_src/ and page_070.txt
+
+[en]
+They do not make His Names and Attributes like the names and attributes of any created being. They do not describe how the attributes of Allah the Exalted are. They do not negate and deny (ta'til) some or all of the attributes of Allah the Exalted. They make no change in the meanings of the attributes of Allah the Exalted. They do not move their meanings away from their apparent sense. The basic evidence of Ahl as-Sunnah wal-Jama'ah in this is two verses:
+
+[en]
+Allah says:
+
+[ar]
+لَيْسَ كَمِثْلِهِ شَيْءٌ ۖ وَهُوَ السَّمِيعُ الْبَصِيرْ
+
+[en]
+There is nothing like unto Him, and He is the Hearing, the Seeing.
+
+[ref]
+الشورىٰ 11:42.
+
+[en]
+Allah says:
+
+[ar]
+وَلِلَّهِ الْأَسْمَاءُ الْحُسْنَىٰ فَادْعُوهُ بِهَا ۖ وَذَرُوا الَّذِينَ يُلْحِدُونَ فِي أَسْمَائِهِ ۚ سَيُجْزَوْنَ مَا كَانُوا يَعْمَلُونْ
+
+[en]
+And to Allah belong the best names, so invoke Him by them. And leave (the company of) those who practice deviation concerning His names. They will be recompensed for what they have been doing.
+
+[ref]
+الأعراف 180:7.
+
+[en]
+Ahl as-Sunnah wal-Jama'ah do not describe how the attributes of Allah the Exalted are, because Allah has not told how His attributes are. No one knows more about Allah the Exalted than He Himself. Allah the Exalted says:
+
+[ar]
+قُلْ أَأَنْتُمْ أَعْلَمُ أَمِ اللَّهْ

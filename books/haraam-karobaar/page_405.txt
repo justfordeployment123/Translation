@@ -1,0 +1,8 @@
+# title: Page 405
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 405 (PDF page 406), پانچواں دورہ، ٹیکسی سٹینڈ کا دورہ
+# A framed title page (no page number printed): «① ٹیکسی سٹینڈ کا دورہ», the first smaller round of «پانچواں دورہ» (page 403;
+# contents, book page 11). The circled number is dropped, since the title is a heading of its own (as on pages 35 and 379).
+# Book page 404 (before it) is blank, so nothing runs onto this page.
+
+[h]
+ٹیکسی سٹینڈ کا دورہ

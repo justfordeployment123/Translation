@@ -1,0 +1,4 @@
+# English source for book page 548
+
+[en]
+“If anyone keeps a dog that is not for hunting, nor for guarding animals and land, two qirats are deducted from his reward every day.”

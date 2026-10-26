@@ -1,0 +1,55 @@
+# title: Page 92
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 92 (PDF page 93), آٹھواں باب: سونا تولنے والے ترازو میں کمی بیشی کرنا
+# The first line of the page ("ہیں، لیکن حقیقت میں ترازو کے ذریعے سے دھوکا کر جاتے ہیں۔") ends a sentence that is on page 91, where it starts; the teacher's turn continues here.
+# The page ends with «رسول اللہ ﷺ نے فرمایا:»; the hadith it introduces is on page 93.
+# Hadith 1: the book cites "صحيح مسلم، رقم الحديث [102]"; Muslim's text (283 in the sunnah.com numbering) has "وَمَنْ غَشَّنَا فَلَيْسَ مِنَّا"
+# after another sentence, so the book's exact words «مَنْ غَشَّنَا فَلَيْسَ مِنَّا» are filled from Ibn Majah 2225.
+# Hadith 2: the book cites "الطبراني في الكبير [10234]". Its first part is filled from Ibn Majah 2225; the rest
+# («وَالْمَكْرُ وَالْخِدَاعُ فِي النَّارِ») is typed from the print (not in the hadith-api collections), printed harakat kept ("فِى" typed "فِي"), stopping form on the last word.
+# Al-Tariq 86:9 is filled from the official text (fill_quran.py).
+# Proofreader please check: "اللہ تعالیٰ اسے کسی ایسی بیماری میں مبتلا کر دیتے، جس میں" is typed as printed; "کر دیتے" may be missing "ہیں".
+
+[ur]
+رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H ibnmajah:2225 from مَنْ غَشَّنَا to مِنَّا}}
+مَنْ غَشَّنَا فَلَيْسَ مِنَّا
+
+[ref]
+صحيح مسلم، رقم الحديث [102]
+
+[ur]
+“جس نے دھوکا دیا تو وہ ہمارے طریقے پر نہیں۔”
+
+[ur]
+نیز آپ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H ibnmajah:2225 from مَنْ غَشَّنَا to مِنَّا}} وَالْمَكْرُ وَالْخِدَاعُ فِي النَّارْ
+مَنْ غَشَّنَا فَلَيْسَ مِنَّا وَالْمَكْرُ وَالْخِدَاعُ فِي النَّارْ
+
+[ref]
+الطبراني في الكبير، رقم الحديث [10234]
+
+[ur]
+“جس نے ملاوٹ کی وہ ہمارے طریقے پر نہیں اور دھوکا اور فریب دینے والا آگ میں ہوگا۔”
+
+[ur]
+اللہ تعالیٰ ایسے خائن تاجر کو کچھ مدت کے لیے تو ڈھیل دے دیتے ہیں، لیکن اس کے بعد اللہ تعالیٰ کی ایسی پکڑ آتی ہے، جس کے بارے میں اس نے کبھی سوچا بھی نہیں ہوتا۔ وہ اس حرام طریقے سے پچاس ہزار کما لیتا ہے، لیکن اللہ تعالیٰ اسے کسی ایسی بیماری میں مبتلا کر دیتے، جس میں اس کے پچاس سے کہیں زیادہ خرچ ہو جاتے ہیں اور آخرت کا عذاب ابھی باقی ہوتا ہے۔ قیامت کے دن اللہ تعالیٰ تمام لوگوں کے سامنے اسے ذلیل و رسوا کریں گے۔
+
+[ur]
+اللہ تعالیٰ فرماتے ہیں:
+
+[ar]
+# quran 86:9 from يَوْمَ تُبْلَى to السَّرَائِرُ
+يَوْمَ تُبْلَى السَّرَائِرْ
+
+[ref]
+[الطارق: 9]
+
+[ur]
+“جس دن چھپی ہوئی باتوں کی جانچ پڑتال کی جائے گی۔”
+
+[ur]
+یعنی اللہ تعالیٰ اس کی ہر برائی کو لوگوں کے سامنے ظاہر کر دیں گے، جسے وہ چھپانا چاہتا تھا۔ رسول اللہ ﷺ نے فرمایا:

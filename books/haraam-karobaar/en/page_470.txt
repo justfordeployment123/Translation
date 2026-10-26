@@ -1,0 +1,41 @@
+# title: Page 470
+# English edition of book page 470, built by build_english.py from en_src/ and page_470.txt
+
+[hen]
+Summary of Forbidden Things Done in Muslim Households
+
+[en]
+The adhan for the Isha prayer began.
+
+[en]
+Teacher: Come, let us go and pray; we will talk about the rest after the prayer.
+
+[en]
+(Everyone was going towards the mosque to pray Isha when, on the way, Ammar turned to the teacher.)
+
+[en]
+Ammar: Ma sha Allah, Teacher! Today you have explained that the following things are forbidden:
+
+[en]
+First: Reciting the Noble Quran at graves and lighting lamps and the like there.
+
+[en]
+Second: Practising magic.
+
+[en]
+Third: Not being fair and just between one's children in gifts and the like.
+
+[en]
+Fourth: Making a will for an heir.
+
+[en]
+Fifth: Making a will of more than a third.
+
+[en]
+Sixth: Harming an heir by means of a will.
+
+[en]
+Seventh: A woman taking money from her husband's pocket without permission.
+
+[en]
+Teacher: Praise be to Allah, Lord of the worlds.

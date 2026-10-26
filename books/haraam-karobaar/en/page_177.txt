@@ -1,0 +1,14 @@
+# title: Page 177
+# English edition of book page 177, built by build_english.py from en_src/ and page_177.txt
+
+[en]
+Mustafa: Turning to the workers, he said: Bring the car and put these crates in it. Teacher! Please accept this humble gift from us. One crate is yours, and one is for your student Ammar.
+
+[en]
+Teacher: What need was there to go to so much trouble?
+
+[en]
+Mustafa: It is only a small, humble effort.
+
+[en]
+The teacher and his student took their leave, got into the car and set off for home.

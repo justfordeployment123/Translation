@@ -1,0 +1,26 @@
+# title: Page 528
+# English edition of book page 528, built by build_english.py from en_src/ and page_528.txt
+
+[hen]
+Chapter Eighty-Eight: Begging
+
+[en]
+Ammar: The questioner says: Teacher, what is the ruling on asking people for things without need, or on begging?
+
+[en]
+Teacher: Not only the questioner but all other people as well should know well that asking people for things, begging from them and the like without need is forbidden in the Shariah.
+
+[en]
+It is narrated from Sahl ibn Hanzalah, may Allah be pleased with him, that the Messenger of Allah, peace be upon him, said:
+
+[ar]
+مَنْ سَأَلَ وَعِنْدَهُ مَا يُغْنِيهِ فَإِنَّمَا يَسْتَكْثِرُ مِنْ جَمْرِ جَهَنَّمْ، قَالُوا وَمَا الْغِنَى الَّذِي لاَ تَنْبَغِي مَعَهُ الْمَسْأَلَةْ، قَالَ قَدْرُ مَا يُغَدِّيهِ وَيُعَشِّيهْ
+
+[ref]
+سنن أبي داود، رقم الحديث [1629] صحيح الجامع، رقم الحديث [6280]
+
+[en]
+“Whoever begs while he has as much as suffices him is adding to the embers of Hell for himself. The people said: O Messenger of Allah, peace be upon him! What is the (amount) that suffices a person, so that it is not permissible for him to ask? He, peace be upon him, replied: One who has food for the morning and the evening.”
+
+[en]
+It is narrated from Abdullah ibn Mas'ud, may Allah be pleased with him, that the Messenger of Allah, peace be upon him, said:

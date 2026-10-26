@@ -1,0 +1,32 @@
+# title: Page 482
+# English edition of book page 482, built by build_english.py from en_src/ and page_482.txt
+
+[hen]
+Chapter Seventy-Eight: A Woman Going Out of the House in Fashionable Clothes
+
+[en]
+Ammar: Teacher! What is the ruling on a woman going out of the house made up and wearing fashionable clothes?
+
+[en]
+Teacher: Ammar! May Allah give you understanding of the religion. Countless proofs that it is forbidden have been transmitted from the Quran and the Sunnah. Allah the Exalted says:
+
+[ar]
+وَقَرْنَ فِي بُيُوتِكُنَّ وَلَا تَبَرَّجْنَ تَبَرُّجَ الْجَاهِلِيَّةِ الْأُولَىٰ
+
+[ref]
+[الأحزاب: 33]
+
+[en]
+And abide in your houses and do not display yourselves as (was) the display of the former times of ignorance.
+
+[en]
+The Messenger of Allah, peace be upon him, said:
+
+[ar]
+صِنْفَانِ مِنْ أَهْلِ النَّارِ لَمْ أَرَهُمَا نِسَاءْ، كَاسِيَاتٌ عَارِيَاتٌ مُمِيلاَتٌ مَائِلاَتٌ رُءُوسُهُنَّ كَأَسْنِمَةِ الْبُخْتِ الْمَائِلَةِ لاَ يَدْخُلْنَ الْجَنَّةَ وَلاَ يَجِدْنَ رِيحَهَا
+
+[ref]
+صحيح مسلم، رقم الحديث [2128]
+
+[en]
+“There are two kinds of the people of Hell whom I have not seen... women who wear clothes yet remain naked, leading others astray and going astray themselves, their heads leaning to one side like the humps of Bactrian camels. They will not enter Paradise; indeed, they will not even find its fragrance.”

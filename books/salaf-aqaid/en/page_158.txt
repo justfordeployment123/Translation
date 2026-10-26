@@ -1,0 +1,23 @@
+# title: Page 158
+# English edition of book page 158, built by build_english.py from en_src/ and page_158.txt
+
+[en]
+But the ones who believe and do righteous deeds - We will admit them to gardens beneath which rivers flow, wherein they will abide forever. (It is) the promise of Allah, (which is) truth, and who is more truthful than Allah in statement.
+
+[ref]
+النسآء 122:4.
+
+[en]
+But in the end Allah the Exalted, by His favour and grace, will forgive the disobedient among the people of Tawhid, because this is the promise of Allah the Exalted to the people of Tawhid and not to others. Allah the Exalted says:
+
+[ar]
+إِنَّ اللَّهَ لَا يَغْفِرُ أَنْ يُشْرَكَ بِهِ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَنْ يَشَاءْ
+
+[en]
+Indeed, Allah does not forgive association with Him, but He forgives what is less than that for whom He wills.
+
+[ref]
+النسآء 48:4.
+
+[en]
+This brings to an end the explanations of the fourth principle, “Faith in the Texts of the Promises and the Warnings”, among the principles of the religion that are established according to Ahl as-Sunnah wal-Jama'ah. Now the details of the fifth principle, “Loyalty and Disavowal”, are presented.

@@ -1,0 +1,38 @@
+# title: Page 72
+# English edition of book page 72, built by build_english.py from en_src/ and page_072.txt
+
+[en]
+For Allah the Exalted has no namesake; He has no equal or peer, and nothing is like Him. He cannot be measured by analogy with His creation. Thus Ahl as-Sunnah wal-Jama'ah affirm for Allah the Exalted what Allah the Exalted has affirmed for Himself, yet there is no tamthil (likening) in their affirmation. That is, they affirm His attributes for Allah the Exalted, but they do not make those attributes like the attributes of any created being. Likewise, they declare Allah the Exalted free of the attributes of deficiency, but there is no room for ta'til (denial) in this belief of theirs. That is, they do not negate the attributes of Allah the Exalted.
+
+[fen]
+It should also be known that it is not permissible to imagine what the Essence of Allah is like or what His attributes are like.
+
+[en]
+Ahl as-Sunnah wal-Jama'ah believe that Allah the Exalted encompasses everything. He is the Creator of everything. He alone gives provision to every living thing. He says:
+
+[ar]
+أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ اللَّطِيفُ الْخَبِيرْ
+
+[en]
+Does He who created not know, while He is the Subtle, the Acquainted?
+
+[ref]
+الملك 14:67.
+
+[en]
+And He says:
+
+[ar]
+إِنَّ اللَّهَ هُوَ الرَّزَّاقُ ذُو الْقُوَّةِ الْمَتِينْ
+
+[en]
+Indeed, it is Allah who is the (continual) Provider, the firm possessor of strength.
+
+[ref]
+الذاريات 58:51.
+
+[en]
+Ahl as-Sunnah wal-Jama'ah believe that Allah the Exalted is above the seven heavens, separate from His creation, and has risen over the Throne.
+
+[fen]
+Rising over the Throne and being high above are two attributes of Allah, which we affirm in the way that befits His majesty. According to the Righteous Predecessors, the meaning of “He rose over (istawa)” is: “He settled; He rose high; He was elevated; He ascended.” These are the meanings of istiwa' that the Righteous Predecessors give. They do not go beyond them, nor do they add anything to them. In the explanation of istiwa' that they gave, these meanings are nowhere given: “He took over it; He became its owner; He overpowered it.” How istiwa' is, is unknown; no one knows it but Allah the Exalted. Yet believing in it is obligatory, because it is established by the clear evidence of the Quran and the Sunnah. Asking how istiwa' is, is an innovation, because no one knows the how except Allah, and also because the noble Companions, may Allah be pleased with them, never asked the noble Messenger, peace be upon him, about it.

@@ -1,0 +1,276 @@
+# Review list: *100 Haraam Karobaar aur Tijarti Mamlaat*
+
+Every point on which the text needs a human reader's decision. The Urdu was transcribed from the scans, proofread a second time against them, and checked automatically: every Quran verse and hadith is identical to its source, and nothing is doubled or lost at any page break. The English edition was translated from the final Urdu and reviewed block by block against it. Each item names its page; for the first two sections the full note is at the top of `page_NNN.txt`.
+
+## 1. Please check: the Urdu text (136 items)
+
+Mostly differences between the book's printed Arabic and the official hadith text (the official text is what will be read), possible print errors kept as printed, and references whose numbers don't match the collections.
+
+- **p19:** Proofreader please check: the vowel on the first letter of "نبت" looks like a damma in the print ("نُبَتَ"); the verb is typed "نَبَتَ", as in Tirmidhi 614.
+- **p20:** Proofreader please check: the second half of the hadith is printed differently from Muslim and Tirmidhi, and no excerpt reproduces it, so the official wording of Muslim 2346 is used: the book has "ثُمَّ ذَكَرَ الْعَبْدَ" (Muslim: "الرَّجُلَ"), "رَافِعاً يَدَيْهِ" (Muslim: "يَمُدُّ يَدَيْهِ إِلَى السَّمَاءِ"), "وَغُذِّيَ" (Muslim: "وَغُذِيَ") and "لِهَذَا" (Muslim: "لِذَلِكَ"). The pauses follow the book's commas.
+- **p34:** Proofreader please check: "مگر دیگر مشغولیات کی وجہ میں" is typed as printed (one might expect "کی وجہ سے").
+- **p47:** Print typo corrected (meaning reversed, Proofreader please check): "بیچنے والے کو قیمت لینے کا حق ہے اور نہ خریدنے والے کو" -> "نہ بیچنے والے کو قیمت لینے کا حق ہے اور نہ خریدنے والے کو" (the first «نہ» of «نہ ... اور نہ ...» is missing).
+- **p47:** Proofreader please check: "میں نے اپنی گندم کاشت کرے، ایک مہینہ بعد" is typed as printed; "کاشت کرے" reads like a slip (for "کاشت کی" or "کاشت کر کے"?).
+- **p47:** Proofreader please check: "بیچنے والے کو قیمت لینے کا حق ہے اور نہ خریدنے والے کو ..." is the print's wording, now corrected (see the line above); the sense needs "نہ بیچنے والے کو ..." (a "نہ" seems to be missing).
+- **p49:** Proofreader please check: hadith 1 is read as Bukhari 2198 ("فَقِيلَ لَهُ ... فَقَالَ أَرَأَيْتَ إِذَا مَنَعَ اللَّهُ الثَّمَرَةَ، بِمَ يَأْخُذُ أَحَدُكُمْ") where the book prints "قِيلَ ... قَالَ: أَرَأَيْتَ إِنْ مَنَعَ اللَّهُ الثَّمَرَةَ بِمَ يَسْتَحِلُّ أَحَدُكُمْ".
+- **p49:** Proofreader please check: hadith 3 is read as Muslim 3864 "وَعَنِ السُّنْبُلِ" where the book prints "وَعَنْ بَيْعِ السُّنْبُلِ".
+- **p55:** Proofreader please check: "جو عن قریب ہم پر ہر چیز حرام کر دے گے۔" is typed as printed; "کر دے گے" reads like a slip (for "کر دے گا" or "کر دیں گے"?).
+- **p69:** Proofreader please check: the print vowels the verb "نُبِتَ"; typed "نَبَتَ", as on page 19 and in Tirmidhi 614 ("لَحْمٌ نَبَتَ مِنْ سُحْتٍ"). At-Talaq 65:2 (its end, "وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا") and 65:3 (its start, "وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ") are filled from the official text, one ayah per block.
+- **p88:** Proofreader please check: the hadith above is joined from four reports; if a single official text is preferred, Muslim 4064 is the closest.
+- **p92:** Proofreader please check: "اللہ تعالیٰ اسے کسی ایسی بیماری میں مبتلا کر دیتے، جس میں" is typed as printed; "کر دیتے" may be missing "ہیں".
+- **p97:** Print typo corrected (meaning reversed, Proofreader please check): "الا یہ کہ وہ اس عیب کو واضح نہ کرے" -> "الا یہ کہ وہ اس عیب کو واضح کرے" (a stray «نہ» says the opposite of the hadith «إِلَّا بَيَّنَهُ لَهُ»).
+- **p97:** Proofreader please check: the translation "الا یہ کہ وہ اس عیب کو واضح نہ کرے" is the print's wording, now corrected (see the line above); the hadith ("إِلَّا بَيَّنَهُ لَهُ") means "unless he makes the defect clear", so the "نہ" reads like a slip.
+- **p101:** Proofreader please check: the print has "مِثْلَ" (fatha); Ibn Majah 12 reads "مِثْلُ", which the fill uses.
+- **p102:** Proofreader please check: the footnote prints "صحيح البخاري، رقم الحديث [177]" (typed as printed); the hadith is Bukhari 2177.
+- **p105:** Proofreader please check: the printed Arabic has no wheat clause, but the book's Urdu translation has one ("گندم کے بدلے گندم کی بیع سود ہے ..."); both are typed as printed.
+- **p110:** Proofreader please check: both hadith 1 placeholders read Muslim 4076 "لاَ تُبَاعُ حَتَّى تُفَصَّلَ" where the book prints "لَا يُبَاعُ حَتَّى يُفَصَّلَ".
+- **p112:** Proofreader please check: the print has "نُبِتَ" and "مِنَ"; typed "نَبَتَ" (as in Tirmidhi 614 and on page 19) and "مِنْ" (no hamzat al-wasl follows). An-Nisa 4:9 starts at the bottom of the page and ends on page 113 ("عَلَيْهِمْ فَلْيَتَّقُوا اللَّهَ وَلْيَقُولُوا قَوْلًا سَدِيدًا"); it is kept whole here, with its reference «[النساء: 9]», printed on page 113. Its translation starts on page 113 and stays there.
+- **p114:** Proofreader please check: "شکریہ ادا کرتا ہوا واپس ہوا چلا گیا" is typed as printed; "ہوا" twice reads oddly.
+- **p115:** Proofreader please check: "استاد: عمار: کیا تم مجھے ..." is typed as printed; the colon after the vocative "عمار" may stand for "!".
+- **p121:** Proofreader please check: the Arabic printed leaves out «وَالْبُرُّ بِالْبُرِّ رِبًا إِلَّا هَاءَ وَهَاءَ», which Muslim 4059 has and the book's own translation includes ("گندم کے بدلے گندم کی بیع سود ہے ..."); the Arabic follows the print.
+- **p126:** Proofreader please check: the print vowels the third word "عَيْنَ" (fatha); Bukhari 2312 has "عَيْنُ الرِّبَا", which is filled.
+- **p126:** Proofreader please check: the Urdu names «عبد اللہ بن عمر رضی اللہ عنہما» as the narrator, but both hadiths the book cites (Bukhari 2312, Muslim 1594 = Muslim 4083 here) are narrated by Abu Sa'id al-Khudri; the Urdu is typed as printed.
+- **p128:** Print typo corrected (meaning reversed, Proofreader please check): "محض رضامندی کسی حرام کام کو حلال کر سکتی ہے اور نہ" -> "محض رضامندی نہ کسی حرام کام کو حلال کر سکتی ہے اور نہ" (the first «نہ» of «نہ ... اور نہ ...» is missing).
+- **p128:** Proofreader please check: "محض رضامندی کسی حرام کام کو حلال کر سکتی ہے اور نہ حلال کو حرام کر سکتی ہے۔" is the print's wording, now corrected (see the line above); the sense needs a "نہ" in the first half ("... نہ کسی حرام کام کو حلال کر سکتی ہے اور نہ ...").
+- **p138:** Proofreader please check: the print vowels the verb "تُصِرُّوا" (re-read at 600 dpi); Bukhari 2148 has "تُصَرُّوا", which is filled. Imam an-Nawawi's words are given in Urdu only; footnote ② follows them.
+- **p139:** Print typo corrected (meaning reversed, Proofreader please check): "وہ اپنا حال بیان کر سکتا ہے اور نہ" -> "وہ نہ اپنا حال بیان کر سکتا ہے اور نہ" (the first «نہ» of «نہ ... اور نہ ...» is missing).
+- **p139:** Proofreader please check: "وہ اپنا حال بیان کر سکتا ہے اور نہ کسی سے شکایت کر سکتا ہے" is the print's wording, now corrected (see the line above); the sense needs "وہ نہ اپنا حال بیان کر سکتا ہے" (a «نہ» seems to be missing in the print).
+- **p145:** Proofreader please check: the print vowels the verb "نُبِتَ" (passive); it is typed "نَبَتَ", as on page 19 for the same hadith ("كُلُّ لَحْمٍ نَبَتَ مِنْ سُحْتٍ") and as in Tirmidhi 614.
+- **p147:** Proofreader please check: Nasa'i 4461 vowels the two words "مَنْفَقَةٌ ... مَمْحَقَةٌ", where the print has "مُنْفِقَةٌ ... مُمْحِقَةٌ". (Bukhari 2087 "مُنَفِّقَةٌ ... مُمْحِقَةٌ" joined with Nasa'i's last word, using " cont", would match the print's "مُمْحِقَةٌ" but still not "مُنْفِقَةٌ"; Nasa'i is kept whole.)
+- **p148:** Proofreader please check: Muslim 4126 vowels "يُنَفِّقُ ثُمَّ يَمْحَقُ", where the print has "يُنْفِقُ ثُمَّ يُمْحِقُ".
+- **p150:** Proofreader please check: the book cites "صحيح مسلم، رقم الحديث [1635]" for both hadith; they are Muslim 1653 (1653a and 1653b, numbered 4283 and 4284 in the hadith-api), so "1635" looks like swapped digits. The printed reference is kept.
+- **p164:** Proofreader please check: the print vowels the verb "نُبِتَ"; it is typed "نَبَتَ", as on page 19.
+- **p170:** Proofreader please check: "یہ تو حکومت کی طرف کسانوں کے لیے" is typed as printed; it reads like "کی طرف سے" with «سے» left out.
+- **p172:** Proofreader please check: "سودی کے مال سے برکت ختم ہو جاتی ہے" is typed as printed; it reads like "سود کے مال" or "سودی مال".
+- **p174:** Proofreader please check: the print vowels the last word "قَلٍّ"; it is typed "قُلّ" (qull, "scarcity", as the word is read in this hadith).
+- **p175:** Proofreader please check: the print vowels "الضُّرُوْرَاتُ" with a damma; it is typed "الضَّرُوْرَاتُ" (plural of ضَرُورَة).
+- **p182:** Proofreader please check: the print has «أَحَدُكُمْ اسْتِبْطَاءَ الرِّزْقِ» (the subject would read «أَحَدَكُمُ اسْتِبْطَاءُ»); typed as printed.
+- **p184:** Proofreader please check: the verb is printed «نُبِتَ» (damma, kasra); typed «نَبَتَ», as on page 19 and in Tirmidhi 614. "فتوی" is printed without the dagger alif; typed "فتویٰ" so the voice reads it right.
+- **p193:** Print typo corrected (Proofreader please check): "محذفہ" -> "مخذفہ" (one dot: the word is mikhdhafah, a sling, as in Bukhari 5479 on this page).
+- **p193:** Proofreader please check: the book prints «وَلَا يُنْكَأُ بِهِ عَدُوٌّ»; Bukhari 5479 reads «وَلاَ يُنْكَى بِهِ عَدُوٌّ», which is filled.
+- **p198:** Proofreader please check: "تمام معاملات اللہ ہی کی سپرد ہیں" is typed as printed; "کی سپرد" reads like a slip for "کے سپرد". "فتوی" is printed without the dagger alif; typed "فتویٰ" so the voice reads it right. "بالاولیٰ" has it printed.
+- **p199:** Proofreader please check: "عمار: عمار نے سامان پکڑا اور گاڑی کی طرف چل پڑا۔" is typed as printed; the line is narration set under the speaker label «عمار:».
+- **p206:** Proofreader please check: the book prints "ثَمَنَهَا"; the source reads "ثَمَنِهَا", which is filled. Tirmidhi 1295 is Anas's report of the curse on ten (Abu Dawud 3674 and Ibn Majah 3380 are Ibn Umar's). The pauses follow the book's commas. Al-Ma'idah 5:90 is quoted from "إِنَّمَا الْخَمْرُ" (the ayah opens with "يَا أَيُّهَا الَّذِينَ آمَنُوا"); filled from the official text.
+- **p207:** Proofreader please check: hadith 3 is read as Abu Dawud 3488 "وَأَكَلُوا أَثْمَانَهَا" where the book prints "وَأَكَلُوا ثَمَنَهَا"; no collection has the book's wording. The pause after "فَبَاعُوهَا" follows the book's comma. "فتوی" is printed without the dagger alif; typed "فتویٰ" so the voice reads it right.
+- **p209:** Proofreader please check: hadith 3 is read as Ibn Majah 3377, whose conjunctions differ from the print: the source has "وَإِنْ مَاتَ" (first time; the book: "فَإِنْ مَاتَ"), "فَإِنْ تَابَ" three times (the book: "وَإِنْ تَابَ") and "وَإِنْ عَادَ كَانَ حَقًّا" (the book: "فَإِنْ عَادَ كَانَ حَقًّا"). No excerpt reproduces the book's wording.
+- **p211:** Proofreader please check: "وَرُحَى الْمُنْيَةِ" is typed as printed; the translation ("موت کی چکی") reads it as "الْمَنِيَّةِ" (death).
+- **p211:** Proofreader please check: "جَزَعا" is printed without tanween (for "جَزَعًا"); typed as printed.
+- **p212:** Proofreader please check: "میں اللہ سے توبہ کرتا ہوں ... میری گاڑی میں رکھو۔" is printed as a paragraph without a speaker name (it reads as Ahmad's reply); typed as printed, as narration.
+- **p216:** Proofreader please check: the book prints "ثَمَنَهَا"; the source reads "ثَمَنِهَا", which is filled (as on page 206).
+- **p223:** Proofreader please check: "ایجوکیشن دفتر کی روانہ ہوئے" is typed as printed (one might expect "کی طرف روانہ" or "کو روانہ").
+- **p224:** Proofreader please check: "کام لٹکاتا دیتا ہے" is typed as printed ("لٹکا تا دیتا"); "لٹکا دیتا ہے" may be meant.
+- **p227:** Proofreader please check: hadith 2 is read as Abu Dawud 3541 ("مَنْ شَفَعَ لأَخِيهِ بِشَفَاعَةٍ فَأَهْدَى لَهُ هَدِيَّةً عَلَيْهَا فَقَبِلَهَا") where the book prints "مَنْ شَفَعَ لِأَحَدٍ شَفَاعَةً فَأُهْدِيَ لَهُ هَدِيَّةٌ عَلَيْهَا فَقَبِلَهَا مِنْهُ"; no collection has the book's wording.
+- **p237:** Proofreader please check: the English gloss «(short leave)» printed after "شارٹ رخصت" is left out of the audio (the Urdu "شارٹ رخصت" already says it), as with "(Star)" on Zindagi Aur Waqt page 75. "اپنے، گھر، دکان" is typed with the comma as printed.
+- **p238:** Proofreader please check: the book cites "صحيح البخاري، رقم الحديث [6064]", but Bukhari 6064 is another hadith (on suspicion); the quoted words are Bukhari 6094. The printed reference is kept. "حتی کہ" is printed without the superscript alif; typed "حتیٰ کہ" (TRANSCRIBING.md, dagger alif).
+- **p242:** Proofreader please check: the print has "تَدْعُوْا" (with alif) where the verse is usually quoted "يَدْعُو عَلَيْكَ"; typed as printed.
+- **p256:** Proofreader please check: the book's first reference (Tirmidhi [2212]) is to a report whose wording differs from the printed one.
+- **p257:** Proofreader please check: "گھٹار" is typed as printed (the instrument is the guitar, usually spelled "گٹار").
+- **p265:** Proofreader please check: hadith 2 is printed «قَيْدَ شِبْرٍ»; Bukhari 2453 and the Muslim report (4137 in the hadith-api numbering) both have «قِيدَ» (same letters), which is filled and will be read.
+- **p265:** Proofreader please check: hadith 3 is printed «سَبْعِ أَرْضِيْنَ» (sukun on the ra); the collections have «أَرَضِينَ» in the same phrase. «یعلی» is typed «یعلیٰ» (dagger alif, read with a long a).
+- **p266:** Proofreader please check: the book cites "صحيح مسلم، رقم الحديث [1938]"; the hadith is Muslim 1978 (5124 in the hadith-api numbering), so "1938" looks like a misprint. The printed reference is kept.
+- **p273:** Proofreader please check: the book cites "صحيح البخاري، رقم الحديث [5641]"; in the sunnah.com numbering this hadith is Bukhari 5987 (also 4830 and 7502). The printed reference is kept. Muhammad 47:22-23 (inside the Prophet's words in the translation) are filled from the official text, one ayah per block, with the printed reference "[محمد: 22,23]" after them. Their Urdu translation is at the top of page 274 and stays there.
+- **p277:** Proofreader please check: the hadith is joined from Abu Dawud 3674 (Ibn Umar) and Tirmidhi 1295 (Anas); the print vowels «ثَمَنَهَا», the source has «ثَمَنِهَا», which is filled.
+- **p280:** Proofreader please check: the hadith is joined from Abu Dawud 3674 (Ibn Umar) and Tirmidhi 1295 (Anas); the print vowels "ثَمَنَهَا", the source has "ثَمَنِهَا", which is filled. «ما شاء اللہ» in Atiyah's turn is a set phrase, kept in the Urdu block.
+- **p282:** Proofreader please check: "آپ فیکٹریوں کو انگور میں فروخت کر کے" is typed as printed (the wording reads oddly).
+- **p287:** Proofreader please check: the print vowels "نَفْسَكَ"; it is the subject of "تَشْرَهْ", so it is typed "نَفْسُكَ" (a vowel slip, corrected because it is read aloud).
+- **p288:** Proofreader please check: "چارے کی بڑی گٹھلی" is typed as printed (perhaps "گٹھڑی", a bundle, is meant).
+- **p290:** Proofreader please check: the book prints "أَعْطُوا الْأَجِيرَ حَقَّهُ قَبْلَ أَنْ يَجِفَّ عَرَقُهُ"; Ibn Majah 2443 has "أَجْرَهُ" for "حَقَّهُ", and no excerpt reproduces the book's word, so the official text is filled.
+- **p291:** Proofreader please check: the book prints "وَيَأْتِي وَقَدْ شَتَمَ هَذَا"; Muslim 6579 and Tirmidhi 2418 have "وَيَأْتِي قَدْ شَتَمَ هَذَا", which is filled.
+- **p297:** Proofreader please check: the second way is printed "پہلے ابو جمعہ تمھیں کرنل چاول ایک سو تیس کلو ... فروخت کرے"; Abu Jum'a's rice is the «سپر» kind (pages 294 and 296), so «سپر چاول» may be meant. Typed as printed.
+- **p317:** Hadith ②: Proofreader please check: the book prints «خَالِفُوا الْمُشْرِكِينَ: أَحْفُوا الشَّوَارِبَ وَأَوْفِرُوا اللِّحَى» (cites Bukhari [5892]); «وَأَوْفِرُوا» (re-read at 400 dpi) is in none of the collections, so it is read as Muslim 602 («وَأَوْفُوا اللِّحَى»), the same text as hadith ①. Decision (proofreading): Muslim 602 is the closest report: it has the print's order (moustaches first, as in the Urdu translation) and differs only by the «ر». Bukhari 5892 («خَالِفُوا الْمُشْرِكِينَ، وَفِّرُوا اللِّحَى، وَأَحْفُوا الشَّوَارِبَ») has the other order and «وَأَحْفُوا»; reproducing the print from it would need its excerpts reordered and joined with Muslim 602, and would still read «وَفِّرُوا» without the «وَأَ».
+- **p317:** Proofreader please check: the book prints «أَنْهِكُوا» where Bukhari 5893 has «انْهَكُوا»; the source text is read.
+- **p318:** Proofreader please check: the book prints «وَخَالِفُوا الْمَجُوسَ» where Muslim 603 has «خَالِفُوا الْمَجُوسَ» (no «وَ»); the source text is read.
+- **p318:** Proofreader please check: in ⑥ the print has «سَبَالَكُمْ» and «عُثَانِيْنَكُمْ»; the vowel slips are corrected to «سِبَالَكُمْ» and «عَثَانِيْنَكُمْ» (the printed sukun on the long ي of «عَثَانِيْنَكُمْ» is kept, re-read at 400 dpi).
+- **p327:** Proofreader please check: the bracketed narration «(استاد صاحب کی نظر ... کٹنگ کہتے ہیں۔» has no closing bracket in the print; typed as printed.
+- **p328:** Proofreader please check: hadith 1 is read with the official wording where the book prints "أَوْ ذِرَاعًا" (Bukhari and Muslim: "وَذِرَاعًا") and "قَالُوا: الْيَهُودُ وَالنَّصَارَى؟" (Bukhari 3456: "قُلْنَا يَا رَسُولَ اللَّهِ، الْيَهُودَ وَالنَّصَارَى"); no excerpt of these reports reproduces them.
+- **p328:** Proofreader please check: the book cites "سنن أبي داود، رقم الحديث [6119]"; the hadith is Abu Dawud 4031 (the printed [ref] is kept).
+- **p333:** Proofreader please check: the book prints «يَهْوِي» and «الزِّنَا»; Muslim 6755 has «يَهْوَى» and «الزِّنَى», which are read.
+- **p340:** Proofreader please check: the book prints «غَيِّرُوا هَذَا الشَّيْبَ بِشَيْءٍ وَاجْتَنِبُوا السَّوَادَ»; Muslim 5509 (and Abu Dawud 4204, Nasa'i 5076) has «غَيِّرُوا هَذَا بِشَيْءٍ» without «الشَّيْبَ», and Ibn Majah 3624 (also cited) has a different wording, so the official text of Muslim 5509 is read.
+- **p357:** Proofreader please check: the book prints «لِمُسْلِمٍ أَنْ يَبْتَاعَ مِنْ أَخِيهِ»; Ibn Majah 2246 has «لِمُسْلِمٍ بَاعَ مِنْ أَخِيهِ», and no report in the collections has the book's words, so the official text is read.
+- **p357:** Proofreader please check: this join uses two Companions' reports of the same saying: Tirmidhi 1315 is Abu Hurayrah's report (the story Muslim 102 tells) and Ibn Majah 2225 is Abu al-Hamra's report (a man selling food in a container, «مَنْ غَشَّنَا فَلَيْسَ مِنَّا»).
+- **p377:** Print typo corrected (Proofreader please check): "ٹیلی ویژن کی خرید و فروخت اور حرمت کی ممانعت" -> "ٹیلی ویژن کی خرید و فروخت اور مرمت کی ممانعت" (one letter, ح for م: chapter fifty-one is «ٹیلی ویژن کی خرید و فروخت اور مرمت»).
+- **p381:** Proofreader please check: the fourth title is printed «بدائع الذہور فی وقائع الدہور» (with ذ, here and in the paragraph below); the known title (Ibn Iyas) is «بدائع الزہور». Kept as printed; the two letters sound the same in Urdu.
+- **p387:** Proofreader please check: the book vowels «مِثْلَ» (twice); Muslim 6804 has «مِثْلُ» both times (as do Abu Dawud 4609 and Tirmidhi 2674), which is filled.
+- **p388:** Proofreader please check: the book prints «عَارِيَاتٌ مَائِلَاتٌ مُمِيلَاتٌ»; Muslim 5582 has «مُمِيلاَتٌ مَائِلاَتٌ», which is filled. (Muwatta Malik 1658 has the book's order, but it is Abu Hurairah's own words (mawquf), not a report of the Prophet's words, so it is not used.) The book's «رُؤُوسُهُنَّ» is spelled «رُءُوسُهُنَّ» in the source (same pronunciation). «جزاك الله خيراً» is set in Arabic type inside the teacher's Urdu turn; it is kept in the Urdu block, in Urdu letters (جزاک اللہ خیراً).
+- **p389:** Proofreader please check: the book cites "صحيح البخاري، رقم الحديث [5818]"; in the sunnah.com numbering that number is another report, and the words «الْمَرْءُ مَعَ مَنْ أَحَبَّ» are Bukhari 6168. The printed reference is kept.
+- **p393:** Proofreader please check: «گھٹار» (in the list of instruments) is typed as printed; the usual spelling of "guitar" is «گٹار».
+- **p396:** Proofreader please check: the print vowels the last word "ذُرَّةً"; the source (and the Urdu "چیونٹی") has "ذَرَّةً", which is filled.
+- **p396:** Proofreader please check: the print has "أَوِ لْيَخْلُقُوا"; Bukhari 7559 has "أَوْ لِيَخْلُقُوا", which is filled.
+- **p396:** Proofreader please check: hadith 3 is read as Muslim "يَجْعَلُ لَهُ بِكُلِّ صُورَةٍ صَوَّرَهَا نَفْسًا فَتُعَذِّبُهُ فِي جَهَنَّمَ" where the book prints "يُجْعَلُ لَهُ بِكُلِّ صُورَةٍ صَوَّرَهَا نَفْسٌ فَيُعَذَّبُ بِهَا فِي جَهَنَّمَ"; no report in the collections has the printed wording.
+- **p396:** Proofreader please check: hadith 3's printed reference "صحيح البخاري [2255]" is another hadith in the sunnah.com numbering; Ibn Abbas's report on picture-makers is Bukhari 2225. The printed reference is kept.
+- **p397:** Proofreader please check: the printed reference "صحيح البخاري [5964]" is another hadith in the sunnah.com numbering (Usamah riding a donkey); Aisha's report on the curtain with pictures is Bukhari 5954. The printed reference is kept.
+- **p409:** Proofreader please check: "اب قائد کہلانے میں شرم محسوس کر رہے ہو؟" is typed as printed; after «دلّال» one might expect a word for "pimp" (Arabic «قوّاد») rather than «قائد».
+- **p411:** Proofreader please check: Muslim 1339 is Abu Hurayra's hadith on a woman travelling without a mahram (3266–3271 in the sunnah.com numbering); the words printed here are Muslim 1341 (Ibn Abbas, 3272). The printed reference is kept. "حتی کہ" is typed with the dagger alif ("حتیٰ کہ"), so the voice reads it right.
+- **p416:** Proofreader please check: the printed reference "سنن الترمذي [2359]" is another hadith in the sunnah.com numbering (Abu Umamah on barley bread); an-Nawwas's report is Tirmidhi 2389. The printed reference is kept.
+- **p435:** Proofreader please check: the last paragraph («لیکن مانع حمل ادویات ... تو کیا کریں؟») is a question to the teacher (he answers it on page 436), so it is presumably Salim's, but it is printed as a plain paragraph with no speaker's name; typed as printed, without a name. That question continues on page 436 ("وقفہ کرنا چاہیں تو کیا کریں؟"); it is kept whole here.
+- **p448:** typed «صَلَاةٌ», the subject of «لَمْ تُقْبَلْ», as in Muslim 5821. Proofreader please check.
+- **p448:** Proofreader please check: whether the Muslim wording should be read instead.
+- **p453:** so a comma is put after «بیماری» for the pause. Proofreader please check that comma (not printed).
+- **p463:** Proofreader please check: hadith 2 is printed «... عِنْدَ مَوْتِهِ، وَلَمْ يَكُنْ لَهُ مَالٌ غَيْرُهُمْ، فَجَزَّأَهُمُ النَّبِيُّ ﷺ أَثْلَاثًا ...»; no report has this wording (Nasa'i 1958 has «وَلَمْ يَكُنْ» but goes on differently), so it is read as Muslim 4335: «لَمْ يَكُنْ لَهُ مَالٌ غَيْرُهُمْ فَدَعَا بِهِمْ رَسُولُ اللَّهِ ﷺ فَجَزَّأَهُمْ أَثْلاَثًا».
+- **p465:** Proofreader please check: the first speaker is printed «حسین», though the question («سابقہ دو شرطوں ...») follows on from the teacher's exchange with عبدالرحیم about his will (pages 457-464). Both men are present in the scene (حسین is the guest, عبدالرحیم the neighbour, pages 442-455), so it may be right; typed as printed. «لَا ضَرَرَ وَلَا ضِرَارَ» (in quote marks in the teacher's sentence) is quoted as a principle and then translated, so it is recited in its own [ar] block (as «يَدًا بِيَدٍ» on page 121), filled from Ibn Majah 2341 (Ibn Abbas, the Prophet's words); the book gives no reference for it.
+- **p467:** Proofreader please check: the hadith (the Farewell Hajj sermon) is filled from a different Companion's report than the one the book cites. The book cites "صحيح مسلم، رقم الحديث [1218]" (Jabir, Muslim 2951 in the hadith-api numbering), which has only «إِنَّ دِمَاءَكُمْ وَأَمْوَالَكُمْ حَرَامٌ عَلَيْكُمْ ...». The book's wording, with «وَأَعْرَاضَكُمْ عَلَيْكُمْ حَرَامٌ» and «أَلَا هَلْ بَلَّغْتُ», is Abu Bakra's report of the same sermon (Muslim 1679), joined from two of its versions: «إِنَّ دِمَاءَكُمْ ... فِي بَلَدِكُمْ هَذَا» (Muslim 4384, which reads «فَإِنَّ»; the "~" leaves the joined «فَ» out, as the print starts the quote with «إِنَّ») and «أَلاَ هَلْ بَلَّغْتُ» (Muslim 4383).
+- **p468:** Proofreader please check: the follow-up question «وہ کون کون سے قواعد و ضوابط ہیں؟» is printed with the speaker «حسین», though the chapter's question (page 467) is عبدالرحیم's; both are present in the scene (as on page 465), so it may be right; typed as printed.
+- **p478:** Proofreader please check: hadith 2 is printed «... إِلَّا مَعَ ذِي مَحْرَمٍ، فَقَالَ رَجُلٌ: يَا رَسُولَ اللَّهِ ...»; Muslim 3272 (and Bukhari 3006) read «فَقَامَ رَجُلٌ فَقَالَ يَا رَسُولَ اللَّهِ», which the book's translation follows ("ایک آدمی کھڑا ہوا اور عرض کی"); no excerpt reproduces the print, so the source is read. The print also vowels «وَلَا تُسَافِرُ» where Muslim 3272 has «وَلاَ تُسَافِرِ».
+- **p482:** Proofreader please check: the book prints «عَارِيَاتٌ مَائِلَاتٌ مُمِيلَاتٌ»; Muslim 5582 has «مُمِيلاَتٌ مَائِلاَتٌ», which is filled. (Muwatta Malik 1658 has the book's order, but it is Abu Hurairah's own words (mawquf), not a report of the Prophet's words, so it is not used.) The book's «رُؤُوسُهُنَّ» is spelled «رُءُوسُهُنَّ» in the source (same pronunciation).
+- **p495:** Proofreader please check: the footnote prints a «رحمه الله» ligature (﵀) between the page numbers 171 and 172 (left to right on the page: "171 ﵀ 172"), apparently in place of a dash; typed "[ص: 171-172]", digits in the order they appear left to right.
+- **p500:** Proofreader please check: page 502 prints the same scene again in different words (Ammar arrives, «کون ہے؟», the teacher wants clothes for the children and a plain prayer mat, both go to the shop). Both pages are typed as printed; the editor may want to keep only one in the audio.
+- **p502:** Proofreader please check: this scene repeats the one on page 500 in different words; both are typed as printed (see page 500). «حیاک اللہ» is a set phrase in the teacher's Urdu turn; kept in the Urdu block. «جاے نماز» is printed without a hamza; typed as printed (page 500 has «جائے نماز»). «اپنے ایک سادہ نہ کہ منقش جاے نماز» is typed as printed.
+- **p505:** Proofreader please check: the rest of hadith 2 is printed differently from Muslim 5881 and no excerpt reproduces it, so Muslim's wording is read: the book has "مُغْلَفًا بِطِينٍ" (Muslim: "مُغْلَقٍ مُطْبَقٍ"), "فَمَرَّتْ عَلَى امْرَأَتَيْنِ" (Muslim: "فَمَرَّتْ بَيْنَ الْمَرْأَتَيْنِ") and "بِيَدِيهَا" (Muslim: "بِيَدِهَا").
+- **p508:** Proofreader please check: these are read as print vowel slips and typed «بِمِخْيَطٍ», «حَدِيْدٍ» (tanween, as the shadda of «مِّنْ» and the grammar require; as on page 331) and «يُّطْعَنَ» (the passive «to be pierced»).
+- **p514:** Proofreader please check: hadith 1 is printed "حَتَّى يَتَبَاهَى النَّاسُ بِالْمَسَاجِدِ"; Abu Dawud 449, Ibn Majah 739 and Musnad Ahmad all have "فِي الْمَسَاجِدِ", so Abu Dawud's wording is read. Ibn Abbas's words «لَتُزَخْرِفُنَّهَا ...» are his own (Abu Dawud 448, which the book cites, gives them after the Prophet's «مَا أُمِرْتُ بِتَشْيِيدِ الْمَسَاجِدِ»), so they are typed from the print as other Arabic, with the printed harakat, including the sukun on the waw of «الْيَهُوْدُ» (read at 300 dpi; the letters are the same as Abu Dawud's). The last word needs no change for waqf. Umar's words are typed from the print (Bukhari quotes them without a chain in a chapter heading, outside the hadith-api text; the book cites "صحيح البخاري [171/1]"), with waqf at the comma and at the end. «أُكِنُّ» is typed as printed (first person, as its translation «میں ... بچانا چاہتا ہوں»).
+- **p514:** Proofreader please check: the print vowels the verb «فَتَفْتَنُ» (checked at 300 dpi: a fatha on the second ta, no kasra under it, a damma on the nun); typed «فَتَفْتِنَ» (so that you tempt the people), the only reading that fits the sentence.
+- **p514:** Print typo corrected (Proofreader please check): "ایسے قالین اور چادریں وغیرہ بچھائی اور نہ لٹکائی جائیں" -> "... وغیرہ نہ بچھائی اور نہ لٹکائی جائیں" (the first «نہ» of «نہ ... اور نہ ...» is missing in the print, which would read the opposite; the sentence ends "اور نہ ان پر نماز ہی پڑھی جائے"). «یہود و نصاری» in the translation takes the dagger alif («نصاریٰ») so it is read with a long a.
+- **p519:** Proofreader please check: the hadith is joined from Abu Dawud 3674 (Ibn Umar) and Tirmidhi 1295 (Anas); the print vowels "ثَمَنَهَا" (and "وَسَاقِيُهَا"), the source has "ثَمَنِهَا" (and "وَسَاقِيَهَا"), which is filled.
+- **p520:** Proofreader please check: the book's footnote reads "صحيح مسلم، رقم الحديث [1587]"; this hadith is Muslim 2002 (1587 is a hadith on gold and silver). The printed reference is kept.
+- **p521:** Proofreader please check: the print vowels the term «طِيْنَةُ الْخِبَال» (kasra on the خ) both times; typed «الْخَبَال», as in the hadith.
+- **p521:** Proofreader please check: the last hadith is read as Ibn Majah 3377, whose conjunctions differ from the print (as on page 209): the source has "وَإِنْ مَاتَ" (first time; the book: "فَإِنْ مَّاتَ"), "فَإِنْ تَابَ" three times (the book: "وَإِنْ تَابَ") and "وَإِنْ عَادَ كَانَ حَقًّا" (the book: "فَإِنْ عَادَ كَانَ حَقًّا"). No excerpt reproduces the book's wording.
+- **p522:** Proofreader please check: the print vowels the term «رَدْغَةُ الْخِبَال» (kasra on the خ) both times; typed «الْخَبَال», as in the hadith.
+- **p527:** Proofreader please check: the book prints «يَهْوِي» and «الزِّنَا»; Muslim 6755 has «يَهْوَى» and «الزِّنَى», which are read.
+- **p529:** Proofreader please check: the print vowels «خَدُوْشًا أَوْ كَدُوْشًا» (fatha on the خ and the ك); typed «خُدُوْشًا أَوْ كُدُوْشًا» (plurals, as "خُدُوشًا" in Ibn Majah 1840).
+- **p529:** Proofreader please check: «كُدُوْشًا» is typed as printed, but it is probably a misprint for «كُدُوحًا» (the word of every report: "خُدُوشًا أَوْ خُمُوشًا أَوْ كُدُوحًا", Ibn Majah 1840); not corrected, since the print is clear. Al-Baqarah 2:273 is quoted from its start to «إِلْحَافًا» (the rest of the verse is not printed); filled from the official text.
+- **p529:** Proofreader please check: the book prints «بُوْرِكَ فِيْهِ» without the «لَهُ» that every report has («بُورِكَ لَهُ فِيهِ»); the excerpts follow the book and leave «لَهُ» out (the Urdu translation has «اس کے لیے»).
+- **p530:** Proofreader please check: the book vowels «فَتُخْرِجُ»; Muslim 2390 has «فَتُخْرِجَ» (Nasa'i 2593 lacks the clause), which is read.
+- **p531:** Proofreader please check: the book prints «حَتَّى يَلْقَى اللَّهَ تَعَالَى»; Muslim 2396 has no «تَعَالَى» and no report has it, so it is not read.
+- **p531:** Proofreader please check: the book prints «مَنْ سَأَلَ النَّاسَ تَكَثُّرًا» without the «أَمْوَالَهُمْ» of Muslim 2399 («مَنْ سَأَلَ النَّاسَ أَمْوَالَهُمْ تَكَثُّرًا»); the excerpts follow the book and leave it out (" cont" after «النَّاسَ»).
+- **p532:** Proofreader please check: hadith 2 has «فَقُلْتُ: أَنَا» in the print but «فَقَالَ ثَوْبَانُ أَنَا» in Abu Dawud 1643; «فَقُلْتُ» is typed by hand.
+- **p534:** Proofreader please check: the print vowels «فَنَأْمُرُ»; both reports have «فَنَأْمُرَ», which is read.
+- **p539:** Proofreader please check: hadith 1 is read as Bukhari 2387 «وَمَنْ أَخَذَ يُرِيدُ إِتْلاَفَهَا» where the book prints «وَمَنْ أَخَذَهَا يُرِيدُ إِتْلَافَهَا»; no report in the collections has «أَخَذَهَا» (Ibn Majah 2411 has only the second half, without it).
+- **p543:** Proofreader please check: «فرع» is added; the print has no word before «اصل».
+- **p545:** Proofreader please check: the book's first reference (Tirmidhi [2212]) is to a report whose wording differs from the printed one.
+- **p551:** Print typo corrected (Proofreader please check): "مشنری" -> "مشینری" (machinery, in the list «فنڈنگ، امداد، گاڑیاں، مشینری، ادویات»; as printed it would be read "missionary").
+- **p554:** Proofreader please check: "کوئی ماہر اور ایماندار ڈاکٹرز کرے گا" is typed as printed; "ڈاکٹرز" (plural) reads like "ڈاکٹر".
+- **p561:** Proofreader please check: «گھٹار» is typed as printed (as on page 393); the usual spelling of "guitar" is «گٹار».
+- **p562:** Proofreader please check: «فَعَلَفُهُ» is typed for the printed «فَعِلْفُهُ» (the print checked on the extracted 300 dpi page image: kasra under the ع, sukun on the ل).
+- **p563:** Proofreader please check: "کچھ مقابلے کے شریک مال دیں اور کچھ دوسرے نہ دیں۔ برداشت کریں، کیونکہ ..." is typed as printed; «برداشت کریں» seems to have lost a word (perhaps "(خرچ) برداشت کریں").
+
+## 2. Corrections made to the print (91 items)
+
+Listed so that nothing is changed silently. Each was made only where the reading is not in doubt; those a reader should still confirm are also in section 1.
+
+- **p21:** Print typo corrected: "ایک ایسا ونت آئے گا" -> "ایک ایسا وقت آئے گا".
+- **p32:** Print typo corrected: "كَثْرٍ" -> "كَثَوْرٍ" (the print drops the waw; the translation reads «ثور», and the metre needs it).
+- **p32:** Print typo corrected: "بَقَيْدِ" -> "بِقَيْدِ" (the print seems to have a fatha on the preposition).
+- **p43:** Print typo corrected: the translation opens with “ but the print never closes it; ” added after the fifth item.
+- **p47:** Print typo corrected (meaning reversed, Proofreader please check): "بیچنے والے کو قیمت لینے کا حق ہے اور نہ خریدنے والے کو" -> "نہ بیچنے والے کو قیمت لینے کا حق ہے اور نہ خریدنے والے کو" (the first «نہ» of «نہ ... اور نہ ...» is missing).
+- **p53:** Print typo corrected: "سونے والے کمرے مبں" -> "سونے والے کمرے میں".
+- **p59:** Print typo corrected: "اَلدَّالُ" -> "اَلدَّالُّ" (the shadda on the lam is missing in the print; the word is دَالٌّ from دَلَّ).
+- **p77:** Print typo corrected: "یہ منع ہے۔۔" -> "یہ منع ہے۔" (a doubled full stop).
+- **p81:** Print typo corrected: "تین ہزار پاؤند ہے" -> "تین ہزار پاؤنڈ ہے".
+- **p85:** Print typo corrected: "سو گرام ب انا سونا" (a broken letter) -> "سو گرام پرانا سونا"; a stray mark after "دے دیتا" is left out.
+- **p88:** Print typo corrected: "خرید وفروحت" -> "خرید و فروخت".
+- **p97:** Print typo corrected (meaning reversed, Proofreader please check): "الا یہ کہ وہ اس عیب کو واضح نہ کرے" -> "الا یہ کہ وہ اس عیب کو واضح کرے" (a stray «نہ» says the opposite of the hadith «إِلَّا بَيَّنَهُ لَهُ»).
+- **p100:** Print typo corrected: "بقایا ادا کر جاتیں" -> "بقایا ادا کر جائیں".
+- **p107:** Print typo corrected: "خریدار::" -> "خریدار:" (a doubled colon after the speaker's name).
+- **p116:** Print typo corrected: "یہ حرام ہے۔-" -> "یہ حرام ہے۔" (a stray dash after the full stop in item ②). "گڑھ بڑھ" is typed as printed.
+- **p128:** Print typo corrected (meaning reversed, Proofreader please check): "محض رضامندی کسی حرام کام کو حلال کر سکتی ہے اور نہ" -> "محض رضامندی نہ کسی حرام کام کو حلال کر سکتی ہے اور نہ" (the first «نہ» of «نہ ... اور نہ ...» is missing).
+- **p137:** Print typo corrected: "میں خریدار تو نہیں ہو" -> "میں خریدار تو نہیں ہوں". "دودھ دھویا" (for milking) is typed as printed, here and on page 138.
+- **p139:** Print typo corrected (meaning reversed, Proofreader please check): "وہ اپنا حال بیان کر سکتا ہے اور نہ" -> "وہ نہ اپنا حال بیان کر سکتا ہے اور نہ" (the first «نہ» of «نہ ... اور نہ ...» is missing).
+- **p140:** Print typo corrected: "تم اللہ سے مافی مانگو" -> "تم اللہ سے معافی مانگو".
+- **p144:** Print typo corrected: Ibn Battal's quote ends with ” but the print never opens it; “ added before "علما".
+- **p163:** Print typo corrected: "ہر دھوکے باز کے کرین پر" -> "ہر دھوکے باز کے سرین پر" (the Arabic «عِنْدَ اسْتِهِ»: at his rear).
+- **p177:** Print typo corrected: "یہ حقیر سا تحفہ قبور فرمائیں" -> "یہ حقیر سا تحفہ قبول فرمائیں".
+- **p193:** Print typo corrected (Proofreader please check): "محذفہ" -> "مخذفہ" (one dot: the word is mikhdhafah, a sling, as in Bukhari 5479 on this page).
+- **p194:** Print typo corrected: "اَلْخَذَف" -> "اَلْخَذْف" (the word is al-khadhf, as in Bukhari 5479 on page 193).
+- **p211:** Print typo corrected: "يَا سَاكَنَ" -> "يَا سَاكِنَ" (the print has a fatha on the kaf; the vocative needs the participle).
+- **p211:** Print typo corrected: "شِخصَك" -> "شَخصَك" (the print has a kasra under the shin).
+- **p211:** Print typo corrected: the translation has "بھول جائیں گے،۔" (comma and full stop); typed "بھول جائیں گے۔".
+- **p212:** Print typo corrected: "حلال کی تھوڑی سے کمائی" -> "حلال کی تھوڑی سی کمائی".
+- **p241:** Print typo corrected: "طالب علوں" -> "طالب علموں" (the next line prints "طالب علموں").
+- **p242:** Print typo corrected: "مُتنْتَبِه" -> "مُنْتَبِه" (the print has an extra tooth with two dots after the mim; the word is مُنْتَبِهٌ, awake).
+- **p251:** Print typo corrected: "تباہی کے دھانے پر" -> "تباہی کے دہانے پر" (the word is دہانہ, brink; with ھ it would be read "dhaane").
+- **p252:** Print typo corrected: "غلیظ اور گندھا کھیل" -> "غلیظ اور گندا کھیل".
+- **p259:** Print typo corrected: "جو باتیں ہم نے کی ہے" -> "جو باتیں ہم نے کی ہیں" (the verb agrees with «باتیں»).
+- **p273:** Print typo corrected: a stray opening bracket in the translation, "تو رحم (کھڑا ہوا۔", never closed, is dropped: "تو رحم کھڑا ہوا۔".
+- **p273:** Print typo corrected: the translation's closing quote mark is missing after "یہ آیت مبارکہ پڑھ لو:"; it is added.
+- **p283:** Print typo corrected: "عَسَبِ" -> "عَسْبِ" (the word is ʿasb, as in the hadith on page 284, Abu Dawud 3429 and Bukhari 2284).
+- **p294:** Print typo corrected: "کرنل چال سپر چاول سے" -> "کرنل چاول سپر چاول سے".
+- **p294:** Print typo corrected: "ایک سو تین (130) کلو" -> "ایک سو تیس کلو" (the figure is 130, and the difference asked for on page 295 is thirty kilos). Abu Jum'a's last turn continues on page 295; its sentence "میں تجھ کو ... کیونکہ آپ کے چاول ذرا مہنگے ہیں۔" is kept whole here, and the next sentence of the turn ("لہٰذا آپ تیس (30) کلو کم دے دیں۔") starts on page 295 and stays there.
+- **p309:** Print typo corrected: "مرد نہیں کیا رتے تھے" -> "مرد نہیں کیا کرتے تھے" (the ک of «کرتے» is broken off in the print).
+- **p310:** Print typo corrected: Ibn Uthaymeen's quote opens with “ but the print never closes it; ” added after "حلال ہو سکتا ہے؟".
+- **p311:** Print spelling normalized: «پنتالیسواں باب» -> «پینتالیسواں باب» (the standard spelling, as in پینتیسواں and پینسٹھواں); the contents page has the same spelling.
+- **p321:** Print typo corrected: "اس وقت اور بڑھ جاتا ہے، جس لوگ" -> "جب لوگ".
+- **p325:** Print typo corrected: "اللہ تعالیٰ اس آدم کے لیے" -> "اس آدمی کے لیے".
+- **p337:** Print typo corrected: "اس لیے یہ کام جائز ہے اور نہ اس کی اجرت" -> "اس لیے نہ یہ کام جائز ہے اور نہ اس کی اجرت" (the print drops the first «نہ», which reverses the meaning). Proofreader please check the wording of the fix. «جزاک اللہ» and «ان شاء اللہ» (the first printed in Arabic type, «جزاك الله») stay in the young man's [ur] block in Urdu spelling.
+- **p342:** Print slip corrected: the print has «النَبيُّ» (no shadda on the nun, no kasra on the ba); typed in full, «النَّبِيُّ».
+- **p347:** Print spelling normalized: «اکاوناں باب» -> «اکاونواں باب» (the print drops the «و»); the contents page has the same spelling.
+- **p354:** Print spelling normalized: «بانواں باب» -> «باونواں باب» (the print's «بانواں» is also its spelling for 92nd (page 543), so it would be read as ninety-second); the contents page has the same spelling.
+- **p357:** Print typo corrected: "کہ تم ۔نے مجھ سے" -> "کہ تم نے مجھ سے" (a stray full stop inside the sentence).
+- **p365:** Print typo corrected: "چورانواں باب" -> "چونواں باب" (the chapter comes between «ترپنواں» and «پچپنواں», so it is the fifty-fourth; «چورانواں» would be read "ninety-fourth"). The contents (book page 10) has the same slip. «الحمد لله» is set in Arabic type inside Faisal's Urdu turn; it is kept in the Urdu block, in Urdu letters (الحمد للہ), as on the other pages.
+- **p375:** Print typo corrected: "بس شخص نے ادھار سودا بیچا" -> "جس شخص نے ادھار سودا بیچا" (the relative clause «جس ... تو»); the opening “ is added to match the closing ” on page 376.
+- **p377:** Print typo corrected (Proofreader please check): "ٹیلی ویژن کی خرید و فروخت اور حرمت کی ممانعت" -> "ٹیلی ویژن کی خرید و فروخت اور مرمت کی ممانعت" (one letter, ح for م: chapter fifty-one is «ٹیلی ویژن کی خرید و فروخت اور مرمت»).
+- **p381:** Print spelling normalized: «ستانواں باب» -> «ستاونواں باب» (the print's «ستانواں» is also its spelling for 97th (page 551), so it would be read as ninety-seventh); the contents page has the same spelling.
+- **p384:** Print spelling normalized: «اٹھانواں باب» -> «اٹھاونواں باب» (the print's «اٹھانواں» is also its spelling for 98th (page 555), so it would be read as ninety-eighth); the contents page has the same spelling.
+- **p384:** Print typo corrected: "جس کے وجہ سے" -> "جس کی وجہ سے" (top of page 385).
+- **p390:** Print typo corrected: "ایسی چیزی نہیں خریدوں گا" -> "ایسی چیزیں نہیں خریدوں گا" (the verb «بنا دیں» is plural).
+- **p395:** Print typo corrected: "یہ تصویریں کیوں آویزاں کی گئی ہے؟" -> "یہ تصویریں کیوں آویزاں کی گئی ہیں؟" (the subject is plural).
+- **p409:** Print typo corrected: "گناؤنے جرائم" -> "گھناؤنے جرائم" (the print drops the ھ).
+- **p412:** Print typo corrected: the footnote's "رقم الحدبث" -> "رقم الحديث".
+- **p413:** Print typo corrected: "جہنم کے گھڑے میں" -> "جہنم کے گڑھے میں" (a pit, as on page 411, not a pitcher).
+- **p421:** Print typo corrected: "میں وعدہ کرتا ہو کہ" -> "میں وعدہ کرتا ہوں کہ".
+- **p421:** Print typo corrected: "ایک، بات تم نے یہ کہی ہے" -> "ایک بات تم نے یہ کہی ہے" (a stray comma-like mark between the two words).
+- **p424:** Print typo corrected: "کیا دانتوں کو چھوڑا کروانا" -> "کیا دانتوں کو چھوٹا کروانا" (Saad has just said «چھوٹا کروانا چاہتی تھی», and page 425 repeats «فاصلہ کروانا یا چھوٹا کروانا»).
+- **p425:** Print typo corrected: "میں مذاق کر رہا ہوں اور نہ یہ سختی" -> "نہ میں مذاق کر رہا ہوں اور نہ یہ سختی" (the print drops the first «نہ» of «نہ ... اور نہ ...», which reverses the meaning: "I am joking"). Proofreader please check the wording of the fix. Al-An'am 6:38 (part) and Al-Hashr 59:7 (part) are filled from the official text (fill_quran.py).
+- **p428:** Print typo corrected: "چھیاسٹھوں باب" -> "چھیاسٹھواں باب" (the alif of the ordinal ending is missing; the contents, book page 12, has the same slip).
+- **p433:** Print typo corrected: "سترسٹھواں باب" -> "سڑسٹھواں باب" (the chapter comes between «چھیاسٹھواں» and «اڑسٹھواں», so it is the sixty-seventh; «سترسٹھواں» mixes «ستر» (seventy) into the word and would be misread). The contents (book page 12) has the same slip. «الحمد للہ» is printed as a ligature in Salim's Urdu turn; it is kept in the Urdu block, in Urdu letters.
+- **p442:** Print typo corrected: "انسٹھواں باب" -> "انہترواں باب". This is chapter sixty-nine: the contents (book page 12) put it between «اڑسٹھواں باب» (page 435) and «سترواں باب» (page 446), and «انسٹھواں باب» (the fifty-ninth) is the chapter on page 389.
+- **p444:** Print typo corrected: "نبی مکرم ﷺ نے اپنی امت کو ترغیب دی اور نہ اس کا حکم دیا" -> "... اپنی امت کو نہ ترغیب دی اور نہ اس کا حکم دیا" (the print drops the first «نہ», which reverses the meaning). Proofreader please check the wording of the fix.
+- **p453:** Print typo corrected: the word «کہیں» ("... ڈرنا چاہیے کہ کہیں کسی ایک طرف میلان ...") is printed with a broken glyph that looks like «کہبں»; typed «کہیں».
+- **p458:** Print typo corrected: "صریحاً اللہ اس کے رسول ﷺ سے اعلان جنگ" -> "صریحاً اللہ اور اس کے رسول ﷺ سے اعلان جنگ" (the «اور» is missing). «آیندہ» is typed as printed. «حتی کہ» is typed «حتیٰ کہ» (dagger alif, read with a long a).
+- **p508:** Print typo corrected: "تو وہ وہ بھی ایڈز کی مریض نکلی" -> "تو وہ بھی ایڈز کی مریض نکلی" (a doubled word). «معاینہ» is typed as printed (twice).
+- **p514:** Print typo corrected (Proofreader please check): "ایسے قالین اور چادریں وغیرہ بچھائی اور نہ لٹکائی جائیں" -> "... وغیرہ نہ بچھائی اور نہ لٹکائی جائیں" (the first «نہ» of «نہ ... اور نہ ...» is missing in the print, which would read the opposite; the sentence ends "اور نہ ان پر نماز ہی پڑھی جائے"). «یہود و نصاری» in the translation takes the dagger alif («نصاریٰ») so it is read with a long a.
+- **p522:** Print typo corrected: "(اسی دوران میں اگر وہ" -> "(اسی دوران میں) اگر وہ" (the closing bracket is missing in the print).
+- **p536:** Print spelling normalized: «انانواں باب» -> «نواسیواں باب» (chapter 89; the book's spelling of the 90s is also its spelling of the 50s or is irregular, so the standard number word + «واں» is used); the contents page has the same spelling.
+- **p538:** Print spelling normalized: «نوویواں باب» -> «نوےواں باب» (chapter 90; the book's spelling of the 90s is also its spelling of the 50s or is irregular, so the standard number word + «واں» is used); the contents page has the same spelling.
+- **p541:** Print spelling normalized: «اکیانواں باب» -> «اکانوےواں باب» (chapter 91; the book's spelling of the 90s is also its spelling of the 50s or is irregular, so the standard number word + «واں» is used); the contents page has the same spelling.
+- **p543:** Print spelling normalized: «بانواں باب» -> «بانوےواں باب» (chapter 92; the book's spelling of the 90s is also its spelling of the 50s or is irregular, so the standard number word + «واں» is used); the contents page has the same spelling.
+- **p543:** Print typo corrected (a missing word): "ہمارے نزدیک اصل کی پیروی کرتی ہے" -> "ہمارے نزدیک فرع اصل کی پیروی کرتی ہے". The sentence has no subject without it; the same sentence goes on «یہ سب اصل کی فرع ہیں», and «کرتی» agrees with «فرع» (the maxim «الفرع يتبع الأصل»).
+- **p544:** Print spelling normalized: «ترانواں باب» -> «ترانوےواں باب» (chapter 93; the book's spelling of the 90s is also its spelling of the 50s or is irregular, so the standard number word + «واں» is used); the contents page has the same spelling.
+- **p545:** Print spelling normalized: «چورانواں باب» -> «چورانوےواں باب» (chapter 94; the book's spelling of the 90s is also its spelling of the 50s or is irregular, so the standard number word + «واں» is used); the contents page has the same spelling.
+- **p547:** Print spelling normalized: «پچانواں باب» -> «پچانوےواں باب» (chapter 95; the book's spelling of the 90s is also its spelling of the 50s or is irregular, so the standard number word + «واں» is used); the contents page has the same spelling.
+- **p549:** Print spelling normalized: «چھیانواں باب» -> «چھیانوےواں باب» (chapter 96; the book's spelling of the 90s is also its spelling of the 50s or is irregular, so the standard number word + «واں» is used); the contents page has the same spelling.
+- **p549:** Print typo corrected: the title's «فلموں» is printed with a broken final letter; it is typed «فلموں».
+- **p549:** Print typo corrected: a stray mark between «جملوں» and «اور» («ان جملوں !اور محاوروں») is not typed.
+- **p551:** Print typo corrected (Proofreader please check): "مشنری" -> "مشینری" (machinery, in the list «فنڈنگ، امداد، گاڑیاں، مشینری، ادویات»; as printed it would be read "missionary").
+- **p551:** Print spelling normalized: «ستانواں باب» -> «ستانوےواں باب» (chapter 97; the book's spelling of the 90s is also its spelling of the 50s or is irregular, so the standard number word + «واں» is used); the contents page has the same spelling.
+- **p555:** Print spelling normalized: «اٹھانواں باب» -> «اٹھانوےواں باب» (chapter 98; the book's spelling of the 90s is also its spelling of the 50s or is irregular, so the standard number word + «واں» is used); the contents page has the same spelling.
+- **p558:** Print spelling normalized: «نناواں باب» -> «ننانوےواں باب» (chapter 99; the print's spelling drops «نو» and the book's 90s spellings are irregular, so the standard number word + «واں» is used); the contents page has the same spelling.
+- **p562:** Print typo corrected: the vowel slip «فَعِلْفُهُ» -> «فَعَلَفُهُ» (عَلَف, fodder; the word as known in this hadith).
+- **p563:** Print typo corrected: «استاد صاحب» is printed with a broken «ح» ("صا تب"); typed «صاحب».
+- **p563:** Print typo corrected: "اس شرط پر اشامل ہو" -> "اس شرط پر شامل ہو" (a stray alif). «حتی کہ» takes the dagger alif («حتیٰ کہ»). The book's quotation marks around «محلل» are typed “...”.
+- **p564:** Print typo corrected: "ہر ایک مال جمع کروئے" -> "ہر ایک مال جمع کروائے". «واللہ اعلم» is printed at the end of the teacher's answer without a full stop; typed as printed.
+
+## 3. Points about the book's own Urdu wording, raised while translating it into English (31 items)
+
+The Urdu is kept as printed in each case; the English follows the Urdu unless noted.
+
+- **p29:** «بارش کے وقت مریض کا نمازیں جمع کرنا» reads as one concession; the original probably means two (rain; illness).
+- **p55:** «سنی شخص» (a man strict on the Sunnah) may be misheard as the sect name.
+- **p91:** says most people "cannot even read Urdu" (probably adapted by the Urdu translator from the original).
+- **p122:** al-Bara' is said to speak to «شریک», but the next sentence continues in Abu al-Minhal's voice.
+- **p149:** Ammar's example starts with a she-camel but the seller takes hold of «گائے کی دم».
+- **p150:** the Urdu has Amr (the narrator) ask what «يُصَدِّقُكَ عَلَيْهِ صَاحِبُكَ» means; in Muslim "Amr" is a note on a narrator's wording.
+- **p161:** «اس کی ایک اور وجہ بھی ہے؟» ends with ؟ although it is a statement.
+- **p167:** the farm owner's lines in the teacher's story are printed under «استاد».
+- **p172:** the hadith «الرِّبَا اثْنَانِ وَسَبْعُوْنَ بَابًا» has no Urdu translation.
+- **p205:** «کیا اس کا کاروبار بھی حرام ہے۔» ends with a full stop (a question).
+- **p208:** the Urdu renders «يسمونها بغير اسمها» (calling it by another name) as 'relaxing drinks' (the book's own interpretive rendering).
+- **p212:** the paragraph «میں اللہ سے توبہ کرتا ہوں …» has no speaker name though it reads as Ahmad's.
+- **p218:** the summary heading says «سپر سٹور اور مارکیٹ» while the tour's title page says «سپر سٹور اور دکانوں کا دورہ».
+- **p229:** the Urdu translation of the verse on p228 renders «الْأَسِنَّةِ» (spearheads) as «عمر رسیدہ جانور» (aged animal).
+- **p235:** the Arabic says "the greatest of the major sins"; the Urdu says only «کبیرہ گناہوں».
+- **p274:** the Urdu translation of 47:22 says «اگر تم حاکم بن جاؤ» where Sahih International has "if you turned away".
+- **p306–310:** «پلکوں» (eyelashes) clearly means eyebrows here (threading; Ibn Baz's fatwa is about eyebrows); the English says "eyebrows".
+- **p332:** the Urdu says «کنگھی» (comb) where the Arabic has «مِخْيَط» (needle).
+- **p337:** Ibn Mas'ud's «ہم اس سے محبت نہ کرتے» differs from the Arabic sense ("I would not have kept her with me").
+- **p361, p365:** «سو روپے» / «ایک سو روپے» although every price in the scene is in pounds.
+- **p376:** one «رحمۃ اللہ علیہم» covers a list that includes Companions (Ibn Abbas, Aishah).
+- **p409:** «قائد» after «دلّال» is probably «قوّاد» (pimp).
+- **p411:** the punishment is "on the Day of Resurrection" and then "until the Day of Resurrection".
+- **p412, p487:** the proverb (تجوع الحرة ولا تأكل بثدييها) is rendered «اپنے ہی پستان نوچنا» / «اپنے پستان نوچنا گوارہ نہیں کرتی», which misrenders it.
+- **p427:** Nawawi's words «الوشر سے مراد خوبصورتی ہے» don't match page 426, where al-washr is filing the teeth finer.
+- **p430:** «عورت کسی مرد سے پردے کے پیچھے سے سوال کر سکتی ہے» reverses the direction of 33:53 (men asking the wives).
+- **p443:** the teacher mentions a tent («خیمہ») that Husain never spoke of.
+- **p467:** Abdur-Rahim asks about taking «ضرورت سے زائد پیسے» while the chapter heading says «بہ قدر ضرورت» and page 468 forbids taking more than needed.
+- **p473:** «نظرنا» is rendered «ہم نے ... دیکھا» (we saw); the Arabic means "we waited".
+- **p509:** the tailor's wrongful relations are with «ان دو عورتوں» (those two women), but page 508 mentions only one woman.
+- **p528:** «سہل بن حنظلہ» is usually known as Sahl ibn al-Hanzaliyyah.

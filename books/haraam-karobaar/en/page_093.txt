@@ -1,0 +1,38 @@
+# title: Page 93
+# English edition of book page 93, built by build_english.py from en_src/ and page_093.txt
+
+[ar]
+لِكُلِّ غَادِرٍ لِوَاءٌ يَوْمَ الْقِيَامَةِ يُقَالْ، هَذِهِ غَدْرَةُ فُلاَنْ
+
+[ref]
+صحيح البخاري، رقم الحديث [3186] صحيح مسلم، رقم الحديث [1735]
+
+[en]
+“On the Day of Resurrection, every deceiver will have a banner, and it will be said: This is the deceit of so-and-so.”
+
+[en]
+If, even after such a severe warning, a man does not give up this vile crime, it is a sign of his weak faith. A person should worry: having deceived and cheated today, with what face will I appear in Allah's court tomorrow?
+
+[en]
+Allah the Exalted says:
+
+[ar]
+وَيْلٌ لِلْمُطَفِّفِينْ
+
+[ar]
+الَّذِينَ إِذَا اكْتَالُوا عَلَى النَّاسِ يَسْتَوْفُونْ
+
+[ar]
+وَإِذَا كَالُوهُمْ أَوْ وَزَنُوهُمْ يُخْسِرُونْ
+
+[ref]
+[المطففين:3-1]
+
+[en]
+Woe to those who give less (than due), Who, when they take a measure from people, take in full. But if they give by measure or by weight to them, they cause loss.
+
+[en]
+For the trader who gives short measure and weight there is a valley in Hell called “Wayl”, from whose severity Hell itself seeks refuge every day.
+
+[en]
+Fear Allah, and be so careful in matters of measure and weight that people have no misunderstanding about you. We are not blaming you, but we do warn you: make your soul so pure that it cannot lead you into this evil. May Allah bless us all with guidance.

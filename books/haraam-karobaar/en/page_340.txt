@@ -1,0 +1,26 @@
+# title: Page 340
+# English edition of book page 340, built by build_english.py from en_src/ and page_340.txt
+
+[ar]
+غَيِّرُوا هَذَا بِشَيْءٍ وَاجْتَنِبُوا السَّوَادْ
+
+[ref]
+صحيح مسلم، رقم الحديث [2102] سنن ابن ماجه، رقم الحديث [3624]
+
+[en]
+“Change the colour of this whiteness with something, but keep him away from black.”
+
+[en]
+Men and women are equal in this ruling; that is, for both of them dyeing the hair black is prohibited, and making it red or yellow is permissible. Taking a wage for dyeing hair black is also forbidden, because the Prophet, peace be upon him, said:
+
+[ar]
+وَإِنَّ اللَّهَ إِذَا حَرَّمَ شَيْئًا حَرَّمَ ثَمَنَهْ
+
+[ref]
+مسند أحمد [293/1] صحيح الجامع، رقم الحديث [5107]
+
+[en]
+“When Allah the Exalted forbids something, He also forbids its price.”
+
+[en]
+Young man: May Allah reward you with good.

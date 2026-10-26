@@ -1,0 +1,38 @@
+# title: Page 25
+# English edition of book page 25, built by build_english.py from en_src/ and page_025.txt
+
+[en]
+In the same way, forbidden things are often mentioned in the hadiths too. For example, the Messenger of Allah, peace be upon him, said:
+
+[ar]
+إِنَّ اللَّهَ حَرَّمَ بَيْعَ الْخَمْرِ وَالْمَيْتَةِ وَالْخِنْزِيرِ وَالأَصْنَامْ
+
+[ref]
+صحيح البخاري، رقم الحديث [2236] صحيح مسلم، رقم الحديث [1581]
+
+[en]
+“Allah the Exalted has forbidden the buying and selling of alcohol, dead animals, swine and idols.”
+
+[en]
+The Messenger of Allah, peace be upon him, said:
+
+[ar]
+إِنَّ اللَّهَ إِذَا حَرَّمَ شَيْئًا حَرَّمَ ثَمَنَهْ
+
+[ref]
+سنن الدارقطني [7/3]
+
+[en]
+“When Allah the Exalted forbids something, He also forbids its price.”
+
+[en]
+In many places in the Noble Quran, certain particular kinds of forbidden things are mentioned. For example, Allah the Exalted has described the forbidden things among foods in this way:
+
+[ar]
+حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ وَالدَّمُ وَلَحْمُ الْخِنْزِيرِ وَمَا أُهِلَّ لِغَيْرِ اللَّهِ بِهِ وَالْمُنْخَنِقَةُ وَالْمَوْقُوذَةُ وَالْمُتَرَدِّيَةُ وَالنَّطِيحَةُ وَمَا أَكَلَ السَّبُعُ إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى النُّصُبِ وَأَنْ تَسْتَقْسِمُوا بِالْأَزْلَامِ ۚ ذَٰلِكُمْ فِسْقْ
+
+[ref]
+[المائدة: 3]
+
+[en]
+Prohibited to you are dead animals, blood, the flesh of swine, and that which has been dedicated to other than Allah, and (those animals) killed by strangling or by a violent blow or by a head-long fall or by the goring of horns, and those from which a wild animal has eaten, except what you (are able to) slaughter (before its death), and those which are sacrificed on stone altars, and (prohibited is) that you seek decision through divining arrows. That is grave disobedience.

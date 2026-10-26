@@ -1,0 +1,35 @@
+# title: Page 286
+# English edition of book page 286, built by build_english.py from en_src/ and page_286.txt
+
+[en]
+Bahnasi: If taking payment is forbidden, then from now on I will not let anyone use my bull, because it does weaken it in any case.
+
+[en]
+Teacher: Brother! Why don't you do this as charity and a good deed? There is a great deal of evidence encouraging charity.
+
+[en]
+Bahnasi: Yes, I can do that, but there is one problem.
+
+[en]
+Teacher: What is the problem?
+
+[en]
+Bahnasi: Sometimes people give payment of their own accord without our asking, and if we do not take it, they insist. In such a case, is that payment permissible?
+
+[en]
+Teacher: In such a case it will not be payment; rather, it will be a kindness, and there is no harm in taking it. Anas, may Allah be pleased with him, narrated that a man from Banu Kilab came to the Prophet, peace be upon him, and asked about payment for a bull's mating:
+
+[ar]
+فَنَهَاهُ عَنْ ذَلِكَ فَقَالَ إِنَّا نُكْرَمُ عَلَى ذَلِكَ فَرَخَّصَ لَهُ فِي الْكَرَامَةْ
+
+[ref]
+سنن الترمذي، رقم الحديث [1274] سنن النسائي، رقم الحديث [4686]
+
+[en]
+“He, peace be upon him, forbade him from it. The man said: We are given something for it as a mark of honour? He, peace be upon him, replied: In that case there is a concession.”
+
+[en]
+That is, if the owner of the female animal gives the owner of the male animal some money or the like as a gift, it will not be payment but a gift, and this is permissible. But even here there are two conditions:
+
+[en]
+First: The owner of the male animal must not ask for payment.

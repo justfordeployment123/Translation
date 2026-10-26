@@ -1,0 +1,26 @@
+# title: Page 280
+# English edition of book page 280, built by build_english.py from en_src/ and page_280.txt
+
+[hen]
+Chapter Forty: Selling Grapes to Factories That Make Alcohol
+
+[en]
+Atiyyah: Abdul-Khaliq! Yesterday I passed by your grapes. Ma sha Allah, the grapes have ripened, but you have not started selling them yet?
+
+[en]
+Abdul-Khaliq: I think that rather than taking them to the market again and again, it is better to sell them all at once to some factory.
+
+[en]
+Teacher: Does it really happen that fruit is sold to a factory? We have never heard of such a thing, nor seen it.
+
+[en]
+Bahnasi: Yes, Teacher! Factories that make alcohol buy grapes and the like.
+
+[en]
+Teacher: Alas! What misguided paths have our farmers taken! Wrongfully seizing land, not giving sisters their right, growing forbidden crops, and now, to crown it all, fruit has begun to be sold to factories that make alcohol. What Allah has given you as provision, you are selling to the alcohol houses, and so you are counting yourselves among the makers of alcohol. Have you not heard this hadith of the Messenger of Allah, peace be upon him:
+
+[ar]
+لَعَنَ اللَّهُ الْخَمْرَ وَشَارِبَهَا، وَسَاقِيَهَا، وَبَائِعَهَا، وَمُبْتَاعَهَا، وَعَاصِرَهَا، وَمُعْتَصِرَهَا، وَحَامِلَهَا، وَالْمَحْمُولَةَ إِلَيْهْ، وَآكِلَ ثَمَنِهَا
+
+[ref]
+صحيح. سنن أبي داود، رقم الحديث [3674] سنن ابن ماجه [3380]

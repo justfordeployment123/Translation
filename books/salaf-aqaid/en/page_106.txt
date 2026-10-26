@@ -1,0 +1,86 @@
+# title: Page 106
+# English edition of book page 106, built by build_english.py from en_src/ and page_106.txt
+
+[en]
+The wicked setting themselves against the righteous
+
+[en]
+A slave woman giving birth to her mistress
+
+[en]
+The appearance of shirk and idol worship in the Ummah
+
+[en]
+Greeting only people one knows
+
+[en]
+Markets coming close to one another
+
+[en]
+An abundance of trade
+
+[en]
+Greed and avarice becoming common
+
+[en]
+False testimony becoming common
+
+[en]
+Concealing true testimony
+
+[en]
+Indecency becoming common
+
+[en]
+Ill-treatment of neighbours
+
+[en]
+Severing the ties of kinship
+
+[en]
+Estrangement arising among people
+
+[en]
+The appearance of tribulations
+
+[en]
+The old imitating the young
+
+[en]
+The believer seeing true dreams
+
+[en]
+The righteous remaining in Madinah al-Munawwarah
+
+[en]
+The conquest of Rome, like the conquest of Constantinople
+
+[en]
+The Muslims fighting the Jews, until the stones and trees will say:
+
+[ar]
+يا مُسْلِمْ! هَذَا يَهُودِيّ، فَتَعَالَ فَاقْتُلْهْ
+
+[en]
+“O Muslim, this is a Jew; come and kill him.”
+
+[ref]
+صحيح البخاري، الجهاد والسير، حديث:2926؛ وصحيح مسلم، الفتن، حديث:2921.
+
+[en]
+Wishing for death because of severe trials, and regarding those who die as fortunate.
+
+[en]
+An abundance of police who help the oppressors, who will beat people with whips.
+
+[en]
+People boasting to one another about decorating and adorning the mosques.
+
+[en]
+Falling short in practising the sunnahs that Islam has encouraged.
+
+[en]
+Seeking knowledge from the asaghir (people who are young and immature in matters of knowledge).
+
+[en]
+Women dressing in such a way that they are naked despite being clothed.

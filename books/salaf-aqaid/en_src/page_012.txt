@@ -1,0 +1,10 @@
+# English source for book page 12
+
+[en]
+The book's style is simple and easy to understand, equally useful to scholars, students and the general public.
+
+[en]
+The book has been translated into Urdu by Hafiz Qamar Hasan, and the translation is highly polished and fluent. Hafiz Asif Iqbal, Maulana Muhammad Usman Munib and Maulana Mukhtar Ahmad Zia, may Allah preserve them, have fulfilled well the responsibility of revision, research and referencing of sources, editing and proofreading. The guidance of Hafiz Abdul Azeem Asad, may Allah preserve him, the director of Darussalam Lahore, in arranging and refining the book is also praiseworthy. Haroon ur Rasheed, the head of the design department, Muhammad Ramzan Shad and Khurram Shahzad have worked very hard to make it better and better. May Allah the Exalted grant the author, translator and publisher of this book and all who helped a great reward, and make this book a means of strengthening and correcting the beliefs of the Muslim Ummah. Amin.
+
+[fen]
+Servant of the Quran and the Sunnah, Abdul Malik Mujahid, Managing Director, Darussalam International, May 2016

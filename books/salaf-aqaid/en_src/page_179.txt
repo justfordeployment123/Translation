@@ -1,0 +1,13 @@
+# English source for book page 179
+
+[hen]
+The Seventh Principle: The Sources for Deriving Rulings and Issues, and the Method of Reasoning from Evidence
+
+[en]
+According to the Righteous Predecessors, Ahl as-Sunnah wal-Jama'ah, the method of deriving rulings and issues and of reasoning from evidence is complete adherence to the Quran and the Sunnah. Allah the Exalted says:
+
+[en]
+{{QEN 33:36}}
+
+[en]
+And the Prophet said:

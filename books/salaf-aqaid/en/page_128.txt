@@ -1,0 +1,32 @@
+# title: Page 128
+# English edition of book page 128, built by build_english.py from en_src/ and page_128.txt
+
+[en]
+The believers are only those who, when Allah is mentioned, their hearts become fearful, and when His verses are recited to them, it increases them in faith; and upon their Lord they rely - The ones who establish prayer, and from what We have provided them, they spend. Those are the believers, truly. For them are degrees (of high position) with their Lord and forgiveness and noble provision.
+
+[ref]
+الأنفال 4-2:8.
+
+[en]
+In most verses of the Noble Quran, Allah the Exalted has joined faith with action.
+
+[en]
+Consider these verses:
+
+[ar]
+إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ كَانَتْ لَهُمْ جَنَّاتُ الْفِرْدَوْسِ نُزُلَا
+
+[en]
+Indeed, those who have believed and done righteous deeds - they will have the Gardens of Paradise as a lodging.
+
+[ref]
+الكهف 107:18.
+
+[ar]
+إِنَّ الَّذِينَ قَالُوا رَبُّنَا اللَّهُ ثُمَّ اسْتَقَامُوا تَتَنَزَّلُ عَلَيْهِمُ الْمَلَائِكَةُ أَلَّا تَخَافُوا وَلَا تَحْزَنُوا
+
+[en]
+Indeed, those who have said, “Our Lord is Allah” and then remained on a right course - the angels will descend upon them, (saying), “Do not fear and do not grieve.”
+
+[ref]
+حٰمٓ السجدة 30:41.

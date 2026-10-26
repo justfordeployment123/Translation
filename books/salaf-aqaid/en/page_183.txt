@@ -1,0 +1,26 @@
+# title: Page 183
+# English edition of book page 183, built by build_english.py from en_src/ and page_183.txt
+
+[en]
+Reason works within its own sphere. This is why they came to be called Ahl as-Sunnah: because they follow the Prophet's guidance, hold firmly to it and accept it completely. Allah the Exalted says:
+
+[ar]
+فَإِنْ لَمْ يَسْتَجِيبُوا لَكَ فَاعْلَمْ أَنَّمَا يَتَّبِعُونَ أَهْوَاءَهُمْ ۚ وَمَنْ أَضَلُّ مِمَّنِ اتَّبَعَ هَوَاهُ بِغَيْرِ هُدًى مِنَ اللَّهِ ۚ إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الظَّالِمِينْ
+
+[en]
+But if they do not respond to you - then know that they only follow their (own) desires. And who is more astray than one who follows his desire without guidance from Allah? Indeed, Allah does not guide the wrongdoing people.
+
+[ref]
+القصص 50:28.
+
+[en]
+After the Quran and the Sunnah, Ahl as-Sunnah wal-Jama'ah take the consensus (ijma') of the scholars of the Ummah as evidence and rely on it. The noble Prophet, peace be upon him, said:
+
+[ar]
+إِنَّ اللَّهَ لاَ يَجْمَعُ أُمَّتِي أَوْ قَالَ أُمَّةَ مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَلَى ضَلاَلَةْ، وَيَدُ اللَّهِ مَعَ الْجَمَاعَةْ، وَمَنْ شَذَّ شَذَّ إِلَى النَّارْ
+
+[en]
+“Allah the Exalted will not gather my Ummah (or he said: the Ummah of Muhammad, peace be upon him) upon misguidance. The hand of Allah is over the Jama'ah (the united body of the Muslims), and whoever went apart went apart into Hell.”
+
+[ref]
+جامع الترمذي، الفتن، حديث: 2167.

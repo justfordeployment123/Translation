@@ -1,0 +1,13 @@
+# English source for book page 45
+
+[hen]
+Ahl as-Sunnah wal-Jama'ah
+
+[en]
+The linguistic definition of Sunnah: Linguistically, the word sunnah is derived from sanna yasinnu, wa yasunnu sannan, whose passive participle is masnun. Sanna al-amr means that he explained the matter well. Sunnah means a way and a manner of conduct (practice), whether it is a good way and good conduct or a bad way and bad conduct. In the following hadith, sunnah is taken in this very meaning. He said:
+
+[en]
+“You will surely follow the ways of those who came before you, span by span and cubit by cubit (that is, you will follow them step by step).”
+
+[en]
+In the following hadith this word has come in the sense of conduct (practice) and way. He said:

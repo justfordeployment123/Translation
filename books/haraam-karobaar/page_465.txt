@@ -1,0 +1,44 @@
+# title: Page 465
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 465 (PDF page 466), چوہترواں باب: وصیت کے ذریعے سے کسی دوسرے وارث کو نقصان پہنچانا
+# The page starts with the new chapter (page 464 ends the previous one with a full turn).
+# Proofreader please check: the first speaker is printed «حسین», though the question («سابقہ دو شرطوں ...») follows on from the
+# teacher's exchange with عبدالرحیم about his will (pages 457-464). Both men are present in the scene (حسین is the guest, عبدالرحیم the
+# neighbour, pages 442-455), so it may be right; typed as printed.
+# «لَا ضَرَرَ وَلَا ضِرَارَ» (in quote marks in the teacher's sentence) is quoted as a principle and then translated, so it is
+# recited in its own [ar] block (as «يَدًا بِيَدٍ» on page 121), filled from Ibn Majah 2341 (Ibn Abbas, the Prophet's words); the book gives
+# no reference for it.
+# Hadith «مَنْ ضَارَّ ...»: Ibn Majah 2342 (the book cites سنن ابن ماجه and صحيح الجامع [7517]), filled in two excerpts so it
+# pauses at the book's comma.
+# The list of the ways (①–③, «صورتیں») is read as words: پہلی، دوسری، تیسری; items two and three are on page 466.
+
+[h]
+چوہترواں باب: وصیت کے ذریعے سے کسی دوسرے وارث کو نقصان پہنچانا
+
+[ur]
+حسین: استاد صاحب! کیا سابقہ دو شرطوں کے علاوہ کوئی اور ایسا طریقہ نہیں ہے، جس کے ذریعے سے اپنی اولاد میں سے کسی ایک کے حق میں وصیت کی جا سکے؟
+
+[ur]
+استاد: شریعت میں حیلوں بہانوں کی کوئی گنجائش نہیں ہے۔ اگر تم وصیت کے لیے سابقہ دو شرطوں کے علاوہ کوئی اور ذریعہ اختیار کرو گے تو یہ سراسر زیادتی اور ناانصافی ہوگی، یعنی وصیت کی آڑ میں کسی دوسرے کو نقصان پہنچانا قطعاً درست نہیں ہے، کیونکہ اسلامی شریعت کا اصول ہے کہ
+
+[ar]
+# hadith {{H ibnmajah:2341 from لاَ ضَرَرَ to ضِرَارَ}}
+لاَ ضَرَرَ وَلاَ ضِرَارْ
+
+[ur]
+نہ پہلے کسی کو نقصان پہنچانا جائز ہے اور نہ بدلے میں کسی کو نقصان پہنچانا جائز ہے۔ رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H ibnmajah:2342 from مَنْ ضَارَّ to بِهِ}}، {{H ibnmajah:2342 from وَمَنْ شَاقَّ to عَلَيْهِ}}
+مَنْ ضَارَّ أَضَرَّ اللَّهُ بِهْ، وَمَنْ شَاقَّ شَقَّ اللَّهُ عَلَيْهْ
+
+[ref]
+سنن ابن ماجه، صحيح الجامع، رقم الحديث [7517]
+
+[ur]
+“جو شخص کسی کو نقصان پہنچائے گا، اللہ تعالیٰ اسے نقصان پہنچائیں گے اور جو کسی پر سختی کرے گا، اللہ تعالیٰ اس پر سختی کریں گے۔”
+
+[ur]
+وصیت کے ذریعے سے کسی دوسرے وارث کو نقصان پہنچانے کی مندرجہ ذیل صورتیں ہو سکتی ہیں:
+
+[ur]
+پہلی: وصیت کے ذریعے سے کسی وارث کو اس کے حق سے محروم کر دینا۔

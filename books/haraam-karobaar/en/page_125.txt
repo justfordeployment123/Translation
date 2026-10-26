@@ -1,0 +1,26 @@
+# title: Page 125
+# English edition of book page 125, built by build_english.py from en_src/ and page_125.txt
+
+[hen]
+Chapter Thirteen: Selling Torn and Worn Banknotes for Less
+
+[en]
+When the teacher had finished his conversation, another man, who had been sitting nearby listening to what he said, asked a question.
+
+[en]
+Man: Sir! What is the ruling of the Shariah on selling torn and worn banknotes for less, for example selling ten old pounds for nine new pounds?
+
+[en]
+Teacher: Because of the earlier hadith, this practice is not right, for the noble Prophet, peace be upon him, said:
+
+[ar]
+الذَّهَبُ بِالذَّهَبْ، وَالْفِضَّةُ بِالْفِضَّةْ، وَالْبُرُّ بِالْبُرّ، وَالشَّعِيرُ بِالشَّعِيرْ، وَالتَّمْرُ بِالتَّمْرْ، وَالْمِلْحُ بِالْمِلْحِ إِلاَّ سَوَاءً بِسَوَاءٍ عَيْنًا بِعَيْنْ، فَمَنْ زَادَ أَوِ ازْدَادَ فَقَدْ أَرْبَى
+
+[ref]
+صحيح مسلم، رقم الحديث [1587]
+
+[en]
+“Gold for gold, silver for silver, wheat for wheat, barley for barley, dates for dates, salt for salt: the buying and selling must be equal for equal and in cash, and whoever gives more or asks for more has dealt in interest (riba).”
+
+[en]
+The one who gives more and the one who takes more are both sinners. By the rule, a thousand rupees should be sold for a thousand rupees.

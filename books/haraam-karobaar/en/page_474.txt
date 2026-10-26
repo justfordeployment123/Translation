@@ -1,0 +1,35 @@
+# title: Page 474
+# English edition of book page 474, built by build_english.py from en_src/ and page_474.txt
+
+[hen]
+Chapter Seventy-Six: A Man Training Women
+
+[en]
+Teacher: Husain, what else is new? Tell us some fresh news.
+
+[en]
+Husain: Teacher! Recently I have started giving swimming training to a class of twenty-year-old girls.
+
+[en]
+Teacher: Are you telling the truth, or are you joking?
+
+[en]
+Husain: What is there to joke about? Teacher! I am telling the truth.
+
+[en]
+Teacher: Are you really giving girls swimming training?
+
+[en]
+Husain: Why? Is there anything wrong with it?
+
+[en]
+Teacher: On what grounds are you training these girls, who are grown up and young, with no clothes on their bodies, or, if they do have clothes on, with no trace of covering, shame or modesty in them? While training girls in such a setting, do you not remember the texts in which Allah the Exalted has taught shame, modesty and chastity, and has urged the Muslims to keep their gaze lowered?
+
+[en]
+Have you not heard this hadith:
+
+[ar]
+الْعَيْنَانِ زِنَاهُمَا النَّظَرْ
+
+[ref]
+صحيح البخاري، رقم الحديث [6243] صحيح مسلم، رقم الحديث [2657]

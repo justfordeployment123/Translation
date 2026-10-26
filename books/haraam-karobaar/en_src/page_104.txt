@@ -1,0 +1,19 @@
+# English source for book page 104
+
+[hen]
+A Rule
+
+[en]
+In matters of interest (riba) there is a well-known rule: when a thing in which interest can occur is bought or sold for another such thing that is not of the same kind, taking possession in the same sitting is a condition.
+
+[en]
+As for buying and selling gold for money, the same applies: the full price must be paid in the same sitting.
+
+[en]
+The Messenger of Allah, peace be upon him, says:
+
+[en]
+When the kinds of these things differ, sell as you wish, as long as it is in cash. This is proof that a thing in which interest can occur may be bought or sold for something else when the condition of cash is met. In the same way, the noble Prophet, peace be upon him, said:
+
+[en]
+“There is no harm in buying and selling gold for silver in cash, even if the silver is more, and there is no harm in buying and selling wheat for barley in cash, even if the barley is more; but doing this on credit is not permissible.”

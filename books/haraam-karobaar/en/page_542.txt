@@ -1,0 +1,17 @@
+# title: Page 542
+# English edition of book page 542, built by build_english.py from en_src/ and page_542.txt
+
+[en]
+Allah the Exalted says:
+
+[ar]
+وَلَا تَعَاوَنُوا عَلَى الْإِثْمِ وَالْعُدْوَانْ
+
+[ref]
+[المائدة: 2]
+
+[en]
+But do not cooperate in sin and aggression.
+
+[en]
+By working in the places mentioned above, you will in every case be like one who cooperates in deeds of sin and aggression, and this is following Satan and disobeying Allah the Exalted.

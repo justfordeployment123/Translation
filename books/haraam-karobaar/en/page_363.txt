@@ -1,0 +1,41 @@
+# title: Page 363
+# English edition of book page 363, built by build_english.py from en_src/ and page_363.txt
+
+[en]
+If we begin following reason and opinion in the rulings of the Shariah, we will go far away from the Book and the Sunnah. As for what the proof is, listen: it is established from the Sunnah of the Messenger, peace be upon him, that an agent should do the work of the one who appointed him honestly, and return to him whatever money and so on is left over.
+
+[en]
+The noble Prophet, peace be upon him, gave Urwah ibn Ja'd al-Bariqi a dinar and said:
+
+[ar]
+اشْتَرِ لَنَا بِهِ شَاةْ
+
+[en]
+“Buy us a goat with it.”
+
+[en]
+Urwah says: I came to the market and bought two goats with the one dinar. As I was coming back, I met a man on the way who bargained with me, and I sold him one goat for one dinar, and I came to the Messenger of Allah, peace be upon him, with one dinar and one goat. I said: O Messenger of Allah, peace be upon him! Here is your dinar, and here is your goat. He, peace be upon him, asked:
+
+[ar]
+وَصَنَعْتَ كَيْفْ؟
+
+[en]
+“How did you do this?”
+
+[en]
+I told him the whole story, and he, peace be upon him, said (that is, he made a supplication):
+
+[ar]
+اللَّهُمَّ بَارِكْ لَهُ فِيْ صَفْقَةِ يَمِيْنِهْ
+
+[ref]
+صحيح البخاري، رقم الحديث [3642]
+
+[en]
+“O Allah, bless him in the deal of his right hand.”
+
+[en]
+Think over this whole incident and tell me: did Urwah not make an effort in this whole affair? And did he keep anything for himself?
+
+[en]
+Muhammad: Urwah, may Allah be pleased with him, must have given everything back out of piety and humility; otherwise it was his right, and if he had wanted, he could have taken it.

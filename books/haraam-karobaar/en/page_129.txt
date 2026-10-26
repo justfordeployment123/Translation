@@ -1,0 +1,41 @@
+# title: Page 129
+# English edition of book page 129, built by build_english.py from en_src/ and page_129.txt
+
+[en]
+Man: You mean no clever way around it will work?
+
+[en]
+Teacher: No, but you have another way.
+
+[en]
+Man: What is it?
+
+[en]
+Teacher: Take this matter to court.
+
+[en]
+Man: Is that permissible according to the Shariah?
+
+[en]
+Teacher: Yes. Hire a lawyer, recover the money through the court, and pay the lawyer his fee.
+
+[en]
+Man: May Allah reward you.
+
+[en]
+Teacher: And you too. As-salamu alaikum wa rahmatullahi wa barakatuh.
+
+[en]
+Man: Wa alaikum as-salam wa rahmatullahi wa barakatuh.
+
+[en]
+Teacher: Ammar! Come, let us go; it is very late.
+
+[en]
+Ammar: All right. Allah the Exalted gives His servant chances to earn good deeds from where he could never even imagine.
+
+[en]
+Teacher: How so, for example?
+
+[en]
+Ammar: Look! We came here for a worldly errand of our own, but Allah the Exalted gave us a chance to spread His message.

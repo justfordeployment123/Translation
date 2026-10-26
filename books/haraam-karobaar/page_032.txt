@@ -1,0 +1,49 @@
+# title: Page 32
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 32 (PDF page 33), پختہ عزم کیجیے
+# The poem is typed as printed, one verse per block, with the rhyme vowels kept (زَيْدِ، بِقَيْدِ، عُبَيْدِ).
+# Print typo corrected: "كَثْرٍ" -> "كَثَوْرٍ" (the print drops the waw; the translation reads «ثور», and the metre needs it).
+# Print typo corrected: "بَقَيْدِ" -> "بِقَيْدِ" (the print seems to have a fatha on the preposition).
+# The adhan phrase «الله أكبر، الله أكبر» stands on its own line and is an [ar] block, typed as printed (no harakat
+# besides the dagger alif of «اللّٰه»).
+# The adhan phrase «اَلصَّلَاةُ خَيْرٌ مِّنَ النَّوْمِ» is part of an Urdu sentence, so it stays inside that sentence's [ur]
+# block (read in the Urdu flow), typed as printed with its quote marks, with the stopping form on its last word.
+# The last sentence continues on page 33 ("(نماز نیند سے بہتر ہے) تک پہنچتے پہنچتے ... ٹوٹ جاتے ہیں۔"); it is kept whole here.
+
+[h]
+پختہ عزم کیجیے
+
+[ar]
+أَيُّهَا الطَّالِبُ عِلْمًا، إِيتِ حَمَّادَ بْنَ زَيْدِ
+
+[ar]
+تَسْتَفِدْ حِلْمًا وَعِلْمًا، ثُمَّ قَيِّدْهُ بِقَيْدِ
+
+[ar]
+لَا كَثَوْرٍ وَكَجَهْمٍ، وَكَعَمْرِو بْنِ عُبَيْدِ
+
+[ur]
+“اے طالبِ علم! حماد بن زید کے پاس جاؤ۔ اس سے حلم اور علم سیکھو، پھر اس کو اچھی طرح نوٹ کر لو۔ ثور، جہم اور عمرو بن عبید کی طرح نہ بن جانا۔”
+
+[ur]
+اللہ تعالیٰ کے حکم کے ساتھ نئے دن کی ابتدا ہوتی ہے، طلوعِ فجر سے ہمارے اعمال کا سلسلہ شروع ہوتا ہے اور حق کی صدا اذان بلند ہوتی ہے۔
+
+[ar]
+الله أكبر، الله أكبر
+
+[ur]
+“اللہ سب سے بڑا ہے، اللہ سب سے بڑا ہے۔”
+
+[ur]
+ہمیشہ یہ فکر مند کر دینے والی ندا عمار کے کانوں میں پڑتی ہے، اس آواز کے وقت عمار کے پاس ایک فرشتہ اور ایک شیطان ہوتا ہے۔
+
+[ur]
+فرشتہ کہتا ہے: نماز فجر کے لیے اٹھو اور اپنے دن کی ابتدا خیر کے ساتھ کرو۔
+
+[ur]
+شیطان ملعون کہتا ہے: سوئے رہو اور اپنے دن کی ابتدا شر کے ساتھ کرو۔
+
+[ur]
+اے انسان! ذرا سوچ اس وقت تجھ پر کس چیز کا غلبہ ہوتا ہے: خیر کا یا شر کا؟
+
+[ur]
+اے انسان! کہیں تجھ پر نرم گرم بستر اور خوبصورت بیوی کا غلبہ تو نہیں؟ یا گرمی کی ٹھنڈی راتیں تجھ پر غالب تو نہیں؟ یا اس وقت حق کا غلبہ ہوتا ہے، نفس اللہ تعالیٰ کی طرف راغب ہوتا ہے اور موذن کے “اَلصَّلَاةُ خَيْرٌ مِّنَ النَّوْمْ” (نماز نیند سے بہتر ہے) تک پہنچتے پہنچتے شیطان کے سارے جال ٹوٹ جاتے ہیں۔

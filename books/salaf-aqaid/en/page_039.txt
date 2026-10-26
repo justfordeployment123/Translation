@@ -1,0 +1,38 @@
+# title: Page 39
+# English edition of book page 39, built by build_english.py from en_src/ and page_039.txt
+
+[ar]
+يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَلَا تُبْطِلُوا أَعْمَالَكُمْ
+
+[en]
+O you who have believed, obey Allah and obey the Messenger and do not invalidate your deeds.
+
+[ref]
+محمد 33:47.
+
+[en]
+Allah the Exalted forbade us to go against the Prophet's commands. He says:
+
+[ar]
+وَمَنْ يَعْصِ اللَّهَ وَرَسُولَهُ وَيَتَعَدَّ حُدُودَهُ يُدْخِلْهُ نَارًا خَالِدًا فِيهَا وَلَهُ عَذَابٌ مُهِينْ
+
+[en]
+And whoever disobeys Allah and His Messenger and transgresses His limits - He will put him into the Fire to abide eternally therein, and he will have a humiliating punishment.
+
+[ref]
+النسآء 14:4.
+
+[en]
+Allah the Exalted commanded us to carry out whatever the noble Prophet, peace be upon him, tells us, and to give up whatever he forbids us. Allah says:
+
+[ar]
+وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانْتَهُوا ۚ وَاتَّقُوا اللَّهَ ۖ إِنَّ اللَّهَ شَدِيدُ الْعِقَابْ
+
+[en]
+And whatever the Messenger has given you - take; and what he has forbidden you - refrain from. And fear Allah; indeed, Allah is severe in penalty.
+
+[ref]
+الحشر 7:59.
+
+[en]
+Allah the Exalted commanded us to make His Messenger, peace be upon him, the judge in every matter of life, and to accept wholeheartedly whatever judgement he has given in every matter.

@@ -1,0 +1,16 @@
+# English source for book page 97
+
+[en]
+Allah the Exalted sent many prophets and Messengers, some of whom He mentioned in the Book. Some were mentioned by our noble Messenger, peace be upon him, while about many other prophets and Messengers we have been told nothing. Allah the Exalted says:
+
+[en]
+And We have already sent messengers before you. Among them are those (whose stories) We have related to you, and among them are those (whose stories) We have not related to you.
+
+[en]
+And He says:
+
+[en]
+And We certainly sent into every nation a messenger, (saying), “Worship Allah and avoid Taghut.”
+
+[en]
+Twenty-five prophets and Messengers are named in the Noble Quran. They include the father of mankind, Adam, peace be upon him, Idris, peace be upon him, Nuh, peace be upon him, Hud, peace be upon him, Salih, peace be upon him, Ibrahim, peace be upon him, Lut, peace be upon him, Isma'il, peace be upon him, Ishaq, peace be upon him, Ya'qub, peace be upon him, Yusuf, peace be upon him, Shu'ayb, peace be upon him, Ayyub, peace be upon him, Dhul-Kifl, peace be upon him, Musa, peace be upon him, Harun, peace be upon him, Dawud, peace be upon him, Sulayman, peace be upon him, Ilyas, peace be upon him, al-Yasa', peace be upon him, Yunus, peace be upon him, Zakariyya, peace be upon him, Yahya, peace be upon him, Isa, peace be upon him, and the Seal of the Prophets and Messengers, Muhammad, peace be upon him.

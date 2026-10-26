@@ -1,0 +1,23 @@
+# title: Page 94
+# English edition of book page 94, built by build_english.py from en_src/ and page_094.txt
+
+[en]
+According to the Noble Quran, this is an act of Satan. He says:
+
+[ar]
+يَا أَيُّهَا النَّاسُ كُلُوا مِمَّا فِي الْأَرْضِ حَلَالًا طَيِّبًا وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ ۚ إِنَّهُ لَكُمْ عَدُوٌّ مُبِينْ
+
+[ar]
+إِنَّمَا يَأْمُرُكُمْ بِالسُّوءِ وَالْفَحْشَاءِ وَأَنْ تَقُولُوا عَلَى اللَّهِ مَا لَا تَعْلَمُونْ
+
+[en]
+O mankind, eat from whatever is on earth (that is) lawful and good and do not follow the footsteps of Satan. Indeed, he is to you a clear enemy. He only orders you to evil and immorality and to say about Allah what you do not know.
+
+[ref]
+البقرة 169,168:2.
+
+[en]
+The correct way of interpreting the Noble Quran is this: first, the verses of the Quran should be interpreted by the verses of the Quran themselves; then the Quran should be interpreted by hadith; after that, it should be interpreted by the sayings of the noble Companions; then the sayings of the Successors should be brought to bear on it; and if no interpretation is found even from the Successors, it should be interpreted by the Arabic language, in which the Quran was revealed.
+
+[en]
+Faith in the Messengers (believing in the Messengers): Ahl as-Sunnah wal-Jama'ah have certain faith that Allah the Exalted sent Messengers to His servants, who gave them glad tidings of the good of this world and the Hereafter, and of Paradise, in return for good deeds, and warned them of Hell as the result of evil deeds. They called people to the true religion in order to bring them out of the darknesses of misguidance into the light of the path of truth.

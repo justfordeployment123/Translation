@@ -1,0 +1,18 @@
+# title: Page 169
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 169 (PDF page 170), بیسواں باب: خراب پھل ٹوکری میں نیچے رکھنا اور صحیح اوپر رکھنا
+# The last page of the chapter; the rest of the page is blank. Page 170 starts «اکیسواں باب».
+# Hadith: «مَنْ غَشَّنَا فَلَيْسَ مِنَّا», filled from Ibn Majah 2225, as on page 162 (the footnote is the same as there).
+# "رسول اللہ کی اس وعید" is printed without ﷺ; typed as printed.
+
+[ur]
+استاد: ہمیں دھوکے اور ملاوٹ سے پاک راستہ اختیار کرنا چاہیے، تاکہ ہم رسول اللہ کی اس وعید سے بچ جائیں۔ آپ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H ibnmajah:2225 from مَنْ غَشَّنَا to مِنَّا}}
+مَنْ غَشَّنَا فَلَيْسَ مِنَّا
+
+[ref]
+صحيح مسلم، رقم الحديث [102] سنن ابن ماجه، رقم الحديث [2224]
+
+[ur]
+“جس نے دھوکا دیا تو وہ ہمارے طریقے پر نہیں ہے۔”

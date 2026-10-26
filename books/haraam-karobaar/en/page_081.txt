@@ -1,0 +1,17 @@
+# title: Page 81
+# English edition of book page 81, built by build_english.py from en_src/ and page_081.txt
+
+[hen]
+Chapter Seven: Buying and Selling Old Gold in Exchange for New Gold and an Extra Sum of Money
+
+[en]
+Shaykh Salih and Ammar began their tour of the Gold Market. Suddenly Ammar saw a man and stopped. The man had come to the market to sell old gold and buy new gold in its place. Ammar watched closely to see what this man was about to do. The man went up to a shopkeeper and began a conversation.
+
+[en]
+Buyer: I have this old gold, and I want to buy new gold in exchange for it.
+
+[en]
+Shopkeeper: Come in, sir!
+
+[en]
+The shopkeeper weighed the gold. It came to a hundred grams. The price of one gram was twenty-five pounds. The shopkeeper said to the man: The price of your gold is two thousand five hundred pounds. Tell me, what would you like to do? The man began to think. In the end he took a hundred grams of new gold in exchange for it; the price of one gram of new gold was thirty pounds. The shopkeeper said: The price of the new gold is three thousand pounds, so now give me another five hundred pounds, so that our account is settled.

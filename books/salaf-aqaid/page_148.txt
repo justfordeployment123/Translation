@@ -1,0 +1,65 @@
+# title: Page 148
+# Salaf-e-Saliheen ke Aqaid o Nazariyat, book page 148 (PDF page 145), تیسرا اصول: مسئلہ تکفیر کے بارے میں اہل سنت والجماعت کا موقف
+# The first two lines of the page ("بعض کبیرہ گناہوں پر ... کفر کی خصلتیں ہیں۔") end a sentence that is on page 147, where it starts.
+# Al-Hujurat 49:9 (its first part) is filled from the official text.
+# Hadith 1: Bukhari 48, as the book cites. Hadith 2: Bukhari 121, as the book cites.
+# Hadith 3: Tirmidhi 1535, as the book cites, in two excerpts at the book's comma.
+# Each hadith is printed on the same line as its lead-in («... نے فرمایا:»); the lead-in is its own [ur] block.
+# The page ends with «ایک اور موقع پر فرمایا:»; the hadith it introduces is printed on page 149 and stays there.
+# Fingers cover the bottom margin of the photo, below the footnotes; no text is hidden.
+# References: the digit groups are typed as they appear on the page, left to right («9:49»).
+
+[ur]
+ان کا مرتکب وعید کا مستحق ہے لیکن اسے ہمیشہ کے لیے جہنم میں رہنے کی سزا نہیں ملے گی۔ اس کی مثالوں میں مسلمان سے قتال کرنا، غیر اللہ کی قسم کھانا، کسی کو خاندان کا طعنہ دینا، میت پر نوحہ کرنا، ایک مومن کا اپنے مومن بھائی کو کافر کہنا اور دیگر کبیرہ گناہ شامل ہیں۔ ارشادِ الٰہی ہے:
+
+[ar]
+# quran 49:9 from وَإِنْ طَائِفَتَانِ to فَأَصْلِحُوا بَيْنَهُمَا
+وَإِنْ طَائِفَتَانِ مِنَ الْمُؤْمِنِينَ اقْتَتَلُوا فَأَصْلِحُوا بَيْنَهُمَا
+
+[ur]
+“اور اگر مومنوں کے دو گروہ آپس میں لڑ پڑیں تو تم ان کے درمیان صلح کرا دو۔”
+
+[ref]
+الحجرات 9:49.
+
+[ur]
+نبی اکرم ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H bukhari:48 from سِبَابُ to كُفْرٌ}}
+سِبَابُ الْمُسْلِمِ فُسُوقْ، وَقِتَالُهُ كُفْرْ
+
+[ur]
+“مسلمان کو گالی دینا فسق (راہِ حق سے انحراف) اور اس سے قتال کرنا کفر ہے۔”
+
+[ref]
+صحيح البخاري، الإيمان، حديث: 48.
+
+[ur]
+اور فرمایا:
+
+[ar]
+# hadith {{H bukhari:121 from لاَ تَرْجِعُوا to بَعْضٍ}}
+لاَ تَرْجِعُوا بَعْدِي كُفَّارًا يَضْرِبُ بَعْضُكُمْ رِقَابَ بَعْضْ
+
+[ur]
+“میرے بعد کافر نہ ہو جانا کہ ایک دوسرے کی گردنیں مارنے لگو۔”
+
+[ref]
+صحيح البخاري، العلم، حديث: 121.
+
+[ur]
+اور فرمایا:
+
+[ar]
+# hadith {{H tirmidhi:1535 from مَنْ حَلَفَ to كَفَرَ}}، {{H tirmidhi:1535 from أَوْ أَشْرَكَ to أَشْرَكَ}}
+مَنْ حَلَفَ بِغَيْرِ اللَّهِ فَقَدْ كَفَرْ، أَوْ أَشْرَكْ
+
+[ur]
+“جس نے غیر اللہ کی قسم کھائی اس نے کفر کیا یا شرک کیا۔”
+
+[ref]
+جامع الترمذي، النذور والأيمان، حديث: 1535.
+
+[ur]
+ایک اور موقع پر فرمایا:

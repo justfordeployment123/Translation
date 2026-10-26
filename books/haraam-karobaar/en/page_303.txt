@@ -1,0 +1,5 @@
+# title: Page 303
+# English edition of book page 303, built by build_english.py from en_src/ and page_303.txt
+
+[hen]
+The Hairdressing and Beauty Parlour Market Tour

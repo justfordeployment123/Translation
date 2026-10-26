@@ -1,0 +1,19 @@
+# title: Page 489
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 489 (PDF page 490), اسّیواں باب: عورت کا مقابلۂ حسن میں شریک ہونا
+# The first line of the page ("مقابلے میں شریک کر لیا جائے گا، ورنہ ... کر دیا جائے گا۔") ends the teacher's sentence on page 488, where it is kept whole.
+# «حتی کہ» is typed «حتیٰ کہ» (dagger alif, read with a long a).
+# «أستغفر الله، نعوذ بالله» is set in Arabic type inside Husain's Urdu turn; it stays in the Urdu block as a set phrase, in Urdu spelling
+# (استغفر اللہ، نعوذ باللہ), as on page 186.
+# The chapter ends on this page with the teacher's full turn; the rest of the page is blank. Chapter eighty-one starts on page 490.
+
+[ur]
+حسین: وہ کیا معیار ہے؟
+
+[ur]
+استاد: ایسی عورتوں کے معاینے کے لیے ایک کمیٹی تشکیل دی جاتی ہے۔ وہ کمیٹی متعلقہ عورت کا مکمل طور پر لباس اتار کر جائزہ لیتی ہے اور اس کے جسم کے تمام اعضا کا بغور مشاہدہ کرتی ہے، حتیٰ کہ اس کے رخسار، ناک، بال، چہرہ، کان، گردن، پیٹ، کمر، رانیں اور پشت تک کو اچھی طرح چیک کیا جاتا ہے کہ کیا یہ عورت مقابلہ میں شرکت کر سکتی ہے یا نہیں؟ حسین صاحب! تم خود اندازہ لگا لو کہ کیا ایسے بے حیائی کے کام میں شریک ہونا چاہیے یا نہیں۔
+
+[ur]
+حسین: استغفر اللہ، نعوذ باللہ، میں تو قطعاً یہ پسند نہیں کرتا۔
+
+[ur]
+استاد: اسی لیے اس کام میں شریک ہونا اور اس کی کمائی کھانا حرام ہے۔

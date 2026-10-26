@@ -1,0 +1,17 @@
+# title: Page 177
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 177 (PDF page 178), اکیسواں باب: سود پر زرعی قرض لینے کا بیان
+# The first line of the page ("دوسرے ان کے شاگرد عمار کے لیے، (مزدور کافی وزنی دو پیٹیاں لے آئے)") ends a sentence that is on page 176, where it starts.
+# Print typo corrected: "یہ حقیر سا تحفہ قبور فرمائیں" -> "یہ حقیر سا تحفہ قبول فرمائیں".
+# The last page of the chapter; the rest of the page is blank. Page 178 is the summary of the round.
+
+[ur]
+مصطفیٰ: مزدوروں سے مخاطب ہوا: گاڑی لے کر آؤ اور یہ پیٹیاں اس میں رکھو، استاد صاحب! ہماری طرف سے یہ حقیر سا تحفہ قبول فرمائیں، ایک پیٹی آپ کی ہے اور ایک آپ کے شاگرد عمار کی۔
+
+[ur]
+استاد: اس قدر تکلف کی کیا ضرورت تھی؟
+
+[ur]
+مصطفیٰ: یہ تو حقیر سی ایک کوشش ہے۔
+
+[ur]
+استاد اور شاگرد نے اجازت لی اور گاڑی میں سوار ہو کر گھر کی طرف روانہ ہوئے۔

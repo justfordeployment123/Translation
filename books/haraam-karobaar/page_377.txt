@@ -1,0 +1,46 @@
+# title: Page 377
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 377 (PDF page 378), خلاصہ
+# Print typo corrected (Proofreader please check): "ٹیلی ویژن کی خرید و فروخت اور حرمت کی ممانعت" -> "ٹیلی ویژن کی خرید و فروخت اور مرمت کی ممانعت" (one letter, ح for م: chapter fifty-one is «ٹیلی ویژن کی خرید و فروخت اور مرمت»).
+# The summary of the second smaller round of «چوتھا دورہ» («الیکٹرونک مارکیٹ کا دورہ», chapters fifty-one to fifty-six);
+# the contents (book page 11) lists it as «خلاصہ» at page 377. The heading is typed as printed. Page 376 ends with a full turn.
+# Ammar's turn is printed as «عمار: واپسی پر راستے میں عمار استاد صاحب سے مخاطب ہوا:» (the name label, then narration); typed as printed.
+# His words that follow («استاد صاحب! آج آپ نے ...») are printed on their own line at the turn's indent; they are their own nameless block.
+# Ammar's list (①–⑥) is read as words: پہلا ... چھٹا (the items are «امور»).
+# «الحمد لله رب العالمين» is set in Arabic type as the teacher's turn; it is kept in the Urdu block, in Urdu letters (الحمد للہ رب العالمین).
+# The page ends with a full turn; book page 378 is blank (no file), and page 379 is the title page of «کتاب مارکیٹ کا دورہ».
+
+[h]
+خلاصہ
+
+[ur]
+(استاد صاحب گفتگو سے فارغ ہوئے، فیصل کو ریکارڈر کی قیمت ادا کی اور شکریہ ادا کرتے ہوئے وہاں سے واپس روانہ ہوئے)
+
+[ur]
+فیصل: استاد صاحب! اللہ آپ کی حفاظت فرمائے، آج ہم آپ سے کافی مستفید ہوئے ہیں۔
+
+[ur]
+عمار: واپسی پر راستے میں عمار استاد صاحب سے مخاطب ہوا:
+
+[ur]
+استاد صاحب! آج آپ نے مندرجہ ذیل امور کی نشاندہی کی ہے:
+
+[ur]
+پہلا: ٹیلی ویژن کی خرید و فروخت اور مرمت کی ممانعت۔
+
+[ur]
+دوسرا: جعلی، نقلی اور پرانے پرزے ڈالنا۔
+
+[ur]
+تیسرا: وکالت میں دھوکا دینا۔
+
+[ur]
+چوتھا: ایک سودے میں دو سودے کرنا۔
+
+[ur]
+پانچواں: قسط لیٹ ہونے کی صورت میں زیادہ رقم وصول کرنا۔
+
+[ur]
+چھٹا: بیع عینہ۔
+
+[ur]
+استاد: الحمد للہ رب العالمین۔

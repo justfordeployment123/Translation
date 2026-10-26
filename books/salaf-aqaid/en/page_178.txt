@@ -1,0 +1,11 @@
+# title: Page 178
+# English edition of book page 178, built by build_english.py from en_src/ and page_178.txt
+
+[en]
+Indeed, there is for him no authority over those who have believed and rely upon their Lord. His authority is only over those who take him as an ally and those who through him associate others with Allah.
+
+[ref]
+النحل 100,99:16.
+
+[en]
+Here end the explanations of the sixth principle, “Affirming the Karamat of the Friends of Allah”, among the principles of religion that Ahl as-Sunnah wal-Jama'ah accept. Now the details of the seventh principle, “The Sources for Deriving Rulings and Issues, and the Method of Reasoning from Evidence”, are presented. By the method of reasoning from evidence is meant the method that Ahl as-Sunnah wal-Jama'ah follow to derive a ruling from a text of the Quran and the Sunnah.

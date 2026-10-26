@@ -1,0 +1,21 @@
+# title: Page 496
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 496 (PDF page 497), اکیاسیواں باب: عورتوں اور مردوں کا اکٹھے کام کرنا
+# The page opens with the verse introduced at the foot of page 495 ("اللہ تعالیٰ ارشاد فرماتے ہیں:"); the teacher's turn goes on without his name.
+# Al-Ahzab 33:36 is printed in full; it is filled from the official text (fill_quran.py).
+# The chapter ends on this page with a line of narration; the rest of the page is blank. The summary («خلاصہ») is on page 497.
+
+[ar]
+# quran 33:36
+وَمَا كَانَ لِمُؤْمِنٍ وَلَا مُؤْمِنَةٍ إِذَا قَضَى اللَّهُ وَرَسُولُهُ أَمْرًا أَنْ يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ ۗ وَمَنْ يَعْصِ اللَّهَ وَرَسُولَهُ فَقَدْ ضَلَّ ضَلَالًا مُبِينَا
+
+[ref]
+[الأحزاب: 36]
+
+[ur]
+“اور کبھی نہ کسی مومن مرد کا حق ہے اور نہ کسی مومن عورت کا کہ جب اللہ اور اس کا رسول کسی معاملے کا فیصلہ کر دیں کہ ان کے لیے ان کے معاملے میں اختیار ہو اور جو کوئی اللہ اور اس کے رسول کی نافرمانی کرے سو یقیناً وہ گمراہ ہو گیا، واضح گمراہ ہونا۔”
+
+[ur]
+عبدالرحیم: استاد صاحب! اللہ آپ کو جزائے خیر عطا فرمائے۔
+
+[ur]
+اس کے بعد تمام لوگ استاد صاحب کا شکریہ ادا کرتے ہوئے واپس چلے گئے۔

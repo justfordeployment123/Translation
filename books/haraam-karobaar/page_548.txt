@@ -1,0 +1,7 @@
+# title: Page 548
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 548 (PDF page 549), پچانوےواں باب: کتوں کی خرید و فروخت
+# The page holds only the Urdu translation of the hadith printed at the end of page 547 (the hadith and its footnote are there).
+# It ends the chapter; the rest of the page is blank. Page 549 starts «چھیانوےواں باب».
+
+[ur]
+“جو شخص کوئی کتا پالے، جب کہ وہ شکار کے لیے، جانوروں اور زمین کی حفاظت کے لیے نہ ہو تو روزانہ اس کے ثواب سے دو قیراط کم ہو جاتے ہیں۔”

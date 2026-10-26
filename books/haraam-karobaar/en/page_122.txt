@@ -1,0 +1,26 @@
+# title: Page 122
+# English edition of book page 122, built by build_english.py from en_src/ and page_122.txt
+
+[en]
+Think about it! How firmly Umar, may Allah be pleased with him, gave this ruling! There is another narration even clearer than this one, in which this question is explained in more detail.
+
+[en]
+Man: Which one is that?
+
+[en]
+Teacher: Abu al-Minhal says: Sharik sold me silver on credit until the Hajj season. After that, Sharik came to me again and said that this deal was not right. I had made the same kind of deal in the market too, and no one had objected, so I went to al-Bara' ibn Azib, may Allah be pleased with him, and asked him about it. He replied: When the noble Prophet, peace be upon him, came to Madinah, we used to buy and sell in this way, and the noble Prophet, peace be upon him, said:
+
+[ar]
+مَا كَانَ يَدًا بِيَدٍ فَلاَ بَأْسَ بِهْ، وَمَا كَانَ نَسِيئَةً فَهُوَ رِبَا
+
+[ref]
+صحيح مسلم، رقم الحديث [1589]
+
+[en]
+“If it is in cash, it is fine, and if it is on credit, it is interest.”
+
+[en]
+Al-Bara' ibn Azib, may Allah be pleased with him, said to Sharik, may Allah be pleased with him: Go to Zaid ibn Arqam, may Allah be pleased with him, and ask him, for he is a greater trader than I am. So I went to Zaid ibn Arqam and asked him, and he said the same as al-Bara' ibn Azib, may Allah be pleased with him, had said.
+
+[ref]
+صحيح البخاري، رقم الحديث [2497] صحيح مسلم، رقم الحديث [1589]

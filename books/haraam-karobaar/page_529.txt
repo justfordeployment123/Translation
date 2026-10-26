@@ -1,0 +1,51 @@
+# title: Page 529
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 529 (PDF page 530), اٹھاسیواں باب: بھیک مانگنا
+# The page opens with the hadith introduced at the end of page 528 ("حضرت عبداللہ بن مسعود رضی اللہ عنہ سے روایت ہے ... نے فرمایا:").
+# Hadith typed from the print (not in the hadith-api collections): «مَنْ سَأَلَ وَعِنْدَهُ مَا يُغْنِيهِ جَاءَتْ يَوْمَ الْقِيَامَةِ خُدُوشًا أَوْ كُدُوشًا فِي وَجْهِهِ»,
+# the book cites صحيح الجامع 6278 only. The reports of Ibn Mas'ud in the collections (Abu Dawud 1626, Tirmidhi 650, Nasa'i 2592,
+# Ibn Majah 1840) read "وَلَهُ مَا يُغْنِيهِ" and "خُمُوشٌ أَوْ خُدُوشٌ أَوْ كُدُوحٌ" and similar. Printed harakat kept, including the sukun
+# on the long vowels («يُغْنِيْهِ», «خُدُوْشًا», «كُدُوْشًا», «فِيْ»); waqf on the last word ("وَجْهِهِ" -> "وَجْهِهْ").
+# Proofreader please check: the print vowels «خَدُوْشًا أَوْ كَدُوْشًا» (fatha on the خ and the ك); typed «خُدُوْشًا أَوْ كُدُوْشًا» (plurals, as
+# "خُدُوشًا" in Ibn Majah 1840).
+# Proofreader please check: «كُدُوْشًا» is typed as printed, but it is probably a misprint for «كُدُوحًا» (the word of every report:
+# "خُدُوشًا أَوْ خُمُوشًا أَوْ كُدُوحًا", Ibn Majah 1840); not corrected, since the print is clear.
+# Al-Baqarah 2:273 is quoted from its start to «إِلْحَافًا» (the rest of the verse is not printed); filled from the official text.
+# The last hadith (Hakim bin Hizam) continues on page 530 ("وَكَانَ كَالَّذِي ... حَتَّى أُفَارِقَ الدُّنْيَا......"); it is kept whole here, with its
+# footnote ① (صحيح البخاري 1472، صحيح مسلم 1035), printed at the foot of page 530. Its Urdu translation starts on page 530 and stays there.
+# Last hadith: the book cites Bukhari 1472 but prints the wording of Bukhari 2750 (the same hadith: «خَضِرٌ حُلْوٌ», «وَكَانَ كَالَّذِي»,
+# «وَالْيَدُ»), filled from there; it pauses at the book's «!» and commas. Hakim's words «قَالَ حَكِيمٌ: فَقُلْتُ: يَا رَسُولَ اللَّهِ وَالَّذِي ...»
+# are " flat", because the book has no pause after «يَا رَسُولَ اللَّهِ». The dots the book prints after «الدُّنْيَا» are not typed.
+# Proofreader please check: the book prints «بُوْرِكَ فِيْهِ» without the «لَهُ» that every report has («بُورِكَ لَهُ فِيهِ»); the excerpts follow
+# the book and leave «لَهُ» out (the Urdu translation has «اس کے لیے»).
+
+[ar]
+مَنْ سَأَلَ وَعِنْدَهُ مَا يُغْنِيْهِ جَاءَتْ يَوْمَ الْقِيَامَةِ خُدُوْشًا أَوْ كُدُوْشًا فِيْ وَجْهِهْ
+
+[ref]
+صحيح الجامع، رقم الحديث [6278]
+
+[ur]
+“جس شخص نے سوال کیا، حالانکہ اس کے پاس بہ قدر ضرورت (مال) تھا، وہ قیامت کے دن اس حالت میں آئے گا کہ اس کے چہرے پر خراشیں اور زخم ہوں گے۔”
+
+[ur]
+اللہ تعالیٰ فرماتے ہیں:
+
+[ar]
+# quran 2:273 from لِلْفُقَرَاءِ الَّذِينَ to النَّاسَ إِلْحَافًا
+لِلْفُقَرَاءِ الَّذِينَ أُحْصِرُوا فِي سَبِيلِ اللَّهِ لَا يَسْتَطِيعُونَ ضَرْبًا فِي الْأَرْضِ يَحْسَبُهُمُ الْجَاهِلُ أَغْنِيَاءَ مِنَ التَّعَفُّفِ تَعْرِفُهُمْ بِسِيمَاهُمْ لَا يَسْأَلُونَ النَّاسَ إِلْحَافَا
+
+[ref]
+[البقرة: 273]
+
+[ur]
+“(یہ صدقات) ان محتاجوں کے لیے ہیں، جو اللہ کے راستے میں روکے گئے ہیں، زمین میں سفر نہیں کر سکتے، ناواقف انھیں سوال سے بچنے کی وجہ سے مال دار سمجھتا ہے، تو انھیں ان کی علامت سے پہچان لے گا، وہ لوگوں سے لپٹ کر نہیں مانگتے۔”
+
+[ur]
+حضرت حکیم بن حزام رضی اللہ عنہ فرماتے ہیں کہ میں نے رسول اللہ ﷺ سے سوال کیا تو آپ نے مجھے دے دیا، میں نے پھر سوال کیا، آپ ﷺ نے پھر دے دیا، میں نے پھر (تیسری دفعہ) سوال کیا، آپ ﷺ نے پھر دے دیا، پھر آپ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H bukhari:2750 from يَا حَكِيمُ to بُورِكَ cont}} {{H bukhari:2750 from فِيهِ to السُّفْلَى}}، {{H bukhari:2750 from قَالَ حَكِيمٌ to الدُّنْيَا flat}}
+يَا حَكِيمْ، إِنَّ هَذَا الْمَالَ خَضِرٌ حُلْوْ، فَمَنْ أَخَذَهُ بِسَخَاوَةِ نَفْسٍ بُورِكَ فِيهْ، وَمَنْ أَخَذَهُ بِإِشْرَافِ نَفْسٍ لَمْ يُبَارَكْ لَهُ فِيهْ، وَكَانَ كَالَّذِي يَأْكُلُ وَلاَ يَشْبَعْ، وَالْيَدُ الْعُلْيَا خَيْرٌ مِنَ الْيَدِ السُّفْلَى، قَالَ حَكِيمٌ فَقُلْتُ يَا رَسُولَ اللَّهِ وَالَّذِي بَعَثَكَ بِالْحَقِّ لاَ أَرْزَأُ أَحَدًا بَعْدَكَ شَيْئًا حَتَّى أُفَارِقَ الدُّنْيَا
+
+[ref]
+صحيح البخاري، رقم الحديث [1472] صحيح مسلم، رقم الحديث [1035]

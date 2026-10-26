@@ -1,0 +1,35 @@
+# title: Page 494
+# English edition of book page 494, built by build_english.py from en_src/ and page_494.txt
+
+[en]
+Fourth: The children of working women are deprived of their full love, affection and tenderness, which weakens the foundations of the family system, and in the end the children's hearts too lose the tenderness towards their mother that Islam requires.
+
+[en]
+Fifth: By nature a woman loves adornment, fine clothes, jewellery and the like. When she starts earning money herself, she begins to waste most of her earnings on these needless things, and in this way she falls into extravagance.
+
+[en]
+Abdur-Rahim: In such a situation, what should a woman do?
+
+[en]
+Teacher: A woman's sphere of work is her home. The Shariah has entrusted her with the ownership of the home and the responsibility of bringing up the family in the best way, and it has placed on her husband the responsibility of earning money and spending it on the household expenses. The Messenger of Allah, peace be upon him, said:
+
+[ar]
+وَالْمَرْأَةُ رَاعِيَةٌ فِي بَيْتِ زَوْجِهَا وَمَسْئُولَةٌ عَنْ رَعِيَّتِهَا
+
+[ref]
+صحيح البخاري، رقم الحديث [893] صحيح مسلم، رقم الحديث [1829]
+
+[en]
+“A woman is responsible for her husband's house, and she will be asked about her responsibility.”
+
+[en]
+In the Noble Quran, Allah the Exalted says:
+
+[ar]
+الرِّجَالُ قَوَّامُونَ عَلَى النِّسَاءْ
+
+[ref]
+[النساء: 34]
+
+[en]
+Men are in charge of women.

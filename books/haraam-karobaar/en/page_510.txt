@@ -1,0 +1,32 @@
+# title: Page 510
+# English edition of book page 510, built by build_english.py from en_src/ and page_510.txt
+
+[hen]
+Chapter Eighty-Four: Clothes Bearing the Symbols of the Disbelievers and their Pictures
+
+[en]
+In the shop the teacher noticed clothes on which the symbols (distinguishing marks) of the disbelievers, such as the cross and so on, had been made, or clothes that had naked pictures of various sportsmen, artists and actors from among disbelieving men and women. Likewise there were also some clothes on which obscene writing had been printed.
+
+[en]
+Teacher: Zaid! What is all this?
+
+[en]
+Zaid: These are clothes too. Is there something wrong with these as well?
+
+[en]
+Teacher: Yes, there are countless dangerous things in them.
+
+[en]
+Zaid: Which ones?
+
+[en]
+Teacher: First: There are pictures on these clothes. When the buyer buys them and takes them home, then because of these pictures the angels of mercy do not enter their home, for the Messenger of Allah, peace be upon him, said:
+
+[ar]
+لاَ تَدْخُلُ الْمَلاَئِكَةُ بَيْتًا فِيهِ كَلْبٌ وَلاَ صُورَةْ
+
+[ref]
+صحيح البخاري، رقم الحديث [3225] صحيح مسلم، رقم الحديث [2106]
+
+[en]
+“The angels do not enter a house in which there is a dog or any picture.”

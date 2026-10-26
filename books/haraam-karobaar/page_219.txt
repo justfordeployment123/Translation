@@ -1,0 +1,15 @@
+# title: Page 219
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 219 (PDF page 220), تیسرا دورہ
+# A framed title page (no page number printed): the third of the six large rounds, with the list of its two smaller
+# rounds. The list numbers (①–②) are read as words: پہلا، دوسرا (they count rounds, as on pages 31 and 133).
+# Page 218 ends with a full sentence, so nothing runs onto this page. Note: the printed order puts this title page before
+# book page 220, which still holds the last lines of the previous round's summary dialogue (from page 218).
+
+[h]
+تیسرا دورہ
+
+[ur]
+پہلا: دفاتر کے ملازمین میں پائی جانے والی حرام چیزیں۔
+
+[ur]
+دوسرا: کسانوں میں پائی جانے والی حرام چیزیں۔

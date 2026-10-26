@@ -1,0 +1,53 @@
+# title: Page 153
+# English edition of book page 153, built by build_english.py from en_src/ and page_153.txt
+
+[en]
+The Prophet, peace be upon him, said:
+
+[ar]
+مَنْ مَاتَ وَهُوَ يَعْلَمُ أَنَّهُ لاَ إِلَهَ إِلاَّ اللَّهْ، دَخَلَ الْجَنَّةْ
+
+[en]
+“Whoever dies knowing that there is no true god but Allah will enter Paradise.”
+
+[ref]
+صحيح مسلم، الإيمان، حديث: 26.
+
+[en]
+Ahl as-Sunnah wal-Jama'ah also bear witness that the disbelievers, the polytheists and the hypocrites are among the people of Hell. Allah says:
+
+[ar]
+وَالَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا أُولَٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونْ
+
+[en]
+And those who disbelieve and deny Our signs - those will be companions of the Fire; they will abide therein eternally.
+
+[ref]
+البقرة 39:2.
+
+[en]
+In another place He says:
+
+[ar]
+إِنَّ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ فِي نَارِ جَهَنَّمَ خَالِدِينَ فِيهَا ۚ أُولَٰئِكَ هُمْ شَرُّ الْبَرِيَّةْ
+
+[en]
+Indeed, they who disbelieved among the People of the Scripture and the polytheists will be in the fire of Hell, abiding eternally therein. Those are the worst of creatures.
+
+[ref]
+البينة 6:98.
+
+[en]
+And He says:
+
+[ar]
+إِنَّ الْمُنَافِقِينَ فِي الدَّرْكِ الْأَسْفَلِ مِنَ النَّارْ
+
+[en]
+Indeed, the hypocrites will be in the lowest depths of the Fire.
+
+[ref]
+النسآء 145:4.
+
+[en]
+Ahl as-Sunnah wal-Jama'ah also bear witness that the ten who were given the good news of Paradise are among the people of Paradise, just as the noble Prophet, peace be upon him, bore witness about them.

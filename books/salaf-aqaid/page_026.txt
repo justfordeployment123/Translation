@@ -1,0 +1,31 @@
+# title: Page 26
+# Salaf-e-Saliheen ke Aqaid o Nazariyat, book page 26 (PDF page 23), مقدمہ
+# Page 25 ends the foreword with its signature; this page starts the author's introduction with its heading.
+# The opening khutbat al-hajah «إِنَّ الْحَمْدَ لِلَّهِ ... عَبْدُهُ وَرَسُولُهُ» (no reference printed) is the wording of Ibn Majah 1892 (Ibn Mas'ud),
+# filled from there in excerpts at the book's commas. The print's assimilation shaddas («مَنْ يَّهْدِهِ», «وَمَنْ يُّضْلِلْ») are not in the filled text.
+# The three verses that follow it (Al Imran 3:102, An-Nisa 4:1, Al-Ahzab 33:70-71) are printed without references; filled from the official
+# text (fill_quran.py), one ayah per block (33:70 and 33:71 are printed in one bracket).
+# The khutbah goes on at the top of page 27 with «أَمَّا بَعْدُ ...», a new quote, which is there.
+
+[h]
+مقدمہ
+
+[ar]
+# hadith {{H ibnmajah:1892 from إِنَّ الْحَمْدَ to لِلَّهِ}}، {{H ibnmajah:1892 from نَحْمَدُهُ to وَنَسْتَغْفِرُهُ}}، {{H ibnmajah:1892 from وَنَعُوذُ to أَعْمَالِنَا}}، {{H ibnmajah:1892 from مَنْ يَهْدِهِ to هَادِيَ لَهُ}}، {{H ibnmajah:1892 from وَأَشْهَدُ أَنْ لاَ إِلَهَ to وَرَسُولُهُ}}
+إِنَّ الْحَمْدَ لِلَّهْ، نَحْمَدُهُ وَنَسْتَعِينُهُ وَنَسْتَغْفِرُهْ، وَنَعُوذُ بِاللَّهِ مِنْ شُرُورِ أَنْفُسِنَا وَمِنْ سَيِّئَاتِ أَعْمَالِنَا، مَنْ يَهْدِهِ اللَّهُ فَلاَ مُضِلَّ لَهُ وَمَنْ يُضْلِلْ فَلاَ هَادِيَ لَهْ، وَأَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهْ
+
+[ar]
+# quran 3:102 from يَا أَيُّهَا الَّذِينَ to مُسْلِمُونَ
+يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ حَقَّ تُقَاتِهِ وَلَا تَمُوتُنَّ إِلَّا وَأَنْتُمْ مُسْلِمُونْ
+
+[ar]
+# quran 4:1 from يَا أَيُّهَا النَّاسُ to رَقِيبًا
+يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ مِنْ نَفْسٍ وَاحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا كَثِيرًا وَنِسَاءً ۚ وَاتَّقُوا اللَّهَ الَّذِي تَسَاءَلُونَ بِهِ وَالْأَرْحَامَ ۚ إِنَّ اللَّهَ كَانَ عَلَيْكُمْ رَقِيبَا
+
+[ar]
+# quran 33:70 from يَا أَيُّهَا الَّذِينَ to قَوْلًا سَدِيدًا
+يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَقُولُوا قَوْلًا سَدِيدَا
+
+[ar]
+# quran 33:71 from يُصْلِحْ to فَوْزًا عَظِيمًا
+يُصْلِحْ لَكُمْ أَعْمَالَكُمْ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ ۗ وَمَنْ يُطِعِ اللَّهَ وَرَسُولَهُ فَقَدْ فَازَ فَوْزًا عَظِيمَا

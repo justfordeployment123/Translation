@@ -1,0 +1,29 @@
+# title: Page 282
+# English edition of book page 282, built by build_english.py from en_src/ and page_282.txt
+
+[en]
+Allah the Exalted also says:
+
+[ar]
+إِنَّ الَّذِينَ يُحَادُّونَ اللَّهَ وَرَسُولَهُ أُولَٰئِكَ فِي الْأَذَلِّينْ
+
+[ref]
+[المجادلة: 20]
+
+[en]
+Indeed, the ones who oppose Allah and His Messenger - those will be among the most humbled.
+
+[en]
+Abdul-Khaliq! By selling grapes to the factories, you are an equal partner in the making of alcohol. This is a very great crime, so repent to Allah at once and stop doing it.
+
+[en]
+Abdul-Khaliq: Teacher! You mean this is forbidden?
+
+[en]
+Teacher: Is it not enough that Allah's curse is on the one who sells alcohol, and you have a share in it?
+
+[en]
+Abdul-Khaliq: Then from now on we will sell them only in the market.
+
+[en]
+Teacher: May Allah bless your wealth.

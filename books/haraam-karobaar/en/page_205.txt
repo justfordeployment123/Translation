@@ -1,0 +1,41 @@
+# title: Page 205
+# English edition of book page 205, built by build_english.py from en_src/ and page_205.txt
+
+[en]
+Teacher: May Allah bless you. Your good manners and generous spirit drew us to you, and we have had the good fortune of speaking with you.
+
+[en]
+Ahmad: May Allah reward you. I am pleased to meet you too.
+
+[en]
+Teacher: May Allah protect you. In your store I have seen some things which, to my mind, are found in the lands of disbelief, Europe, America and so on; but sadly they are being bought and sold in Muslim countries too.
+
+[en]
+Ahmad: Teacher! What things?
+
+[en]
+Teacher: A man told us that these bottles of such-and-such drinks are actually alcohol. Is he right?
+
+[en]
+Ahmad: Is trading in it forbidden too?
+
+[en]
+Teacher: I am surprised at you! Your name is Ahmad, yet you do not even know that trading in alcohol is forbidden?
+
+[en]
+Ahmad: Oh, Teacher! These are just relaxing drinks and juices.
+
+[en]
+Teacher: Don't they make you drunk when you drink them, and don't they affect the mind?
+
+[en]
+Ahmad: Of course they do; they make you drunk, and they affect the mind too.
+
+[en]
+Teacher: Then it is alcohol, whatever name you give it.
+
+[en]
+Ahmad: Countless people come to buy it, and we have no choice but to provide our customers with everything. The customers are our very livelihood.
+
+[en]
+Teacher: What a pity! You have made your living from something for which the Messenger of Allah, peace be upon him, cursed ten people connected with it, and you are one of them.

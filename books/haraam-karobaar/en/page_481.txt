@@ -1,0 +1,17 @@
+# title: Page 481
+# English edition of book page 481, built by build_english.py from en_src/ and page_481.txt
+
+[en]
+In this respect the air hostess too has a share in committing this disobedience.
+
+[en]
+Abdur-Rahim: What is the solution to this?
+
+[en]
+Teacher: The solution is very easy, but before that, listen to this: to go hungry one day and eat the next for the sake of saving one's faith and honour is far better than exposing one's daughter to trial and leaving her at the mercy of dangerous situations. What is the use of such provision and such wealth when honour is at stake and a person is always on the threshold of sins?
+
+[en]
+Far better than regret and shame afterwards is for a person to take account of himself beforehand and give up such things as could become a danger to his dignity and honour.
+
+[en]
+Abdur-Rahim: Teacher! Thank you very much. Today you have given us admonition and advice and made us aware of this issue. Now, in sha Allah, we will not go to Cairo, and I would not like my daughter to do this job either.

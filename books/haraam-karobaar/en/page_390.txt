@@ -1,0 +1,14 @@
+# title: Page 390
+# English edition of book page 390, built by build_english.py from en_src/ and page_390.txt
+
+[en]
+That is, on the Day of Resurrection a person will be with the very people he loved.
+
+[en]
+Buying satchels with obscene pictures is a sign that the person loves these things and likes them, so such a person will be raised on the Day of Resurrection with disbelievers and wicked people of the same kind. In my opinion, every schoolboy and schoolgirl should reflect on what it is that they like; otherwise our Muslim children too will be with the disbelievers.
+
+[en]
+Manager: In sha Allah, in future I will not buy such things that make my livelihood forbidden.
+
+[en]
+Teacher: May Allah reward you with good.

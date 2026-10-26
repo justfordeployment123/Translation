@@ -1,0 +1,10 @@
+# English source for book page 196
+
+[en]
+“When Allah the Exalted makes something forbidden, He also makes its price forbidden.”
+
+[en]
+Shopkeeper: Teacher! I believe in Allah and His Messenger, peace be upon him, and I promise that from now on I will stop buying and selling all such things as are forbidden.
+
+[en]
+Teacher: May Allah reward you.

@@ -1,0 +1,36 @@
+# title: Page 280
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 280 (PDF page 281), چالیسواں باب: شراب تیار کرنے والی فیکٹریوں کو انگور فروخت کرنا
+# The page starts with the new chapter (page 279 ends the previous one).
+# The hadith at the bottom of the page continues on page 281 ("وَعَاصِرَهَا ... وَآكِلَ ثَمَنَهَا"); it is kept whole here, with its footnote
+# (printed at the foot of page 281). Its translation starts on page 281 and stays there.
+# Hadith (Ibn Umar): Abu Dawud 3674, as the book cites, which ends at "وَالْمَحْمُولَةَ إِلَيْهِ"; the book's last words "وَآكِلَ ثَمَنَهَا"
+# are joined from Tirmidhi 1295 (Anas's report of the same hadith, "وَآكِلَ ثَمَنِهَا"), as on page 277; Ibn Majah 3380, the other report the
+# book cites, has the genitive "وَآكِلِ ثَمَنِهَا". Split into excerpts so it pauses at each of the book's commas.
+# Proofreader please check: the hadith is joined from Abu Dawud 3674 (Ibn Umar) and Tirmidhi 1295 (Anas); the print vowels "ثَمَنَهَا",
+# the source has "ثَمَنِهَا", which is filled.
+# «ما شاء اللہ» in Atiyah's turn is a set phrase, kept in the Urdu block.
+
+[h]
+چالیسواں باب: شراب تیار کرنے والی فیکٹریوں کو انگور فروخت کرنا
+
+[ur]
+عطیہ: عبدالخالق! کل میں آپ کے انگوروں کے پاس سے گزرا تھا، ما شاء اللہ انگور پک چکے ہیں، لیکن آپ نے ابھی تک ان کو بیچنا شروع نہیں کیا؟
+
+[ur]
+عبدالخالق: میرا خیال ہے کہ بار بار منڈی میں لے جانے سے بہتر ہے کہ ایک ہی دفعہ کسی فیکٹری میں فروخت کر دیے جائیں۔
+
+[ur]
+استاد: کیا ایسا بھی ہوتا ہے کہ پھل کسی فیکٹری میں فروخت کر دیے جائیں؟ ہم نے تو ایسا کبھی نہیں سنا اور نہ دیکھا ہے۔
+
+[ur]
+بھنسی: ہاں استاد صاحب! شراب بنانے والی فیکٹریاں انگور وغیرہ خرید لیتی ہیں۔
+
+[ur]
+استاد: افسوس! ہمارے کسان کن گمراہ راستوں پر چل پڑے ہیں؟ زمینوں پر ناجائز قبضے کرنا، بہنوں کا حق ادا نہ کرنا، حرام چیزیں کاشت کرنا اور اب حد یہ کہ پھل ان فیکٹریوں میں فروخت ہونے لگا ہے، جو شراب تیار کرتی ہیں۔ جو چیز اللہ نے تمھیں رزق کے طور پر دی ہے، تم لوگ اسے شراب خانوں میں فروخت کر کے شراب بنانے والوں کے زمرے میں اپنے آپ کو شامل کر رہے ہو۔ کیا تم نے رسول اللہ ﷺ کی یہ حدیث نہیں سنی:
+
+[ar]
+# hadith {{H abudawud:3674 from لَعَنَ to وَشَارِبَهَا}}، {{H abudawud:3674 from وَسَاقِيَهَا to وَسَاقِيَهَا}}، {{H abudawud:3674 from وَبَائِعَهَا to وَبَائِعَهَا}}، {{H abudawud:3674 from وَمُبْتَاعَهَا to وَمُبْتَاعَهَا}}، {{H abudawud:3674 from وَعَاصِرَهَا to وَعَاصِرَهَا}}، {{H abudawud:3674 from وَمُعْتَصِرَهَا to وَمُعْتَصِرَهَا}}، {{H abudawud:3674 from وَحَامِلَهَا to وَحَامِلَهَا}}، {{H abudawud:3674 from وَالْمَحْمُولَةَ to إِلَيْهِ}}، {{H tirmidhi:1295 from وَآكِلَ to ثَمَنِهَا}}
+لَعَنَ اللَّهُ الْخَمْرَ وَشَارِبَهَا، وَسَاقِيَهَا، وَبَائِعَهَا، وَمُبْتَاعَهَا، وَعَاصِرَهَا، وَمُعْتَصِرَهَا، وَحَامِلَهَا، وَالْمَحْمُولَةَ إِلَيْهْ، وَآكِلَ ثَمَنِهَا
+
+[ref]
+صحيح. سنن أبي داود، رقم الحديث [3674] سنن ابن ماجه [3380]

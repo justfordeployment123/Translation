@@ -1,0 +1,32 @@
+# title: Page 50
+# English edition of book page 50, built by build_english.py from en_src/ and page_050.txt
+
+[en]
+On the basis of these hadiths it is not permissible to do what farmers do nowadays, when one man goes to another and says: Buy this year's crop of wheat or rice from me for one thousand pounds, while the wheat or rice is still growing and is not yet safe from blights. Allah forbid, if in such a case a blight or the like strikes and the crop is destroyed, what will be the result? That is why it is forbidden.
+
+[en]
+Abu Ali: Shaykh! What should we do when we intend to buy or sell?
+
+[en]
+Teacher: Wait until the stalks of the crop turn white and become strong, the crop is safe from any sudden calamity, and its yield has clearly appeared.
+
+[en]
+Abu Fahd: Shaykh! Is the way we made our deal completely impermissible?
+
+[en]
+Teacher: Yes, it is completely impermissible.
+
+[en]
+Abu Ali: Shaykh! May Allah reward you. You have explained our problem to us very well.
+
+[en]
+Abu Fahd: Shaykh! What is the ruling now on the thousand pounds that I took from Abu Ali, which has stayed with me all along?
+
+[en]
+Teacher: If you have it, return it now. If not, he will give you time, and you can return it later.
+
+[en]
+Abu Ali: Shaykh! By Allah, he is my brother in religion, and I give him time. Abu Fahd! Whenever you have the money, return it; there is no harm in that.
+
+[en]
+Abu Fahd: Abu Ali! May Allah reward you. Shaykh! May Allah reward you too. We promise you that we will never again make a deal like this, and if we see anyone else doing so, we will advise him too.

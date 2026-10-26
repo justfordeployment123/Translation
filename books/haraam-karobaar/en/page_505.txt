@@ -1,0 +1,35 @@
+# title: Page 505
+# English edition of book page 505, built by build_english.py from en_src/ and page_505.txt
+
+[en]
+Like these clothes, buying and selling these high-heeled shoes is also forbidden, because medical experts and doctors say that high-heeled shoes cause the following two kinds of pain:
+
+[en]
+First: Pain in the spine.
+
+[en]
+Second: Pain in the ankles.
+
+[en]
+In this matter the word of physicians and doctors will be relied upon, because the noble Prophet, peace be upon him, said:
+
+[ar]
+لاَ ضَرَرَ وَلاَ ضِرَارْ
+
+[ref]
+سنن ابن ماجه، صحيح الجامع، رقم الحديث [7517]
+
+[en]
+“Do not cause harm to anyone, and do not cause harm to anyone in return.”
+
+[en]
+In another respect too, buying and selling such shoes is forbidden, and it is this: when a woman walks wearing such a shoe, the sound of her footsteps is heard far and wide, so that others can hear the way she walks.
+
+[en]
+Yet a woman has been forbidden to display the way she walks. It comes in a hadith that the Messenger of Allah, peace be upon him, said:
+
+[ar]
+كَانَتِ امْرَأَةٌ مِنْ بَنِي إِسْرَائِيلَ قَصِيرَةٌ تَمْشِي مَعَ امْرَأَتَيْنِ طَوِيلَتَيْنِ فَاتَّخَذَتْ رِجْلَيْنِ مِنْ خَشَبٍ وَخَاتَمًا مِنْ ذَهَبٍ مُغْلَقٍ مُطْبَقٍ ثُمَّ حَشَتْهُ مِسْكًا فَمَرَّتْ بَيْنَ الْمَرْأَتَيْنِ فَلَمْ يَعْرِفُوهَا فَقَالَتْ بِيَدِهَا هَكَذَا
+
+[ref]
+صحيح مسلم، رقم الحديث [2252]

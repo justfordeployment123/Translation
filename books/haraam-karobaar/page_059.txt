@@ -1,0 +1,43 @@
+# title: Page 59
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 59 (PDF page 60), تیسرا باب: قبضے میں لینے سے پہلے چیز آگے فروخت کرنا (end)
+# Page 58 ends with a full sentence; this page starts with a new dialogue turn. The rest of the page below the last turn is blank.
+# Hadith typed from the print (not in the hadith-api collections in this form): «الدَّالُّ عَلَى الْخَيْرِ كَفَاعِلِهِ», the book cites صحيح الجامع [3399].
+# Tirmidhi 2670 has the same words after «إِنَّ» ("إِنَّ الدَّالَّ عَلَى الْخَيْرِ كَفَاعِلِهِ"), so an excerpt without «إِنَّ» would read "الدَّالَّ"
+# against the book's "الدَّالُ"; typed from the print instead, printed harakat kept (fatha on the first alif), stopping form on the last word.
+# Print typo corrected: "اَلدَّالُ" -> "اَلدَّالُّ" (the shadda on the lam is missing in the print; the word is دَالٌّ from دَلَّ).
+
+[ur]
+استاد: وعلیکم السلام ورحمۃ اللہ وبرکاتہ۔
+
+[ur]
+سب لوگ جلدی جلدی اپنے گھروں کو گئے تاکہ گناہ سے بچیں۔
+
+[ur]
+سچ ہے:
+
+[ar]
+اَلدَّالُّ عَلَى الْخَيْرِ كَفَاعِلِهْ
+
+[ref]
+صحيح الجامع، رقم الحديث [3399]
+
+[ur]
+“بھلائی کی طرف راہنمائی کرنے والا اسے کرنے والے کی طرح ہے۔”
+
+[ur]
+شیخ نے مسکراتے ہوئے عمار سے کہا: عمار! تم نے دیکھا، لوگوں سے ملنے کی کتنی برکت ہے؟ اور ان کی طرف سے پہنچنے والی اذیت پر صبر بھی کرنا پڑتا ہے۔
+
+[ur]
+عمار: شیخ! اللہ آپ کو نفع دے۔
+
+[ur]
+شیخ اور عمار اب بازار میں کسی اور معاملے کو دیکھنے کی غرض سے چلنے پھرنے لگے، اچانک شیخ نے کہا۔
+
+[ur]
+عمار! تیری کیا رائے ہے، اگر بازار کے شروع میں ریسٹورنٹ پر جائیں، تھوڑی دیر آرام کریں، پانی وغیرہ پییں اور پھر دوبارہ گشت شروع کریں۔
+
+[ur]
+عمار: شیخ! جیسے آپ کی مرضی ہے۔
+
+[ur]
+استاد: آؤ چلیں! اللہ تعالیٰ ہمیں برکت عطا کرے۔

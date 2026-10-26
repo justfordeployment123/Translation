@@ -1,0 +1,41 @@
+# title: Page 273
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 273 (PDF page 274), اڑتیسواں باب: بیٹیوں کے حقوق پر ڈاکا ڈالنا
+# The first line of the page ("نیکیوں اور برائیوں کے سوا کچھ نہیں ہوگا۔") ends a sentence that is on page 272, where it starts; the teacher's words go on here.
+# Hadith (the womb, الرَّحِم): the book's wording is in no single report, so it is joined from excerpts of three narrations of Abu Hurairah
+# (Sa'id bin Yasar): "إِنَّ اللَّهَ خَلَقَ الْخَلْقَ" and "حَتَّى إِذَا فَرَغَ مِنْ خَلْقِهِ" (Bukhari 5987, which goes on "قَالَتِ الرَّحِمُ"),
+# "قَامَتِ الرَّحِمُ", "فَقَالَ مَهْ" and "قَالَتْ هَذَا مَقَامُ الْعَائِذِ بِكَ مِنَ الْقَطِيعَةِ" (Bukhari 7502), "قَالَ نَعَمْ" ... "قَالَتْ بَلَى يَا رَبِّ"
+# (Bukhari 5987; 7502 has "أَلاَ تَرْضَيْنَ" without "نَعَمْ"), "قَالَ فَذَلِكِ لَكِ" (Bukhari 7502) and "ثُمَّ قَالَ رَسُولُ اللَّهِ ﷺ اقْرَءُوا إِنْ شِئْتُمْ"
+# (Muslim 6518 in the hadith-api numbering, which is Muslim 2554 as the book cites). The pauses follow the book's punctuation.
+# Proofreader please check: the book cites "صحيح البخاري، رقم الحديث [5641]"; in the sunnah.com numbering this hadith is Bukhari 5987
+# (also 4830 and 7502). The printed reference is kept.
+# Muhammad 47:22-23 (inside the Prophet's words in the translation) are filled from the official text, one ayah per block, with the printed
+# reference "[محمد: 22,23]" after them. Their Urdu translation is at the top of page 274 and stays there.
+# Print typo corrected: a stray opening bracket in the translation, "تو رحم (کھڑا ہوا۔", never closed, is dropped: "تو رحم کھڑا ہوا۔".
+# Print typo corrected: the translation's closing quote mark is missing after "یہ آیت مبارکہ پڑھ لو:"; it is added.
+
+[ur]
+عطیہ صاحب! تم پر لازم ہے کہ فوراً اپنے باپ کی تمام جائیداد میں سے شریعت کے مطابق پورا پورا حق اپنی بہن کو دو اور نبی ﷺ کی ایک حدیث بھی ذہن نشین کر لو۔
+
+[ur]
+رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H bukhari:5987 from إِنَّ اللَّهَ to الْخَلْقَ}}، {{H bukhari:5987 from حَتَّى to خَلْقِهِ cont}} {{H bukhari:7502 from قَامَتِ to الرَّحِمُ}}، {{H bukhari:7502 from فَقَالَ to مَهْ}}؟ {{H bukhari:7502 from قَالَتْ to الْقَطِيعَةِ}}، {{H bukhari:5987 from قَالَ نَعَمْ to نَعَمْ}}، {{H bukhari:5987 from أَمَا to قَطَعَكِ}}؟ {{H bukhari:5987 from قَالَتْ بَلَى to رَبِّ}}! {{H bukhari:7502 from قَالَ فَذَلِكِ to لَكِ}}، {{H muslim:6518 from ثُمَّ قَالَ to شِئْتُمْ}}
+إِنَّ اللَّهَ خَلَقَ الْخَلْقْ، حَتَّى إِذَا فَرَغَ مِنْ خَلْقِهِ قَامَتِ الرَّحِمْ، فَقَالَ مَهْ؟ قَالَتْ هَذَا مَقَامُ الْعَائِذِ بِكَ مِنَ الْقَطِيعَةْ، قَالَ نَعَمْ، أَمَا تَرْضَيْنَ أَنْ أَصِلَ مَنْ وَصَلَكْ، وَأَقْطَعَ مَنْ قَطَعَكْ؟ قَالَتْ بَلَى يَا رَبّ! قَالَ فَذَلِكِ لَكْ، ثُمَّ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ اقْرَءُوا إِنْ شِئْتُمْ
+
+[ref]
+صحيح البخاري، رقم الحديث [5641] صحيح مسلم، رقم الحديث [2554]
+
+[ur]
+“اللہ تعالیٰ نے مخلوق پیدا کی، جب اس سے فارغ ہوئے تو رحم کھڑا ہوا۔ اللہ نے فرمایا: کیا ہے؟ اس نے عرض کی کہ اس شخص کی جگہ ہے جو قطع رحمی سے تیری پناہ مانگے، اللہ تعالیٰ نے فرمایا: ہاں، کیا تم اس پر راضی نہیں ہو کہ میں اسے جوڑوں گا، جو تجھے جوڑے گا اور میں اسے توڑوں گا جو تجھے توڑے گا؟ رحم نے کہا: کیوں نہیں، اے رب! اللہ تعالیٰ نے فرمایا: یہ تیرے لیے ہے، اس کے بعد رسول اللہ ﷺ نے فرمایا: اگر تم چاہو تو قرآن مجید کی یہ آیت مبارکہ پڑھ لو:”
+
+[ar]
+# quran 47:22 from فَهَلْ عَسَيْتُمْ to أَرْحَامَكُمْ
+فَهَلْ عَسَيْتُمْ إِنْ تَوَلَّيْتُمْ أَنْ تُفْسِدُوا فِي الْأَرْضِ وَتُقَطِّعُوا أَرْحَامَكُمْ
+
+[ar]
+# quran 47:23 from أُولَٰئِكَ الَّذِينَ to أَبْصَارَهُمْ
+أُولَٰئِكَ الَّذِينَ لَعَنَهُمُ اللَّهُ فَأَصَمَّهُمْ وَأَعْمَىٰ أَبْصَارَهُمْ
+
+[ref]
+[محمد: 22,23]

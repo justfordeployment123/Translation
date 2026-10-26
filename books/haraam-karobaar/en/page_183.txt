@@ -1,0 +1,23 @@
+# title: Page 183
+# English edition of book page 183, built by build_english.py from en_src/ and page_183.txt
+
+[en]
+So we should cooperate with one another to put an end to it.
+
+[en]
+Allah the Exalted says:
+
+[ar]
+وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَىٰ ۖ وَلَا تَعَاوَنُوا عَلَى الْإِثْمِ وَالْعُدْوَانْ
+
+[ref]
+[المائدة: 2]
+
+[en]
+And cooperate in righteousness and piety, but do not cooperate in sin and aggression.
+
+[en]
+Medicine and science today have proved that smoking is a deadly poison which brings on cancer, high blood pressure and heart disease; the blood vessels begin to close up and the blood begins to burn. How many of our young people fall prey to drugs (intoxicating substances) because of it! Its results are so terrible and dangerous that many people lose their minds. Smoking is such a key to evil that it wastes wealth. Its harm is not limited to the smoker alone; many other people suffer because of it too. For example, the bad smell from his mouth troubles his wife, his children, his sisters, his brothers and his friends; even when he goes to the mosque, the people praying there notice the stench from him. Our senior scholars have given fatwas that the trade in tobacco, cigarettes and the like is forbidden, and they have pointed out that whoever buys and sells tobacco commits two very great crimes:
+
+[en]
+First: He spreads among the Muslims something that causes corruption, ruin and destruction.

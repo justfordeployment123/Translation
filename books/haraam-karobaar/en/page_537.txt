@@ -1,0 +1,20 @@
+# title: Page 537
+# English edition of book page 537, built by build_english.py from en_src/ and page_537.txt
+
+[en]
+“The Fire was brought to me, until I even saw in it the man with the hooked staff, who was dragging his intestines in the Fire. He used to steal from the pilgrims with his hooked staff. If the pilgrim found out, he would say: It got caught on my staff. And if he did not find out, he would make off with it.”
+
+[en]
+Stealing or snatching away public property, that is, the property of the Muslims at large, is the greatest theft. Through it a person becomes a criminal not against one individual only, but against the whole of society. Some people say that just as other people are taking away things that belong to the public, so we take them too, although they do not realise what a great crime this is, and they have no argument other than imitating people. The Messenger of Allah, peace be upon him, said:
+
+[ar]
+لَعَنَ اللَّهُ السَّارِقَ يَسْرِقُ الْبَيْضَةَ فَتُقْطَعُ يَدُهْ
+
+[ref]
+صحيح البخاري، رقم الحديث [6783] صحيح مسلم، رقم الحديث [1687]
+
+[en]
+“May the curse of Allah the Exalted be on the thief! He steals even an egg and has his hand cut off.”
+
+[en]
+Whoever has taken anything that belongs to the public should put it back in its place at once, whether anyone has come to know of it or not. Let him honestly cleanse himself of this stain. If he has taken something belonging to a particular person, he should find him and give him back his property at once, and repent to Allah the Exalted.

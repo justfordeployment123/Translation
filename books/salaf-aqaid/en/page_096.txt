@@ -1,0 +1,20 @@
+# title: Page 96
+# English edition of book page 96, built by build_english.py from en_src/ and page_096.txt
+
+[en]
+Indeed, those who disbelieve in Allah and His messengers and wish to discriminate between Allah and His messengers and say, “We believe in some and disbelieve in others,” and wish to adopt a way in between - Those are the disbelievers, truly. And We have prepared for the disbelievers a humiliating punishment. But they who believe in Allah and His messengers and do not discriminate between any of them - to those He is going to give their rewards. And ever is Allah Forgiving and Merciful.
+
+[ref]
+النسآء 152-150:4.
+
+[en]
+Allah the Exalted has Himself stated the wisdom behind the sending of the Messengers:
+
+[ar]
+رُسُلًا مُبَشِّرِينَ وَمُنْذِرِينَ لِئَلَّا يَكُونَ لِلنَّاسِ عَلَى اللَّهِ حُجَّةٌ بَعْدَ الرُّسُلِ ۚ وَكَانَ اللَّهُ عَزِيزًا حَكِيمَا
+
+[en]
+(We sent) messengers as bringers of good tidings and warners so that mankind will have no argument against Allah after the messengers. And ever is Allah Exalted in Might and Wise.
+
+[ref]
+النسآء 165:4.

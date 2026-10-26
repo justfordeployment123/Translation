@@ -1,0 +1,5 @@
+# title: Page 423
+# English edition of book page 423, built by build_english.py from en_src/ and page_423.txt
+
+[hen]
+Forbidden Things Done in Hospitals

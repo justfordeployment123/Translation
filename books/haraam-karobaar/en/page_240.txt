@@ -1,0 +1,20 @@
+# title: Page 240
+# English edition of book page 240, built by build_english.py from en_src/ and page_240.txt
+
+[hen]
+Chapter Thirty-Four: Teachers Forcing School Pupils to Take Private Tuition
+
+[en]
+The teacher was busy talking with these people when a schoolteacher, Muhammad Isam, came into the room and said: As-salamu alaikum. Everyone returned the greeting, and he sat down.
+
+[en]
+Tal'at: Teacher! This friend of ours, Isam, is an English teacher at a government school. He and hundreds of teachers like him do not pay proper attention to the children in class and do not do justice to the lesson, and near the exams they force the children to come to them for tuition outside school hours. The children who take tuition pass the exams, and those who do not, fail. How very sad that these people have not the slightest fear of Allah the Exalted. These people cannot even imagine modesty, shame or embarrassment. There is no might and no power except with Allah.
+
+[en]
+Isam: Brother! Fear Allah, and do not be so harsh.
+
+[en]
+Tal'at: Is what I have said not the truth?
+
+[en]
+Isam: No! What you say has nothing to do with the truth. You are telling an outright lie. I guarantee you that I have never wasted the children's time at school, nor have I ever fallen short in teaching the lesson.

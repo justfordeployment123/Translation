@@ -1,0 +1,8 @@
+# title: Page 449
+# English edition of book page 449, built by build_english.py from en_src/ and page_449.txt
+
+[en]
+Husain: Teacher! We have seen that things which even very righteous people could not cure, these magicians have cured. But what you say seems very strange.
+
+[en]
+Teacher: I have already explained in detail that they can neither benefit nor harm.

@@ -1,0 +1,38 @@
+# title: Page 40
+# English edition of book page 40, built by build_english.py from en_src/ and page_040.txt
+
+[en]
+He says:
+
+[ar]
+فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ ثُمَّ لَا يَجِدُوا فِي أَنْفُسِهِمْ حَرَجًا مِمَّا قَضَيْتَ وَيُسَلِّمُوا تَسْلِيمَا
+
+[en]
+But no, by your Lord, they will not (truly) believe until they make you, (O Muhammad), judge concerning that over which they dispute among themselves and then find within themselves no discomfort from what you have judged and submit in (full, willing) submission.
+
+[ref]
+النسآء 65:4.
+
+[en]
+Allah the Exalted told us that His Prophet, peace be upon him, is for us the excellent example and the model whom we must follow in every case. He says:
+
+[ar]
+لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ لِمَنْ كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ وَذَكَرَ اللَّهَ كَثِيرَا
+
+[en]
+There has certainly been for you in the Messenger of Allah an excellent pattern for anyone whose hope is in Allah and the Last Day and (who) remembers Allah often.
+
+[ref]
+الأحزاب 21:33.
+
+[en]
+Allah the Exalted has tied His pleasure to the pleasure of His Messenger, peace be upon him. He says:
+
+[ar]
+وَاللَّهُ وَرَسُولُهُ أَحَقُّ أَنْ يُرْضُوهُ إِنْ كَانُوا مُؤْمِنِينْ
+
+[en]
+But Allah and His Messenger are more worthy for them to satisfy, if they should be believers.
+
+[ref]
+التوبة 62:9.

@@ -1,0 +1,62 @@
+# title: Page 396
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 396 (PDF page 397), اکسٹھواں باب: جاندار چیزوں کی تصویروں کی خرید و فروخت
+# The page starts with a new dialogue turn (page 395 ends with the teacher's full turn).
+# Hadith 1: Bukhari 5950 (the book cites "صحيح البخاري، رقم الحديث [5950]"), filled from there.
+# Hadith 2: the book cites Bukhari [5953]; its wording «... كَخَلْقِي فَلْيَخْلُقُوا حَبَّةً أَوْ لِيَخْلُقُوا ذَرَّةً» is in no single report,
+# so it is joined from two reports of the same hadith (Abu Zur'ah from Abu Hurairah): "وَمَنْ أَظْلَمُ ... فَلْيَخْلُقُوا حَبَّةً" and
+# "ذَرَّةً" from Bukhari 5953 (which has "وَلْيَخْلُقُوا ذَرَّةً"), and "أَوْ لِيَخْلُقُوا" from Bukhari 7559. The book has no comma, so the
+# first excerpt is " flat" (Bukhari pauses after "كَخَلْقِي") and the excerpts run on (" cont").
+# Proofreader please check: the print vowels the last word "ذُرَّةً"; the source (and the Urdu "چیونٹی") has "ذَرَّةً", which is filled.
+# Proofreader please check: the print has "أَوِ لْيَخْلُقُوا"; Bukhari 7559 has "أَوْ لِيَخْلُقُوا", which is filled.
+# Hadith 3: the book cites Bukhari [2255] and Muslim [2110] (Ibn Abbas); filled from Muslim 5540 (the hadith-api entry holding Muslim 2110;
+# entry 5539 has the same text), in two excerpts so it pauses at the book's comma.
+# Proofreader please check: hadith 3 is read as Muslim "يَجْعَلُ لَهُ بِكُلِّ صُورَةٍ صَوَّرَهَا نَفْسًا فَتُعَذِّبُهُ فِي جَهَنَّمَ" where the book
+# prints "يُجْعَلُ لَهُ بِكُلِّ صُورَةٍ صَوَّرَهَا نَفْسٌ فَيُعَذَّبُ بِهَا فِي جَهَنَّمَ"; no report in the collections has the printed wording.
+# Proofreader please check: hadith 3's printed reference "صحيح البخاري [2255]" is another hadith in the sunnah.com numbering;
+# Ibn Abbas's report on picture-makers is Bukhari 2225. The printed reference is kept.
+# The last sentence continues on page 397 ("انسانوں کی ہوں ... حرام قرار دیا گیا ہے۔"); it is kept whole here.
+
+[ur]
+مدیر: جی ضرور۔
+
+[ur]
+استاد: حضرت عبداللہ بن مسعود رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H bukhari:5950 from إِنَّ أَشَدَّ to الْمُصَوِّرُونَ}}
+إِنَّ أَشَدَّ النَّاسِ عَذَابًا عِنْدَ اللَّهِ يَوْمَ الْقِيَامَةِ الْمُصَوِّرُونْ
+
+[ref]
+صحيح البخاري، رقم الحديث [5950]
+
+[ur]
+“قیامت کے دن اللہ کے ہاں تصویریں بنانے والوں کو سخت ترین عذاب ہوگا۔”
+
+[ur]
+حضرت ابو ہریرہ رضی اللہ عنہ سے مروی ہے کہ رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H bukhari:5953 from وَمَنْ أَظْلَمُ to حَبَّةً flat cont}} {{H bukhari:7559 from أَوْ لِيَخْلُقُوا to لِيَخْلُقُوا cont}} {{H bukhari:5953 from ذَرَّةً to ذَرَّةً}}
+وَمَنْ أَظْلَمُ مِمَّنْ ذَهَبَ يَخْلُقُ كَخَلْقِي فَلْيَخْلُقُوا حَبَّةً أَوْ لِيَخْلُقُوا ذَرَّةْ
+
+[ref]
+صحيح البخاري، رقم الحديث [5953]
+
+[ur]
+“اللہ تعالیٰ فرماتے ہیں: اس شخص سے بڑا ظالم اور کون ہوگا جو میری مخلوق کی طرح پیدا کرنے چلا ہے، اسے چاہیے کہ ایک دانہ پیدا کرے یا ایک چیونٹی پیدا کرے۔”
+
+[ur]
+حضرت عبداللہ بن عباس رضی اللہ عنہما سے مروی ہے کہ رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H muslim:5540 from كُلُّ مُصَوِّرٍ to النَّارِ}}، {{H muslim:5540 from يَجْعَلُ to جَهَنَّمَ}}
+كُلُّ مُصَوِّرٍ فِي النَّارْ، يَجْعَلُ لَهُ بِكُلِّ صُورَةٍ صَوَّرَهَا نَفْسًا فَتُعَذِّبُهُ فِي جَهَنَّمْ
+
+[ref]
+صحيح البخاري، رقم الحديث [2255] صحيح مسلم، رقم الحديث [2110]
+
+[ur]
+“ہر تصویر بنانے والا جہنم میں جائے گا اور ہر ایک تصویر کے بدلے ایک جاندار شخص بنایا جائے گا، جس کی وجہ سے اسے جہنم میں عذاب دیا جائے گا۔”
+
+[ur]
+یہ تمام احادیث تصویروں کی حرمت پر دلالت کرتی ہیں، خواہ وہ تصویریں انسانوں کی ہوں، حیوانات کی ہوں یا دیگر جانداروں کی، سایہ دار ہوں یا بغیر سائے کے، کاغذ پر طبع کی گئی ہوں یا کیمرے سے ان کا عکس لیا گیا ہو یا ان کو پتھروں اور لکڑیوں پر کندہ کروایا گیا ہو، احادیث میں ان تمام قسم کی تصاویر کو حرام قرار دیا گیا ہے۔

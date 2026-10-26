@@ -1,0 +1,17 @@
+# title: Page 193
+# English edition of book page 193, built by build_english.py from en_src/ and page_193.txt
+
+[en]
+On another occasion he, peace be upon him, said:
+
+[ar]
+يُسْتَعْمَلُ عَلَيْكُمْ أُمَرَاءُ فَتَعْرِفُونَ وَتُنْكِرُونْ، فَمَنْ كَرِهَ فَقَدْ بَرِئْ، وَمَنْ أَنْكَرَ فَقَدْ سَلِمْ، وَلَكِنْ مَنْ رَضِيَ وَتَابَعْ، قَالُوا يَا رَسُولَ اللَّهْ! أَلاَ نُقَاتِلُهُمْ؟ قَالَ لا، مَا صَلَّوْا
+
+[en]
+“Rulers will be appointed over you, some of whose actions you will approve of and some you will dislike. Whoever disliked (their evil actions) is free (of sin), and whoever denounced (their evil actions) is also safe; but whoever was pleased and followed them (in those sinful actions, he is a sinner).” The noble Companions said: O Messenger of Allah, shall we not fight them? He said: “No, as long as they keep praying.”
+
+[fen]
+Sahih Muslim, al-Imarah, hadith 1854. It should be clear that when someone has taken the seat of the caliphate or of government, whether the people agreed on him and were pleased with him or he overpowered them by the force of the sword and made himself caliph, obedience and submission to him are obligatory and rebellion against him is forbidden. Imam Ahmad, may Allah have mercy on him, said: “If someone overpowers the rulers by the force of the sword, becomes caliph and is given the title of Commander of the Believers, then it is not permissible for anyone who believes in Allah and the Last Day to spend even one night without regarding him as imam, whether the one who has become caliph is righteous or wicked and sinful.” (al-Ahkam as-Sultaniyyah by Abu Ya'la, p. 23)
+
+[fen]
+Hafiz Ibn Hajar, may Allah have mercy on him, wrote: “The jurists have agreed that it is obligatory to obey even one who overpowers others and makes himself sultan, and to wage jihad alongside him. Obeying him is better than rebelling against him. This will help to prevent bloodshed and to cool (the fire of) calamities.” (Fath al-Bari 13/9)

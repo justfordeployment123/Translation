@@ -1,0 +1,11 @@
+# title: Page 540
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 540 (PDF page 541), نوےواں باب: قرض ادا نہ کرنے کا بیان
+# The end of the hadith at the top of the page ("بِيَدِهِ لَوْ أَنَّ ... دَيْنُهُ") and its footnote (سنن النسائي، صحيح الجامع [3594]) are on page 539, where the hadith starts.
+# The page goes on with the hadith's Urdu translation and ends the chapter with a full sentence; the rest of the page is blank.
+# Page 541 starts «اکانوےواں باب».
+
+[ur]
+“سبحان اللہ، اللہ تعالیٰ نے قرض کے معاملے میں کتنی سختی نازل کی ہے، اس ذات کی قسم جس کے ہاتھ میں میری جان ہے! اگر بے شک ایک آدمی اللہ کے راستے میں شہید کیا جائے، پھر زندہ کیا جائے، پھر شہید کر دیا جائے، پھر زندہ کیا جائے اور پھر شہید کر دیا جائے اور اس پر قرض ہو تو وہ آدمی جنت میں داخل نہیں ہوگا، یہاں تک کہ اس کا قرض ادا کیا جائے۔”
+
+[ur]
+کیا اتنی سختی اور وعید کے بعد بھی لوگوں کو کوتاہی کرنی چاہیے؟

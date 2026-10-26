@@ -1,0 +1,38 @@
+# title: Page 227
+# English edition of book page 227, built by build_english.py from en_src/ and page_227.txt
+
+[en]
+The noble Prophet, peace be upon him, said:
+
+[ar]
+اشْفَعُوا تُؤْجَرُوا
+
+[ref]
+صحيح البخاري، رقم الحديث [1432]
+
+[en]
+“Intercede, and you will be rewarded.”
+
+[en]
+But remember: this does not mean that you should take bribes and the like through your intercession, because the noble Prophet, peace be upon him, said:
+
+[ar]
+مَنْ شَفَعَ لأَخِيهِ بِشَفَاعَةٍ فَأَهْدَى لَهُ هَدِيَّةً عَلَيْهَا فَقَبِلَهَا فَقَدْ أَتَى بَابًا عَظِيمًا مِنْ أَبْوَابِ الرِّبَا
+
+[ref]
+سنن أبي داود، رقم الحديث [3541] صحيح الجامع، رقم الحديث [6292]
+
+[en]
+“Whoever intercedes for someone and is given a gift in return for it, if he accepts that gift, it is as though he has entered a great door of interest (riba).”
+
+[en]
+All these narrations prove that if someone trades on his position, authority and connections and deals in bribes, money, presents, gifts or anything at all, this is impermissible and forbidden; but the man who does good to someone for the sake of Allah's pleasure will certainly receive its reward on the Day of Resurrection.
+
+[en]
+A man came to Hasan ibn Sahl and asked him to intercede for him in some matter of his. Hasan interceded for him, and the man's matter was settled. After that, the man came to thank Hasan, who said:
+
+[en]
+“What have you come to thank me for? My view is that just as there is zakat on wealth, so too there is zakat on a person's authority and connections, and that is for a man to benefit someone through his connections.”
+
+[ref]
+الآداب الشرعية، ابن مفلح [176/2]

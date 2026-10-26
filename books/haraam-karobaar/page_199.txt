@@ -1,0 +1,29 @@
+# title: Page 199
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 199 (PDF page 200), چھبیسواں باب: دھماکہ خیز مواد کی خرید و فروخت (end)
+# The page starts with a new dialogue turn (page 198 ends with a full sentence). The rest of the page is blank.
+# Proofreader please check: "عمار: عمار نے سامان پکڑا اور گاڑی کی طرف چل پڑا۔" is typed as printed; the line is narration
+# set under the speaker label «عمار:».
+
+[ur]
+استاد: اللہ آپ کو جزا دے۔
+
+[ur]
+دکاندار: اور آپ کو بھی۔
+
+[ur]
+استاد: عمار، کافی دیر ہو چکی ہے آؤ، واپس چلیں۔
+
+[ur]
+عمار: عمار نے سامان پکڑا اور گاڑی کی طرف چل پڑا۔
+
+[ur]
+استاد: ہم نے یہ سامان آپ سے اس لیے خریدا ہے کہ آپ نے تمام خلافِ شریعت چیزوں کی خرید و فروخت سے باز آنے کا وعدہ کیا ہے۔
+
+[ur]
+دکاندار: ان شاء اللہ۔
+
+[ur]
+استاد: السلام علیکم ورحمۃ اللہ وبرکاتہ۔
+
+[ur]
+دکاندار: وعلیکم السلام ورحمۃ اللہ وبرکاتہ۔

@@ -1,0 +1,38 @@
+# title: Page 83
+# English edition of book page 83, built by build_english.py from en_src/ and page_083.txt
+
+[en]
+The Messenger has believed in what was revealed to him from his Lord, and (so have) the believers. All of them have believed in Allah and His angels and His books and His messengers.
+
+[ref]
+البقرة 285:2.
+
+[en]
+Whoever denies the existence of the angels has disbelieved. Allah the Exalted says:
+
+[ar]
+وَمَنْ يَكْفُرْ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ وَالْيَوْمِ الْآخِرِ فَقَدْ ضَلَّ ضَلَالًا بَعِيدَا
+
+[en]
+And whoever disbelieves in Allah, His angels, His books, His messengers, and the Last Day has certainly gone far astray.
+
+[ref]
+النسآء 136:4.
+
+[en]
+Ahl as-Sunnah wal-Jama'ah believe in general terms that the angels exist. As for detailed faith, it is necessary to believe in the existence of those angels for whom there is sound evidence and whom Allah and His Messenger, peace be upon him, have named. Among them are, in particular, these angels:
+
+[en]
+Jibril, peace be upon him: bringing revelation to the prophets was his duty.
+
+[en]
+Mika'il, peace be upon him: he is charged with sending down the rain.
+
+[en]
+Israfil, peace be upon him: blowing the Trumpet is his task.
+
+[en]
+The Angel of Death: this angel is charged with taking the souls.
+
+[en]
+Malik, the keeper of Hell. Ridwan, the keeper of Paradise. Munkar and Nakir, the angels of the grave.

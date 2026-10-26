@@ -1,0 +1,21 @@
+# title: Page 138
+# Salaf-e-Saliheen ke Aqaid o Nazariyat, book page 138 (PDF page 135), دوسرا اصول: حقیقتِ ایمان
+# Page 137 ends with a full paragraph; this page starts with a new one. The second principle ends here; the page ends with a full
+# sentence, and the third principle starts on page 139.
+# Print typo corrected: Ibn Abbas's answer «“اس طرح (...) ... دکھائیں)۔» has no closing quote mark in the print; it is closed at its end.
+# References: the digit groups are typed as they appear on the page, left to right («72/12»).
+
+[ur]
+روایات میں آتا ہے کہ حضرت عبداللہ بن عباس رضی اللہ عنہما اپنے غلاموں کو ایک ایک کر کے بلاتے اور ہر ایک سے فرماتے: “کیا میں تمھاری شادی نہ کر دوں؟ جو بندہ زنا کرتا ہے، اللہ تعالیٰ اس سے نورِ ایمان چھین لیتا ہے۔”
+
+[ref]
+فتح الباري: 72/12.
+
+[ur]
+عکرمہ رحمہ اللہ نے سوال کیا کہ ایمان کس طرح چھین لیا جاتا ہے؟ فرمایا: “اس طرح (انھوں نے دونوں ہاتھوں کی انگلیاں باہم پیوست کیں، پھر انھیں الگ کر کے دکھایا)۔ اگر وہ توبہ کرے تو ایمان اس طرح لوٹ آتا ہے (یہ کہتے ہوئے انھوں نے دونوں ہاتھوں کی انگلیاں باہم پیوست کر کے دکھائیں)۔”
+
+[ref]
+صحيح البخاري، الحدود، تحت حديث: 6809.
+
+[ur]
+اہل سنت والجماعت کے نزدیک جو اصولِ دین ثابت ہیں، ان میں سے دوسرے اصول “حقیقتِ ایمان” کی تفصیلات مکمل ہوئیں۔ اب تیسرے اصول، یعنی مسئلہ تکفیر کے متعلق اہل سنت والجماعت کے موقف سے متعلقہ تفصیلات پیش کی جاتی ہیں۔ تکفیر عربی زبان کا لفظ ہے، اس کے معنی ہیں: “کسی فرد کو کافر قرار دینا۔”

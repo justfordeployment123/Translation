@@ -1,0 +1,23 @@
+# title: Page 21
+# English edition of book page 21, built by build_english.py from en_src/ and page_021.txt
+
+[ar]
+أُوصِيكُمْ بِتَقْوَى اللَّهِ وَالسَّمْعِ وَالطَّاعَةْ، وَإِنْ عَبْدًا حَبَشِيَّا، فَإِنَّهُ مَنْ يَعِشْ مِنْكُمْ بَعْدِي فَسَيَرَى اخْتِلاَفًا كَثِيرَا، فَعَلَيْكُمْ بِسُنَّتِي وَسُنَّةِ الْخُلَفَاءِ الرَّاشِدِينَ الْمَهْدِيِّينْ، تَمَسَّكُوا بِهَا، وَعَضُّوا عَلَيْهَا بِالنَّوَاجِذْ، وَإِيَّاكُمْ وَمُحْدَثَاتِ الأُمُورْ، فَإِنَّ كُلَّ مُحْدَثَةٍ بِدْعَةْ، وَكُلَّ بِدْعَةٍ ضَلاَلَةْ
+
+[en]
+“I counsel you to fear Allah, and to listen attentively to the ruler and obey him, even if that ruler is an Abyssinian slave. Whoever of you lives after me will see a great deal of disagreement. Then hold to my Sunnah and the Sunnah of the Rightly Guided Caliphs, who are upon guidance. Cling to it and hold on to it firmly with your molar teeth. Beware of newly invented matters, for every newly invented matter is an innovation and every innovation is misguidance.”
+
+[ref]
+سنن أبي داود، السنة، حديث: 4607.
+
+[en]
+This is the straight path that leads to the pleasure of the Lord of the worlds. Allah says:
+
+[ar]
+وَأَنَّ هَٰذَا صِرَاطِي مُسْتَقِيمًا فَاتَّبِعُوهُ ۖ وَلَا تَتَّبِعُوا السُّبُلَ فَتَفَرَّقَ بِكُمْ عَنْ سَبِيلِهِ ۚ ذَٰلِكُمْ وَصَّاكُمْ بِهِ لَعَلَّكُمْ تَتَّقُونْ
+
+[en]
+And, (moreover), this is My path, which is straight, so follow it; and do not follow (other) ways, for you will be separated from His way. This has He instructed you that you may become righteous.
+
+[ref]
+الأنعام 153:6.

@@ -1,0 +1,62 @@
+# title: Page 76
+# English edition of book page 76, built by build_english.py from en_src/ and page_076.txt
+
+[en]
+And He says:
+
+[ar]
+قَالَ يَا إِبْلِيسُ مَا مَنَعَكَ أَنْ تَسْجُدَ لِمَا خَلَقْتُ بِيَدَيّ
+
+[en]
+(Allah) said, “O Iblees, what prevented you from prostrating to that which I created with My hands?”
+
+[ref]
+صٓ 75:38.
+
+[en]
+Ahl as-Sunnah wal-Jama'ah affirm for Allah the Exalted hearing, sight, knowledge, power, strength, might, speech (conversing), life, the foot, the shin, the hand and ma'iyyah (being with), and all the other attributes that He has told us, in the Noble Quran and through the words of the Prophet, that He possesses. They affirm these attributes as having a how that only Allah the Exalted knows. We do not know how the attributes of Allah are, because Allah the Exalted has not told us about it. He says:
+
+[ar]
+إِنَّنِي مَعَكُمَا أَسْمَعُ وَأَرَىٰ
+
+[en]
+Indeed, I am with you both; I hear and I see.
+
+[ref]
+طهٰ 46:20,
+
+[en]
+Allah says:
+
+[ar]
+وَهُوَ الْعَلِيمُ الْحَكِيمْ
+
+[en]
+And He is the Knowing, the Wise.
+
+[ref]
+التحريم 2:66.
+
+[en]
+And He says:
+
+[ar]
+وَكَلَّمَ اللَّهُ مُوسَىٰ تَكْلِيمَا
+
+[en]
+And Allah spoke to Moses with (direct) speech.
+
+[ref]
+النسآء 164:4.
+
+[en]
+He also said:
+
+[ar]
+وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو الْجَلَالِ وَالْإِكْرَامْ
+
+[en]
+And there will remain the Face of your Lord, Owner of Majesty and Honor.
+
+[ref]
+الرحمٰن 27:55.

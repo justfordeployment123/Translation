@@ -1,0 +1,17 @@
+# title: Page 260
+# English edition of book page 260, built by build_english.py from en_src/ and page_260.txt
+
+[en]
+Fourth: Writing an application and taking leave without a reason.
+
+[en]
+Fifth: Forcing students to take tuition outside school hours.
+
+[en]
+Sixth: Men teaching in girls' schools.
+
+[en]
+Seventh: Teaching music.
+
+[en]
+Teacher: Praise be to Allah for that.

@@ -1,0 +1,32 @@
+# title: Page 234
+# English edition of book page 234, built by build_english.py from en_src/ and page_234.txt
+
+[hen]
+Chapter Thirty-Two: Giving False Testimony
+
+[en]
+Jabir: Teacher! In our government offices it is common that if one employee is absent, another, a friend of his, marks his attendance for him. What is the ruling of the Shariah on this?
+
+[en]
+Teacher: First we must establish what name the Shariah has given to this act.
+
+[en]
+Jabir: What name is it?
+
+[en]
+Teacher: The Shariah has called it false testimony.
+
+[en]
+Jabir: How strange! What does false testimony have to do with this?
+
+[en]
+Teacher: It has a very deep connection, because whoever marks the attendance of another, absent friend is testifying that his friend is present, when he is not present. In this respect, the one who marks false attendance commits the following four dangerous things:
+
+[en]
+First: He gives false testimony that so-and-so is present, when he is not present.
+
+[en]
+Second: He becomes his friend's helper in consuming what is forbidden, and this amounts to cooperating in an evil deed.
+
+[en]
+Third: By helping his absent friend, he holds up the work, and this goes against the interest of all the Muslims as a whole.

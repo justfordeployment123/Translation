@@ -1,0 +1,32 @@
+# title: Page 544
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 544 (PDF page 545), ترانوےواں باب: قبروں کو پختہ کرنے کا کام کرنا
+# Print spelling normalized: «ترانواں باب» -> «ترانوےواں باب» (chapter 93; the book's spelling of the 90s is also its spelling of the 50s or is irregular, so the standard number word + «واں» is used); the contents page has the same spelling.
+# The page starts with the new chapter (page 543 ends the previous one with a full sentence) and ends it with a full sentence;
+# the rest of the page is blank. Page 545 starts «چورانوےواں باب».
+# Hadith (Jabir): Muslim 2245 (sunnah.com numbering of Muslim 970, which the book cites). «نَهَى رَسُولُ اللَّهِ ﷺ» is typed from the
+# print ("اللّٰهِ" in the standard form); the rest is filled from Muslim 2245.
+
+[h]
+ترانوےواں باب: قبروں کو پختہ کرنے کا کام کرنا
+
+[ur]
+عمار: شریعت میں قبروں کو پختہ بنانے کا کیا حکم ہے؟
+
+[ur]
+استاد: حدیث میں آتا ہے:
+
+[ar]
+# hadith نَهَى رَسُولُ اللَّهِ ﷺ {{H muslim:2245 from أَنْ يُجَصَّصَ to يُبْنَى عَلَيْهِ}}
+نَهَى رَسُولُ اللَّهِ ﷺ أَنْ يُجَصَّصَ الْقَبْرُ وَأَنْ يُقْعَدَ عَلَيْهِ وَأَنْ يُبْنَى عَلَيْهْ
+
+[ref]
+صحيح مسلم، رقم الحديث [970]
+
+[ur]
+“رسول اللہ ﷺ نے قبروں کو پختہ بنانے، ان پر بیٹھنے اور ان پر عمارت بنانے سے منع کیا ہے۔”
+
+[ur]
+اس حدیث میں رسول اللہ ﷺ نے قبروں کو پختہ بنانے سے منع فرمایا ہے اور اس نہی کا تعلق بہ ذات خود فعل سے ہے، جو اس بات کی دلیل ہے کہ یہ حرام اور فاسد ہے۔ اللہ تعالیٰ جب کسی چیز کو حرام کرتے ہیں تو اس کی قیمت کو بھی حرام ٹھہراتے ہیں۔
+
+[ur]
+لہٰذا قبروں کو پختہ بنانا، اس کی اجرت وصول کرنا اور مزدوری کرنا وغیرہ سب حرام امور ہیں۔

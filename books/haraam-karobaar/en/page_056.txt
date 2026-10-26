@@ -1,0 +1,41 @@
+# title: Page 56
+# English edition of book page 56, built by build_english.py from en_src/ and page_056.txt
+
+[en]
+The hadiths of the Prophet show that it is void and impermissible. It is not permissible to sell any goods on until one has taken possession of them, or until one has moved them to one's own warehouse and store. This principle is general, whether the goods are grain, wheat, rice or anything else. This is called bay' at-ta'am qabla qabdih (selling grain before taking possession of it), and there are many proofs that it is forbidden.
+
+[en]
+Sa'd: Shaykh, if possible, please mention some of the proofs.
+
+[en]
+Teacher: Yes, certainly we will.
+
+[en]
+The first proof: It is narrated from Abdullah ibn Abbas, may Allah be pleased with them both, that the Messenger of Allah, peace be upon him, said:
+
+[ar]
+مَنِ ابْتَاعَ طَعَامًا فَلاَ يَبِعْهُ حَتَّى يَكْتَالَهْ
+
+[en]
+“Whoever buys grain should not sell it on until he has taken it in full by measure.”
+
+[en]
+Tawus ibn Kaysan said: Why is that? Ibn Abbas, may Allah be pleased with them both, replied:
+
+[en]
+“Do you not see that they buy with gold, while the grain is to be handed over only when the promised time comes?”
+
+[ref]
+صحيح البخاري، رقم الحديث [2132] صحيح مسلم، رقم الحديث [1525]
+
+[en]
+That is, they pay the price while the goods are still with the same seller.
+
+[en]
+The second proof: It is narrated from Ibn Abbas, may Allah be pleased with them both, that the Messenger of Allah, peace be upon him, said:
+
+[ar]
+مَنِ ابْتَاعَ طَعَامًا فَلاَ يَبِعْهُ حَتَّى يَقْبِضَهْ
+
+[ref]
+صحيح البخاري، رقم الحديث [2132] صحيح مسلم، رقم الحديث [1525]

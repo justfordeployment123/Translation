@@ -1,0 +1,13 @@
+# English source for book page 31
+
+[hen]
+The First Tour
+
+[en]
+First: The Grain Market Tour.
+
+[en]
+Second: The Gold Market Tour.
+
+[en]
+Third: The Currency Exchange Tour.

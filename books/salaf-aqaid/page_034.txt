@@ -1,0 +1,35 @@
+# title: Page 34
+# Salaf-e-Saliheen ke Aqaid o Nazariyat, book page 34 (PDF page 31), سلف کی تعریف
+# The section title «سلف کی تعریف» is a heading.
+# The bold lead-in «سلف کی لغوی تعریف:» runs on in the same line as its paragraph, so it stays in the [ur] block.
+# The Arabic words «سَلَفَ الشَّيْءُ سَلَفًا» and «السَّلَفُ» (twice) are terms inside Urdu sentences: typed as printed inside
+# their [ur] blocks, stopping form on the last word.
+# Az-Zukhruf 43:55 and 43:56 are filled from the official text (fill_quran.py), one ayah per block; the footnote follows the
+# translation, which carries the marker.
+# The last sentence continues on page 35 ("ان کا سا طرزِ عمل اپناتے ہیں، سلف بنایا ... مختلف نہیں ہوگا۔"); it is kept whole here.
+
+[h]
+سلف کی تعریف
+
+[ur]
+سلف کی لغوی تعریف: لغت میں سلف اس شے کو کہتے ہیں جو گزر گئی ہو، آگے بڑھ گئی ہو۔ عربی میں کہتے ہیں: سَلَفَ الشَّيْءُ سَلَفَا، یعنی گزر گئی۔ (گزر جانا، آگے بڑھ جانا)۔
+
+[ur]
+السَّلَفْ ان لوگوں کو کہتے ہیں جو گزر گئے ہوں، جو آگے بڑھ گئے ہوں۔ ان لوگوں کو بھی السَّلَفْ کہتے ہیں جو قافلے میں چلتے ہوئے آگے بڑھ جائیں اور کسی جگہ پہلے پہلے پہنچ جائیں۔ قرآن مجید میں ہے:
+
+[ar]
+# quran 43:55 from فَلَمَّا آسَفُونَا to أَجْمَعِينَ
+فَلَمَّا آسَفُونَا انْتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَاهُمْ أَجْمَعِينْ
+
+[ar]
+# quran 43:56 from فَجَعَلْنَاهُمْ to لِلْآخِرِينَ
+فَجَعَلْنَاهُمْ سَلَفًا وَمَثَلًا لِلْآخِرِينْ
+
+[ur]
+“پھر جب انھوں نے ہمیں غصہ دلایا تو ہم نے ان سے انتقام لیا اور ہم نے ان سب کو غرق کر دیا تو یوں ہم نے انھیں گئے گزرے کر دیا اور پچھلوں کے لیے (عبرت کی) مثال بنا دیا۔”
+
+[ref]
+الزخرف 56,55:43.
+
+[ur]
+مطلب یہ کہ ہم نے انھیں ان لوگوں کے لیے جو ان کے نقشِ قدم پر چلتے ہوئے ان کا سا طرزِ عمل اپناتے ہیں، سلف بنایا تا کہ بعد کے لوگ ان کے انجام سے عبرت حاصل کریں اور یاد رکھیں کہ اگر انھوں نے بھی وہی عمل کیا تو ان کا انجام بھی ان سے مختلف نہیں ہوگا۔

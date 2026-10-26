@@ -1,0 +1,41 @@
+# title: Page 58
+# English edition of book page 58, built by build_english.py from en_src/ and page_058.txt
+
+[en]
+Abu Rashid! First take the rice from these people's houses and move it to your warehouse, and only after that sell it on.
+
+[en]
+Abu Rashid: Come on, everyone!
+
+[en]
+Everyone: Certainly! We will do just as the religion of Allah says. Shaykh! May Allah reward you, and we apologise that we did not treat you with respect.
+
+[en]
+Teacher:
+
+[ar]
+لَا تَثْرِيبَ عَلَيْكُمُ الْيَوْمَ ۖ يَغْفِرُ اللَّهُ لَكُمْ
+
+[ref]
+[يوسف: 92]
+
+[en]
+No blame will there be upon you today. Allah will forgive you; and He is the most merciful of the merciful.
+
+[en]
+But one thing still remains.
+
+[en]
+Everyone: Shaykh! What is it?
+
+[en]
+Teacher: In future, if you see anyone doing this, give him sincere advice.
+
+[en]
+Everyone: In sha Allah, we promise.
+
+[en]
+Everyone bade farewell to the Shaykh and his student, saying: As-salamu alaikum wa rahmatullah.
+
+[en]
+Gharib, come! Mukhaimir, hurry! Where are Hamuda and Sa'd? Sa'd, hurry! Ayyad, hurry! So that we can quickly be rid of this act that goes against Allah and His Messenger, peace be upon him.

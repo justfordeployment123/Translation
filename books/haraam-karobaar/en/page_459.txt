@@ -1,0 +1,41 @@
+# title: Page 459
+# English edition of book page 459, built by build_english.py from en_src/ and page_459.txt
+
+[en]
+Allah the Exalted has said:
+
+[ar]
+إِنَّ الَّذِينَ يُحَادُّونَ اللَّهَ وَرَسُولَهُ كُبِتُوا كَمَا كُبِتَ الَّذِينَ مِنْ قَبْلِهِمْ
+
+[ref]
+[المجادلة: 5]
+
+[en]
+Indeed, those who oppose Allah and His Messenger are abased as those before them were abased.
+
+[en]
+And the Lord also says:
+
+[ar]
+إِنَّ الَّذِينَ يُحَادُّونَ اللَّهَ وَرَسُولَهُ أُولَٰئِكَ فِي الْأَذَلِّينْ
+
+[ref]
+[المجادلة: 20]
+
+[en]
+Indeed, the ones who oppose Allah and His Messenger - those will be among the most humbled.
+
+[en]
+It is obligatory for every Muslim not to divide his property during his lifetime, but to leave it to his heirs, so that after his death his heirs may divide it among themselves according to the shares fixed by the Shariah. If, after his death, any heir alters the share of another heir, the sin of it will be on the one who makes the change, as Allah the Exalted has said:
+
+[ar]
+فَإِنَّمَا إِثْمُهُ عَلَى الَّذِينَ يُبَدِّلُونَهْ
+
+[ref]
+[البقرة: 181]
+
+[en]
+The sin is only upon those who have altered it.
+
+[en]
+As for the man who gathers wealth in this world and, as he leaves it, deprives the rightful owner of that wealth, Allah the Exalted will subject such a man to a severe punishment on the Day of Resurrection. It is as if this wealth became the cause of his ruin in this world and in the Hereafter.

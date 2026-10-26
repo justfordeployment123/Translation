@@ -1,0 +1,49 @@
+# title: Page 56
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 56 (PDF page 57), تیسرا باب: قبضے میں لینے سے پہلے چیز آگے فروخت کرنا
+# The first line of the page ("کو یہ حق نہیں ... کہ سودا لے۔") ends a sentence that is on page 55, where it starts; the teacher's turn continues here.
+# The page ends with the second hadith; its translation starts on page 57.
+# The Arabic term «بَيْعُ الطَّعَامِ قَبْلَ قَبْضِهِ» inside the teacher's words is typed as printed inside its sentence's [ur] block (read in the Urdu flow) (quote marks dropped, stopping form on the last word).
+# Hadith 1: the book's words (with "حَتَّى يَكْتَالَهُ") are Abu Dawud 3496 (Ibn Abbas, with Tawus's question), filled from there; the book cites Bukhari [2132] and Muslim [1525].
+# Hadith 2: Muslim 3839 (Ibn Abbas), filled from there; the book cites Bukhari [2132] and Muslim [1525].
+# The bold lead-ins «پہلی دلیل:» and «دوسری دلیل:» run on in the same line, so they stay in their [ur] blocks.
+
+[ur]
+احادیثِ نبویہ اس کے باطل اور ناجائز ہونے پر دلالت کرتی ہیں۔ کسی بھی سودے کو اس وقت تک آگے بیچنا جائز نہیں، جب تک اسے اپنے قبضے میں نہ لے لیا جائے یا جب تک اسے اپنے گودام اور سٹور میں منتقل نہ کر لیا جائے۔ یہ اصول عام ہے، خواہ وہ چیز غلہ، گندم، چاول ہوں یا کوئی اور چیز، اسے بَيْعُ الطَّعَامِ قَبْلَ قَبْضِهْ (اپنے قبضے میں لینے سے پہلے غلے کی بیع کرنا) کہتے ہیں، اس کی حرمت پر بہت سے دلائل موجود ہیں۔
+
+[ur]
+سعد: شیخ اگر ممکن ہو تو کچھ دلائل کا تذکرہ کریں۔
+
+[ur]
+استاد: ہاں، ضرور کرتے ہیں۔
+
+[ur]
+پہلی دلیل: سیدنا عبداللہ بن عباس رضی اللہ عنہما سے مروی ہے کہ رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H abudawud:3496 from مَنِ ابْتَاعَ to يَكْتَالَهُ}}
+مَنِ ابْتَاعَ طَعَامًا فَلاَ يَبِعْهُ حَتَّى يَكْتَالَهْ
+
+[ur]
+“جو کوئی غلہ خریدے، اسے اس وقت تک آگے نہ بیچے، جب تک ماپ کر پورا پورا نہ لے لے۔”
+
+[ur]
+طاوس بن کیسان نے کہا: ایسا کیوں ہے؟ سیدنا ابن عباس رضی اللہ عنہما نے جواب دیا:
+
+[ur]
+“کیا تم دیکھتے نہیں کہ وہ سونے کے بدلے خرید لیتے ہیں، لیکن غلہ تو وعدہ آنے پر ہی دیا جائے گا۔”
+
+[ref]
+صحيح البخاري، رقم الحديث [2132] صحيح مسلم، رقم الحديث [1525]
+
+[ur]
+یعنی وہ قیمت ادا کر دیتے ہیں اور سودا ابھی اسی بیچنے والے کے پاس ہوتا ہے۔
+
+[ur]
+دوسری دلیل: ابن عباس رضی اللہ عنہما سے مروی ہے کہ رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H muslim:3839 from مَنِ ابْتَاعَ to يَقْبِضَهُ}}
+مَنِ ابْتَاعَ طَعَامًا فَلاَ يَبِعْهُ حَتَّى يَقْبِضَهْ
+
+[ref]
+صحيح البخاري، رقم الحديث [2132] صحيح مسلم، رقم الحديث [1525]

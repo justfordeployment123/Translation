@@ -1,0 +1,59 @@
+# title: Page 318
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 318 (PDF page 319), پینتالیسواں باب: ڈاڑھی منڈوانا
+# Items ④–⑦ of the teacher's list of hadith proofs (page 317) are read as words: چوتھی، پانچویں، چھٹی، ساتویں.
+# Hadith ④ (Ibn Umar): Abu Dawud 4199 (the book cites Muslim [259] and Abu Dawud [4199]); the lead-in «إِنَّ النَّبِيَّ ﷺ» is typed from the
+# print, and the rest is filled in two excerpts so it pauses at the book's comma after «الشَّوَارِبِ».
+# Hadith ⑤ (Abu Hurayrah): Muslim 603 (the sunnah.com numbering of Muslim 260, which the book cites).
+# Proofreader please check: the book prints «وَخَالِفُوا الْمَجُوسَ» where Muslim 603 has «خَالِفُوا الْمَجُوسَ» (no «وَ»); the source text is read.
+# Hadith typed from the print (not in the hadith-api collections): ⑥ «قُصُّوْا سِبَالَكُمْ ...», the book cites شعب الإيمان للبيهقي [214/5] and
+# صحيح الجامع [7114]; printed harakat kept (sukun on the long vowels), the separated «وَ» joined to its word, stopping form on the last word.
+# Proofreader please check: in ⑥ the print has «سَبَالَكُمْ» and «عُثَانِيْنَكُمْ»; the vowel slips are corrected to «سِبَالَكُمْ» and «عَثَانِيْنَكُمْ»
+# (the printed sukun on the long ي of «عَثَانِيْنَكُمْ» is kept, re-read at 400 dpi).
+# Hadith typed from the print (not in the hadith-api collections): ⑦ (Kisra's two envoys), with no reference printed; typed whole, the
+# Prophet's words and the envoys' answer as printed, printed harakat kept (sukun on the long vowels), «بِهٰذَا» / «كِسْرٰى» / «وَلٰكِنَّ» in the
+# standard spelling. The colons after «قَالَا» and «فَقَالَ ﷺ» are not pauses.
+# The page ends with the Arabic of hadith ⑦; its Urdu translation starts on page 319 and stays there.
+
+[ur]
+چوتھی: حضرت عبداللہ بن عمر رضی اللہ عنہما سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+# hadith إِنَّ النَّبِيَّ ﷺ {{H abudawud:4199 from أَمَرَ to الشَّوَارِبِ}}، {{H abudawud:4199 from وَإِعْفَاءِ to اللِّحَى}}
+إِنَّ النَّبِيَّ ﷺ أَمَرَ بِإِحْفَاءِ الشَّوَارِبْ، وَإِعْفَاءِ اللِّحَى
+
+[ref]
+صحيح مسلم، رقم الحديث [259] سنن أبي داود، رقم الحديث [4199]
+
+[ur]
+“نبی کریم ﷺ نے مونچھیں کتروانے اور ڈاڑھی بڑھانے کا حکم دیا۔”
+
+[ur]
+پانچویں: حضرت ابو ہریرہ رضی اللہ عنہ سے مروی ہے کہ رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H muslim:603 from جُزُّوا to الْمَجُوسَ}}
+جُزُّوا الشَّوَارِبَ وَأَرْخُوا اللِّحَى خَالِفُوا الْمَجُوسْ
+
+[ref]
+صحيح مسلم، رقم الحديث [260]
+
+[ur]
+“مجوسیوں کے برعکس تم مونچھیں کٹواؤ اور ڈاڑھی بڑھاؤ۔”
+
+[ur]
+چھٹی: بعض انصاری صحابہ کرام رضی اللہ عنہم نے رسول اللہ ﷺ سے عرض کی کہ اہلِ کتاب اپنی ٹھوڑی کے بال (ڈاڑھی) کاٹتے ہیں اور ہونٹوں کے اوپر والے بال (مونچھیں) چھوڑتے ہیں، آپ ﷺ نے فرمایا:
+
+[ar]
+قُصُّوْا سِبَالَكُمْ وَوَفِّرُوْا عَثَانِيْنَكُمْ وَخَالِفُوْا أَهْلَ الْكِتَابْ
+
+[ref]
+شعب الإيمان للبيهقي [214/5] صحيح الجامع، رقم الحديث [7114]
+
+[ur]
+“تم اپنے ہونٹوں کے اوپر والے بال (مونچھوں) کو کاٹو اور اپنی ٹھوڑی کے بال (ڈاڑھی) کو بڑھاؤ اور اہلِ کتاب کی مخالفت کرو۔”
+
+[ur]
+ساتویں: جب رسول اللہ ﷺ نے کسریٰ کے دو قاصدوں کو دیکھا کہ ان دونوں نے اپنی ڈاڑھیاں کٹوائی ہوئی ہیں اور مونچھیں بڑھائی ہوئی ہیں تو آپ ﷺ نے ان کی طرف دیکھنا ناگوار خیال کیا، آپ ﷺ نے فرمایا:
+
+[ar]
+وَيْلَكُمَا مَنْ أَمَرَكُمَا بِهَذَا؟ قَالَا: أَمَرَنَا بِهَذَا رَبُّنَا يَعْنِيَانِ كِسْرَى، فَقَالَ ﷺ: وَلَكِنَّ رَبِّيْ أَمَرَنِيْ بِإِعْفَاءِ لِحْيَتِيْ وَقَصِّ شَارِبِيْ

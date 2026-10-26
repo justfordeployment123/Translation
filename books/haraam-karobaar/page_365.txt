@@ -1,0 +1,42 @@
+# title: Page 365
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 365 (PDF page 366), چونواں باب: ایک سودے میں دو سودے کرنا
+# The page starts with the new chapter (page 364 ends the previous one with a full turn) and ends with a full dialogue turn.
+# Print typo corrected: "چورانواں باب" -> "چونواں باب" (the chapter comes between «ترپنواں» and «پچپنواں», so it is the fifty-fourth;
+# «چورانواں» would be read "ninety-fourth"). The contents (book page 10) has the same slip.
+# «الحمد لله» is set in Arabic type inside Faisal's Urdu turn; it is kept in the Urdu block, in Urdu letters (الحمد للہ), as on the other pages.
+# The figures are written as words: "3300 پاؤنڈ" -> "تین ہزار تین سو پاؤنڈ", "100 پاؤنڈ" -> "سو پاؤنڈ", "3200" -> "تین ہزار دو سو",
+# "4000 پاؤنڈ" -> "چار ہزار پاؤنڈ", "1000 پاؤنڈ" -> "ایک ہزار پاؤنڈ". "ایک سو روپے" is printed in words (روپے, although the prices are in pounds).
+# The print's «اے، سی» (A.C.) is typed «اے سی», without the comma (abbreviation rule), twice.
+
+[h]
+چونواں باب: ایک سودے میں دو سودے کرنا
+
+[ur]
+محمد: فیصل صاحب میں ایئر کنڈیشنڈ خریدنا چاہتا ہوں، کیا آپ کے پاس ہے؟
+
+[ur]
+فیصل: ہاں، الحمد للہ۔
+
+[ur]
+محمد: کتنی قیمت ہے؟
+
+[ur]
+فیصل: ایئر کنڈیشنڈ کی قیمت تین ہزار تین سو پاؤنڈ ہے، لیکن آپ کو سو پاؤنڈ رعایت کر کے تین ہزار دو سو میں مل جائے گا۔
+
+[ur]
+محمد: میرے خیال میں آپ ایک سو روپے کم کر کے اپنے آپ کو خسارے میں تو نہیں ڈال رہے ہوں گے، یقیناً آپ کو کچھ نہ کچھ نفع تو ہو رہا ہوگا۔
+
+[ur]
+فیصل: آپ کی بات ٹھیک ہے، لیکن اگر اس سے زیادہ رعایت کی گنجائش ہوتی تو میں ضرور کرتا۔
+
+[ur]
+محمد: اس وقت میرے پاس اتنی رقم نہیں ہے۔
+
+[ur]
+فیصل: کوئی حرج نہیں، آپ اے سی لے جائیں، اگر نقد پیسے دیتے ہوئے تو تین ہزار دو سو پاؤنڈ اور اگر قسطوں میں دیتے ہوئے تو چار ہزار پاؤنڈ قیمت ہے۔
+
+[ur]
+محمد: میں ابھی ایک ہزار پاؤنڈ دے کر اے سی لے جاتا ہوں، گھر پہنچ کر فیصلہ کروں گا کہ پیسے نقد ادا کرنے ہیں یا قسطوں میں؟
+
+[ur]
+فیصل: ٹھیک ہے، مجھے منظور ہے۔

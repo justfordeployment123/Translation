@@ -1,0 +1,26 @@
+# title: Page 212
+# English edition of book page 212, built by build_english.py from en_src/ and page_212.txt
+
+[en]
+Ahmad: Allah alone is the Helper.
+
+[en]
+Teacher: My brother! There is no way out but to rid yourself of this worst of crimes. Pour it away, cleanse your provision of any mixture of the forbidden, and know that a little lawful earning is better than a lot of forbidden earning.
+
+[en]
+Allah the Exalted says:
+
+[ar]
+قُلْ لَا يَسْتَوِي الْخَبِيثُ وَالطَّيِّبُ وَلَوْ أَعْجَبَكَ كَثْرَةُ الْخَبِيثِ ۚ فَاتَّقُوا اللَّهَ يَا أُولِي الْأَلْبَابْ
+
+[ref]
+[المائدة: 100]
+
+[en]
+Say, “Not equal are the evil and the good, although the abundance of evil might impress you.”
+
+[en]
+I repent to Allah, and I will get rid of it right now, this very moment. Yasir, put all this alcohol in a box and put it in my car.
+
+[en]
+Just then a man came in and said: Do you have beer?

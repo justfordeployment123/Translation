@@ -1,0 +1,16 @@
+# English source for book page 140
+
+[en]
+They call him a transgressor and deficient in faith, as long as he does not consider the sin lawful. Allah says:
+
+[en]
+{{QEN 4:48}}
+
+[en]
+And He says:
+
+[en]
+{{QEN 39:53}}
+
+[en]
+If a person dies upon some sin other than shirk, and he did not consider that sin lawful, his affair rests with Allah: if He wills He punishes him, or if He wills He forgives him. This belief is opposed by the misguided sects that declare the one who commits a major sin a disbeliever, or say that he is in a position between two positions (for this they use the term manzilah bayn al-manzilatayn, “a position between the two positions”).

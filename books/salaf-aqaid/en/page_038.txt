@@ -1,0 +1,29 @@
+# title: Page 38
+# English edition of book page 38, built by build_english.py from en_src/ and page_038.txt
+
+[en]
+Allah the Exalted mentioned obedience to Himself and to the noble Messenger, peace be upon him, together, and said:
+
+[ar]
+وَمَنْ يُطِعِ اللَّهَ وَالرَّسُولَ فَأُولَٰئِكَ مَعَ الَّذِينَ أَنْعَمَ اللَّهُ عَلَيْهِمْ مِنَ النَّبِيِّينَ وَالصِّدِّيقِينَ وَالشُّهَدَاءِ وَالصَّالِحِينَ ۚ وَحَسُنَ أُولَٰئِكَ رَفِيقَا
+
+[en]
+And whoever obeys Allah and the Messenger - those will be with the ones upon whom Allah has bestowed favor of the prophets, the steadfast affirmers of truth, the martyrs and the righteous. And excellent are those as companions.
+
+[ref]
+النسآء 69:4.
+
+[en]
+Allah the Exalted declared obedience to the noble Messenger, peace be upon him, to be obedience to Himself. He says:
+
+[ar]
+مَنْ يُطِعِ الرَّسُولَ فَقَدْ أَطَاعَ اللَّهَ ۖ وَمَنْ تَوَلَّىٰ فَمَا أَرْسَلْنَاكَ عَلَيْهِمْ حَفِيظَا
+
+[en]
+He who obeys the Messenger has obeyed Allah; but those who turn away - We have not sent you over them as a guardian.
+
+[ref]
+النسآء 80:4.
+
+[en]
+Allah the Exalted also told us that failing to obey the Messenger of Allah, peace be upon him, causes deeds to be lost. He said:

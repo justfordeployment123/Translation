@@ -1,0 +1,38 @@
+# title: Page 283
+# English edition of book page 283, built by build_english.py from en_src/ and page_283.txt
+
+[hen]
+Chapter Forty-One: Hiring Out a Bull for Mating
+
+[en]
+Abu Jum'a: Bahnasi! Is your bull in the cattle yard?
+
+[en]
+Bahnasi: Yes, it is tied up at such-and-such a spot in the cattle yard.
+
+[en]
+Abu Jum'a: We want to have our cow mated.
+
+[en]
+Bahnasi: Have her mated whenever you like.
+
+[en]
+Abu Jum'a: Bahnasi, my friend! Yesterday I took the cow to such-and-such an old man's cattle yard, and he asked me for ten dirhams.
+
+[en]
+Bahnasi: That is unjust. In their dealings people have no pity at all on others. Teacher! What is your view on this?
+
+[en]
+Teacher: On what?
+
+[en]
+Abu Jum'a: When we have our animals made pregnant, the owners of the bulls charge a heavy price for it.
+
+[en]
+Teacher: Is money really charged for it?
+
+[en]
+Bahnasi: Yes. Is there anything wrong in that?
+
+[en]
+Teacher: Yes, this is a forbidden and invalid sale. Technically it is called bay' 'asb al-fahl (selling a bull's mating).

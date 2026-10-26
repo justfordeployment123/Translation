@@ -1,0 +1,14 @@
+# title: Page 343
+# English edition of book page 343, built by build_english.py from en_src/ and page_343.txt
+
+[en]
+In other hadiths, such women have been cursed.
+
+[ref]
+فتاوىٰ المرأة [ص: 171]
+
+[en]
+Now, finally, understand this well too: the wage for a forbidden thing and its price are forbidden as well.
+
+[en]
+Barber: May Allah reward you.

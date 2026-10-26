@@ -1,0 +1,26 @@
+# title: Page 46
+# English edition of book page 46, built by build_english.py from en_src/ and page_046.txt
+
+[hen]
+Chapter Two: Buying and Selling Fruit Before It Ripens
+
+[en]
+The Shaykh said goodbye to Abu Shawqi and then began walking through the market with his student, to see any other dealing of the Muslims in the market that clashed with the Quran and the Sunnah. Meanwhile, they saw two men in the market arguing with each other. They were talking in loud voices. One was saying to the other: Fear Allah! This is forbidden for you. You and I made our deal for the wheat four months ago, and I have already paid you its full price. The other was saying: You are wronging me over the price. If I had not been in need and in difficulty, I would never have made the deal with you. This is sheer injustice.
+
+[en]
+Shaykh Salih went over to the two of them.
+
+[en]
+Teacher: As-salamu alaikum wa rahmatullahi wa barakatuh.
+
+[en]
+Trader: Wa alaikum as-salam wa rahmatullahi wa barakatuh.
+
+[en]
+Teacher: Both of you, speak calmly. By Allah's command, your matter will be resolved. What are your names?
+
+[en]
+First man: Abu Fahd.
+
+[en]
+Second man: Abu Ali.

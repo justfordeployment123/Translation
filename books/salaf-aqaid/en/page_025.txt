@@ -1,0 +1,11 @@
+# title: Page 25
+# English edition of book page 25, built by build_english.py from en_src/ and page_025.txt
+
+[en]
+I thank the learned author for writing this book in recognition of the importance of this sensitive subject. I pray to Allah the Exalted that He grant him a good reward, bless his work, protect the creed of the Ummah, and grant the scholars the ability to lead the steps of this Ummah, in following the Righteous Predecessors, onto the course that is pleasing to Allah.
+
+[ar]
+وَآخِرُ دَعْوَانَا أَنِ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينْ
+
+[fen]
+Salih ibn Abd al-Aziz ibn Muhammad Al ash-Shaykh, Minister of Endowments and Religious Affairs, Saudi Arabia, Jumada al-Ula 1421 AH

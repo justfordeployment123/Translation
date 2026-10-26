@@ -61,6 +61,8 @@ def waqf(text):
     if not match:
         return text
     marks, alif = match.groups()
+    if not alif and text[: match.start()].endswith(("ا", "ى")):  # a vowel written after a long alif ("فَلاَ"):
+        return text[: match.start()]  # the alif is already the long vowel, so the mark is just dropped
     if alif:
         return text[: match.start()] + marks.replace("ً", "َ") + alif
     if not VOWELS.search(marks):

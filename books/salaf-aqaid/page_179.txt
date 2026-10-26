@@ -1,0 +1,35 @@
+# title: Page 179
+# Salaf-e-Saliheen ke Aqaid o Nazariyat, book page 179 (PDF page 176), ساتواں اصول: احکام و مسائل اخذ کرنے کے ذرائع اور طریق استدلال
+# The running tab «ساتواں اصول» and the title «احکام و مسائل اخذ کرنے کے ذرائع اور طریق استدلال» are one heading.
+# Page 178 ends with a full sentence; the seventh principle starts on this page.
+# Al-Ahzab 33:36 is printed in full; filled from the official text.
+# The hadith at the bottom of the page continues on page 180 ("وَسُنَّةَ رَسُولِهِ"); the Arabic is kept whole here, with its
+# Urdu translation starting on page 180 and staying there, followed by its footnote ① ("الموطأ للإمام مالك، حديث: 1395."), printed
+# there, whose marker is after the translation.
+# The hadith is Muwatta Malik 1625 in the hadith-api numbering (the book cites 1395), filled in three excerpts so it pauses at the book's comma
+# and at the colon after «بِهِمَا», which introduces the two things (the source has no pause at either).
+# Proofreader please check: the book prints "كِتَابَ اللَّهِ وَسُنَّةَ رَسُولِهِ"; al-Muwatta (Malik 1625) has "وَسُنَّةَ نَبِيِّهِ",
+# and no excerpt gives "رَسُولِهِ", so the official wording is read.
+
+[h]
+ساتواں اصول: احکام و مسائل اخذ کرنے کے ذرائع اور طریق استدلال
+
+[ur]
+سلف صالحین، اہل سنت والجماعت کے نزدیک احکام و مسائل اخذ کرنے اور استدلال کا طریقہ کتاب و سنت کا کامل اتباع ہے۔ ارشادِ باری تعالیٰ ہے:
+
+[ar]
+# quran 33:36 from وَمَا كَانَ لِمُؤْمِنٍ to مُبِينًا
+وَمَا كَانَ لِمُؤْمِنٍ وَلَا مُؤْمِنَةٍ إِذَا قَضَى اللَّهُ وَرَسُولُهُ أَمْرًا أَنْ يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ ۗ وَمَنْ يَعْصِ اللَّهَ وَرَسُولَهُ فَقَدْ ضَلَّ ضَلَالًا مُبِينَا
+
+[ur]
+“اور کسی مومن مرد اور کسی مومن عورت کو یہ حق نہیں کہ جب اللہ اور اس کا رسول کسی معاملے کا فیصلہ کر دیں تو ان کے لیے اپنے معاملے میں ان کا کوئی اختیار (باقی) رہے اور جو اللہ اور اس کے رسول کی نافرمانی کرے تو وہ یقیناً کھلم کھلا گمراہ ہو گیا۔”
+
+[ref]
+الأحزاب 36:33.
+
+[ur]
+اور ارشادِ نبوی ہے:
+
+[ar]
+# hadith {{H malik:1625 from تَرَكْتُ to أَمْرَيْنِ}}، {{H malik:1625 from لَنْ تَضِلُّوا to بِهِمَا}}: {{H malik:1625 from كِتَابَ to نَبِيِّهِ}}
+تَرَكْتُ فِيكُمْ أَمْرَيْنْ، لَنْ تَضِلُّوا مَا تَمَسَّكْتُمْ بِهِمَا: كِتَابَ اللَّهِ وَسُنَّةَ نَبِيِّهْ

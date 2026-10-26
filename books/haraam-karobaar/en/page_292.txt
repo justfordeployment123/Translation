@@ -1,0 +1,17 @@
+# title: Page 292
+# English edition of book page 292, built by build_english.py from en_src/ and page_292.txt
+
+[en]
+Woe to those who give less (than due), Who, when they take a measure from people, take in full. But if they give by measure or by weight to them, they cause loss.
+
+[en]
+Third: Some people agree with their employees at the start on rules and regulations, salary, work and so on, but later do not live up to it. Sometimes they change the rules; sometimes they shift things up and down in matters of salary and work, contrary to what was agreed with the employees. And these things become even more dangerous when the employer is a Muslim and the employee a non-Muslim. Because of the employer's behaviour, non-Muslim employees are put off both that person and Islam.
+
+[en]
+Fourth: Some people make their employees do a great deal of extra work that is not part of their duty, and do not pay them extra for it.
+
+[en]
+Fifth: Some people put off paying wages and use delaying tactics, so that in the end, after asking again and again, the worker gives up on it.
+
+[en]
+Whatever form of injustice towards workers is adopted, it is blameworthy, and it has deep effects on the worker's life: he is troubled in mind, his household expenses are not met, and his wife and children go without provision. Those who wrong their workers and employees should fear the severe punishment and the seizing grip of Allah the Exalted.

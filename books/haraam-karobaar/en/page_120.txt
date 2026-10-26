@@ -1,0 +1,38 @@
+# title: Page 120
+# English edition of book page 120, built by build_english.py from en_src/ and page_120.txt
+
+[en]
+Man: He said jokingly: Hold on, my friend, let us hear what their scholar has to say as well.
+
+[en]
+Ammar: This is our teacher. The man sat down next to the teacher and said mockingly: As-salamu alaikum.
+
+[en]
+Teacher: Wa alaikum as-salam.
+
+[en]
+Man: Shaykh! What do you think about this deal?
+
+[en]
+Teacher: First tell me, how are you? Is all well?
+
+[en]
+Man: Praise be to Allah! All is well.
+
+[en]
+Teacher: May Allah the Exalted keep you in His protection and care, put blessing in your wealth and your children, and save you from every kind of hardship.
+
+[en]
+The man was greatly moved by the Shaykh's good manners and, ashamed of his own behaviour, said: Amin, may Allah bless you too. Tell us the ruling of the Shariah on this matter.
+
+[en]
+Teacher: The way you have just settled this currency deal is impermissible. According to the Quran and the Sunnah, such a sale is invalid. The noble Prophet, peace be upon him, said:
+
+[ar]
+الذَّهَبُ بِالذَّهَبْ، وَالْفِضَّةُ بِالْفِضَّةْ، وَالْبُرُّ بِالْبُرّ، وَالشَّعِيرُ بِالشَّعِيرْ، وَالتَّمْرُ بِالتَّمْرْ، وَالْمِلْحُ بِالْمِلْحِ مِثْلاً بِمِثْلٍ سَوَاءً بِسَوَاءْ، يَدًا بِيَدْ، فَإِذَا اخْتَلَفَتْ هَذِهِ الأَصْنَافُ فَبِيعُوا كَيْفَ شِئْتُمْ، إِذَا كَانَ يَدًا بِيَدْ
+
+[ref]
+صحيح مسلم، رقم الحديث [1587]
+
+[en]
+“Gold for gold, silver for silver, wheat for wheat, barley for barley, dates for dates, salt for salt: the buying and selling must be equal and in cash. But when the kinds of these things differ, sell as you wish, as long as it is hand to hand (in cash).”

@@ -1,0 +1,46 @@
+# title: Page 58
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 58 (PDF page 59), تیسرا باب: قبضے میں لینے سے پہلے چیز آگے فروخت کرنا
+# The first lines of the page ("دوسرے تاجر کو فروخت کر دیتا ہے ... اجازت نہ دینا۔") end a sentence that is on page 57, where it starts; the teacher's turn continues here.
+# The page ends with a full sentence; page 59 starts with a new dialogue turn.
+# Yusuf 12:92 is quoted in part ("لَا تَثْرِيبَ ... يَغْفِرُ اللَّهُ لَكُمْ"); it is filled from the official text (fill_quran.py). The translation printed covers the whole ayah.
+# The teacher's turn starts straight with the verse, so its [ur] block holds only the name.
+
+[ur]
+ابوراشد! پہلے تم ان لوگوں کے گھروں سے چاول اٹھا کر اپنے گودام میں منتقل کرو، اس کے بعد آگے فروخت کرنا۔
+
+[ur]
+ابوراشد: آؤ لوگو!
+
+[ur]
+سب لوگ: بالکل، جیسے اللہ کا دین کہتا ہے، ہم ویسا ہی کریں گے۔ شیخ! اللہ آپ کو جزا دے اور ہم معذرت کرتے ہیں کہ ہم آپ سے ادب سے پیش نہیں آئے۔
+
+[ur]
+استاد:
+
+[ar]
+# quran 12:92 from لَا تَثْرِيبَ to اللَّهُ لَكُمْ
+لَا تَثْرِيبَ عَلَيْكُمُ الْيَوْمَ ۖ يَغْفِرُ اللَّهُ لَكُمْ
+
+[ref]
+[يوسف: 92]
+
+[ur]
+“آج تم پر کوئی ملامت نہیں، اللہ تمھیں بخشے اور وہ رحم کرنے والوں میں سب سے زیادہ رحم کرنے والا ہے۔”
+
+[ur]
+لیکن ایک چیز ابھی رہ گئی ہے۔
+
+[ur]
+سب لوگ: شیخ! وہ کیا ہے؟
+
+[ur]
+استاد: آیندہ اگر کسی کو ایسا کرتے دیکھو تو اسے نصیحت کرنا۔
+
+[ur]
+سب لوگ: ان شاء اللہ، ہم وعدہ کرتے ہیں۔
+
+[ur]
+سب نے شیخ اور ان کے شاگرد کو السلام علیکم ورحمۃ اللہ کہتے ہوئے الوداع کہا۔
+
+[ur]
+غریب آؤ، مخیمر جلدی کرو، حمودہ اور سعد کہاں ہیں؟ سعد جلدی کرو عیاد! جلدی کرو، تاکہ ہم اللہ اور اس کے رسول ﷺ کی مخالفت والے اس فعل سے جلد چھٹکارا حاصل کریں۔

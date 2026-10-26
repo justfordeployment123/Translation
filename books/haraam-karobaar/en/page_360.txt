@@ -1,0 +1,41 @@
+# title: Page 360
+# English edition of book page 360, built by build_english.py from en_src/ and page_360.txt
+
+[hen]
+Chapter Fifty-Three: Cheating When Acting as an Agent
+
+[en]
+The teacher was standing there talking when a customer came in to buy a freezer.
+
+[en]
+Customer: As-salamu alaikum wa rahmatullah.
+
+[en]
+Everyone: Wa alaikum as-salam wa rahmatullah.
+
+[en]
+Customer: I want to buy a freezer.
+
+[en]
+Faisal: Have a look at the stock we have. If you do not like any of them, we will order a freezer of your choice for you.
+
+[en]
+Customer: May Allah reward you.
+
+[en]
+(The man began looking at the freezers. He chose a fourteen-foot freezer with two doors.)
+
+[en]
+Customer: Faisal! What is its price?
+
+[en]
+Faisal: Do not worry, it will be reasonable.
+
+[en]
+Customer: Just tell me, will you?
+
+[en]
+Faisal: Its price is two thousand five hundred pounds.
+
+[en]
+Customer: What is the price for me? I am an old customer of yours.

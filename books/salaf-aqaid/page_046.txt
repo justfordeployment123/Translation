@@ -1,0 +1,37 @@
+# title: Page 46
+# Salaf-e-Saliheen ke Aqaid o Nazariyat, book page 46 (PDF page 43), اہل سنت والجماعت
+# The first line of the page ("فِي الْإِسْلَامِ سُنَّةً سَيِّئَةً ......") ends the Arabic of hadith 2, which is on page 45, where it starts.
+# Its Urdu translation and footnote ① start on this page and are typed here; the translation ends with dots in the print («رائج کیا......»),
+# typed as printed (the hadith goes on).
+# The bold lead-ins «سنت کی اصطلاحی تعریف:» and «جماعت کی لغوی تعریف:» run on in the same line as their paragraphs, so they stay in the [ur] blocks.
+# Hadith 3 (al-Irbad ibn Sariyah; the book cites Abu Dawud 4607, al-Sunnah): Abu Dawud 4607 has «وَسُنَّةِ الْخُلَفَاءِ الْمَهْدِيِّينَ الرَّاشِدِينَ»,
+# where the book prints «الرَّاشِدِينَ الْمَهْدِيِّينَ», so the text is joined from Abu Dawud 4607 («فَإِنَّهُ مَنْ يَعِشْ ... اخْتِلَافًا كَثِيرًا») and
+# Ibn Majah 42, the same hadith of al-Irbad («فَعَلَيْكُمْ بِسُنَّتِي وَسُنَّةِ الْخُلَفَاءِ الرَّاشِدِينَ الْمَهْدِيِّينَ»), pausing at the book's comma.
+# Proofreader please check: hadith 3 is joined from two reports of al-Irbad's hadith (Abu Dawud 4607 and Ibn Majah 42), so that it reads as printed.
+# The Arabic «جَمَعْتُهُ فَاجْتَمَعَ» is a term inside an Urdu sentence: typed as printed inside its [ur] block, stopping form on the last word.
+# The last sentence continues on page 47 ("یکجا کیا تو وہ اکٹھا ہو گیا۔"); it is kept whole here.
+
+[ur]
+“جس نے اسلام میں کوئی اچھا چلن جاری کیا اس کے لیے اس کا اجر ہے اور ان لوگوں کا بھی اجر ہے جو اس کے بعد اس طریقے پر عمل پیرا ہوں گے بنا اس کے کہ ان لوگوں کے اجر میں کسی طرح کی کوئی کمی آئے اور جس نے اسلام میں کوئی برا طریقہ رائج کیا......”
+
+[ref]
+صحيح مسلم، الزكاة، حديث: 1017.
+
+[ur]
+سنت کی اصطلاحی تعریف: اصطلاح میں سنت سے مراد وہ طرز اور طریقہ ہے جس پر نبی کریم ﷺ اور آپ کے اصحاب علمی، اعتقادی، قولی، عملی اور تقریری لحاظ سے قائم تھے۔ تقریری سے مراد وہ قول اور فعل جس پر آپ ﷺ لوگوں کو برقرار رکھتے تھے۔ عبادات اور اعتقادات کی سنتوں پر بھی سنت کا لفظ بولا جاتا ہے۔ سنت کے بالمقابل بدعت کا لفظ آتا ہے۔
+
+[ur]
+نبی اکرم ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H abudawud:4607 from فَإِنَّهُ مَنْ يَعِشْ to كَثِيرًا}}، {{H ibnmajah:42 from فَعَلَيْكُمْ بِسُنَّتِي to الْمَهْدِيِّينَ}}
+فَإِنَّهُ مَنْ يَعِشْ مِنْكُمْ بَعْدِي فَسَيَرَى اخْتِلاَفًا كَثِيرَا، فَعَلَيْكُمْ بِسُنَّتِي وَسُنَّةِ الْخُلَفَاءِ الرَّاشِدِينَ الْمَهْدِيِّينْ
+
+[ur]
+“تم میں سے جو شخص میرے بعد زندہ رہا وہ دراصل بہت اختلافات دیکھے گا، چنانچہ تم میری سنت اور ہدایت یافتہ خلفائے راشدین کی سنت پر قائم رہنا۔”
+
+[ref]
+سنن أبي داود، السنة، حديث: 4607.
+
+[ur]
+جماعت کی لغوی تعریف: جماعت کا لفظ جمع سے ماخوذ ہے جس کے معنی ہیں کسی چیز کو اکٹھا کرنا، باہم ملانا، جوڑنا۔ عربی میں کہتے ہیں جَمَعْتُهُ فَاجْتَمَعْ، یعنی میں نے اسے یکجا کیا تو وہ اکٹھا ہو گیا۔

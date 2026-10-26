@@ -1,0 +1,32 @@
+# title: Page 161
+# English edition of book page 161, built by build_english.py from en_src/ and page_161.txt
+
+[hen]
+Chapter Nineteen: Adulteration in the Packing of Fruit
+
+[en]
+Everyone was strolling through the garden, picking and eating whatever fruit they liked as they went. Mustafa was pointing out the trees and plants, telling them that this was such-and-such a tree and that was such-and-such a plant.
+
+[en]
+As they walked, they passed by some workers who were packing fruit into boxes and crates. The teacher was busy talking with Mustafa, but when Ammar looked closely at the packing of the fruit, he discovered that the workers were also putting grass into the crates.
+
+[en]
+Ammar: Teacher! Just look at this: they are putting grass in along with the fruit as they pack it!
+
+[en]
+Teacher: (Speaking to Mustafa) Why are you putting grass at the bottom of the crate?
+
+[en]
+Mustafa: So that the fruit does not spoil from underneath.
+
+[en]
+Just then a worker named Hamdan came up, saying:
+
+[en]
+Hamdan: Teacher! There is another reason for it too, isn't there?
+
+[en]
+Teacher: What is that?
+
+[en]
+Hamdan: We are also putting grass in so that the crate weighs more.

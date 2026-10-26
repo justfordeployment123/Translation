@@ -1,0 +1,5 @@
+# title: Page 486
+# English edition of book page 486, built by build_english.py from en_src/ and page_486.txt
+
+[en]
+Teacher: Did you not hear these words of Fabienne: that if Allah's mercy had not been upon me, I would have wasted my whole life in this work, and I would have fallen from the rank of humanity and become nothing but an animal, which has no aim before it except fulfilling its desires, and in whose life there is neither rule nor principle!

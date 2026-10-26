@@ -1,0 +1,23 @@
+# title: Page 395
+# English edition of book page 395, built by build_english.py from en_src/ and page_395.txt
+
+[hen]
+Chapter Sixty-One: Buying and Selling Pictures of Living Things
+
+[en]
+(The teacher went to the back of the bookshop to choose pens and pencils. There, pictures of people, animals and other living things had been hung along the wall. Looking at them closely, the teacher turned to the manager.)
+
+[en]
+Teacher: In my view, it should be made compulsory for every businessman to learn the Islamic principles of trade before he starts a business, so that once he has started it he can protect himself and his family from forbidden provision, and always buy and sell only those things that are not against the Islamic Shariah.
+
+[en]
+Manager: Teacher! You have not seen something else forbidden here, have you?
+
+[en]
+Teacher: Why have these pictures been hung up?
+
+[en]
+Manager: Are these forbidden too?
+
+[en]
+Teacher: Come, as with the earlier questions, let us take guidance from the Shariah on this question too: what instructions have been given to us in the Quran and hadith about pictures?

@@ -1,0 +1,63 @@
+# title: Page 531
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 531 (PDF page 532), اٹھاسیواں باب: بھیک مانگنا
+# The page starts with a new paragraph (page 530 ends with the full translation of a hadith).
+# Hadith 1 (Ibn Umar): Muslim 2396 (the book cites Bukhari [1474] and Muslim [1040]), filled whole.
+# Proofreader please check: the book prints «حَتَّى يَلْقَى اللَّهَ تَعَالَى»; Muslim 2396 has no «تَعَالَى» and no report has it, so it is not read.
+# Hadith 2 (Ibn Umar, the book cites Bukhari [1429] and Muslim [1033]): joined from two reports of the same hadith (Malik from Nafi'):
+# «ذَكَرَ الصَّدَقَةَ وَالتَّعَفُّفَ» from Bukhari 1429 (its «وَذَكَرَ» without the «وَ», "~"), and «عَنِ الْمَسْأَلَةِ، الْيَدُ الْعُلْيَا ... وَالسُّفْلَى هِيَ السَّائِلَةُ»
+# from Muwatta Malik 1848, which has the book's «هِيَ» twice; Malik 1848 is the Prophet's own words (marfu': «أَنَّ رَسُولَ اللَّهِ ﷺ قَالَ
+# وَهُوَ عَلَى الْمِنْبَرِ ...»), the same report as Bukhari's second chain (Abdullah bin Maslamah from Malik). Pauses at the book's commas.
+# Hadith 3 (Abu Hurayra): Muslim 2399 (sunnah.com numbering of Muslim 1041), in two excerpts.
+# Proofreader please check: the book prints «مَنْ سَأَلَ النَّاسَ تَكَثُّرًا» without the «أَمْوَالَهُمْ» of Muslim 2399 («مَنْ سَأَلَ النَّاسَ أَمْوَالَهُمْ تَكَثُّرًا»);
+# the excerpts follow the book and leave it out (" cont" after «النَّاسَ»).
+# Hadith 4 (Samurah): the book cites Abu Dawud [1639], whose wording differs («الْمَسَائِلُ كُدُوحٌ ...»); the book's words are Tirmidhi 681
+# (Samurah), filled from there in two excerpts so it pauses at the book's comma. Its Urdu translation is on page 532 and stays there.
+
+[ur]
+حضرت عبداللہ بن عمر رضی اللہ عنہما سے مروی ہے کہ نبی کریم ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H muslim:2396 from لاَ تَزَالُ to لَحْمٍ}}
+لاَ تَزَالُ الْمَسْأَلَةُ بِأَحَدِكُمْ حَتَّى يَلْقَى اللَّهَ وَلَيْسَ فِي وَجْهِهِ مُزْعَةُ لَحْمْ
+
+[ref]
+صحيح البخاري، رقم الحديث [1474] صحيح مسلم، رقم الحديث [1040]
+
+[ur]
+“تم میں سے کوئی مسلسل مانگتا رہتا ہے، پھر وہ اللہ تعالیٰ کو اس حال میں ملے گا کہ اس کے چہرے پر گوشت کا کوئی ٹکڑا نہ ہوگا۔”
+
+[ur]
+رسول اللہ ﷺ نے منبر پر کھڑے ہو کر ارشاد فرمایا:
+
+[ar]
+# hadith {{H bukhari:1429 from ~ذَكَرَ to وَالتَّعَفُّفَ cont}} {{H malik:1848 from عَنِ الْمَسْأَلَةِ to الْمَسْأَلَةِ}}، {{H malik:1848 from الْيَدُ الْعُلْيَا to السُّفْلَى}}، {{H malik:1848 from وَالْيَدُ to الْمُنْفِقَةُ}}، {{H malik:1848 from وَالسُّفْلَى to السَّائِلَةُ}}
+ذَكَرَ الصَّدَقَةَ وَالتَّعَفُّفَ عَنِ الْمَسْأَلَةْ، الْيَدُ الْعُلْيَا خَيْرٌ مِنَ الْيَدِ السُّفْلَى، وَالْيَدُ الْعُلْيَا هِيَ الْمُنْفِقَةْ، وَالسُّفْلَى هِيَ السَّائِلَةْ
+
+[ref]
+صحيح البخاري، رقم الحديث [1429] صحيح مسلم، رقم الحديث [1033]
+
+[ur]
+“آپ نے صدقے کا ذکر کیا اور سوال کرنے سے بچنے کا ذکر کیا، آپ ﷺ نے فرمایا: اوپر والا ہاتھ نیچے والے ہاتھ سے بہتر ہے اور اوپر والا ہاتھ خرچ کرنے والا ہے، جب کہ نیچے والا ہاتھ مانگنے والا ہے۔”
+
+[ur]
+حضرت ابو ہریرہ رضی اللہ عنہ سے مروی ہے کہ رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H muslim:2399 from مَنْ سَأَلَ to النَّاسَ cont}} {{H muslim:2399 from تَكَثُّرًا to لِيَسْتَكْثِرْ}}
+مَنْ سَأَلَ النَّاسَ تَكَثُّرًا فَإِنَّمَا يَسْأَلُ جَمْرًا فَلْيَسْتَقِلَّ أَوْ لِيَسْتَكْثِرْ
+
+[ref]
+صحيح مسلم، رقم الحديث [1041]
+
+[ur]
+“جو شخص اپنا مال بڑھانے کے لیے لوگوں سے مانگتا ہے تو وہ صرف انگارے مانگتا ہے چاہے وہ کم لے یا زیادہ لے۔”
+
+[ur]
+حضرت سمرہ بن جندب رضی اللہ عنہ فرماتے ہیں کہ رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H tirmidhi:681 from إِنَّ الْمَسْأَلَةَ to سُلْطَانًا}}، {{H tirmidhi:681 from أَوْ فِي to مِنْهُ}}
+إِنَّ الْمَسْأَلَةَ كَدٌّ يَكُدُّ بِهَا الرَّجُلُ وَجْهَهُ إِلاَّ أَنْ يَسْأَلَ الرَّجُلُ سُلْطَانَا، أَوْ فِي أَمْرٍ لاَ بُدَّ مِنْهْ
+
+[ref]
+سنن أبي داود، رقم الحديث [1639]

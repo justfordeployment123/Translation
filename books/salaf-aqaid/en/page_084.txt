@@ -1,0 +1,26 @@
+# title: Page 84
+# English edition of book page 84, built by build_english.py from en_src/ and page_084.txt
+
+[en]
+So Ahl as-Sunnah wal-Jama'ah believe that the angels exist. They are a worshipping creation of Allah, whom He created from light. They are beings that can be perceived; they are neither abstract notions nor hidden forces. They are a creation of Allah that dwells in the heavens.
+
+[en]
+The angels are immense in form. Some of them have two wings, some three, some four, and some more than four. It is reported in narrations that Jibril, peace be upon him, has six hundred wings.
+
+[en]
+The angels are the armies of Allah. By the permission of Allah, and as circumstances require, they are able to take on the forms and bodily shapes of various things. They are near to Allah and honoured by Him. They are not described with the qualities of male or female. Nor are they described with the human attributes of hunger, thirst, marriage and reproduction; they are free of these attributes.
+
+[en]
+The angels neither eat nor drink. Glorifying Allah (tasbih) and declaring that there is no god but Allah (tahlil) are their food and drink. They do not grow weary; they neither slacken nor tire. They are, however, described with the qualities of beauty and grace, modesty and order.
+
+[en]
+The angels differ from human beings in that obedience and submission are part of their nature. They do not know disobedience. Allah the Exalted created them to worship Him and to carry out His commands. He says:
+
+[ar]
+وَقَالُوا اتَّخَذَ الرَّحْمَٰنُ وَلَدًا ۗ سُبْحَانَهُ ۚ بَلْ عِبَادٌ مُكْرَمُونْ
+
+[ar]
+لَا يَسْبِقُونَهُ بِالْقَوْلِ وَهُمْ بِأَمْرِهِ يَعْمَلُونْ
+
+[ar]
+يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يَشْفَعُونَ إِلَّا لِمَنِ ارْتَضَىٰ وَهُمْ مِنْ خَشْيَتِهِ مُشْفِقُونْ

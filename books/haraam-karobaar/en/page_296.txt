@@ -1,0 +1,32 @@
+# title: Page 296
+# English edition of book page 296, built by build_english.py from en_src/ and page_296.txt
+
+[en]
+Teacher: Yes, the evidence for it is that the Messenger of Allah, peace be upon him, said:
+
+[ar]
+الذَّهَبُ بِالذَّهَبِ مِثْلاً بِمِثْلْ، وَالْفِضَّةُ بِالْفِضَّةِ مِثْلاً بِمِثْلْ، وَالتَّمْرُ بِالتَّمْرِ مِثْلاً بِمِثْلْ، وَالْبُرُّ بِالْبُرِّ مِثْلاً بِمِثْلْ، وَالْمِلْحُ بِالْمِلْحِ مِثْلاً بِمِثْلْ، وَالشَّعِيرُ بِالشَّعِيرِ مِثْلاً بِمِثْلْ، فَمَنْ زَادَ أَوِ ازْدَادَ فَقَدْ أَرْبَى، بِيعُوا الذَّهَبَ بِالْفِضَّةِ كَيْفَ شِئْتُمْ، يَدًا بِيَدْ، وَبِيعُوا الشَّعِيرَ بِالتَّمْرِ كَيْفَ شِئْتُمْ، يَدًا بِيَدْ
+
+[ref]
+صحيح مسلم، رقم الحديث [1587]
+
+[en]
+“Gold for gold, silver for silver, wheat for wheat, barley for barley, dates for dates, salt for salt: buy and sell them like for like and hand to hand. Whoever gives more or asks for more has dealt in interest. Sell gold for silver however you wish, hand to hand, and sell barley for dates however you wish, hand to hand.”
+
+[en]
+Bahnasi: Teacher, but rice is not mentioned in this hadith?
+
+[en]
+Teacher: Yes, it is true that rice is not mentioned in this hadith, but the position of the majority of scholars is that in such a case interest enters everything that shares a common feature with the things mentioned in the hadith, and there are two grounds for this shared feature:
+
+[en]
+First: The ground of being a price.
+
+[en]
+Second: The ground of being measured and eaten.
+
+[en]
+Rice shares with wheat, barley, dates and salt in being measured and eaten, which is why your deal is invalid.
+
+[en]
+Abu Jum'a: If I want to take Kernel rice in exchange for Super rice, what is the way to do it that the Shariah allows?

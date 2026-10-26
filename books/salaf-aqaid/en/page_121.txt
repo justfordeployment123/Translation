@@ -1,0 +1,50 @@
+# title: Page 121
+# English edition of book page 121, built by build_english.py from en_src/ and page_121.txt
+
+[en]
+He says:
+
+[ar]
+إِنْ تَكْفُرُوا فَإِنَّ اللَّهَ غَنِيٌّ عَنْكُمْ ۖ وَلَا يَرْضَىٰ لِعِبَادِهِ الْكُفْرَ ۖ وَإِنْ تَشْكُرُوا يَرْضَهُ لَكُمْ ۗ وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ
+
+[en]
+If you disbelieve - indeed, Allah is Free from need of you. And He does not approve for His servants disbelief. And if you are grateful, He approves it for you; and no bearer of burdens will bear the burden of another.
+
+[ref]
+الزمر 7:39.
+
+[en]
+Whoever He leads astray has no argument and no excuse, because He sent the Messengers so that no one could have an argument. He attributed a person's deeds to that person himself and made them his own earning. He has charged a human being only with what he is able to bear. Allah the Exalted says:
+
+[ar]
+الْيَوْمَ تُجْزَىٰ كُلُّ نَفْسٍ بِمَا كَسَبَتْ ۚ لَا ظُلْمَ الْيَوْمْ
+
+[en]
+This Day every soul will be recompensed for what it earned. No injustice today!
+
+[ref]
+المؤمن 17:40.
+
+[en]
+And He says:
+
+[ar]
+إِنَّا هَدَيْنَاهُ السَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورَا
+
+[en]
+Indeed, We guided him to the way, be he grateful or be he ungrateful.
+
+[ref]
+الدّهر 3:76.
+
+[en]
+He also says:
+
+[ar]
+لِئَلَّا يَكُونَ لِلنَّاسِ عَلَى اللَّهِ حُجَّةٌ بَعْدَ الرُّسُلْ
+
+[en]
+So that mankind will have no argument against Allah after the messengers.
+
+[ref]
+النسآء 165:4.

@@ -1,0 +1,33 @@
+# title: Page 435
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 435 (PDF page 436), اڑسٹھواں باب: مانع حمل ادویات کی خرید و فروخت
+# The page starts with the new chapter (page 434 ends the previous one).
+# Hadith: Ibn Majah 2340 (Ubadah bin as-Samit), as the book cites ("سنن ابن ماجه، رقم الحديث [2340] صحيح الجامع، رقم الحديث [7517]").
+# The paragraph «اگرچہ بہ ظاہر ...» is printed on its own in the teacher's turn; it is its own nameless block.
+# Proofreader please check: the last paragraph («لیکن مانع حمل ادویات ... تو کیا کریں؟») is a question to the teacher (he answers it on
+# page 436), so it is presumably Salim's, but it is printed as a plain paragraph with no speaker's name; typed as printed, without a name.
+# That question continues on page 436 ("وقفہ کرنا چاہیں تو کیا کریں؟"); it is kept whole here.
+
+[h]
+اڑسٹھواں باب: مانع حمل ادویات کی خرید و فروخت
+
+[ur]
+سالم: استاد صاحب! ہم نے اسقاطِ حمل کے بارے میں اسلام کا نقطہ نظر جان لیا ہے، اب ہم یہ بھی جاننا چاہتے ہیں کہ مانع حمل ادویات استعمال کرنے کا کیا حکم ہے؟
+
+[ur]
+استاد: تجربات سے یہ بات ثابت ہو چکی ہے کہ اس وقت بازار میں جتنی بھی مانع حمل اشیا دستیاب ہیں، وہ سب نقصان دہ ہیں، مثلاً بعض ادویات ایسی ہیں جن سے سینے اور رحم میں کینسر ہو جاتا ہے، اور بعض ادویات ایسی ہیں جن کے استعمال سے عورت کا جسم بہت بھاری ہو جاتا ہے۔
+
+[ur]
+اگرچہ بہ ظاہر یہ چیزیں نقصان دہ نظر نہیں آتیں، لیکن ڈاکٹروں کا کہنا ہے کہ یہ چیزیں ایک نہ ایک دن نقصان دہ بن جاتی ہیں اور اس معاملے میں ڈاکٹروں کی بات کو ہی حتمی سمجھا جائے گا، جس چیز کو وہ نقصان دہ کہہ دیں گے، اس کی خرید و فروخت اور استعمال حرام ہوگا، کیونکہ رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H ibnmajah:2340 from لاَ ضَرَرَ to ضِرَارَ}}
+لاَ ضَرَرَ وَلاَ ضِرَارْ
+
+[ref]
+سنن ابن ماجه، رقم الحديث [2340] صحيح الجامع، رقم الحديث [7517]
+
+[ur]
+“کسی کو نقصان نہ پہنچاؤ اور نہ نقصان اٹھاؤ۔”
+
+[ur]
+لیکن مانع حمل ادویات کا غالب استعمال نقصان دہ ہو اور ہم دو سال کا وقفہ کرنا چاہیں تو کیا کریں؟

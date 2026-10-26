@@ -1,0 +1,47 @@
+# title: Page 69
+# English edition of book page 69, built by build_english.py from en_src/ and page_069.txt
+
+[en]
+The same ruling applies to everything that is sold in this way.
+
+[en]
+Trader: If we start doing this, we will not be able to sell anything at all.
+
+[en]
+Teacher: Lawful provision, however little it may be, is more blessed and better than the forbidden. Wealth earned in the way described above is forbidden.
+
+[en]
+The noble Prophet, peace be upon him, said:
+
+[ar]
+كُلُّ جَسَدٍ نَبَتَ مِنَ السُّحْتِ فَالنَّارُ أَوْلَى بِهْ
+
+[ref]
+صحيح الجامع، رقم الحديث [4519]
+
+[en]
+“Every body that is nourished by forbidden earnings is more deserving of the Fire.”
+
+[en]
+My dear brother! Strengthen your faith, put your trust in Allah, keep yourself away from this forbidden trade, and know that such profit does not stay with you for long. Allah the Exalted says:
+
+[ar]
+وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجَا
+
+[ar]
+وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبْ
+
+[ref]
+[الطلاق: 3,2]
+
+[en]
+And whoever fears Allah - He will make for him a way out. And will provide for him from where he does not expect.
+
+[en]
+The noble Prophet, peace be upon him, said:
+
+[ar]
+مَنْ تَرَكَ شَيْئًا لِلَّهِ عَوَّضَهُ اللَّهُ خَيْرًا مِنْهْ
+
+[en]
+“Whoever gives up something for the sake of Allah, Allah the Exalted gives him something better than it in return, as compensation and reward.”

@@ -1,0 +1,14 @@
+# title: Page 27
+# English edition of book page 27, built by build_english.py from en_src/ and page_027.txt
+
+[ar]
+أَمَّا بَعْدْ: فَإِنَّ أَصْدَقَ الْحَدِيثِ كَلَامُ اللَّهْ، وَخَيْرَ الْهَدْيِ هَدْيُ مُحَمَّدْ، صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ، وَشَرَّ الْأُمُورِ مُحْدَثَاتُهَا، وَكُلَّ مُحْدَثَةٍ بِدْعَةٌ وَكُلَّ بِدْعَةٍ ضَلَالَةٌ وَكُلَّ ضَلَالَةٍ فِي النَّارْ
+
+[fen]
+This sermon is called the “Khutbat al-Hajah” (the sermon of need). It is prescribed to recite this sermon before saying anything important and necessary. The Messenger of Allah, peace be upon him, taught the noble Companions to recite this sermon before an important address, whether it was the address at a marriage or on Friday. This sermon is reported in most books of hadith. The wording of some narrations differs from one another, but its importance is acknowledged. For its detailed referencing, see the book (Khutbat al-Hajah) by the hadith master of his age, the great scholar Muhammad Nasir ad-Din al-Albani, may Allah have mercy on him.
+
+[en]
+These are a few brief points about the beliefs and doctrines of the Righteous Predecessors (Ahl as-Sunnah wal-Jama'ah). The Muslim Ummah is passing through a period of severe disagreement and sectarianism. The proof of this is the sects and groups that keep springing up. Every sect and every group can be seen calling to its own creed and inviting people to adopt its own way of thinking. In such a situation the general public has fallen into a strange dilemma over whom to listen to and whom not to. It is this that moved me to write this book. Despite this whole situation, thanks be to Allah, there is still good left in the Ummah and it has not vanished altogether, because a group of the Ummah will remain upon the truth until the Day of Resurrection, as the noble Prophet, peace be upon him, said:
+
+[ar]
+لاَ تَزَالُ طَائِفَةٌ مِنْ أُمَّتِي ظَاهِرِينَ عَلَى الْحَقّ، لاَ يَضُرُّهُمْ مَنْ خَذَلَهُمْ، حَتَّى يَأْتِيَ أَمْرُ اللَّهِ وَهُمْ كَذَلِكْ

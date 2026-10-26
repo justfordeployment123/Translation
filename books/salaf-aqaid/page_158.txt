@@ -1,0 +1,29 @@
+# title: Page 158
+# Salaf-e-Saliheen ke Aqaid o Nazariyat, book page 158 (PDF page 155), چوتھا اصول: وعدہ وعید کی نصوص (صریح عبارتوں) پر ایمان
+# The first lines of the page («الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ... قِيلًا») end An-Nisa 4:122, which starts on page 157, where it is kept whole.
+# The page starts here with its Urdu translation, followed by its footnote ①, which the translation carries.
+# An-Nisa 4:48 (up to «لِمَنْ يَشَاءُ») is filled from the official text (fill_quran.py); its footnote follows the translation.
+# References: the digit groups are typed as they appear on the page, left to right («122:4», «48:4»).
+# The page ends the fourth principle; the rest of the page is blank.
+
+[ur]
+“اور جو لوگ ایمان لائے اور انھوں نے نیک عمل کیے، ہم جلد انھیں ایسے باغوں میں داخل کریں گے جن کے نیچے سے نہریں جاری ہیں، وہ ان میں ہمیشہ ہمیشہ رہیں گے۔ اللہ کا وعدہ سچا ہے اور اللہ سے بڑھ کر کون قول و قرار میں سچا ہے؟”
+
+[ref]
+النسآء 122:4.
+
+[ur]
+لیکن انجام کار اللہ تعالیٰ اپنے فضل و کرم سے نافرمان موحدین کو معاف فرما دے گا کیونکہ اللہ تعالیٰ کا دیگر لوگوں کے علاوہ توحید پرستوں سے یہ وعدہ ہے۔ ارشاد باری تعالیٰ ہے:
+
+[ar]
+# quran 4:48 from إِنَّ اللَّهَ لَا يَغْفِرُ to لِمَنْ يَشَاءُ
+إِنَّ اللَّهَ لَا يَغْفِرُ أَنْ يُشْرَكَ بِهِ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَنْ يَشَاءْ
+
+[ur]
+“بے شک اللہ نہیں بخشتا کہ اس کے ساتھ شرک کیا جائے اور وہ اس کے علاوہ جسے چاہے بخش دیتا ہے۔”
+
+[ref]
+النسآء 48:4.
+
+[ur]
+اہل سنت والجماعت کے نزدیک جو اصولِ دین ثابت ہیں، ان میں سے چوتھے اصول “وعدہ و وعید کی نصوص پر ایمان” سے متعلقہ تصریحات اختتام کو پہنچیں۔ اب پانچویں اصول “دوستی اور دشمنی” سے متعلقہ تفصیلات پیش خدمت ہیں۔

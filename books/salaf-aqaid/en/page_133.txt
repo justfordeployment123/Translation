@@ -1,0 +1,23 @@
+# title: Page 133
+# English edition of book page 133, built by build_english.py from en_src/ and page_133.txt
+
+[en]
+And those who have believed will increase in faith.
+
+[ref]
+المدثر 31:74، وفتح الباري: 162:1.
+
+[en]
+Imam Ibn Abd al-Barr, may Allah have mercy on him, wrote in his book at-Tamhid: “The jurists and the scholars of hadith agree that faith is speech and action, and that there is no action without intention. In their view, faith increases by doing acts of obedience and decreases by doing acts of disobedience. In their view, all acts of obedience are faith.”
+
+[ref]
+التمهيد: 238/9.
+
+[en]
+All the Companions, the Successors, the followers of the Successors, the imams of hadith and the jurists of Islam held this same belief. No one among the earlier or the later scholars opposed them in this. Only those who strayed from the right path deviated in this matter.
+
+[en]
+Ahl as-Sunnah say that whoever puts action outside faith is misguided, an innovator and one of the Murji'ah. And whoever declares the two testimonies with his tongue and believes in the Oneness of Allah the Exalted with his heart, but falls short in carrying out some of the pillars of Islam, his faith is not complete; however, the words faith and Islam cannot be applied to one who does not declare the two testimonies at all.
+
+[en]
+The exception in faith: Ahl as-Sunnah wal-Jama'ah consider the exception in faith to be correct. This means that if someone says, “I am a believer, in sha Allah,” that is correct in their view. They do not say with certainty about themselves that they are believers. They do this out of intense fear of Allah, out of faith in the divine decree and to avoid praising themselves. They do not call themselves righteous, God-fearing or great believers, because faith in the absolute sense is the complete carrying out of all the divine commands and complete refraining from all that Allah has forbidden.

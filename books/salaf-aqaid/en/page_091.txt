@@ -1,0 +1,44 @@
+# title: Page 91
+# English edition of book page 91, built by build_english.py from en_src/ and page_091.txt
+
+[en]
+And indeed, the Qur'an is the revelation of the Lord of the worlds. The Trustworthy Spirit has brought it down - Upon your heart, (O Muhammad) - that you may be of the warners - In a clear Arabic language.
+
+[ref]
+الشعرآء 195-192:26.
+
+[en]
+The Noble Quran is written in the Preserved Tablet. It is preserved in the hearts. Countless tongues recite it. It is written down on pages. Allah the Exalted says:
+
+[ar]
+بَلْ هُوَ آيَاتٌ بَيِّنَاتٌ فِي صُدُورِ الَّذِينَ أُوتُوا الْعِلْمْ
+
+[en]
+Rather, the Qur'an is distinct verses (preserved) within the breasts of those who have been given knowledge.
+
+[ref]
+العنكبوت 49:29.
+
+[en]
+And He says:
+
+[ar]
+إِنَّهُ لَقُرْآنٌ كَرِيمْ
+
+[ar]
+فِي كِتَابٍ مَكْنُونْ
+
+[ar]
+لَا يَمَسُّهُ إِلَّا الْمُطَهَّرُونْ
+
+[ar]
+تَنْزِيلٌ مِنْ رَبِّ الْعَالَمِينْ
+
+[en]
+Indeed, it is a noble Qur'an - In a Register well-protected; None touch it except the purified. (It is) a revelation from the Lord of the worlds.
+
+[ref]
+الواقعة 80-77:56.
+
+[en]
+The Noble Quran is the great, everlasting miracle of Muhammad, peace be upon him. It is the last heavenly Book. It will be neither abrogated nor changed. Allah the Exalted has taken it upon Himself to protect the Noble Quran from every kind of distortion and alteration and from every kind of addition and omission.

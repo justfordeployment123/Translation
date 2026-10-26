@@ -1,0 +1,35 @@
+# title: Page 86
+# English edition of book page 86, built by build_english.py from en_src/ and page_086.txt
+
+[en]
+Some angels attend the gatherings of knowledge (the knowledge of the Quran and the Sunnah) and of the remembrance of Allah, and they cover them with their wings. An angel is a companion to every human being, accompanying him and never leaving him. Some angels urge people to do good deeds. Some attend the funeral prayers of the righteous. Some angels fight alongside the believers against the disbelievers and keep the believers firm on the battlefield. Some angels are appointed to protect the righteous and remove their hardships. And some other angels carry out the duty of punishment.
+
+[en]
+The angels do not enter a house in which there is an idol, a picture, a dog or a bell. The angels are also hurt by what hurts the children of Adam.
+
+[en]
+The Prophet said:
+
+[ar]
+إِنَّ الْبَيْتَ الَّذِي فِيهِ الصُّوَرْ، لاَ تَدْخُلُهُ الْمَلاَئِكَةْ
+
+[en]
+“The angels do not enter a house in which there are pictures.”
+
+[ref]
+صحيح البخاري، البيوع، حديث: 2105، وصحيح مسلم، اللباس والزينة، حديث: 2107.
+
+[en]
+According to another narration, he said:
+
+[ar]
+لاَ تَدْخُلُ الْمَلاَئِكَةُ بَيْتًا فِيهِ كَلْبٌ وَلاَ تَصَاوِيرْ
+
+[en]
+“The angels do not enter a house in which there is a dog or pictures.”
+
+[ref]
+صحيح البخاري، اللباس، حديث: 5949، وصحيح مسلم، اللباس والزينة، حديث: 2106.
+
+[en]
+The angels are very many. No one knows their number except Allah. He said:

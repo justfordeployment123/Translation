@@ -1,0 +1,17 @@
+# title: Page 559
+# English edition of book page 559, built by build_english.py from en_src/ and page_559.txt
+
+[en]
+Its form is this: Muhammad buys a recorder from Ahmad for one thousand pounds, and a third man, Zaid, goes to Muhammad and says: I will give you a recorder just like this one for nine hundred pounds, or one of better quality for a thousand, so leave this one and take it from me. In effect, Zaid has made his own deal over Ahmad's deal.
+
+[en]
+Second: The form of buying what someone else has bought.
+
+[en]
+Its form is this: Sa'd sells a watch to Umar for one thousand pounds. Now a third man, Khalid, says to Sa'd: Did you sell this watch for one thousand pounds? Sa'd replies: Yes. Then Khalid says to him: I will give you one thousand and twenty pounds, so give it to me. That is, Khalid has bought what Umar had bought.
+
+[en]
+Deals like this are forbidden, because they create envy, hatred and enmity among the Muslims against one another.
+
+[en]
+So we will say that such deals are void and forbidden, whether this is done before the deal is complete or after it. This is a very great means of consuming what is forbidden. All of us should keep away from it.

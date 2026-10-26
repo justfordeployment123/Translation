@@ -1,0 +1,35 @@
+# title: Page 118
+# English edition of book page 118, built by build_english.py from en_src/ and page_118.txt
+
+[en]
+Ammar: Teacher! My brother Muhammad has sent me a hundred dollars. I want to change them into Pakistani currency, because I have to buy some books of hadith and fiqh.
+
+[en]
+Teacher: There is a currency exchange market nearby; come, let us go there.
+
+[en]
+Ammar: May Allah reward you. Forgive me if I am wasting your time.
+
+[en]
+Teacher: It is no trouble.
+
+[en]
+The teacher and his student went into the currency shop. The teacher sat down on a chair to wait for Ammar. Ammar went to the counter where the dollars were to be changed; five men were already standing there.
+
+[en]
+Ammar: Teacher! Come, let us go.
+
+[en]
+Teacher: Where?
+
+[en]
+Ammar: Let us go back, because we do not have that much time; there are still five men standing here.
+
+[en]
+Teacher: Let us wait a little while. How would we come back again from so far away?
+
+[en]
+Ammar: All right.
+
+[en]
+Ammar sat down beside the teacher and began to wait for his turn.

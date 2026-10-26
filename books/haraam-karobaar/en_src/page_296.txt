@@ -1,0 +1,25 @@
+# English source for book page 296
+
+[en]
+Teacher: Yes, the evidence for it is that the Messenger of Allah, peace be upon him, said:
+
+[en]
+“Gold for gold, silver for silver, wheat for wheat, barley for barley, dates for dates, salt for salt: buy and sell them like for like and hand to hand. Whoever gives more or asks for more has dealt in interest. Sell gold for silver however you wish, hand to hand, and sell barley for dates however you wish, hand to hand.”
+
+[en]
+Bahnasi: Teacher, but rice is not mentioned in this hadith?
+
+[en]
+Teacher: Yes, it is true that rice is not mentioned in this hadith, but the position of the majority of scholars is that in such a case interest enters everything that shares a common feature with the things mentioned in the hadith, and there are two grounds for this shared feature:
+
+[en]
+First: The ground of being a price.
+
+[en]
+Second: The ground of being measured and eaten.
+
+[en]
+Rice shares with wheat, barley, dates and salt in being measured and eaten, which is why your deal is invalid.
+
+[en]
+Abu Jum'a: If I want to take Kernel rice in exchange for Super rice, what is the way to do it that the Shariah allows?

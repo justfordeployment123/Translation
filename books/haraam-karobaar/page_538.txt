@@ -1,0 +1,29 @@
+# title: Page 538
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 538 (PDF page 539), نوےواں باب: قرض ادا نہ کرنے کا بیان
+# Print spelling normalized: «نوویواں باب» -> «نوےواں باب» (chapter 90; the book's spelling of the 90s is also its spelling of the 50s or is irregular, so the standard number word + «واں» is used); the contents page has the same spelling.
+# The page starts with the new chapter (page 537 ends the previous one with a full sentence).
+# An-Nisa 4:58 is quoted from its start to «إِلَى أَهْلِهَا»; that part is filled from the official text.
+# "حتی کہ" is printed without the dagger alif; typed "حتیٰ کہ" so the voice reads it right.
+# The last sentence continues on page 539 ("لیتے ہیں۔"); it is kept whole here.
+
+[h]
+نوےواں باب: قرض ادا نہ کرنے کا بیان
+
+[ur]
+عمار: شریعت میں اس آدمی کا کیا حکم ہے، جو لوگوں سے قرض لیتا ہے، لیکن اس کا ارادہ واپس کرنے کا نہیں ہوتا؟
+
+[ur]
+استاد: اللہ تعالیٰ کے ہاں حقوق العباد کا بہت بڑا مقام ہے۔ حقوق اللہ میں کی گئی کمی بیشی توبہ کے ساتھ معاف ہو جاتی ہے، لیکن حقوق العباد کا معاملہ اس کے برعکس ہے۔ یہ اس وقت تک معاف نہیں ہوتے، جب تک متعلقہ آدمی معاف نہیں کر دیتا، حتیٰ کہ قیامت کے دن اسے اس وقت تک کامیابی کا پروانہ جاری نہیں ہوگا، جب تک وہ حقوق العباد کے معاملے میں سرخرو نہیں ہو جائے گا، جب کہ اس وقت انسان کے پاس درہم و دینار نہیں ہوں گے، بلکہ وہاں پر نیکیوں اور برائیوں کے ذریعے سے حقوق العباد کا فیصلہ کیا جائے گا، اسی لیے اللہ تعالیٰ ارشاد فرماتے ہیں:
+
+[ar]
+# quran 4:58 from إِنَّ اللَّهَ يَأْمُرُكُمْ to إِلَى أَهْلِهَا
+إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ أَهْلِهَا
+
+[ref]
+[النساء: 58]
+
+[ur]
+“بے شک اللہ تمھیں حکم دیتا ہے کہ تم امانتیں ان کے حق داروں کو ادا کرو۔”
+
+[ur]
+قرض کے معاملے میں معاشرے میں بے شمار ایسے مسائل پھیلے ہوئے ہیں، جن میں لوگ کوتاہی کا شکار ہوتے ہیں، مثلاً بعض لوگ کسی مجبوری کی وجہ سے قرض نہیں لیتے، بلکہ وہ محض مالدار نظر آنے یا اثاثے بنانے کی خاطر قرض لیتے ہیں۔

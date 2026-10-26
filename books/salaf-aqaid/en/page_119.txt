@@ -1,0 +1,32 @@
+# title: Page 119
+# English edition of book page 119, built by build_english.py from en_src/ and page_119.txt
+
+[en]
+He guides whom He wills by His mercy, and leads astray whom He wills by His wisdom. Since His wisdom is perfect and His power complete, He does whatever He wills, and there is no one to question Him. It is the servants who will be called to account.
+
+[en]
+Whatever happens in the universe happens in accordance with Allah's prior knowledge, which is written in the Preserved Tablet. Thus Allah's will prevails over everyone, and His power encompasses all things. What He willed happened, and what He did not will did not happen. Nothing lies outside His intention. He says:
+
+[ar]
+وَمَا تَشَاءُونَ إِلَّا أَنْ يَشَاءَ اللَّهُ رَبُّ الْعَالَمِينْ
+
+[en]
+And you do not will except that Allah wills - Lord of the worlds.
+
+[ref]
+التكوير 29:81.
+
+[en]
+The noble Messenger, peace be upon him, said:
+
+[ar]
+إِنَّ قُلُوبَ بَنِي آدَمَ كُلَّهَا بَيْنَ إِصْبَعَيْنِ مِنْ أَصَابِعِ الرَّحْمَنْ، كَقَلْبٍ وَاحِدْ، يُصَرِّفُهُ حَيْثُ يَشَاءْ
+
+[en]
+“Indeed, all the hearts of the children of Adam are, like a single heart, between two of the fingers of the Most Merciful; He turns them however He wills.”
+
+[ref]
+صحيح مسلم، القدر، حديث: 2654.
+
+[en]
+The fourth level, creation (bringing into being): It is necessary to believe that Allah is the Creator of everything. There is no creator besides Him and no lord besides Him. Everything besides Him is His creation, brought into being by Him. He is the Creator of every person who acts and of his action.

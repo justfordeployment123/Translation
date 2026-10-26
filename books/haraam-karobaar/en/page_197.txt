@@ -1,0 +1,35 @@
+# title: Page 197
+# English edition of book page 197, built by build_english.py from en_src/ and page_197.txt
+
+[hen]
+Chapter Twenty-Six: Buying and Selling Explosives
+
+[en]
+The teacher and his student were about to leave the shop when a child came in.
+
+[en]
+Child: (speaking to the shopkeeper) Do you have bombs or firecrackers?
+
+[en]
+Teacher: (in surprise) Is this a general store or an arms shop?
+
+[en]
+Shopkeeper: (laughing) Teacher! This child is not asking for the kind of bomb you think. He is asking about the bomb that is a children's toy. (Then the shopkeeper turned to the child.) Yes, how many do you want?
+
+[en]
+Child: Give me ten bombs. (The shopkeeper quickly took them out and began to hand them over.)
+
+[en]
+Teacher: Brother! Wait a moment.
+
+[en]
+Shopkeeper: (laughing loudly) Here we go! Now one more thing is about to become forbidden!
+
+[en]
+Teacher: Yes, this too is forbidden, for several reasons.
+
+[en]
+Shopkeeper: What are those reasons?
+
+[en]
+Teacher: First: Its violent, loud noise harms people. Some are asleep, some are ill, some are travelling and driving with their minds on the road, and when they hear a firecracker or the like go off, they are suddenly frightened. When people light a firecracker and throw it, it may go off at someone's feet, and so on.

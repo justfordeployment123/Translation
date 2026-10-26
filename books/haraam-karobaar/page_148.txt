@@ -1,0 +1,61 @@
+# title: Page 148
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 148 (PDF page 149), سترھواں باب: تجارت میں جھوٹی قسمیں اٹھانا اور حیلہ کرنا
+# The teacher's turn from page 147 goes on at the top of the page, without his name. The page ends with a full dialogue turn.
+# Hadith 1: Muslim 4126 (sunnah.com numbering of the book's "صحيح مسلم [1607]"), filled in two excerpts because the book leaves out
+# "فِي الْبَيْعِ" after "الْحَلِفِ"; the first excerpt ends with " cont", since the print runs on without a pause.
+# Proofreader please check: Muslim 4126 vowels "يُنَفِّقُ ثُمَّ يَمْحَقُ", where the print has "يُنْفِقُ ثُمَّ يُمْحِقُ".
+# Hadith 2: the book cites Bukhari 2356 and Muslim 137 (one footnote, after the Prophet's reply). The first part is filled from Muslim 353
+# (sunnah.com numbering of Muslim 137). The reply is printed «وَإِنْ كَانَ قَضِيبًا مِنْ أَرَاكٍ»; Muslim 353 has "وَإِنْ قَضِيبًا" without
+# "كَانَ", so the reply is filled from Nasa'i 5419, the same hadith with the book's wording.
+# Footnote 2 is printed with a stray mark joined to its first letter ("شرح"); typed "شرح صحيح مسلم".
+
+[ur]
+رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H muslim:4126 from إِيَّاكُمْ to الْحَلِفِ cont}} {{H muslim:4126 from فَإِنَّهُ to يَمْحَقُ}}
+إِيَّاكُمْ وَكَثْرَةَ الْحَلِفِ فَإِنَّهُ يُنَفِّقُ ثُمَّ يَمْحَقْ
+
+[ref]
+صحيح مسلم، رقم الحديث [1607]
+
+[ur]
+“بہت زیادہ قسمیں اٹھانے سے پرہیز کرو، کیونکہ اس سے مال تو بِک جاتا ہے، لیکن برکت نہیں رہتی۔”
+
+[ur]
+امام نووی رحمہ اللہ فرماتے ہیں:
+
+[ur]
+“اس حدیث میں تجارت میں کثرت کے ساتھ قسمیں اٹھانے سے منع کیا گیا ہے۔”
+
+[ref]
+شرح صحيح مسلم [47/11]
+
+[ur]
+رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H muslim:353 from مَنِ اقْتَطَعَ to الْجَنَّةَ}}
+مَنِ اقْتَطَعَ حَقَّ امْرِئٍ مُسْلِمٍ بِيَمِينِهِ فَقَدْ أَوْجَبَ اللَّهُ لَهُ النَّارَ وَحَرَّمَ عَلَيْهِ الْجَنَّةْ
+
+[ur]
+“جس نے جھوٹی قسم کے ذریعے سے کسی مسلمان کے مال پر ناحق قبضہ کر لیا، تو اللہ تعالیٰ اس پر آگ واجب کر دیں گے اور جنت حرام کر دیں گے۔”
+
+[ur]
+ایک آدمی نے کہا: اے اللہ کے رسول ﷺ! اگرچہ کوئی معمولی سی چیز ہو؟ آپ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H nasai:5419 from وَإِنْ كَانَ قَضِيبًا to أَرَاكٍ}}
+وَإِنْ كَانَ قَضِيبًا مِنْ أَرَاكْ
+
+[ref]
+صحيح البخاري، رقم الحديث [2356] صحيح مسلم، رقم الحديث [137]
+
+[ur]
+“اگرچہ درخت کی ٹہنی ہی کیوں نہ ہو۔”
+
+[ur]
+بے شمار احادیث میں اس چیز سے منع کیا گیا ہے۔
+
+[ur]
+عمار: شیخ! حیلہ سازی کا کیا حکم ہے؟

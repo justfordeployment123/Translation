@@ -1,0 +1,38 @@
+# title: Page 160
+# English edition of book page 160, built by build_english.py from en_src/ and page_160.txt
+
+[en]
+Let not believers take disbelievers as allies rather than believers. And whoever (of you) does that has nothing with Allah.
+
+[ref]
+آل عمران 28:3.
+
+[en]
+Ahl as-Sunnah wal-Jama'ah believe that loyalty and disavowal is an important principle of the Shariah. The following reasons bring out the importance of this principle:
+
+[en]
+First: This principle is a part of the testimony that there is no god but Allah. “There is no god but Allah” means disowning everything that is worshipped besides Allah. Allah the Exalted says:
+
+[ar]
+أَنِ اعْبُدُوا اللَّهَ وَاجْتَنِبُوا الطَّاغُوتْ
+
+[en]
+Worship Allah and avoid Taghut.
+
+[ref]
+النحل 36:16.
+
+[en]
+Second: It is the strongest link in the chain of faith. The noble Prophet, peace be upon him, said:
+
+[ar]
+أَوْثَقُ عُرَى الْإِيمَانْ: اَلْمُوَالَاةُ فِي اللَّهِ وَالْمُعَادَاةُ فِي اللَّهْ، وَالْحُبُّ فِي اللَّهْ، وَالْبُغْضُ فِي اللَّهْ
+
+[en]
+“The strongest link of faith is loyalty for the sake of Allah and enmity for the sake of Allah, love for the sake of Allah alone and hatred for the sake of Allah alone.”
+
+[ref]
+المعجم الكبير للطبراني: 172/11، رقم الحديث: 11537، وسلسلة الأحاديث الصحيحة للألباني، حديث: 1728.
+
+[en]
+Third: It is through this that the heart comes to know the sweetness of faith and the delight of certainty. The noble Prophet, peace be upon him, said:

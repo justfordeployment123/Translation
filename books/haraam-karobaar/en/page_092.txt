@@ -1,0 +1,44 @@
+# title: Page 92
+# English edition of book page 92, built by build_english.py from en_src/ and page_092.txt
+
+[en]
+The Messenger of Allah, peace be upon him, said:
+
+[ar]
+مَنْ غَشَّنَا فَلَيْسَ مِنَّا
+
+[ref]
+صحيح مسلم، رقم الحديث [102]
+
+[en]
+“Whoever deceives is not following our way.”
+
+[en]
+He, peace be upon him, also said:
+
+[ar]
+مَنْ غَشَّنَا فَلَيْسَ مِنَّا وَالْمَكْرُ وَالْخِدَاعُ فِي النَّارْ
+
+[ref]
+الطبراني في الكبير، رقم الحديث [10234]
+
+[en]
+“Whoever practises adulteration is not following our way, and the one who deceives and tricks will be in the Fire.”
+
+[en]
+Allah the Exalted gives such a dishonest trader respite for a while, but after that comes such a seizing from Allah the Exalted as he never even imagined. He earns fifty thousand by this forbidden means, but Allah the Exalted afflicts him with some illness on which far more than those fifty thousand is spent, and the punishment of the Hereafter is still to come. On the Day of Resurrection, Allah the Exalted will disgrace and humiliate him in front of all the people.
+
+[en]
+Allah the Exalted says:
+
+[ar]
+يَوْمَ تُبْلَى السَّرَائِرْ
+
+[ref]
+[الطارق: 9]
+
+[en]
+The Day when secrets will be put on trial.
+
+[en]
+That is, Allah the Exalted will reveal before people every evil of his that he wanted to hide. The Messenger of Allah, peace be upon him, said:

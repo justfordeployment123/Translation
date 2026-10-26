@@ -1,0 +1,29 @@
+# title: Page 171
+# English edition of book page 171, built by build_english.py from en_src/ and page_171.txt
+
+[en]
+Mustafa: Teacher! Is this right?
+
+[en]
+Teacher: Which thing? Will you explain it again?
+
+[en]
+Mustafa: Some traders, lending societies, welfare organisations, banks and so on give farmers loans for agriculture in easy instalments with interest, so that people can easily meet their needs and, alongside, repay this money to the bank or organisation in instalments with a small amount of interest, just as Abu Ali mentioned a moment ago.
+
+[en]
+Teacher: This is interest, and dealing in interest can never be permissible in any way. Allah the Exalted says about it:
+
+[ar]
+يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَذَرُوا مَا بَقِيَ مِنَ الرِّبَا إِنْ كُنْتُمْ مُؤْمِنِينْ
+
+[ar]
+فَإِنْ لَمْ تَفْعَلُوا فَأْذَنُوا بِحَرْبٍ مِنَ اللَّهِ وَرَسُولِهْ
+
+[ref]
+[البقرة: 279_278]
+
+[en]
+O you who have believed, fear Allah and give up what remains (due to you) of interest, if you should be believers. And if you do not, then be informed of a war (against you) from Allah and His Messenger.
+
+[en]
+In this blessed verse, Allah the Exalted has urged His believing servants to keep away from dealings in interest. The one who consumes interest should know that he is declaring war on Allah the Exalted, and whoever declares war on Allah the Exalted will always be defeated. So one should give up dealings in interest at once and ask Allah for forgiveness.

@@ -1,0 +1,39 @@
+# title: Page 97
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 97 (PDF page 98), نواں باب: پرانا سونا پالش کر کے نئے سونے کی قیمت پر بیچنا
+# Print typo corrected (meaning reversed, Proofreader please check): "الا یہ کہ وہ اس عیب کو واضح نہ کرے" -> "الا یہ کہ وہ اس عیب کو واضح کرے" (a stray «نہ» says the opposite of the hadith «إِلَّا بَيَّنَهُ لَهُ»).
+# The first line of the page ("فِيهِ عَيْبٌ إِلَّا بَيَّنَهُ لَهُ") ends the hadith that starts on page 96; it is typed there, with its footnote.
+# The hadith's translation starts here, so it stays here. The page ends with a full sentence; page 98 starts with a new dialogue turn.
+# Hadith: Muslim 4537 (the book cites "صحيح مسلم، رقم الحديث [1738]").
+# Proofreader please check: the translation "الا یہ کہ وہ اس عیب کو واضح نہ کرے" is the print's wording, now corrected (see the line above); the hadith ("إِلَّا بَيَّنَهُ لَهُ") means
+# "unless he makes the defect clear", so the "نہ" reads like a slip.
+
+[ur]
+“مسلمان مسلمان کا بھائی ہے۔ کسی مسلمان کے لیے جائز نہیں کہ وہ اپنے بھائی کو عیب والی چیز فروخت کرے الا یہ کہ وہ اس عیب کو واضح کرے۔”
+
+[ur]
+یہ بہت بڑا عیب ہے کہ آدمی نیا سونا خریدنے آئے اور تم دھوکے کے ساتھ پالش کی آڑ میں اسے پرانا سونا دے دو۔
+
+[ur]
+دکاندار: میں نے عرض کی ہے کہ میں بڑی مہارت کے ساتھ یہ کام کرتا ہوں، کسی کو شک بھی نہیں گزرتا۔
+
+[ur]
+استاد: ذرا یہ بتاؤ، ایک آدمی دلہن کے لیے نیا سونا خریدنے آئے تو تم اسے بتا دو کہ یہ نیا نہیں بلکہ پرانا ہے اور پالش کر کے اسے نیا بنایا گیا ہے تو کیا وہ نئے کی قیمت پر اسے خرید لے گا؟
+
+[ur]
+دکاندار: نہیں! بالکل نہیں خریدے گا۔
+
+[ur]
+استاد: تو پھر اللہ سے ڈرو۔ تم نے اپنی طرف ہی سے اس قبیح کام کو جائز کیا ہوا ہے، حالانکہ نبی ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H muslim:4537 from لِكُلِّ to الْقِيَامَةِ}}
+لِكُلِّ غَادِرٍ لِوَاءٌ عِنْدَ اسْتِهِ يَوْمَ الْقِيَامَةْ
+
+[ref]
+صحيح مسلم، رقم الحديث [1738]
+
+[ur]
+“ہر دھوکے باز کی سرین پر قیامت کے دن ایک جھنڈا ہوگا۔”
+
+[ur]
+تم نے تیس سال سے کتنے لوگوں کو دھوکا دیا ہوگا؟ قیامت کے دن تیری کمر پر غداری کا جھنڈا گاڑا جائے گا اور اس پر ان لوگوں کے نام درج ہوں گے، جن کو تو نے دھوکا دیا ہے۔

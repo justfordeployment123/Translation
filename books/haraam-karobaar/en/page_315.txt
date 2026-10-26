@@ -1,0 +1,38 @@
+# title: Page 315
+# English edition of book page 315, built by build_english.py from en_src/ and page_315.txt
+
+[ar]
+أَأَنْتُمْ أَعْلَمُ أَمِ اللَّهْ
+
+[ref]
+[البقرة: 140]
+
+[en]
+Are you more knowing or is Allah?
+
+[en]
+If Allah the Exalted had thought a man's person better without a beard, He would never have made a beard grow on his face.
+
+[en]
+O man! Just think! Why are you destroying the very thing that your Master has made a source of beauty for you? Do you gain any benefit from it, or receive any reward? Or are you slaughtering a great Sunnah like the beard for the sake of some worldly gain? Or is it so heavy that you cannot carry it?
+
+[en]
+O man! Why are you pushing yourself towards the severe punishment that you should have feared? Have you ever thought how much of your wealth and your time you are wasting in this disobedience?
+
+[en]
+Young man: I shave my beard and grow my moustache to overawe others and show my bravery.
+
+[en]
+Teacher: Have you not heard the hadith of the Prophet, peace be upon him, in which he, peace be upon him, said:
+
+[ar]
+خَالِفُوا الْمُشْرِكِينْ، وَفِّرُوا اللِّحَى وَأَحْفُوا الشَّوَارِبْ
+
+[ref]
+صحيح البخاري، رقم الحديث [5892] صحيح مسلم، رقم الحديث [259]
+
+[en]
+“Act contrary to the polytheists: grow your beards and have your moustaches cut.”
+
+[en]
+Sadly, some people follow those very Jews and Christians whom we were commanded to act contrary to; so they grow their moustaches and cut or shave their beards. The command was to act contrary to the Jews and the Christians, but they began to act contrary to the Messenger of Allah, peace be upon him. This matter is not merely one of getting hair cut; rather, it is a matter of following and obeying the Messenger of Allah, peace be upon him.

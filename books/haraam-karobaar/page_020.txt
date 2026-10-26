@@ -1,0 +1,48 @@
+# title: Page 20
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 20 (PDF page 21), مقدمہ
+# The first sentence of the page ("چھٹکارا حاصل کرنا چاہیے۔") is on page 19, where it starts.
+# The Urdu translation of the hadith continues on page 21 ("کی غذا حرام کی، پس اس کی دعا کیسے قبول کی جائے گی؟"); it is kept whole here.
+# Hadith: the book cites صحيح مسلم 1015 and سنن الترمذي 2989; filled from Muslim 2346 (sunnah.com numbering of
+# Muslim 1015). The two verses inside it are filled from the Quran (23:51 and 2:172), each followed by its printed reference.
+# The source has "فَقَالَ" before the first verse, which the book leaves out; the excerpts follow the book.
+# «وقال» before the second verse (printed without harakat) is taken from Muslim 2346, on its own line in the verse's block.
+# Proofreader please check: the second half of the hadith is printed differently from Muslim and Tirmidhi, and no
+# excerpt reproduces it, so the official wording of Muslim 2346 is used: the book has "ثُمَّ ذَكَرَ الْعَبْدَ"
+# (Muslim: "الرَّجُلَ"), "رَافِعاً يَدَيْهِ" (Muslim: "يَمُدُّ يَدَيْهِ إِلَى السَّمَاءِ"), "وَغُذِّيَ" (Muslim: "وَغُذِيَ")
+# and "لِهَذَا" (Muslim: "لِذَلِكَ"). The pauses follow the book's commas.
+
+[ur]
+اگر کسی کا حق غصب کیا ہو تو جلد از جلد اسے لوٹا دینا چاہیے اور اس دن کے آنے سے پہلے کہ جب انسان کے پاس نیکیوں اور برائیوں کے علاوہ کچھ نہ ہوگا، اپنے دنیوی معاملات صاف کر لینے چاہییں۔
+
+[ur]
+سیدنا ابو ہریرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H muslim:2346 from إِنَّ اللَّهَ طَيِّبٌ to طَيِّبًا}}، {{H muslim:2346 from وَإِنَّ اللَّهَ أَمَرَ to الْمُرْسَلِينَ}}
+إِنَّ اللَّهَ طَيِّبٌ لاَ يَقْبَلُ إِلاَّ طَيِّبَا، وَإِنَّ اللَّهَ أَمَرَ الْمُؤْمِنِينَ بِمَا أَمَرَ بِهِ الْمُرْسَلِينْ
+
+[ar]
+# quran 23:51 from يَا أَيُّهَا الرُّسُلُ to تَعْمَلُونَ عَلِيمٌ
+يَا أَيُّهَا الرُّسُلُ كُلُوا مِنَ الطَّيِّبَاتِ وَاعْمَلُوا صَالِحًا ۖ إِنِّي بِمَا تَعْمَلُونَ عَلِيمْ
+
+[ref]
+[المؤمنون:51]
+
+[ar]
+# hadith {{H muslim:2346 from وَقَالَ to وَقَالَ}}
+وَقَالْ
+# quran 2:172 from يَا أَيُّهَا الَّذِينَ to مَا رَزَقْنَاكُمْ
+يَا أَيُّهَا الَّذِينَ آمَنُوا كُلُوا مِنْ طَيِّبَاتِ مَا رَزَقْنَاكُمْ
+
+[ref]
+[البقرة: 172]
+
+[ar]
+# hadith {{H muslim:2346 from ثُمَّ ذَكَرَ to السَّفَرَ}}، {{H muslim:2346 from أَشْعَثَ to أَغْبَرَ}}، {{H muslim:2346 from يَمُدُّ to السَّمَاءِ}}، {{H muslim:2346 from يَا رَبِّ to رَبِّ}}، {{H muslim:2346 from يَا رَبِّ#2 to رَبِّ}}، {{H muslim:2346 from وَمَطْعَمُهُ to حَرَامٌ}}، {{H muslim:2346 from وَمَشْرَبُهُ to حَرَامٌ}}، {{H muslim:2346 from وَمَلْبَسُهُ to حَرَامٌ}}، {{H muslim:2346 from وَغُذِيَ to بِالْحَرَامِ}}، {{H muslim:2346 from فَأَنَّى to لِذَلِكَ}}
+ثُمَّ ذَكَرَ الرَّجُلَ يُطِيلُ السَّفَرْ، أَشْعَثَ أَغْبَرْ، يَمُدُّ يَدَيْهِ إِلَى السَّمَاءْ، يَا رَبّ، يَا رَبّ، وَمَطْعَمُهُ حَرَامْ، وَمَشْرَبُهُ حَرَامْ، وَمَلْبَسُهُ حَرَامْ، وَغُذِيَ بِالْحَرَامْ، فَأَنَّى يُسْتَجَابُ لِذَلِكْ
+
+[ref]
+صحيح مسلم، رقم الحديث [1015] سنن الترمذي، رقم الحديث [2989]
+
+[ur]
+“اللہ تعالیٰ پاک ہے اور پاکیزگی ہی کو پسند کرتا ہے۔ اللہ تعالیٰ نے مومنوں کو بھی وہی حکم دیا ہے، جو اپنے رسولوں کو دیا ہے۔ اللہ تعالیٰ نے فرمایا: “اے رسولو! پاکیزہ چیزوں میں سے کھاؤ اور نیک عمل کرو، یقیناً جو تم کرتے ہو، میں اسے خوب جاننے والا ہوں۔” نیز فرمایا: “اے لوگو جو ایمان لائے ہو! ان پاکیزہ چیزوں میں سے کھاؤ، جو ہم نے تمھیں عطا فرمائی ہیں۔” پھر آپ ﷺ نے ایک آدمی کا تذکرہ کیا، جس نے لمبا سفر کیا، اس کے بال پراگندہ اور جسم غبار آلود ہے، وہ اپنے ہاتھ اٹھا کر دعا کرتا ہے: اے میرے رب! اے میرے رب! حالانکہ اس کا کھانا حرام کا، اس کا پینا حرام کا، اس کا لباس حرام کا، اس کی غذا حرام کی، پس اس کی دعا کیسے قبول کی جائے گی؟”

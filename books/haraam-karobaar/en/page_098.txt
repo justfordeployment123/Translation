@@ -1,0 +1,50 @@
+# title: Page 98
+# English edition of book page 98, built by build_english.py from en_src/ and page_098.txt
+
+[en]
+Shopkeeper: You mean it is forbidden?
+
+[en]
+Teacher: Yes, it is forbidden.
+
+[en]
+Shopkeeper: Shaykh, with great apologies, forgive me: this ring that you have chosen is not new; it has been polished.
+
+[en]
+Teacher: What is the price of each, the old one and the new one?
+
+[en]
+Shopkeeper: The price of the new one is thirty-five pounds and the price of the old one is thirty pounds. Shaykh, I have been doing this detestable thing for a long time, but now I repent of it.
+
+[en]
+Teacher: You have asked Allah for forgiveness and made the defect of this ring clear, so now I will pay the price of a new ring. And remember one thing: Allah the Exalted says:
+
+[ar]
+وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجَا
+
+[ref]
+[الطلاق: 2]
+
+[en]
+And whoever fears Allah - He will make for him a way out.
+
+[en]
+Shopkeeper: He said, weeping: Shaykh, what am I to do now about what I did in the past?
+
+[en]
+Teacher: If you know the people you deceived, give them back what is rightfully theirs, and if you do not know them, give charity on their behalf.
+
+[en]
+Shopkeeper: I do not even remember how many there were.
+
+[en]
+Teacher: Act on your best estimate.
+
+[en]
+Ammar: May Allah the Exalted put blessing in your business and grant you lawful provision. The noble Prophet, peace be upon him, said:
+
+[ar]
+الْبَيِّعَانِ بِالْخِيَارِ مَا لَمْ يَتَفَرَّقَا، فَإِنْ صَدَقَا وَبَيَّنَا بُورِكَ لَهُمَا فِي بَيْعِهِمَا، وَإِنْ كَتَمَا وَكَذَبَا مُحِقَتْ بَرَكَةُ بَيْعِهِمَا
+
+[ref]
+صحيح البخاري، رقم الحديث [2082] صحيح مسلم، رقم الحديث [1532]

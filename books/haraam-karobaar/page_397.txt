@@ -1,0 +1,31 @@
+# title: Page 397
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 397 (PDF page 398), اکسٹھواں باب: جاندار چیزوں کی تصویروں کی خرید و فروخت
+# The first lines of the page ("انسانوں کی ہوں ... حرام قرار دیا گیا ہے۔") end a sentence that is on page 396, where it starts.
+# Hadith (Aisha): Muslim 5528 (sunnah.com numbering of Muslim 2107; the book cites Bukhari [5964] and Muslim [2107]). The book's words
+# match Muslim's except that, after "قَالَتْ", it leaves out "عَائِشَةُ فَقَطَعْنَاهُ"; the excerpts follow the book ("قَالَتْ" runs on
+# with " cont", since the colon after it is not a pause). Bukhari's report (5954) lacks "يَا عَائِشَةُ" and "عِنْدَ اللَّهِ".
+# Proofreader please check: the printed reference "صحيح البخاري [5964]" is another hadith in the sunnah.com numbering (Usamah
+# riding a donkey); Aisha's report on the curtain with pictures is Bukhari 5954. The printed reference is kept.
+# The page ends with the hadith's translation; the teacher's turn goes on at the top of page 398.
+
+[ur]
+مدیر: استاد صاحب! ذرا ٹھہریں، اتنی جلدی حکم صادر نہ کریں۔ آپ یہ بھی غور کریں کہ تصویریں ہماری ضرورت بن چکی ہیں اور قابل ذکر بات یہ ہے کہ وہ تصویریں حرام ہیں، جو مجسمے کی شکل میں ہوں اور سایہ دار ہوں، اس کے علاوہ غیر سایہ دار تصویریں حرام نہیں ہیں۔
+
+[ur]
+استاد: اگر آپ تصویروں کی حرمت میں وارد ہونے والی تمام احادیث کا بغور مطالعہ کریں تو آپ کا یہ اعتراض باقی نہیں رہے گا۔
+
+[ur]
+مدیر: کیسے؟
+
+[ur]
+استاد: حضرت عائشہ رضی اللہ عنہا سے روایت ہے کہ رسول اللہ ﷺ میرے پاس آئے اور میں نے اپنے ایک طاق کو ایک پردے سے ڈھانکا تھا، جس میں تصویریں تھیں، جب آپ ﷺ نے اسے دیکھا تو اسے پھاڑ ڈالا اور آپ کے چہرے کا رنگ بدل گیا۔ آپ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H muslim:5528 from يَا عَائِشَةُ to عَائِشَةُ}}! {{H muslim:5528 from أَشَدُّ to بِخَلْقِ اللَّهِ}}، {{H muslim:5528 from قَالَتْ to قَالَتْ cont}} {{H muslim:5528 from فَجَعَلْنَا to وِسَادَتَيْنِ}}
+يَا عَائِشَةْ! أَشَدُّ النَّاسِ عَذَابًا عِنْدَ اللَّهِ يَوْمَ الْقِيَامَةِ الَّذِينَ يُضَاهُونَ بِخَلْقِ اللَّهْ، قَالَتْ فَجَعَلْنَا مِنْهُ وِسَادَةً أَوْ وِسَادَتَيْنْ
+
+[ref]
+صحيح البخاري، رقم الحديث [5964] صحيح مسلم، رقم الحديث [2107]
+
+[ur]
+“عائشہ! سب سے زیادہ سخت عذاب قیامت کے دن ان لوگوں کو ہوگا جو اللہ کی مخلوق کی سی شکل بناتے ہیں۔ سیدہ عائشہ رضی اللہ عنہا فرماتی ہیں: میں نے اسے کاٹ کر ایک یا دو تکیے بنا لیے۔”

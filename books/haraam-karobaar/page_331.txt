@@ -1,0 +1,58 @@
+# title: Page 331
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 331 (PDF page 332), سینتالیسواں باب: مرد حجام کا عورتوں کے بال کاٹنا
+# The page starts with the new chapter.
+# The part of An-Nur 24:30 and 24:31 the book quotes is filled from the official text (fill_quran.py).
+# Hadith typed from the print (not in the hadith-api collections): the book cites الطبراني and صحيح الجامع 5045. Typed with the printed
+# harakat (including the printed shaddas of «يُّطْعَنَ», «لَّهُ», «يَّمَسَّ» and the sukun on «فِيْ», «حَدِيْدٍ»); waqf on the last word.
+# The mark over the kha of «بِمِخْيَطٍ» is read as a sukun (in this font it looks almost like a damma).
+# The page ends with the hadith; its Urdu translation starts on page 332 and stays there.
+
+[h]
+سینتالیسواں باب: مرد حجام کا عورتوں کے بال کاٹنا
+
+[ur]
+حمام پر موجود نوجوانوں میں سے ایک نوجوان بولا:
+
+[ur]
+نوجوان: استاد صاحب! میں آپ سے ایک سوال پوچھنا چاہتا ہوں؟
+
+[ur]
+استاد: جی پوچھیں۔
+
+[ur]
+نوجوان: میرا بیوٹی پارلر ہے۔ میں وہاں پر دلہنوں کو تیار کرتا ہوں، کیا یہ ٹھیک ہے؟
+
+[ur]
+استاد: یہ بالکل ٹھیک نہیں۔ کسی مرد کے لیے جائز نہیں کہ وہ کسی عورت کے بال کاٹے۔ تم خود غور کر کے بتاؤ کہ اگر کسی عورت کو دیکھنا حرام ہے تو اسے چھونا، اس کے بال پکڑنا وغیرہ کیسے جائز ہو سکتا ہے؟
+
+[ur]
+اللہ تعالیٰ ارشاد فرماتے ہیں:
+
+[ar]
+# quran 24:30 from قُلْ لِلْمُؤْمِنِينَ to مِنْ أَبْصَارِهِمْ
+قُلْ لِلْمُؤْمِنِينَ يَغُضُّوا مِنْ أَبْصَارِهِمْ
+
+[ref]
+[النور: 30]
+
+[ur]
+“مومن مردوں سے کہہ دے اپنی کچھ نگاہیں نیچی رکھیں۔”
+
+[ar]
+# quran 24:31 from وَقُلْ لِلْمُؤْمِنَاتِ to مِنْ أَبْصَارِهِنَّ
+وَقُلْ لِلْمُؤْمِنَاتِ يَغْضُضْنَ مِنْ أَبْصَارِهِنّ
+
+[ref]
+[النور: 31]
+
+[ur]
+“اور مومن عورتوں سے کہہ دے اپنی کچھ نگاہیں نیچی رکھیں۔”
+
+[ur]
+رسول اللہ ﷺ نے ارشاد فرمایا:
+
+[ar]
+لَأَنْ يُّطْعَنَ فِيْ رَأْسِ أَحَدِكُمْ بِمِخْيَطٍ مِنْ حَدِيْدٍ خَيْرٌ لَّهُ مِنْ أَنْ يَّمَسَّ امْرَأَةً لَا تَحِلُّ لَهْ
+
+[ref]
+الطبراني، صحيح الجامع، رقم الحديث [5045]

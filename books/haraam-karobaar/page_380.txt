@@ -1,0 +1,38 @@
+# title: Page 380
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 380 (PDF page 381), کتاب مارکیٹ کا دورہ
+# The opening scene of the round «کتاب مارکیٹ کا دورہ» (page 379), printed before the first chapter heading; chapter fifty-seven
+# starts on page 381. The page ends with a full dialogue turn; the rest of the page is blank.
+# «الحمد لله» is set in Arabic type inside the manager's Urdu turn; it is kept in the Urdu block, in Urdu letters (الحمد للہ).
+
+[ur]
+الیکٹرونک مارکیٹ سے واپسی پر استاد اور عمار کتاب مارکیٹ کے پاس پہنچے تو استاد صاحب عمار سے مخاطب ہوئے۔
+
+[ur]
+استاد: عمار تھوڑی دیر ٹھہرو! میں نے یہاں سے کچھ سٹیشنری کا سامان لینا ہے۔
+
+[ur]
+عمار: استاد صاحب! میں بھی آپ کے ساتھ جاتا ہوں۔
+
+[ur]
+استاد: آؤ۔
+
+[ur]
+(دونوں ایک بک سٹور میں داخل ہوئے)
+
+[ur]
+استاد: السلام علیکم ورحمۃ اللہ۔
+
+[ur]
+مدیر: وعلیکم السلام ورحمۃ اللہ۔
+
+[ur]
+استاد: امید ہے مزاج بہ خیریت ہوں گے۔
+
+[ur]
+مدیر: الحمد للہ، خوش آمدید۔
+
+[ur]
+استاد: (بک سٹور میں ٹہلتے ہوئے بولے) ہم کچھ سٹیشنری کا سامان خریدنا چاہتے ہیں۔
+
+[ur]
+مدیر: جو چاہیں خریدیں، ہم حاضر ہیں۔

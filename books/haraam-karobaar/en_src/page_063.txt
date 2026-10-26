@@ -1,0 +1,37 @@
+# English source for book page 63
+
+[en]
+Second: Along with making the kind clear, that is, rice, wheat or oranges, it must also be clear which variety of them it will be. For example, if it is rice, its variety, such as Super, Kernel and so on. In the same way, any qualities that can make the price go up or down must be specified.
+
+[en]
+Third: Specifying the quantity: if the item is sold by measure, it should be measured, and if it is sold by weight, it should be weighed. If either can be done, either way is valid.
+
+[en]
+Fourth: Specifying the time for handing over the goods: that is, when will the goods be handed over? After one or two months, and so on.
+
+[en]
+Fifth: The goods must be available in the season in which they are promised to be handed over. For example, it is not valid to agree a sale of grapes for the winter season, because they are not usually available in winter.
+
+[en]
+Sixth: The price must be specified.
+
+[en]
+Seventh: The price must be paid in the same sitting in which the deal is made.
+
+[en]
+If even one of these conditions is missing, the sale becomes invalid.
+
+[en]
+Kamal: Shaykh! Which conditions are missing from our deal?
+
+[en]
+Teacher: Two conditions are missing from your deal.
+
+[en]
+First: Specifying the price: the two of you have agreed between yourselves that you will put off the matter of the price until the harvest.
+
+[en]
+Second: The price must be paid in the very sitting in which the deal is made, whereas in your deal one of you said to the other: I will send five hundred pounds tomorrow.
+
+[en]
+Kamal: Yes, that is what we did.

@@ -1,0 +1,32 @@
+# title: Page 177
+# English edition of book page 177, built by build_english.py from en_src/ and page_177.txt
+
+[ar]
+وَإِنَّ الشَّيَاطِينَ لَيُوحُونَ إِلَىٰ أَوْلِيَائِهِمْ لِيُجَادِلُوكُمْ ۖ وَإِنْ أَطَعْتُمُوهُمْ إِنَّكُمْ لَمُشْرِكُونْ
+
+[en]
+And indeed do the devils inspire their allies (among men) to dispute with you. And if you were to obey them, indeed, you would be associators (of others with Him).
+
+[ref]
+الأنعام 121:6.
+
+[en]
+Allah the Exalted, out of some wisdom, sets the devils of the jinn over whichever servant He wills. Allah the Exalted says:
+
+[ar]
+وَاسْتَفْزِزْ مَنِ اسْتَطَعْتَ مِنْهُمْ بِصَوْتِكَ وَأَجْلِبْ عَلَيْهِمْ بِخَيْلِكَ وَرَجِلِكَ وَشَارِكْهُمْ فِي الْأَمْوَالِ وَالْأَوْلَادِ وَعِدْهُمْ ۚ وَمَا يَعِدُهُمُ الشَّيْطَانُ إِلَّا غُرُورَا
+
+[en]
+And incite (to senselessness) whoever you can among them with your voice and assault them with your horses and foot soldiers and become a partner in their wealth and their children and promise them. But Satan does not promise them except delusion.
+
+[ref]
+بنيٓ إسرآئيل 64:17.
+
+[en]
+And Allah the Exalted protects whomever He wills from the schemes of the devils and from their cunning and deceit. He says:
+
+[ar]
+إِنَّهُ لَيْسَ لَهُ سُلْطَانٌ عَلَى الَّذِينَ آمَنُوا وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونْ
+
+[ar]
+إِنَّمَا سُلْطَانُهُ عَلَى الَّذِينَ يَتَوَلَّوْنَهُ وَالَّذِينَ هُمْ بِهِ مُشْرِكُونْ

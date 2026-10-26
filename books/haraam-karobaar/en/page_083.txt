@@ -1,0 +1,29 @@
+# title: Page 83
+# English edition of book page 83, built by build_english.py from en_src/ and page_083.txt
+
+[en]
+Abu Faris set out a chair for the Shaykh.
+
+[en]
+Teacher: As-salamu alaikum wa rahmatullahi wa barakatuh.
+
+[en]
+Everyone: Wa alaikum as-salam wa rahmatullahi wa barakatuh.
+
+[en]
+Abu Faris: Shaykh! May Allah bless you. Shaykh! The way I made this deal is as follows.
+
+[en]
+A man comes to a trader to sell old gold and buys new gold in exchange for it. He sells the old gold for one thousand pounds and buys the new for fifteen hundred pounds. But we do not give him the price of the old gold; instead we tell him: We are holding your one thousand pounds; do you now want to buy new gold? If he buys new gold for fifteen hundred pounds, we tell him: Now give us another five hundred pounds. So he pays the remaining sum, takes the gold and leaves. What is the ruling of the Shariah on this?
+
+[en]
+Teacher: This form of buying and selling is impermissible, and such a deal is void, because the Prophet, peace be upon him, said:
+
+[ar]
+لاَ تَبِيعُوا الذَّهَبَ بِالذَّهَبِ إِلاَّ مِثْلاً بِمِثْلْ، وَلاَ تُشِفُّوا بَعْضَهَا عَلَى بَعْضْ، وَلاَ تَبِيعُوا الْوَرِقَ بِالْوَرِقِ إِلاَّ مِثْلاً بِمِثْلْ، وَلاَ تُشِفُّوا بَعْضَهَا عَلَى بَعْضْ
+
+[ref]
+صحيح البخاري، رقم الحديث [2177] صحيح مسلم، رقم الحديث [1584]
+
+[en]
+“Do not sell gold for gold unless it is equal for equal, and do not make either side more or less than the other; and do not sell silver for silver unless it is equal, and do not make either side more or less than the other.”

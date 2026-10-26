@@ -1,0 +1,5 @@
+# title: Page 261
+# English edition of book page 261, built by build_english.py from en_src/ and page_261.txt
+
+[hen]
+Some Forbidden Practices Found among Farmers

@@ -1,0 +1,48 @@
+# title: Page 448
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 448 (PDF page 449), ستّرواں باب: جادو کے ذریعے سے علاج کروانا
+# Page 447 ends with a full sentence; the teacher's turn continues here with a new paragraph.
+# Hadith 1 typed from the print (the book prints the wording of a source outside the hadith-api collections): it cites
+# "صحيح مسلم، رقم الحديث [2230]", but prints «... عَنْ شَيْءٍ فَصَدَّقَهُ لَمْ تُقْبَلْ لَهُ صَلَاةُ أَرْبَعِيْنَ يَوْمًا», the wording found in Musnad Ahmad,
+# and its translation follows that wording ("پھر اس کی بات کی تصدیق کر دی ... چالیس دن"). Muslim 5821 (sunnah.com numbering of Muslim 2230)
+# has "مَنْ أَتَى عَرَّافًا فَسَأَلَهُ عَنْ شَيْءٍ لَمْ تُقْبَلْ لَهُ صَلاَةٌ أَرْبَعِينَ لَيْلَةً", without «فَصَدَّقَهُ» and with «لَيْلَةً».
+# Printed harakat kept, including the sukun on the long vowel in «أَرْبَعِيْنَ»; «أَتٰى» typed «أَتَى»; stopping form on the last word («يَوْمَا»).
+# Vowel slip corrected: the print has «صَلَاةُ» (a plain damma; this font's tanween has an extra hook, as in «مُسْلِمٌ» on page 412);
+# typed «صَلَاةٌ», the subject of «لَمْ تُقْبَلْ», as in Muslim 5821. Proofreader please check.
+# Proofreader please check: whether the Muslim wording should be read instead.
+# Hadith 2 typed from the print (not in the hadith-api collections in this wording): the book cites مسند أحمد and صحيح الجامع [5939],
+# «مَنْ أَتَى عَرَّافًا أَوْ كَاهِنًا ...»; the collections have only longer reports that join it to other matters (Ibn Majah 639, Abu Dawud 3904,
+# Tirmidhi 135, "مَنْ أَتَى حَائِضًا أَوِ امْرَأَةً فِي دُبُرِهَا أَوْ كَاهِنًا ..."). Printed harakat kept, including the sukun on the long vowel in
+# «يَقُوْلُ»; the dagger-alif spellings typed in the standard form («أَتَى», «عَلَى»); stopping form on the last word («مُحَمَّدْ»).
+# The second footnote is marked ② in the text but numbered ① at the foot of the page; both are typed as printed, without the marker.
+# «حتی کہ» is typed «حتیٰ کہ» (dagger alif, read with a long a).
+# The Urdu translation of hadith 2 continues on page 449 ("بھی کر دی تو ... کفر کیا۔”"); it is kept whole here.
+
+[ur]
+اسی طرح کسی بیمار کے لیے جائز نہیں کہ وہ علاج کی خاطر ایسے لوگوں کے پاس جائے جو غیبی چیزوں کے ذریعے سے علاج کرنے کا دعویٰ کرتے ہیں اور نہ ایسے لوگوں کی باتوں پر یقین کرنا چاہیے، کیونکہ وہ محض ٹامک ٹوئیاں مارتے ہیں۔ حالات و واقعات اور ظاہری آثار کی بنا پر بے بنیاد اور من گھڑت نظریات قائم کر لیتے ہیں اور مریضوں کو گمراہ کرتے ہیں یا جنوں کی مدد سے لوگوں کو بہکا لیتے ہیں، حالانکہ حقیقت کے ساتھ ان کا کوئی تعلق نہیں ہوتا۔
+
+[ur]
+حسین: کیا جادو کے اثرات کو زائل کرنے کے لیے بھی جادوگر کے پاس نہیں جانا چاہیے؟
+
+[ur]
+استاد: جادوگر کے پاس کسی صورت میں بھی نہیں جانا چاہیے، حتیٰ کہ مزاح اور تسلی کی خاطر بھی نہیں۔ رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+مَنْ أَتَى عَرَّافًا فَسَأَلَهُ عَنْ شَيْءٍ فَصَدَّقَهُ لَمْ تُقْبَلْ لَهُ صَلَاةٌ أَرْبَعِيْنَ يَوْمَا
+
+[ref]
+صحيح مسلم، رقم الحديث [2230]
+
+[ur]
+“جو شخص کسی خبریں بتانے والے کے پاس آیا، اس سے کسی چیز کے بارے میں سوال کیا، پھر اس کی بات کی تصدیق کر دی تو اس شخص کی چالیس دن کی نماز قبول نہیں ہوگی۔”
+
+[ur]
+دوسری حدیث میں ہے کہ رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+مَنْ أَتَى عَرَّافًا أَوْ كَاهِنًا فَصَدَّقَهُ بِمَا يَقُوْلُ فَقَدْ كَفَرَ بِمَا أُنْزِلَ عَلَى مُحَمَّدْ
+
+[ref]
+مسند أحمد، صحيح الجامع، رقم الحديث [5939]
+
+[ur]
+“جو شخص کسی نجومی یا کاہن کے پاس گیا اور پھر ان کی باتوں کی تصدیق بھی کر دی تو اس نے محمد ﷺ کی لائی ہوئی شریعت کے ساتھ کفر کیا۔”

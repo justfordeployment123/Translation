@@ -1,0 +1,26 @@
+# title: Page 181
+# English edition of book page 181, built by build_english.py from en_src/ and page_181.txt
+
+[en]
+In the case of disagreement among themselves, Ahl as-Sunnah wal-Jama'ah turn to the Book of Allah and the Sunnah of the Messenger, peace be upon him. These two fountainheads of Islamic teaching are their reference for knowledge. Allah says:
+
+[ar]
+فَإِنْ تَنَازَعْتُمْ فِي شَيْءٍ فَرُدُّوهُ إِلَى اللَّهِ وَالرَّسُولِ إِنْ كُنْتُمْ تُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ۚ ذَٰلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلَا
+
+[en]
+And if you disagree over anything, refer it to Allah and the Messenger, if you should believe in Allah and the Last Day. That is the best (way) and best in result.
+
+[ref]
+النسآء 59:4.
+
+[en]
+Those to whom Ahl as-Sunnah wal-Jama'ah turn for understanding the Quran and the Sunnah are the noble Companions. No analogy (qiyas), no one's personal taste (dhawq), no one's mystical unveiling (kashf), and no saying of any shaykh or imam can be set against a verse of the Book of Allah or an authentic and established Sunnah, because the religion was completed within the blessed lifetime of the noble Messenger, peace be upon him. Allah the Exalted says:
+
+[ar]
+الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِي وَرَضِيتُ لَكُمُ الْإِسْلَامَ دِينَا
+
+[en]
+This day I have perfected for you your religion and completed My favor upon you and have approved for you Islam as religion.
+
+[ref]
+المآئدة 3:5.

@@ -1,0 +1,26 @@
+# title: Page 151
+# English edition of book page 151, built by build_english.py from en_src/ and page_151.txt
+
+[en]
+The noble Prophet, peace be upon him, said:
+
+[ar]
+إِنَّ الرَّجُلَ لَيَعْمَلُ عَمَلَ أَهْلِ الْجَنَّةْ، فِيمَا يَبْدُو لِلنَّاسْ، وَهُوَ مِنْ أَهْلِ النَّارْ، وَإِنَّ الرَّجُلَ لَيَعْمَلُ عَمَلَ أَهْلِ النَّارْ، فِيمَا يَبْدُو لِلنَّاسْ، وَهُوَ مِنْ أَهْلِ الْجَنَّةْ
+
+[en]
+“A man outwardly does the deeds of the people of Paradise all his life, while he is one of the people of Hell; and a man outwardly does the deeds of the people of Hell, while he is one of the people of Paradise.”
+
+[ref]
+صحيح البخاري، الجهاد والسير، حديث: 2898، وصحيح مسلم، الإيمان، حديث: 112.
+
+[en]
+On another occasion he said:
+
+[ar]
+إِنَّ أَحَدَكُمْ لَيَعْمَلُ بِعَمَلِ أَهْلِ الْجَنَّةِ حَتَّى مَا يَكُونُ بَيْنَهُ وَبَيْنَهَا إِلاَّ ذِرَاعْ، فَيَسْبِقُ عَلَيْهِ الْكِتَابْ، فَيَعْمَلُ بِعَمَلِ أَهْلِ النَّارِ فَيَدْخُلُهَا، وَإِنَّ أَحَدَكُمْ لَيَعْمَلُ بِعَمَلِ أَهْلِ النَّارْ، حَتَّى مَا يَكُونُ بَيْنَهُ وَبَيْنَهَا إِلاَّ ذِرَاعْ، فَيَسْبِقُ عَلَيْهِ الْكِتَابْ، فَيَعْمَلُ بِعَمَلِ أَهْلِ الْجَنَّةِ فَيَدْخُلُهَا
+
+[en]
+“A man does the deeds of the people of Paradise until there is only an arm's length between him and Paradise; then what is written in the decree overtakes him, and he does the deeds of the people of Hell until he enters Hell. And a man does the deeds of the people of Hell, until there is only an arm's length between him and Hell; then what is written in the decree overtakes him, and he does the deeds of the people of Paradise and goes into Paradise.”
+
+[ref]
+صحيح مسلم، القدر، حديث: 2643.

@@ -1,0 +1,47 @@
+# title: Page 84
+# English edition of book page 84, built by build_english.py from en_src/ and page_084.txt
+
+[ar]
+وَلاَ تُشِفُّوا بَعْضَهَا عَلَى بَعْضْ
+
+[en]
+(Do not make either side more or less than the other): that is, on the grounds that one item is new and the other old, and the new one is more expensive. This is interest (riba) and forbidden, because in such a case one item exceeds the other.
+
+[en]
+The noble Prophet, peace be upon him, said:
+
+[ar]
+لاَ تَبِيعُوا الذَّهَبَ بِالذَّهَبِ إِلاَّ وَزْنًا بِوَزْنٍ مِثْلاً بِمِثْلٍ سَوَاءً بِسَوَاءْ
+
+[ref]
+صحيح مسلم، رقم الحديث [1584]
+
+[en]
+“Make the sale of gold for gold equal in weight, like for like, and equal.”
+
+[en]
+The noble Prophet, peace be upon him, also said:
+
+[ar]
+الذَّهَبُ بِالذَّهَبِ وَزْنًا بِوَزْنٍ مِثْلاً بِمِثْلْ، وَالْفِضَّةُ بِالْفِضَّةِ وَزْنًا بِوَزْنٍ مِثْلاً بِمِثْلْ، فَمَنْ زَادَ أَوِ اسْتَزَادَ فَهُوَ رِبَا
+
+[ref]
+صحيح مسلم، رقم الحديث [1588]
+
+[en]
+“Sell gold for gold and silver for silver, equal for equal. Whoever gives more or takes more, this excess is interest.”
+
+[ar]
+زَادَ أَوِ اسْتَزَادْ
+
+[en]
+That is, whoever gives more or asks for more.
+
+[en]
+Ibn Shaddad, may Allah have mercy on him, says:
+
+[en]
+“This hadith is proof that it is impermissible to exchange jewellery for jewellery if they are not equal in weight; likewise it is also impermissible to take extra for the goldsmith's work and craftsmanship.”
+
+[ref]
+دلائل الأحكام [289/3]

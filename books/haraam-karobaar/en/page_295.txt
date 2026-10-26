@@ -1,0 +1,47 @@
+# title: Page 295
+# English edition of book page 295, built by build_english.py from en_src/ and page_295.txt
+
+[en]
+So give me thirty kilos less.
+
+[en]
+Bahnasi: All right, I agree.
+
+[en]
+Ammar: You have heard so much admonition and advice today, but sadly, in spite of that, there has been no change in you.
+
+[en]
+Bahnasi: What do you mean?
+
+[en]
+Ammar: Just now the two of you settled a deal, but you did not take the trouble to find out what the Shariah's ruling on this deal is.
+
+[en]
+Bahnasi: (turning to the teacher) Is this deal impermissible?
+
+[en]
+Teacher: Yes! It is impermissible.
+
+[en]
+Abu Jum'a: Why is it impermissible?
+
+[en]
+Teacher: Because there is interest in it.
+
+[en]
+Bahnasi: How is there interest in it?
+
+[en]
+Teacher: In goods of any one kind, there are two reasons for interest:
+
+[en]
+First: A deal in goods of one kind is valid if it is like for like; that is, one kilo of rice may be taken only in exchange for one kilo of rice, because the goods in this deal are of one kind. Any increase or decrease in it is impermissible and comes under interest.
+
+[en]
+Second: Possession must be taken in the same sitting in which the deal is settled.
+
+[en]
+If even one of the two conditions above is missing in a deal, interest will enter that deal and it will be an invalid sale. So taking a hundred kilos in exchange for a hundred and thirty kilos is not permissible.
+
+[en]
+Abu Jum'a: What is the evidence for this?

@@ -1,0 +1,34 @@
+# title: Page 528
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 528 (PDF page 529), اٹھاسیواں باب: بھیک مانگنا
+# The page starts with the new chapter (page 527 ends the previous one with a full dialogue turn).
+# The page ends with the introduction of a hadith ("... رسول اللہ ﷺ نے فرمایا:"); the hadith is printed on page 529 and stays there.
+# Hadith (Sahl): Abu Dawud 1629 (the book cites "سنن أبي داود، رقم الحديث [1629]"). The source reads "فَإِنَّمَا يَسْتَكْثِرُ مِنَ النَّارِ"
+# and then gives an-Nufayli's other wording "مِنْ جَمْرِ جَهَنَّمَ", which the book prints, so the two are joined (" cont"). Likewise the
+# book's question «وَمَا الْغِنَى الَّذِي لَا تَنْبَغِي مَعَهُ الْمَسْأَلَةُ؟» is an-Nufayli's other wording in the same report; «قَالُوا» is taken from the
+# source's «فَقَالُوا» without its «فَ» ("~"), and the source's «يَا رَسُولَ اللَّهِ وَمَا يُغْنِيهِ وَقَالَ النُّفَيْلِيُّ فِي مَوْضِعٍ آخَرَ» is left out,
+# as in the book. Pauses at the book's «.» and «؟» (not at the colons after قَالُوا / قَالَ).
+
+[h]
+اٹھاسیواں باب: بھیک مانگنا
+
+[ur]
+عمار: سائل کہتا ہے: استاد صاحب بغیر ضرورت کے لوگوں سے سوال کرنا یا بھیک مانگنے کا کیا حکم ہے؟
+
+[ur]
+استاد: سائل کے علاوہ دیگر تمام لوگوں کو بھی اچھی طرح جان لینا چاہیے کہ ضرورت کے بغیر لوگوں سے مانگنا، سوال کرنا وغیرہ شرعی اعتبار سے حرام ہے۔
+
+[ur]
+حضرت سہل بن حنظلہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H abudawud:1629 from مَنْ سَأَلَ to يَسْتَكْثِرُ cont}} {{H abudawud:1629 from مِنْ جَمْرِ to جَهَنَّمَ}}، {{H abudawud:1629 from ~قَالُوا to فَقَالُوا cont}} {{H abudawud:1629 from وَمَا الْغِنَى to الْمَسْأَلَةُ}}، {{H abudawud:1629 from قَالَ قَدْرُ to وَيُعَشِّيهِ}}
+مَنْ سَأَلَ وَعِنْدَهُ مَا يُغْنِيهِ فَإِنَّمَا يَسْتَكْثِرُ مِنْ جَمْرِ جَهَنَّمْ، قَالُوا وَمَا الْغِنَى الَّذِي لاَ تَنْبَغِي مَعَهُ الْمَسْأَلَةْ، قَالَ قَدْرُ مَا يُغَدِّيهِ وَيُعَشِّيهْ
+
+[ref]
+سنن أبي داود، رقم الحديث [1629] صحيح الجامع، رقم الحديث [6280]
+
+[ur]
+“جو شخص مانگتا ہے، حالانکہ بہ قدر کفایت اس کے پاس موجود ہو، وہ اپنے لیے جہنم کے انگارے کا اضافہ کرتا ہے۔ لوگوں نے عرض کی: اے اللہ کے رسول ﷺ! وہ کیا (مقدار) ہے جو انسان کو کافی ہوتی ہے اور اس کے لیے سوال کرنا جائز نہیں ہوتا؟ آپ ﷺ نے جواب دیا: جس کے پاس صبح و شام کا کھانا ہو۔”
+
+[ur]
+حضرت عبداللہ بن مسعود رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا:

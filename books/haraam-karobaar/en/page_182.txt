@@ -1,0 +1,23 @@
+# title: Page 182
+# English edition of book page 182, built by build_english.py from en_src/ and page_182.txt
+
+[en]
+The Messenger of Allah, peace be upon him, said:
+
+[ar]
+إِنَّ رُوْحَ الْقُدُسِ نَفَثَ فِيْ رَوْعِيْ أَنَّ نَفْسًا لَنْ تَمُوْتَ حَتَّى تَسْتَكْمِلَ أَجَلَهَا وَتَسْتَوْعِبَ رِزْقَهَا، فَاتَّقُوْا اللَّهَ وَأَجْمِلُوْا فِيْ الطَّلَبْ، وَلَا يَحْمِلَنَّ أَحَدُكُمْ اسْتِبْطَاءَ الرِّزْقِ أَنْ يَطْلُبَهُ بِمَعْصِيَةِ اللَّهْ، فَإِنَّ اللَّهَ لَا يُنَالُ مَا عِنْدَهُ إِلَّا بِطَاعَتِهْ
+
+[ref]
+صحيح الجامع، رقم الحديث [2085]
+
+[en]
+“The Holy Spirit (Jibril) revealed to me that no soul will die until it has completed the days of its life and its provision. So fear Allah and seek provision in a good (lawful) way, and let nothing (no whispering) drive you to earn provision by disobeying Allah, for whatever is with Allah is attained only through obeying Him.”
+
+[en]
+Ammar: Teacher! Please give a most comprehensive piece of advice on how blameworthy and forbidden smoking is. Perhaps Allah the Exalted will guide some shopkeeper through it, and he will repent of this filthy trade from now on.
+
+[en]
+Teacher: Yes, certainly. My shopkeeper brother, I will give you some advice. Listen to it carefully; the best people are those who hear the truth and follow it.
+
+[en]
+You already know that smoking has become very common. It has become a habit of our friends and acquaintances and a kind of food for them, and day by day its dangers are growing too.

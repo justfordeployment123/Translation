@@ -1,0 +1,19 @@
+# title: Page 31
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 31 (PDF page 32), پہلا دورہ
+# A framed title page (no page number printed): the first of the six large rounds, with the list of its three
+# smaller rounds. The list numbers (①–③) are read as words: پہلا، دوسرا، تیسرا.
+# Not the combined heading «پہلا دورہ: غلہ منڈی کا دورہ»: «پہلا دورہ» is this large round, and «① غلہ منڈی کا دورہ»
+# is its first smaller round, on its own title page (page 35). The contents page (book page 7) shows the smaller rounds
+# are numbered again from ① in «دوسرا دورہ».
+
+[h]
+پہلا دورہ
+
+[ur]
+پہلا: غلہ منڈی کا دورہ۔
+
+[ur]
+دوسرا: صرافہ بازار کا دورہ۔
+
+[ur]
+تیسرا: کرنسی ایکسچینج کا دورہ۔

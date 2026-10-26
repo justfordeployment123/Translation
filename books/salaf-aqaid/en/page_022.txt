@@ -1,0 +1,32 @@
+# title: Page 22
+# English edition of book page 22, built by build_english.py from en_src/ and page_022.txt
+
+[en]
+This is the path to which the Messenger of Allah, Muhammad, peace be upon him, called. Allah the Exalted says:
+
+[ar]
+قُلْ هَٰذِهِ سَبِيلِي أَدْعُو إِلَى اللَّهِ ۚ عَلَىٰ بَصِيرَةٍ أَنَا وَمَنِ اتَّبَعَنِي ۖ وَسُبْحَانَ اللَّهِ وَمَا أَنَا مِنَ الْمُشْرِكِينْ
+
+[en]
+Say, “This is my way; I invite to Allah with insight, I and those who follow me. And exalted is Allah; and I am not of those who associate others with Him.”
+
+[ref]
+يوسف 108:12.
+
+[en]
+This is the creed of the sect that will be saved on the Day of Resurrection, about which the noble Prophet, peace be upon him, informed us. He said:
+
+[ar]
+لاَ يَزَالُ مِنْ أُمَّتِي أُمَّةٌ قَائِمَةٌ بِأَمْرِ اللَّهْ، لاَ يَضُرُّهُمْ مَنْ خَذَلَهُمْ وَلاَ مَنْ خَالَفَهُمْ، حَتَّى يَأْتِيَهُمْ أَمْرُ اللَّهِ وَهُمْ عَلَى ذَلِكْ
+
+[en]
+“A people from my Ummah will remain standing firm upon the command of Allah. Whoever forsakes them or opposes them will not harm them in any way. They will remain so until the command of Allah comes to them.”
+
+[ref]
+صحيح البخاري، المناقب، حديث: 3641.
+
+[en]
+This will be the very group that follows in the footsteps of the Messenger of Allah, peace be upon him, and the noble Companions, may Allah be pleased with them. He said:
+
+[ar]
+وَإِنَّ بَنِي إِسْرَائِيلَ تَفَرَّقَتْ عَلَى ثِنْتَيْنِ وَسَبْعِينَ مِلَّةْ، وَتَفْتَرِقُ أُمَّتِي عَلَى ثَلاَثٍ وَسَبْعِينَ مِلَّةْ، كُلُّهُمْ فِي النَّارِ إِلاَّ مِلَّةً وَاحِدَةْ

@@ -1,0 +1,29 @@
+# title: Page 175
+# English edition of book page 175, built by build_english.py from en_src/ and page_175.txt
+
+[ar]
+الَّذِينَ يَأْكُلُونَ الرِّبَا لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ الَّذِي يَتَخَبَّطُهُ الشَّيْطَانُ مِنَ الْمَسّ
+
+[ref]
+[البقرة: 275]
+
+[en]
+Those who consume interest cannot stand (on the Day of Resurrection) except as one stands who is being beaten by Satan into insanity.
+
+[en]
+That is, the people of interest will come out of their graves like madmen and lunatics. So it is necessary that every Muslim be aware of how ugly and forbidden it is, and get rid of it at once. Benefiting from interest in any way should be avoided: for example, food, drink, clothing, transport, housing, expenses, children's schooling and so on should be kept free of any mixture of interest.
+
+[en]
+Abu Ali: Teacher! This is a necessity, and there is a rule:
+
+[ar]
+وَالضَّرُوْرَاتُ تُبِيْحُ الْمَحْظُوْرَاتْ
+
+[en]
+“Necessities make even prohibited things permissible.”
+
+[en]
+Teacher: May Allah have mercy on you! This rule does not mean what you take it to mean, nor is this the kind of necessity for whose sake interest may be taken. That rule applies in a situation where there is a fear that a person will perish. Besides, interest has become a matter of mere expediency, and expediency cannot make forbidden things lawful.
+
+[en]
+Mustafa: Teacher! May Allah have mercy on you. Today you have spoken on this subject so thoroughly that you have opened our eyes; otherwise I too had intended to take an agricultural loan. Now I have learned that this is an extremely vile and serious crime.

@@ -1,0 +1,26 @@
+# title: Page 304
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 304 (PDF page 305), ہیر ڈریسنگ اور بیوٹی پارلر مارکیٹ میں دورہ
+# The opening of the round «ہیر ڈریسنگ اور بیوٹی پارلر مارکیٹ میں دورہ» (title page 303), before its first chapter (page 305).
+# The narration inside the teacher's turn («خوش آمدید، استاد صاحب نے ... مہمان نوازی کی۔») is printed in the turn; it stays in the turn's block.
+# The page ends with a full dialogue turn; the rest of the page is blank.
+
+[ur]
+عمار نے حسبِ معمول گھر جا کر آج کے دن کی تمام کارروائی اپنی کاپی پر نوٹ کی اور اگلے دن دس بجے استاد صاحب کے گھر کی طرف روانہ ہوا اور دروازے پر پہنچ کر دستک دی۔
+
+[ur]
+استاد: کون ہے؟
+
+[ur]
+عمار: میں عمار ہوں۔
+
+[ur]
+استاد: خوش آمدید، استاد صاحب نے عمار کو گرم جوشی سے گلے لگایا اور گھر لے گئے، اس کی مہمان نوازی کی۔
+
+[ur]
+عمار: استاد صاحب! آج کس مارکیٹ میں گشت کرنے کا ارادہ ہے؟
+
+[ur]
+استاد: میرا خیال ہے، آج صالون کی طرف چلتے ہیں، میرے سر کے بال کافی بڑے ہو چکے ہیں، وہاں سے کٹنگ کرواتے ہیں۔
+
+[ur]
+عمار: ٹھیک ہے۔

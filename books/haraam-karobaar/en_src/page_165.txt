@@ -1,0 +1,16 @@
+# English source for book page 165
+
+[en]
+Worker: Mustafa! This way we will lose a great deal.
+
+[en]
+Mustafa: A little lawful income is better than a lot of forbidden income.
+
+[en]
+Teacher: Mustafa! May Allah reward you. Allah the Exalted says:
+
+[en]
+And whoever fears Allah - He will make for him a way out. And will provide for him from where he does not expect.
+
+[en]
+Thanks be to Allah that you accepted the truth so quickly.

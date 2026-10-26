@@ -1,0 +1,26 @@
+# title: Page 557
+# English edition of book page 557, built by build_english.py from en_src/ and page_557.txt
+
+[en]
+Both these forms are invalid because they resemble gambling.
+
+[en]
+Allah the Exalted says:
+
+[ar]
+إِنَّمَا الْخَمْرُ وَالْمَيْسِرُ وَالْأَنْصَابُ وَالْأَزْلَامُ رِجْسٌ مِنْ عَمَلِ الشَّيْطَانِ فَاجْتَنِبُوهُ لَعَلَّكُمْ تُفْلِحُونْ
+
+[ref]
+[المائدة: 90]
+
+[en]
+Indeed, intoxicants, gambling, (sacrificing on) stone alters (to other than Allah), and divining arrows are but defilement from the work of Satan, so avoid it that you may be successful.
+
+[en]
+From this point of view we will say: when insurance itself is forbidden, how can working in it or being employed in it be lawful?
+
+[en]
+It is the fatwa of the International Fatwa Council that it is not permissible for any person to cooperate with a commercial insurance company, because all the rules, regulations and conditions of insurance are based on harm, uncertainty and interest, and rules and regulations based on harm, uncertainty and interest are forbidden in the Islamic Shariah.
+
+[en]
+All the conditions, rules and regulations that insurance companies apply in their dealings are different forms of gambling that are current in our time today.

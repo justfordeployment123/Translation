@@ -1,0 +1,52 @@
+# title: Page 17
+# Salaf-e-Saliheen ke Aqaid o Nazariyat, book page 17 (PDF page 14), پیش لفظ
+# The first word of the page ("ہے۔") ends a sentence that is on page 16, where it starts.
+# Luqman 31:13 is printed in part («يَا بُنَيَّ لَا تُشْرِكْ ... لَظُلْمٌ عَظِيمٌ»); filled from the official text (fill_quran.py).
+# Hadith typed from the print (not in the hadith-api collections): the hadith qudsi of Abu ad-Darda «إِنِّي وَالْإِنْسُ وَالْجِنُّ فِي نَبَأٍ
+# عَظِيمٍ ...»; the book's footnote says it is weak in its chain (al-Albani, as-Silsilah ad-Da'ifah 2371). Printed harakat kept,
+# stopping form at each comma («عَظِيمْ»; «غَيْرِي» ends in a long vowel and stays as it is).
+# The honorific ligature after «لقمان» is typed in full words, علیہ السلام; after «ابودرداء», رضی اللہ عنہ; after «البانی» (in the footnote), رحمہ اللہ.
+# Footnote ② (on the hadith's weakness) is explanatory prose: a [fn] block after the hadith's translation.
+# Al-A'raf 7:56 starts on this page; its Urdu translation runs on to page 18 ("قریب ہے۔”"), with its footnote ① there
+# («الأعراف 56:7.»). The verse, the whole translation and the footnote are kept here.
+
+[ur]
+اللہ تعالیٰ نے لقمان علیہ السلام کی اپنے بیٹے کو وصیت کا تذکرہ فرمایا ہے:
+
+[ar]
+# quran 31:13 from يَا بُنَيَّ to لَظُلْمٌ عَظِيمٌ
+يَا بُنَيَّ لَا تُشْرِكْ بِاللَّهِ ۖ إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمْ
+
+[ur]
+“اے میرے پیارے بیٹے! تو اللہ کے ساتھ کسی کو شریک نہ ٹھہرا، بے شک شرک تو بڑا بھاری ظلم ہے۔”
+
+[ref]
+لقمان 13:31.
+
+[ur]
+حضرت ابودرداء رضی اللہ عنہ سے روایت ہے کہ نبی ﷺ نے فرمایا: اللہ عزوجل نے فرمایا:
+
+[ar]
+إِنِّي وَالْإِنْسُ وَالْجِنُّ فِي نَبَأٍ عَظِيمْ، أَخْلُقُ وَيُعْبَدُ غَيْرِي، وَأَرْزُقُ وَيُشْكَرُ غَيْرِي
+
+[ur]
+“میری اور انس و جن کی بھی انوکھی خبر ہے۔ پیدا میں کرتا ہوں لیکن عبادت کسی اور کی کی جاتی ہے۔ رزق میں دیتا ہوں جبکہ شکر کسی اور کا ادا کیا جاتا ہے۔”
+
+[fn]
+یہ حدیث اگرچہ معناً صحیح ہے لیکن سنداً ضعیف ہے، شیخ البانی رحمہ اللہ نے سلسلۂ ضعیفہ (2371) میں اسے ضعیف قرار دیا ہے۔
+
+[ur]
+یہ سب سے بڑا جھوٹ ہے کہ آدمی، اللہ کے ساتھ کسی کو شریک ٹھہرائے جبکہ آدمی کو اللہ نے پیدا کیا ہے۔
+
+[ur]
+اللہ تعالیٰ نے اصلاح کا حکم دیا اور فساد انگیزی سے منع فرمایا ہے، ارشادِ الٰہی ہے:
+
+[ar]
+# quran 7:56 from وَلَا تُفْسِدُوا to مِنَ الْمُحْسِنِينَ
+وَلَا تُفْسِدُوا فِي الْأَرْضِ بَعْدَ إِصْلَاحِهَا وَادْعُوهُ خَوْفًا وَطَمَعًا ۚ إِنَّ رَحْمَتَ اللَّهِ قَرِيبٌ مِنَ الْمُحْسِنِينْ
+
+[ur]
+“اور زمین کی اصلاح کے بعد تم اس میں فساد نہ کرو اور اللہ کو خوف سے اور طمع کرتے ہوئے پکارو، بے شک اللہ کی رحمت احسان کرنے والوں کے قریب ہے۔”
+
+[ref]
+الأعراف 56:7.

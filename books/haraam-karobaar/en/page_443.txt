@@ -1,0 +1,26 @@
+# title: Page 443
+# English edition of book page 443, built by build_english.py from en_src/ and page_443.txt
+
+[en]
+Teacher: There is no might and no power except with Allah! Have they really put up a tent in the house and made formal arrangements for Quran recitation? These are nothing but innovations, and I am saddened by what you said: “Ma sha Allah, they are carrying out this duty well.”
+
+[en]
+Husain: Is there any harm in it?
+
+[en]
+Teacher: Yes. Reciting the Noble Quran over the dead, or sitting by a sick person before his soul is taken and reciting Surah Ya-Sin, or holding a Quran recitation gathering for the dead at home during the burial or after the burial: all these are innovations. There is not a single authentic hadith that permits Quran recitation on these occasions. If Quran recitation at home or at the grave and so on were permissible, the Messenger of Allah, peace be upon him, would certainly have had it arranged in his lifetime and would have instructed the noble Companions to hold a Quran recitation over him too when he died. For it was not permissible for the Messenger of Allah, peace be upon him, to hide anything from the Ummah.
+
+[en]
+All that is established from the noble Prophet, peace be upon him, is that after the burial dua should be made for the deceased. The Messenger of Allah, peace be upon him, said:
+
+[ar]
+اسْتَغْفِرُوا لأَخِيكُمْ، وَسَلُوا لَهُ التَّثْبِيتَ فَإِنَّهُ الآنَ يُسْأَلْ
+
+[ref]
+صحيح. سنن أبي داود، رقم الحديث [3205]
+
+[en]
+“Ask forgiveness for your brother, and pray for him to be kept firm, for he is now going to be questioned.”
+
+[en]
+In another hadith it is reported that when the deceased was lowered into the grave, the Messenger of Allah, peace be upon him, used to say this:

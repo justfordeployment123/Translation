@@ -1,0 +1,29 @@
+# title: Page 65
+# English edition of book page 65, built by build_english.py from en_src/ and page_065.txt
+
+[en]
+Every deity besides Him is false and void. The only true deity is Allah the Exalted. And he should worship Allah the Exalted alone, humble himself before Him alone, obey Him alone without condition, and associate no one at all with Him, whoever it may be. Acts of worship such as prayer, fasting, zakah, Hajj, supplication, seeking help, vows and offerings, and sacrifice he should perform for Allah alone. The Oneness of worship also includes that a person relies on Allah the Exalted alone, fears His displeasure alone, hopes for His mercy alone, loves Him, and performs all acts of worship, outward and inward, for Him alone.
+
+[en]
+Allah the Exalted should be worshipped with all three of these feelings: love, fear and hope. To worship Him with one of them while leaving the others is misguidance. Allah says:
+
+[ar]
+إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينْ
+
+[en]
+It is You we worship and You we ask for help.
+
+[ref]
+الفاتحة 5:1.
+
+[en]
+And He says:
+
+[ar]
+وَمَنْ يَدْعُ مَعَ اللَّهِ إِلَٰهًا آخَرَ لَا بُرْهَانَ لَهُ بِهِ فَإِنَّمَا حِسَابُهُ عِنْدَ رَبِّهِ ۚ إِنَّهُ لَا يُفْلِحُ الْكَافِرُونْ
+
+[en]
+And whoever invokes besides Allah another deity for which he has no proof - then his account is only with his Lord. Indeed, the disbelievers will not succeed.
+
+[ref]
+المؤمنون 117:23.

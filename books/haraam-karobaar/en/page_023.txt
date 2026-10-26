@@ -1,0 +1,35 @@
+# title: Page 23
+# English edition of book page 23, built by build_english.py from en_src/ and page_023.txt
+
+[ar]
+وَتَمَّتْ كَلِمَتُ رَبِّكَ صِدْقًا وَعَدْلًا ۚ لَا مُبَدِّلَ لِكَلِمَاتِهِ ۚ وَهُوَ السَّمِيعُ الْعَلِيمْ
+
+[ref]
+[الأنعام: 115]
+
+[en]
+And the word of your Lord has been fulfilled in truth and in justice. None can alter His words, and He is the Hearing, the Knowing.
+
+[en]
+Allah the Exalted has given us a standard by which to tell the lawful from the forbidden. Allah, the Mighty and Majestic, says:
+
+[ar]
+وَيُحِلُّ لَهُمُ الطَّيِّبَاتِ وَيُحَرِّمُ عَلَيْهِمُ الْخَبَائِثْ
+
+[ref]
+[الأعراف: 157]
+
+[en]
+And makes lawful for them the good things and prohibits for them the evil.
+
+[en]
+That is, what is pure is lawful, and what is foul is forbidden. It should also be remembered that declaring anything lawful or forbidden is the right of Allah alone. Whoever claims this right for himself or for anyone else is a disbeliever and is outside the religion of Islam. Allah the Exalted says:
+
+[ar]
+أَمْ لَهُمْ شُرَكَاءُ شَرَعُوا لَهُمْ مِنَ الدِّينِ مَا لَمْ يَأْذَنْ بِهِ اللَّهْ
+
+[ref]
+[الشورىٰ: 21]
+
+[en]
+Or have they other deities who have ordained for them a religion to which Allah has not consented?

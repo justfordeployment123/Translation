@@ -1,0 +1,16 @@
+# English source for book page 111
+
+[en]
+Salim! How do you feel after hearing these hadiths?
+
+[en]
+Salim: Teacher! The rulings of the Shariah are one thing, and we are walking a different path.
+
+[en]
+Teacher: When you buy and sell jewellery with diamonds, pearls and gems, always separate the gold, and agree a separate rate for each of the two things with the customer, because if you do not do this, you will be guilty of the following five sins:
+
+[en]
+First: You will be counted among those who cheat in measure and weight, about whom Allah the Exalted said:
+
+[en]
+{{QEN 83:1 83:2 83:3}}

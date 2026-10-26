@@ -1,0 +1,17 @@
+# title: Page 543
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 543 (PDF page 544), بانوےواں باب: ہوٹل، ریسٹوران، سیاحتی مراکز اور دیگر شور و غوغا والی جگہوں کی تعمیر میں کام کرنا
+# Print spelling normalized: «بانواں باب» -> «بانوےواں باب» (chapter 92; the book's spelling of the 90s is also its spelling of the 50s or is irregular, so the standard number word + «واں» is used); the contents page has the same spelling.
+# The page starts with the new chapter (page 542 ends the previous one with a full sentence) and ends it with a full sentence;
+# the rest of the page is blank. Page 544 starts «ترانوےواں باب».
+# Print typo corrected (a missing word): "ہمارے نزدیک اصل کی پیروی کرتی ہے" -> "ہمارے نزدیک فرع اصل کی پیروی کرتی ہے". The sentence has
+# no subject without it; the same sentence goes on «یہ سب اصل کی فرع ہیں», and «کرتی» agrees with «فرع» (the maxim «الفرع يتبع الأصل»).
+# Proofreader please check: «فرع» is added; the print has no word before «اصل».
+
+[h]
+بانوےواں باب: ہوٹل، ریسٹوران، سیاحتی مراکز اور دیگر شور و غوغا والی جگہوں کی تعمیر میں کام کرنا
+
+[ur]
+عمار: استاد صاحب! اگر ایسی جگہوں پر ملازمت کرنا حرام ہے تو جب یہ جگہیں تعمیر ہو رہی ہوتی ہیں، اس وقت ان کی تعمیر میں کام اور مزدوری وغیرہ کرنے کا کیا حکم ہے؟
+
+[ur]
+استاد: ہمارے نزدیک فرع اصل کی پیروی کرتی ہے اور حرام کاموں کے لیے بنائی گئی جگہیں یہ سب اصل کی فرع ہیں، یعنی اصل یہ ہے کہ ایسی جگہوں پر جو کام ہوتا ہے وہ حرام ہے، پیچھے تفصیل کے ساتھ ہم بیان کر چکے ہیں کہ یہ سب چیزیں منکرات، فحاشی، عریانی، گناہ اور زیادتی کے زمرے میں آتی ہیں، لہٰذا جب یہ تمام چیزیں حرام ہیں تو لازمی بات ہے کہ ایسی جگہوں پر کام کرنا بھی حرام ہے جو خاص ان کے لیے بنائی جا رہی ہوں۔ ایسی جگہوں کی تعمیر میں کام کرنے والا اللہ اور اس کے رسول ﷺ سے اعلانِ جنگ کرتا ہے اور وہ ایسے لوگوں کی مدد کر رہا ہوتا ہے، جو منکرات کا ارتکاب کرتے ہیں۔

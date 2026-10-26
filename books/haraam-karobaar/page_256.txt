@@ -1,0 +1,54 @@
+# title: Page 256
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 256 (PDF page 257), چھتیسواں باب: موسیقی کی تعلیم دینا
+# The page continues the teacher's turn from page 255 (which ends with the translation of Luqman 31:6).
+# «لَهْوَ الْحَدِيْثِ» (from 31:6, in ornamental brackets) and the hadith's word «يَسْتَحِلُّوْنَ» are terms inside Urdu sentences
+# ("... سے مراد", "... اس بات کی دلیل ہے"), so they stay in their sentences' [ur] blocks (read in the Urdu flow), typed as printed
+# with their harakat, brackets dropped, stopping form on the last word (as on pages 56 and 138).
+# Hadith 1: Sahih al-Bukhari 5590 (the book cites "صحيح البخاري، رقم الحديث [5590]"), filled from "لَيَكُونَنَّ" to "وَالْمَعَازِفَ".
+# Hadith typed from the print (not in the hadith-api collections in this wording): the book cites سنن الترمذي [2212] and
+# الصحيحة للألباني [2203]; the printed wording («لَيَكُوْنَنَّ ... وَذَلِكَ إِذَا شَرِبُوْا الْخُمُوْرَ وَاتَّخَذُوْا الْقَيْنَاتِ وَضَرَبُوْا الْمَعَازِفَ»)
+# is that of as-Sahihah. Tirmidhi 2212 has another wording ("فِي هَذِهِ الأُمَّةِ خَسْفٌ وَمَسْخٌ وَقَذْفٌ ... إِذَا ظَهَرَتِ الْقَيْنَاتُ
+# وَالْمَعَازِفُ وَشُرِبَتِ الْخُمُورُ") that matches neither the print nor its translation. Typed with the printed harakat
+# (read on the 300 dpi scan image), "هٰذِهِ" and "ذٰلِكَ" in the standard form, the loose "وَ مَسْخٌ" joined, and the stopping form at the
+# comma and at the end.
+# The print's wording is read, not Tirmidhi 2212's, as TRANSCRIBING.md (Hadith, step 5) asks when the book cites Tirmidhi but prints
+# as-Sahihah's wording.
+# Proofreader please check: the book's first reference (Tirmidhi [2212]) is to a report whose wording differs from the printed one.
+# The last sentence continues on page 257 ("غلیظ اور گندی ہے۔"); it is kept whole here.
+
+[ur]
+حضرت عبداللہ بن مسعود رضی اللہ عنہ فرماتے ہیں: لَهْوَ الْحَدِيْثْ سے مراد “گانا بجانا” ہے۔
+
+[ref]
+تفسير ابن كثير [441/3]
+
+[ur]
+رسول اللہ ﷺ نے فرمایا:
+
+[ar]
+# hadith {{H bukhari:5590 from لَيَكُونَنَّ to وَالْمَعَازِفَ}}
+لَيَكُونَنَّ مِنْ أُمَّتِي أَقْوَامٌ يَسْتَحِلُّونَ الْحِرَ وَالْحَرِيرَ وَالْخَمْرَ وَالْمَعَازِفْ
+
+[ref]
+صحيح البخاري، رقم الحديث [5590]
+
+[ur]
+“ایک وقت ایسا آئے گا کہ میری امت کے کچھ لوگ زنا، ریشم، شراب اور موسیقی کو حلال کر لیں گے۔”
+
+[ur]
+اس حدیث مبارک میں نبی ﷺ کا قول: يَسْتَحِلُّوْنْ اس بات کی دلیل ہے کہ موسیقی حرام ہے، جسے وہ لوگ اپنی طرف سے حلال ٹھہرا لیں گے۔
+
+[ur]
+اسی طرح ایک اور حدیث میں نبی مکرم ﷺ نے فرمایا:
+
+[ar]
+لَيَكُوْنَنَّ فِيْ هَذِهِ الأُمَّةِ خَسْفٌ وَقَذْفٌ وَمَسْخْ، وَذَلِكَ إِذَا شَرِبُوْا الْخُمُوْرَ وَاتَّخَذُوْا الْقَيْنَاتِ وَضَرَبُوْا الْمَعَازِفْ
+
+[ref]
+سنن الترمذي، رقم الحديث [2212] صححه الألباني فى الصحيحة [2203]
+
+[ur]
+“ایک وقت ایسا آئے گا کہ میری امت کے لوگ (زمین میں) دھنسا دیے جائیں گے، ان پر پتھر برسائے جائیں گے اور ان کی شکلیں مسخ کی جائیں گی، ایسا اس وقت ہوگا جب وہ شراب پییں گے، گلوکار عورتیں رکھیں گے اور آلاتِ موسیقی کو استعمال میں لائیں گے۔”
+
+[ur]
+ان احادیث سے ثابت ہوتا ہے کہ ساز، گانا بجانا اور میوزک کی آواز غلیظ اور گندی ہے۔

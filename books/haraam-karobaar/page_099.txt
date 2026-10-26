@@ -1,0 +1,31 @@
+# title: Page 99
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 99 (PDF page 100), نواں باب: پرانا سونا پالش کر کے نئے سونے کی قیمت پر بیچنا (end)
+# The first line of the page ("فِي بَيْعِهِمَا، وَإِنْ كَتَمَا وَكَذَبَا مُحِقَتْ بَرَكَةُ بَيْعِهِمَا") ends the hadith «الْبَيِّعَانِ بِالْخِيَارِ ...»
+# that starts at the bottom of page 98, so it is on page 98, together with its footnote ① ("صحيح البخاري، رقم الحديث [2082]
+# صحيح مسلم، رقم الحديث [1532]"), which is printed at the foot of this page. Its Urdu translation starts on this page, so it stays here.
+# The parenthetical stage direction «(اصرار کے ساتھ)» stays inside the shopkeeper's turn, as on page 53.
+# The page ends with a full dialogue turn; chapter ten starts on page 100.
+
+[ur]
+“دو خرید و فروخت کرنے والے جب تک علاحدہ نہ ہو جائیں، ان کو اختیار ہوتا ہے۔ اگر وہ سچ بولیں اور (عیوب کی) وضاحت کر دیں تو ان کی چیز میں برکت ڈال دی جاتی ہے اور اگر وہ جھوٹ بولیں اور (عیوب کو) چھپائیں تو ان کی چیز سے برکت ختم کر دی جاتی ہے۔”
+
+[ur]
+دکاندار: بیٹے جاؤ مشروب لے کر آؤ۔
+
+[ur]
+استاد: اللہ تمھیں برکت دے۔ ہم نے ابھی یہ ساتھ والی دکان سے شربت پیا ہے۔
+
+[ur]
+دکاندار: (اصرار کے ساتھ) کوئی بات نہیں، آپ پی کر جائیں۔
+
+[ur]
+دکاندار کے اصرار کی وجہ سے استاد اور شاگرد نے مشروب پیا اور ایک دوسرے کا تعارف کرنے لگے۔
+
+[ur]
+دکاندار: میرا نام سالم ہے۔
+
+[ur]
+استاد: ما شاء اللہ، میرا نام صالح ہے اور میرے شاگرد کا نام عمار ہے۔
+
+[ur]
+سالم: جزاکم اللہ، آپ نے ہمیں نصیحتیں فرمائیں۔

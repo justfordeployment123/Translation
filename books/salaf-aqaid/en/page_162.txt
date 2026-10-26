@@ -1,0 +1,29 @@
+# title: Page 162
+# English edition of book page 162, built by build_english.py from en_src/ and page_162.txt
+
+[en]
+Allah the Exalted says:
+
+[ar]
+قُلْ أَغَيْرَ اللَّهِ أَتَّخِذُ وَلِيًّا فَاطِرِ السَّمَاوَاتِ وَالْأَرْضِ وَهُوَ يُطْعِمُ وَلَا يُطْعَمُ ۗ قُلْ إِنِّي أُمِرْتُ أَنْ أَكُونَ أَوَّلَ مَنْ أَسْلَمَ ۖ وَلَا تَكُونَنَّ مِنَ الْمُشْرِكِينْ
+
+[en]
+Say, “Is it other than Allah I should take as a protector, Creator of the heavens and the earth, while it is He who feeds and is not fed?” Say, (O Muhammad), Indeed, I have been commanded to be the first (among you) who submit (to Allah) and (was commanded), 'Do not ever be of the polytheists.'
+
+[ref]
+الأنعام 14:6.
+
+[en]
+Sixth: Muslim society is built on the basis of this very belief. The noble Prophet, peace be upon him, said:
+
+[ar]
+لا يُؤْمِنُ أَحَدُكُمْ حَتَّى يُحِبَّ لأَخِيهِ مَا يُحِبُّ لِنَفْسِهْ
+
+[en]
+“None of you can be a believer until he likes for his brother the same thing that he likes for himself.”
+
+[ref]
+صحيح البخاري، الإيمان، حديث: 13، وصحيح مسلم، الإيمان، حديث: 45.
+
+[en]
+Ahl as-Sunnah wal-Jama'ah believe that standing firm on this principle of loyalty and disavowal is not only obligatory under the Shariah, but is also a necessary consequence of the testimony “there is no god but Allah” and one of its conditions. It is one of the important principles of faith and creed, which every Muslim must keep in mind. Many texts have come to stress this principle. Allah says:

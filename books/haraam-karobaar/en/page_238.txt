@@ -1,0 +1,29 @@
+# title: Page 238
+# English edition of book page 238, built by build_english.py from en_src/ and page_238.txt
+
+[en]
+Likewise, the Messenger of Allah, peace be upon him, warned against lying with his saying ala wa qawl az-zur (beware of false speech). The one who comes late during duty hours, and the one who takes leave by writing a false application without an excuse, is a liar and a criminal. Such a man should fear Allah and repent. The Messenger of Allah, peace be upon him, said:
+
+[ar]
+وَإِنَّ الْكَذِبَ يَهْدِي إِلَى الْفُجُورْ، وَإِنَّ الْفُجُورَ يَهْدِي إِلَى النَّارْ، وَإِنَّ الرَّجُلَ لَيَكْذِبُ حَتَّى يُكْتَبَ عِنْدَ اللَّهِ كَذَّابَا
+
+[ref]
+صحيح البخاري، رقم الحديث [6064]
+
+[en]
+“Lying leads to evil, and evil leads to the Fire. A man keeps on lying until he is written down as a liar even with Allah the Exalted.”
+
+[en]
+That is, lying is such a dangerous crime that it leads a person into further sins, and in the end a person gets so stuck in the swamp of sins that the fire of Hell becomes his fate, and in the sight of Allah the Exalted that man begins to be counted among the liars.
+
+[en]
+Ubaid! You are responsible for the office's affairs. Before giving employees leave, look into who deserves leave and who does not.
+
+[en]
+Ubaid: Teacher! The one who lies is not answerable to me alone.
+
+[en]
+Teacher: Who else is he answerable to?
+
+[en]
+Ubaid: First of all he is answerable to Allah the Exalted; secondly, the head of the institution also has the right to question him. Besides that, in every government institution there is a special committee that examines employees' applications and keeps account of leave; a record is kept of an employee's absences and leave, and if someone's record is very bad, formal legal action is taken against him.

@@ -1,0 +1,20 @@
+# title: Page 101
+# English edition of book page 101, built by build_english.py from en_src/ and page_101.txt
+
+[ar]
+سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا مِنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى الَّذِي بَارَكْنَا حَوْلَهُ لِنُرِيَهُ مِنْ آيَاتِنَا ۚ إِنَّهُ هُوَ السَّمِيعُ الْبَصِيرْ
+
+[en]
+Exalted is He who took His Servant by night from al-Masjid al-Haram to al-Masjid al-Aqsa, whose surroundings We have blessed, to show him of Our signs. Indeed, He is the Hearing, the Seeing.
+
+[ref]
+بنيٓ إسرآئيل 1:17.
+
+[en]
+From al-Masjid al-Aqsa he was taken up to the heavens. He went even above the seventh heaven, to wherever Allah the Exalted willed, where the Garden of Refuge is, near the Lote Tree of the Utmost Boundary. There Allah the Exalted honoured him as He willed, revealed to him, spoke to him, and made five prayers in the day and night part of the Shariah of Muhammad. The noble Prophet, peace be upon him, entered Paradise and saw it; after that he saw Hell, and then he saw the angels, and Jibril, peace be upon him, in his true form. The heart of the noble Prophet, peace be upon him, did not lie about what it saw; rather, whatever he saw, he truly saw with his own two eyes. Through the Night Journey and the Ascension he was honoured, and it was made clear that his rank and station are higher than those of all the other prophets and Messengers.
+
+[en]
+Finally, the honoured Messenger, peace be upon him, came down at Bayt al-Maqdis (Jerusalem), led the prophets in prayer and returned to Makkah before dawn.
+
+[fen]
+Details of the event of the Ascension are found in the two Sahihs (of al-Bukhari and Muslim) and other books of hadith.

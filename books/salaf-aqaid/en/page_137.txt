@@ -1,0 +1,26 @@
+# title: Page 137
+# English edition of book page 137, built by build_english.py from en_src/ and page_137.txt
+
+[en]
+“Jibril, peace be upon him, came and gave me the good news that whoever of your Ummah dies in the state that he does not associate anyone with Allah will enter Paradise.” I said: Even if he committed adultery, even if he stole? He said: “Even if he committed adultery, even if he stole.”
+
+[ref]
+صحيح مسلم، الإيمان، حديث: 94.
+
+[en]
+Abu Hurairah, may Allah be pleased with him, said:
+
+[ar]
+اَلْإِيمَانُ نَزَهْ، فَمَنْ زَنَا فَارَقَهُ الْإِيمَانْ، فَإِنْ لَامَ نَفْسَهُ وَراجَعْ، رَاجَعَهُ الْإِيمَانْ
+
+[en]
+“Faith is pure. Whoever commits adultery, faith departs from him; then if he blames himself and turns back, faith too comes back to him.”
+
+[ref]
+شرح أصول اعتقاد أهل السنة والجماعة للالكائي: 488/4، رقم: 1519.
+
+[en]
+Abu ad-Darda', may Allah be pleased with him, said: “Faith is like a person's shirt, which he takes off at one time and puts on at another. By Allah, when a man becomes complacent and carefree about his faith, faith is snatched away from him, and he feels its loss.”
+
+[ref]
+شرح أصول اعتقاد أهل السنة والجماعة للالكائي: 490/4، رقم: 490.

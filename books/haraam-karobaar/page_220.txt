@@ -1,0 +1,35 @@
+# title: Page 220
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 220 (PDF page 221), سپر سٹور اور مارکیٹ میں دورے کا خلاصہ
+# The end of the summary dialogue of «سپر سٹور اور دکانوں کا دورہ», which starts on page 218; the title page of «تیسرا دورہ»
+# (page 219) is printed between the two. The page starts with a new dialogue turn and ends with a full sentence.
+# «إن شاء الله» (printed in Arabic type) and the greetings are kept in the Urdu blocks, in Urdu spelling.
+
+[ur]
+عمار: استاد صاحب! آئندہ کا شیڈول کیا ہے؟
+
+[ur]
+استاد: کل مجھے ایجوکیشن آفس میں ضروری کام ہے، تم بھی آ جانا اکٹھے چلیں گے۔
+
+[ur]
+عمار: ان شاء اللہ، ضرور آؤں گا۔
+
+[ur]
+استاد: اللہ برکت عطا کرے۔
+
+[ur]
+عمار: قابلِ صد احترام استاد صاحب! آج میرے لائق کوئی اور کام ہو تو بتا دیں؟
+
+[ur]
+استاد: جزاک اللہ، اب آپ گھر جائیں۔
+
+[ur]
+عمار: السلام علیکم ورحمۃ اللہ وبرکاتہ۔
+
+[ur]
+استاد: وعلیکم السلام ورحمۃ اللہ وبرکاتہ، کل وقت پر آ جانا۔
+
+[ur]
+عمار: ان شاء اللہ۔
+
+[ur]
+عمار گھر واپس آیا اور حسبِ معمول اس نے دن بھر کی گفتگو کو کاپی پر نوٹ کیا۔

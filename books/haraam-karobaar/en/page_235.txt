@@ -1,0 +1,38 @@
+# title: Page 235
+# English edition of book page 235, built by build_english.py from en_src/ and page_235.txt
+
+[en]
+Fourth: He helps his friend get into the habit of laziness, idleness and shirking work, whereas Allah the Exalted says:
+
+[ar]
+وَاجْتَنِبُوا قَوْلَ الزُّورْ
+
+[ref]
+[الحج: 30]
+
+[en]
+And avoid false statement.
+
+[en]
+He also says:
+
+[ar]
+وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَىٰ ۖ وَلَا تَعَاوَنُوا عَلَى الْإِثْمِ وَالْعُدْوَانْ
+
+[ref]
+[المائدة: 2]
+
+[en]
+And cooperate in righteousness and piety, but do not cooperate in sin and aggression.
+
+[en]
+The Messenger of Allah, peace be upon him, said:
+
+[ar]
+أَلاَ أُنَبِّئُكُمْ بِأَكْبَرِ الْكَبَائِرِ ثَلاَثَا، قُلْنَا بَلَى يَا رَسُولَ اللَّهْ، قَالَ الإِشْرَاكُ بِاللَّهْ، وَعُقُوقُ الْوَالِدَيْنْ، وَكَانَ مُتَّكِئًا فَجَلَسْ، فَقَالَ أَلاَ وَقَوْلُ الزُّورِ وَشَهَادَةُ الزُّورْ، فَمَا زَالَ يُكَرِّرُهَا حَتَّى قُلْنَا لَيْتَهُ سَكَتْ
+
+[ref]
+صحيح البخاري، رقم الحديث [2654]
+
+[en]
+“Shall I not tell you about the major sins? He, peace be upon him, repeated this sentence three times. The noble Companions say: We said: O Messenger of Allah, peace be upon him, do tell us. So he, peace be upon him, said: Associating partners with Allah, and disobeying parents. After that the Messenger of Allah, peace be upon him, stopped leaning and sat up straight, and he, peace be upon him, said: Beware! Giving false testimony. Beware! Giving false testimony. The Messenger of Allah, peace be upon him, kept repeating this again and again, until we said: If only he, peace be upon him, would fall silent!”

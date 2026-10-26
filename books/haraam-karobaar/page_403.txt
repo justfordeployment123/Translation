@@ -1,0 +1,20 @@
+# title: Page 403
+# 100 Haraam Karobaar aur Tijarti Mamlaat, book page 403 (PDF page 404), پانچواں دورہ
+# A framed title page (no page number printed): the fifth of the six large rounds, with the list of its four
+# smaller rounds. The list numbers (①–④) are read as words: پہلا، دوسرا، تیسرا، چوتھا (they count rounds, as on pages 31, 219 and 301).
+# Book page 402 (before it) and book page 404 (after it) are blank and have no file.
+
+[h]
+پانچواں دورہ
+
+[ur]
+پہلا: ٹیکسی سٹینڈ۔
+
+[ur]
+دوسرا: ہسپتالوں میں کیے جانے والے حرام کام۔
+
+[ur]
+تیسرا: مسلمان گھرانوں میں ہونے والے حرام کام۔
+
+[ur]
+چوتھا: ایسے حرام امور جن کا عموماً عورتیں گھروں میں ارتکاب کرتی ہیں۔

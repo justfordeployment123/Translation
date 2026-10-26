@@ -1,0 +1,14 @@
+# title: Page 194
+# English edition of book page 194, built by build_english.py from en_src/ and page_194.txt
+
+[en]
+As for obeying the rulers in impermissible matters, that is not permissible, because a prohibition of this conduct has come in the hadith. The noble Prophet, peace be upon him, said:
+
+[fen]
+Shaykh al-Islam Ibn Taymiyyah, may Allah have mercy on him, wrote: “Whenever anyone rebelled against a ruler holding power, the evil that spread as a result of this act of his was far greater and far larger than the good that came of it.” (Minhaj as-Sunnah 2/241)
+
+[fen]
+However, the Muslims are released from obedience to a ruler who suspends the application of the Shariah and, abandoning the Shariah, judges by other, contrary laws. People are not bound to carry out such a ruler's orders, because he has squandered the high purposes of the imamate for whose fulfilment he was made imam (ruler), and for which he became entitled to be obeyed and not to be rebelled against. He was given this right so that he would meet the needs of the Muslims, solve their problems, provide for the protection and spread of the religion, enforce the rulings of the Shariah, secure the borders of Islam, wage jihad against whoever is hostile to Islam after the call of Islam has reached him, and moreover befriend the Muslims and show enmity to the enemies of Islam. But if he does not protect the religion and does not meet the needs of the Muslims, he no longer has the right to rule over the Muslims. In that case it is binding on those with authority to appoint and remove (ahl al-hall wal-aqd) to remove him and seat on the throne of the caliphate and government someone who will fulfil the high purposes of the imamate.
+
+[fen]
+Ahl as-Sunnah do not consider rebellion against the rulers permissible, even if their government is founded on wrong and oppression and their morals and conduct are bad, because a government's being founded on wrong and oppression and the rulers' morals and conduct being bad does not mean that they have also squandered the religion. However, Ahl as-Sunnah want a ruler who puts the law of the Shariah into practice, and so the Righteous Predecessors knew of no government that did not protect the religion.

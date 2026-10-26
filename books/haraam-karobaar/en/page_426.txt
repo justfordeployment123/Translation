@@ -1,0 +1,26 @@
+# title: Page 426
+# English edition of book page 426, built by build_english.py from en_src/ and page_426.txt
+
+[en]
+Sa'd: Is its prohibition stated in any hadith?
+
+[en]
+Teacher: First of all, let us see what the scholars call it. The scholars have named it “falj”.
+
+[en]
+“Falj” means women having their teeth filed with a file (a tool for rubbing) so that the teeth become smaller, gaps appear between them, and the beauty and attractiveness of the teeth increase. Women who have grown old and whose teeth have grown longer do this; so they use this trick to keep themselves young and beautiful. In the same way, young girls too have their teeth filed to make them finer. The scholars call this “washr”.
+
+[en]
+But in reality, making space between the teeth, having gaps made in them, having them made finer and so on amounts to changing the creation of Allah the Exalted, and both doing this and having it done are forbidden. The Messenger of Allah, peace be upon him, said:
+
+[ar]
+لَعَنَ اللَّهُ الْوَاشِمَاتِ وَالْمُسْتَوْشِمَاتِ وَالنَّامِصَاتِ وَالْمُتَنَمِّصَاتِ وَالْمُتَفَلِّجَاتِ لِلْحُسْنِ الْمُغَيِّرَاتِ خَلْقَ اللَّهْ
+
+[ref]
+صحيح البخاري، رقم الحديث [5931] صحيح مسلم، رقم الحديث [2125]
+
+[en]
+“Allah the Exalted has cursed the women who tattoo for beauty and those who have themselves tattooed, the women who pluck hair, the women who make gaps between the teeth for beauty, and the women who change the creation of Allah.”
+
+[en]
+Imam an-Nawawi, may Allah have mercy on him, says:
