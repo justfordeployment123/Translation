@@ -8,8 +8,8 @@ This project turns scanned Islamic books (Quranic Arabic with Urdu text) into an
 |---|---|---|
 | *Zindagi Aur Waqt* (Life and Time) | 13–178 | Urdu and English |
 | *Shab o Roz ke Masnoon Amaal* (Sunnahs of Day and Night) | 17–170 | Urdu |
-| *100 Haraam Karobaar aur Tijarti Mamlaat* (100 Forbidden Trades and Business Dealings) | 17–564 | Urdu and English text finished and proofread; audio not yet recorded |
-| *Salaf-e-Saliheen ke Aqaid o Nazariyat* (The Beliefs and Doctrines of the Righteous Predecessors) | 10–196 | Urdu and English text finished and proofread; audio not yet recorded (the source PDF stops at page 196) |
+| *100 Haraam Karobaar aur Tijarti Mamlaat* (100 Forbidden Trades and Business Dealings) | 17–564 | Urdu and English text in the app; audio not yet recorded |
+| *Salaf-e-Saliheen ke Aqaid o Nazariyat* (The Beliefs and Doctrines of the Righteous Predecessors) | 10–196 | Urdu and English (the source PDF stops at page 196) |
 
 The full step-by-step process, with every rule and command, is in **[PIPELINE.md](PIPELINE.md)**. This page is the overview.
 
